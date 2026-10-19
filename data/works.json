@@ -165,13 +165,13 @@
   "th": [
    "墓葬／陵墓"
   ],
-  "local": true,
-  "img": "img/800/s0007.webp",
-  "thumb": "img/thumb/s0007.webp",
-  "src": "Commons",
-  "src_url": "https://commons.wikimedia.org/wiki/File:Rekonstruction_Aristion_warrior_by_Aristokles_-_Bunte_Götter_in_Berlin.jpg",
-  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Rekonstruction%20Aristion%20warrior%20by%20Aristokles%20-%20Bunte%20Götter%20in%20Berlin.jpg?width=1000",
-  "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
+  "local": false,
+  "img": null,
+  "thumb": null,
+  "src": null,
+  "src_url": null,
+  "img_ext": null,
+  "verif": "自動配對圖檔經比對為其他作品，已移除；待人工補圖",
   "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
  },
  {
@@ -572,7 +572,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:02_2020_Grecia_photo_Paolo_Villa_FO190075_bis_(Museo_archeologico_di_Atene)_Kroisos_Kouros._Marmo_Pario._Trovato_ad_Anavyssos._Statua_funeraria_Ca_530_a.C._NAMA_3851,_con_gimp.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/02%202020%20Grecia%20photo%20Paolo%20Villa%20FO190075%20bis%20(Museo%20archeologico%20di%20Atene)%20Kroisos%20Kouros.%20Marmo%20Pario.%20Trovato%20ad%20Anavyssos.%20Statua%20funeraria%20Ca%20530%20a.C.%20NAMA%203851,%20con%20gimp.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q937330",
+   "via": "P180",
+   "label": "kouros",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0024",
@@ -672,7 +680,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:New_York_Kouros_MET_32.11.1.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/New%20York%20Kouros%20MET%2032.11.1.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q28810545",
+   "via": "P180",
+   "label": "New York Kouros",
+   "y": [
+    -580
+   ],
+   "mu": [
+    "Metropolitan Museum of Art",
+    "Metropolitan Museum of Art"
+   ],
+   "creator": []
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0028",
@@ -697,7 +719,20 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Kore_Heraion_Samos_Louvre_Ma686.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Kore%20Heraion%20Samos%20Louvre%20Ma686.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q1624331",
+   "via": "P180",
+   "label": "Hera of Samos",
+   "y": [
+    -560
+   ],
+   "mu": [
+    "Department of Greek, Etruscan, and Roman Antiquities of the Louvre",
+    "Room 170"
+   ],
+   "creator": []
+  }
  },
  {
   "id": "s0029",
@@ -722,7 +757,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Relief_from_Treasury_of_Siphnians,_525_BC,_AM_Delphi,_201340.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Relief%20from%20Treasury%20of%20Siphnians,%20525%20BC,%20AM%20Delphi,%20201340.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q245117",
+   "via": "P180",
+   "label": "relief sculpture",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0030",
@@ -772,7 +815,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Athena_Parthenos_LeQuire.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Athena%20Parthenos%20LeQuire.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q37122",
+   "via": "P180",
+   "label": "Athena",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0032",
@@ -840,13 +891,13 @@
   "th": [
    "宗教"
   ],
-  "local": true,
-  "img": "img/800/s0034.webp",
-  "thumb": "img/thumb/s0034.webp",
-  "src": "Commons",
-  "src_url": "https://commons.wikimedia.org/wiki/File:Twee_aanzichten_van_de_Athena_Lemnia_in_het_Albertinum_te_Dresden_Die_Athena_Lemnia_des_Phidias._(titel_op_object),_RP-F-00-8242.jpg",
-  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Twee%20aanzichten%20van%20de%20Athena%20Lemnia%20in%20het%20Albertinum%20te%20Dresden%20Die%20Athena%20Lemnia%20des%20Phidias.%20(titel%20op%20object),%20RP-F-00-8242.jpg?width=1000",
-  "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
+  "local": false,
+  "img": null,
+  "thumb": null,
+  "src": null,
+  "src_url": null,
+  "img_ext": null,
+  "verif": "自動配對圖檔經比對為其他作品，已移除；待人工補圖",
   "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
  },
  {
@@ -897,7 +948,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Plaster_casts_of_the_Parthenon_sculptures_in_the_Acropolis_Museum_06.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Plaster%20casts%20of%20the%20Parthenon%20sculptures%20in%20the%20Acropolis%20Museum%2006.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q41680",
+   "via": "P180",
+   "label": "Dionysus",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0037",
@@ -947,7 +1006,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:02_10_2024_Photo_Paolo_Villa-Napoli-mann-Museo_Archeologico-FO232526tris-Arte_Greca_copia_romana-Policleto_Doriforo_Polykleitos_Doryphoros_from_Pompeii-marmo_marble_carrara_(with_transparent_background).png",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/02%2010%202024%20Photo%20Paolo%20Villa-Napoli-mann-Museo%20Archeologico-FO232526tris-Arte%20Greca%20copia%20romana-Policleto%20Doriforo%20Polykleitos%20Doryphoros%20from%20Pompeii-marmo%20marble%20carrara%20(with%20transparent%20background).png?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q346692",
+   "via": "P180",
+   "label": "Silhouette",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0039",
@@ -1072,7 +1139,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Discobolus_in_National_Roman_Museum_Palazzo_Massimo_alle_Terme.JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Discobolus%20in%20National%20Roman%20Museum%20Palazzo%20Massimo%20alle%20Terme.JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q125810715",
+   "via": "P6243",
+   "label": "Discobolus Lancelotti",
+   "y": [
+    200
+   ],
+   "mu": [
+    "Museum Palazzo Massimo alle Terme",
+    "Munich Central Collecting Point",
+    "Museo Nazionale Romano"
+   ],
+   "creator": []
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0044",
@@ -1097,7 +1179,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Blank_postcard_of_Myron’s_Athena_-_DPLA_-_04d305a3c61483a5ff56806753aeee74_(page_2).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Blank%20postcard%20of%20Myron’s%20Athena%20-%20DPLA%20-%2004d305a3c61483a5ff56806753aeee74%20(page%202).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q860861",
+   "via": "P180",
+   "label": "sculpture",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0045",
@@ -1222,7 +1312,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Apollo_Sauroktonos_Louvre_Ma441_n06.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Apollo%20Sauroktonos%20Louvre%20Ma441%20n06.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q18667809",
+   "via": "P180",
+   "label": "Sauroctonos Borghese",
+   "y": [
+    50
+   ],
+   "mu": [
+    "Borghese Collection",
+    "Department of Greek, Etruscan, and Roman Antiquities of the Louvre",
+    "Greek antiquities, room 17"
+   ],
+   "creator": []
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0050",
@@ -1272,7 +1377,24 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Artemis_Gabii_Louvre_Ma529_n1.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Artemis%20Gabii%20Louvre%20Ma529%20n1.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3026255",
+   "via": "P180",
+   "label": "Diana of Gabii",
+   "y": [
+    20
+   ],
+   "mu": [
+    "Borghese Collection",
+    "Department of Greek, Etruscan, and Roman Antiquities of the Louvre",
+    "Greek antiquities, room 17"
+   ],
+   "creator": [
+    "Praxiteles"
+   ]
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0052",
@@ -1422,7 +1544,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Marble_head_of_warrior,_by_Scopas.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Marble%20head%20of%20warrior,%20by%20Scopas.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q309579",
+   "via": "P180",
+   "label": "Scopas",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0058",
@@ -1472,7 +1602,24 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:1982-10-09_Farnese_Hercules.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/1982-10-09%20Farnese%20Hercules.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q374591",
+   "via": "P180",
+   "label": "Farnese Hercules",
+   "y": [
+    -400,
+    -323
+   ],
+   "mu": [
+    "Naples National Archaeological Museum",
+    "Naples National Archaeological Museum"
+   ],
+   "creator": [
+    "Glycon of Athens",
+    "Lysippos"
+   ]
+  }
  },
  {
   "id": "s0060",
@@ -1547,7 +1694,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Hercules_Epitrapezios_(=on_table)\"_from_Pompeii_-_bronze_1st_century_AD_from_the_original_by_Lysippus_(4th_century_BC)_-_Exhibition_\"Hero\"_up_July_31,_2018_at_Archaeological_Museum_of_Naples.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Hercules%20Epitrapezios%20(=on%20table)\"%20from%20Pompeii%20-%20bronze%201st%20century%20AD%20from%20the%20original%20by%20Lysippus%20(4th%20century%20BC)%20-%20Exhibition%20\"Hero\"%20up%20July%2031,%202018%20at%20Archaeological%20Museum%20of%20Naples.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q122248",
+   "via": "P180",
+   "label": "Heracles",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0063",
@@ -1697,7 +1852,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Herm_Hermes_Propylaios_340_BC_Museum_Delos,_A7756,_143426.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Herm%20Hermes%20Propylaios%20340%20BC%20Museum%20Delos,%20A7756,%20143426.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q220659",
+   "via": "P180",
+   "label": "archaeological artefact",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0069",
@@ -1847,7 +2010,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Nike_of_Paionios_statue_from_the_Archaeological_Museum_of_Olympia_in_Western_Peloponnese,_Greece.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Nike%20of%20Paionios%20statue%20from%20the%20Archaeological%20Museum%20of%20Olympia%20in%20Western%20Peloponnese,%20Greece.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q165023",
+   "via": "P180",
+   "label": "Nike",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0075",
@@ -1897,7 +2068,24 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Apollo_del_Belvedere_in_Vatican.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Apollo%20del%20Belvedere%20in%20Vatican.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q619135",
+   "via": "P180",
+   "label": "Apollo Belvedere",
+   "y": [
+    120,
+    -350
+   ],
+   "mu": [
+    "Vatican Museums",
+    "Vatican Museums"
+   ],
+   "creator": [
+    "Leochares"
+   ]
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0077",
@@ -1922,7 +2110,17 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Ganymede_Leochares_Vatican_Inv2445.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Ganymede%20Leochares%20Vatican%20Inv2445.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q66309251",
+   "via": "P180",
+   "label": "Ganymede and the eagle",
+   "y": [],
+   "mu": [
+    "Gallery of the Candelabri"
+   ],
+   "creator": []
+  }
  },
  {
   "id": "s0078",
@@ -1997,7 +2195,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Diane_de_Versailles_-_Musée_du_Louvre_AGER_Ma_589.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Diane%20de%20Versailles%20-%20Musée%20du%20Louvre%20AGER%20Ma%20589.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q2584518",
+   "via": "P180",
+   "label": "Diana of Versailles",
+   "y": [
+    100
+   ],
+   "mu": [
+    "Department of Greek, Etruscan, and Roman Antiquities of the Louvre",
+    "Louvre Palace",
+    "Palace of Fontainebleau"
+   ],
+   "creator": []
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0081",
@@ -2172,7 +2385,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:ACMA_698_Kritios_boy_2-3.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/ACMA%20698%20Kritios%20boy%202-3.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q1789503",
+   "via": "P180",
+   "label": "Kritios Boy",
+   "y": [
+    -480
+   ],
+   "mu": [
+    "Acropolis Museum",
+    "Acropolis Museum"
+   ],
+   "creator": [
+    "Critius"
+   ]
+  }
  },
  {
   "id": "s0088",
@@ -2247,7 +2475,17 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Athanodoros,_agesandros_e_polydoros,_gruppo_del_polifemo_di_sperlonga,_ricostruzione_01.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Athanodoros,%20agesandros%20e%20polydoros,%20gruppo%20del%20polifemo%20di%20sperlonga,%20ricostruzione%2001.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3777894",
+   "via": "P180",
+   "label": "Odysseus blinding Polyphemus",
+   "y": [
+    1
+   ],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0091",
@@ -2347,7 +2585,26 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:0_Laocoon_Group_-_Museo_Pro_Clementino_(Vatican).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/0%20Laocoon%20Group%20-%20Museo%20Pro%20Clementino%20(Vatican).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q465762",
+   "via": "P180",
+   "label": "Laocoön and His Sons",
+   "y": [
+    -42,
+    -150,
+    -1
+   ],
+   "mu": [
+    "Pio-Clementino museum",
+    "Pio-Clementino museum"
+   ],
+   "creator": [
+    "Agesander of Rhodes",
+    "Athanadoros"
+   ]
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0095",
@@ -2397,7 +2654,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Dying_gaul.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Dying%20gaul.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q10791",
+   "via": "P180",
+   "label": "nudity",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0097",
@@ -2422,7 +2687,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Ludovisi_Gaul_01,_Palazzo_Altemps.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Ludovisi%20Gaul%2001,%20Palazzo%20Altemps.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q2294491",
+   "via": "P180",
+   "label": "Ludovisi Gaul",
+   "y": [
+    -230
+   ],
+   "mu": [
+    "Museo Nazionale Romano",
+    "Museo Nazionale Romano"
+   ],
+   "creator": [
+    "Epigonus of Pergamum"
+   ]
+  }
  },
  {
   "id": "s0098",
@@ -2697,7 +2977,20 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Belvedere_Torso-Vatican_Museums.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Belvedere%20Torso-Vatican%20Museums.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q2551806",
+   "via": "P180",
+   "label": "Belvedere Torso",
+   "y": [],
+   "mu": [
+    "Vatican Museums",
+    "Pio-Clementino museum"
+   ],
+   "creator": [
+    "Apollonius of Athens"
+   ]
+  }
  },
  {
   "id": "s0109",
@@ -2747,7 +3040,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Paris,_France._Louvre._Venus_de_Milo_(the_Greek_goddess_of_love_and_beauty).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Paris,%20France.%20Louvre.%20Venus%20de%20Milo%20(the%20Greek%20goddess%20of%20love%20and%20beauty).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q151952",
+   "via": "P180",
+   "label": "Venus de Milo",
+   "y": [
+    -140
+   ],
+   "mu": [
+    "Department of Greek, Etruscan, and Roman Antiquities of the Louvre",
+    "Room 345"
+   ],
+   "creator": [
+    "Alexandros of Antioch"
+   ]
+  }
  },
  {
   "id": "s0111",
@@ -2797,7 +3105,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Apollo_di_Veio_-_Museo_di_Villa_Giulia_3.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Apollo%20di%20Veio%20-%20Museo%20di%20Villa%20Giulia%203.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q2294371",
+   "via": "P180",
+   "label": "Apollo of Veii",
+   "y": [
+    -550
+   ],
+   "mu": [
+    "Museo Nazionale Etrusco di Villa Giulia",
+    "Villa Giulia"
+   ],
+   "creator": [
+    "Vulca"
+   ]
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0113",
@@ -2972,7 +3296,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Sarcophagus_of_the_Spouses_from_Villa_Giulia_in_Rome.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarcophagus%20of%20the%20Spouses%20from%20Villa%20Giulia%20in%20Rome.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q2294393",
+   "via": "P180",
+   "label": "Sarcophagus of the Spouses",
+   "y": [
+    -520,
+    -530
+   ],
+   "mu": [
+    "Museo Nazionale Etrusco di Villa Giulia",
+    "Villa Giulia"
+   ],
+   "creator": []
+  }
  },
  {
   "id": "s0120",
@@ -3022,7 +3360,20 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:The_Capitoline_Wolf,_Musei_Capitolini,_Rome_(13840968834).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Capitoline%20Wolf,%20Musei%20Capitolini,%20Rome%20(13840968834).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q408623",
+   "via": "P180",
+   "label": "Capitoline Wolf",
+   "y": [
+    -500
+   ],
+   "mu": [
+    "Capitoline Museums",
+    "Capitoline Museums"
+   ],
+   "creator": []
+  }
  },
  {
   "id": "s0122",
@@ -3047,7 +3398,18 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Chimera_di_Arezzo.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Chimera%20di%20Arezzo.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q478807",
+   "via": "P180",
+   "label": "Chimera of Arezzo",
+   "y": [],
+   "mu": [
+    "National Archaeological Museum",
+    "Arezzo"
+   ],
+   "creator": []
+  }
  },
  {
   "id": "s0123",
@@ -3097,7 +3459,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Mars_of_Todi,_end_of_the_5th_century_BC,_bronze,_inv._13886_-_Museo_Gregoriano_Etrusco_-_Vatican_Museums_-_DSC01163.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Mars%20of%20Todi,%20end%20of%20the%205th%20century%20BC,%20bronze,%20inv.%2013886%20-%20Museo%20Gregoriano%20Etrusco%20-%20Vatican%20Museums%20-%20DSC01163.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3752885",
+   "via": "P180",
+   "label": "Mars of Todi",
+   "y": [
+    -500
+   ],
+   "mu": [
+    "Vatican Museums",
+    "Gregorian Etruscan Museum",
+    "Vatican Museums"
+   ],
+   "creator": []
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0125",
@@ -3372,7 +3749,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Medici_Venus-Arrotino-Uffizi_Gallery.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Medici%20Venus-Arrotino-Uffizi%20Gallery.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q774967",
+   "via": "P180",
+   "label": "Venus de' Medici",
+   "y": [
+    -50
+   ],
+   "mu": [
+    "Uffizi Gallery",
+    "Uffizi Gallery"
+   ],
+   "creator": [
+    "Cleomenes"
+   ]
+  }
  },
  {
   "id": "s0136",
@@ -3572,7 +3964,18 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Caracalla_6033_Museo_Nazionale_Napoli.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Caracalla%206033%20Museo%20Nazionale%20Napoli.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q89012835",
+   "via": "P180",
+   "label": "Caracalla Farnese",
+   "y": [],
+   "mu": [
+    "Naples National Archaeological Museum",
+    "Naples National Archaeological Museum"
+   ],
+   "creator": []
+  }
  },
  {
   "id": "s0144",
@@ -3622,7 +4025,20 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Marcus_Aurelius_Capitoline_Hill_September_2015-1.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Marcus%20Aurelius%20Capitoline%20Hill%20September%202015-1.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q21141671",
+   "via": "P180",
+   "label": "equestrian statue of Marcus Aurelius",
+   "y": [
+    1981
+   ],
+   "mu": [
+    "Piazza del Campidoglio"
+   ],
+   "creator": []
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0146",
@@ -3672,7 +4088,19 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:The_\"Tusculum_portrait\",_a_rare_bust_of_Julius_Caesar_in_his_lifetime,_45_-_43_BC,_Moi,_Auguste,_Empereur_de_Rome_exhibition,_Grand_Palais,_Paris_-_14628246546.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20\"Tusculum%20portrait\",%20a%20rare%20bust%20of%20Julius%20Caesar%20in%20his%20lifetime,%2045%20-%2043%20BC,%20Moi,%20Auguste,%20Empereur%20de%20Rome%20exhibition,%20Grand%20Palais,%20Paris%20-%2014628246546.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q21055402",
+   "via": "P180",
+   "label": "Tusculum portrait",
+   "y": [
+    -45
+   ],
+   "mu": [
+    "Museum of antiquities"
+   ],
+   "creator": []
+  }
  },
  {
   "id": "s0148",
@@ -3872,7 +4300,19 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:0_Sarcophage_de_Portonaccio_(PMT_240)_-_Palazzo_Museo_Massimo_(8b).JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/0%20Sarcophage%20de%20Portonaccio%20(PMT%20240)%20-%20Palazzo%20Museo%20Massimo%20(8b).JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3950482",
+   "via": "P180",
+   "label": "Portonaccio sarcophagus",
+   "y": [
+    180
+   ],
+   "mu": [
+    "Museo Nazionale Romano"
+   ],
+   "creator": []
+  }
  },
  {
   "id": "s0156",
@@ -3947,7 +4387,20 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Dogmatic_sarcophagus.JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Dogmatic%20sarcophagus.JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3950484",
+   "via": "P180",
+   "label": "Dogmatic Sarcophagus",
+   "y": [
+    320
+   ],
+   "mu": [
+    "Vatican Museums",
+    "Museo Pio Cristiano"
+   ],
+   "creator": []
+  }
  },
  {
   "id": "s0159",
@@ -4047,7 +4500,17 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Trial,_Sarcophagus_of_Junius_Bassus_-_Vanderbilt_ACT_-_DSC00278.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Trial,%20Sarcophagus%20of%20Junius%20Bassus%20-%20Vanderbilt%20ACT%20-%20DSC00278.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q122959953",
+   "via": "P180",
+   "label": "Trial, Sarcophagus of Junius Bassus",
+   "y": [
+    359
+   ],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0163",
@@ -4072,7 +4535,20 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Diptych_Barberini_Louvre_OA3850.JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Diptych%20Barberini%20Louvre%20OA3850.JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q807809",
+   "via": "P180",
+   "label": "Barberini ivory",
+   "y": [
+    525
+   ],
+   "mu": [
+    "Department of Byzantine Arts and Eastern Christian Art of the Louvre Museum",
+    "Room 501"
+   ],
+   "creator": []
+  }
  },
  {
   "id": "s0164",
@@ -4097,7 +4573,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Triptych_Harbaville_Louvre_OA3247_recto.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Triptych%20Harbaville%20Louvre%20OA3247%20recto.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q23356",
+   "via": "P180",
+   "label": "Harbaville Triptych",
+   "y": [
+    950,
+    950
+   ],
+   "mu": [
+    "Department of Byzantine Arts and Eastern Christian Art of the Louvre Museum",
+    "Room 501"
+   ],
+   "creator": []
+  }
  },
  {
   "id": "s0165",
@@ -4222,7 +4712,19 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_the_Four_Tetrarchs_(Monumento_ai_Tetrarchi),_San_Marco,_Venice_(30855023071).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20the%20Four%20Tetrarchs%20(Monumento%20ai%20Tetrarchi),%20San%20Marco,%20Venice%20(30855023071).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q2570221",
+   "via": "P180",
+   "label": "Portrait of the Four Tetrarchs",
+   "y": [
+    290
+   ],
+   "mu": [
+    "Piazza San Marco"
+   ],
+   "creator": []
+  }
  },
  {
   "id": "s0170",
@@ -4247,7 +4749,20 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Reliefs_on_the_base_of_the_Obelisk_of_Theodosius.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Reliefs%20on%20the%20base%20of%20the%20Obelisk%20of%20Theodosius.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q763854",
+   "via": "P180",
+   "label": "Obelisk of Theodosius",
+   "y": [
+    -1500
+   ],
+   "mu": [
+    "Hippodrome of Constantinople"
+   ],
+   "creator": []
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0171",
@@ -4272,7 +4787,20 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Colossus_of_Barletta_02.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Colossus%20of%20Barletta%2002.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q444762",
+   "via": "P180",
+   "label": "Colossus of Barletta",
+   "y": [
+    400
+   ],
+   "mu": [
+    "Barletta",
+    "Santo Sepolcro"
+   ],
+   "creator": []
+  }
  },
  {
   "id": "s0172",
@@ -4897,7 +5425,17 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Renier_de_Huy_JPG02.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Renier%20de%20Huy%20JPG02.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3076419",
+   "via": "P180",
+   "label": "Baptismal font at St Bartholomew's Church, Liège",
+   "y": [],
+   "mu": [],
+   "creator": [
+    "Renier de Huy"
+   ]
+  }
  },
  {
   "id": "s0197",
@@ -4922,7 +5460,19 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Bernwardstür.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Bernwardstür.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q826947",
+   "via": "P180",
+   "label": "Bernward Doors",
+   "y": [
+    1015
+   ],
+   "mu": [
+    "Hildesheim Cathedral"
+   ],
+   "creator": []
+  }
  },
  {
   "id": "s0198",
@@ -5022,7 +5572,18 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Bonanno_Pisano_Schema_icongrafico_della_porta_di_Monreale.JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Bonanno%20Pisano%20Schema%20icongrafico%20della%20porta%20di%20Monreale.JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q1303856",
+   "via": "P180",
+   "label": "Cattedrale di Monreale",
+   "y": [
+    1172
+   ],
+   "mu": [],
+   "creator": []
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0202",
@@ -5247,7 +5808,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Pulpito_del_duomo_di_siena,_nicola_pisano_12.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Pulpito%20del%20duomo%20di%20siena,%20nicola%20pisano%2012.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3925518",
+   "via": "P180",
+   "label": "Siena Cathedral Pulpit",
+   "y": [
+    1268
+   ],
+   "mu": [
+    "Siena Cathedral"
+   ],
+   "creator": [
+    "Arnolfo di Cambio",
+    "Giovanni Pisano"
+   ]
+  }
  },
  {
   "id": "s0211",
@@ -5547,7 +6123,25 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Firenze_-_Museo_Opera_del_Duomo,_madonna_dagli_occhi_di_vetro.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Firenze%20-%20Museo%20Opera%20del%20Duomo,%20madonna%20dagli%20occhi%20di%20vetro.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3842595",
+   "via": "P180",
+   "label": "Madonna with Glass Eyes",
+   "y": [
+    1300,
+    1300,
+    1300
+   ],
+   "mu": [
+    "Museo dell'Opera del Duomo",
+    "Museo dell'Opera del Duomo",
+    "Florence Cathedral"
+   ],
+   "creator": [
+    "Arnolfo di Cambio"
+   ]
+  }
  },
  {
   "id": "s0223",
@@ -5597,7 +6191,24 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:South_Doors_of_the_Florence_Baptistry.JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/South%20Doors%20of%20the%20Florence%20Baptistry.JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3908939",
+   "via": "P180",
+   "label": "South Doors of the Florence Baptistery",
+   "y": [
+    1329,
+    1330
+   ],
+   "mu": [
+    "Museo dell'Opera del Duomo",
+    "Florence Baptistery",
+    "Museo dell'Opera del Duomo"
+   ],
+   "creator": [
+    "Andrea Pisano"
+   ]
+  }
  },
  {
   "id": "s0225",
@@ -5622,7 +6233,24 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Creation_Adam_Pisano_OPA_Florence.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Creation%20Adam%20Pisano%20OPA%20Florence.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q93637013",
+   "via": "P180",
+   "label": "Creation of Adam",
+   "y": [
+    1400
+   ],
+   "mu": [
+    "Museo dell'Opera del Duomo",
+    "Museo dell'Opera del Duomo",
+    "West Face of the Campanile of Santa Maria del Fiore"
+   ],
+   "creator": [
+    "Andrea Pisano"
+   ]
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0226",
@@ -5697,7 +6325,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:2014-_Old_Town_Bridge_Tower_(Staroměstská_Mostecká_Věž),_Prague,_Czech_Republic_(_Ank_Kumar_)_06.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/2014-%20Old%20Town%20Bridge%20Tower%20(Staroměstská%20Mostecká%20Věž),%20Prague,%20Czech%20Republic%20(%20Ank%20Kumar%20)%2006.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q445762",
+   "via": "P180",
+   "label": "Old Town Bridge Tower",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0229",
@@ -5847,7 +6483,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Tilmann_Riemenschneider_der_Heilig-Blut-Altar_in_Rothenburg_ob_der_Tauber_01.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Tilmann%20Riemenschneider%20der%20Heilig-Blut-Altar%20in%20Rothenburg%20ob%20der%20Tauber%2001.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q11801545",
+   "via": "P6243",
+   "label": "Holy Blood altar",
+   "y": [
+    1270,
+    1499
+   ],
+   "mu": [
+    "St. James's Church",
+    "Germany"
+   ],
+   "creator": [
+    "Tilman Riemenschneider"
+   ]
+  }
  },
  {
   "id": "s0235",
@@ -5872,7 +6524,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Tilman_Riemenschneider,_Altar_of_the_Virgin,_Creglingen,_c1505-08_edit.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Tilman%20Riemenschneider,%20Altar%20of%20the%20Virgin,%20Creglingen,%20c1505-08%20edit.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q1446512",
+   "via": "P180",
+   "label": "Life of the Virgin",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0236",
@@ -6022,7 +6682,20 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Nürnberg_St._Lorenz_Englischer_Gruß_02.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Nürnberg%20St.%20Lorenz%20Englischer%20Gruß%2002.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q707357",
+   "via": "P180",
+   "label": "St. Lawrence",
+   "y": [
+    1250
+   ],
+   "mu": [
+    "Nuremberg"
+   ],
+   "creator": []
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0242",
@@ -6072,7 +6745,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:The_Archangel_Raphael_and_Young_Tobias,_by_Veit_Stoss,_Nurember,_1516,_limewood_-_Germanisches_Nationalmuseum_-_Nuremberg,_Germany_-DSC02837.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Archangel%20Raphael%20and%20Young%20Tobias,%20by%20Veit%20Stoss,%20Nurember,%201516,%20limewood%20-%20Germanisches%20Nationalmuseum%20-%20Nuremberg,%20Germany%20-DSC02837.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q9158958",
+   "via": "P180",
+   "label": "Archangel Raphael and Young Tobias",
+   "y": [
+    1516
+   ],
+   "mu": [
+    "Germanisches Nationalmuseum",
+    "Germanisches Nationalmuseum"
+   ],
+   "creator": [
+    "Veit Stoss"
+   ]
+  }
  },
  {
   "id": "s0244",
@@ -6222,7 +6910,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Hans_Multscher_-_The_Wings_of_the_Wurzach_Altar_-_Google_Art_Project.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Multscher%20-%20The%20Wings%20of%20the%20Wurzach%20Altar%20-%20Google%20Art%20Project.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q21588512",
+   "via": "P6243",
+   "label": "Birth of Christ (Wurzach altarpiece)",
+   "y": [
+    1437
+   ],
+   "mu": [
+    "Gemäldegalerie Berlin",
+    "Gemäldegalerie Berlin"
+   ],
+   "creator": [
+    "Hans Multscher"
+   ]
+  }
  },
  {
   "id": "s0250",
@@ -6247,7 +6950,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Hans_Multscher_Hl._Johannes_der_Taeufer_um_1456-59-2.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Multscher%20Hl.%20Johannes%20der%20Taeufer%20um%201456-59-2.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q127038444",
+   "via": "P180",
+   "label": "John the Baptist",
+   "y": [
+    1450
+   ],
+   "mu": [
+    "Bavarian National Museum",
+    "Bavarian National Museum"
+   ],
+   "creator": [
+    "Hans Multscher"
+   ]
+  }
  },
  {
   "id": "s0251",
@@ -6322,7 +7040,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Nürnberg_St._Lorenz_Sakramentshaus_Adam_Kraft_01.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Nürnberg%20St.%20Lorenz%20Sakramentshaus%20Adam%20Kraft%2001.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q932698",
+   "via": "P180",
+   "label": "tabernacle tower",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0254",
@@ -6397,7 +7123,24 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Claus_Sluter_(1350-1406)_Mozesput_Champmol_Jeremia_Zacharia_23-10-2016...-edit.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Claus%20Sluter%20(1350-1406)%20Mozesput%20Champmol%20Jeremia%20Zacharia%2023-10-2016...-edit.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q1541884",
+   "via": "P180",
+   "label": "Well of Moses",
+   "y": [
+    1000
+   ],
+   "mu": [
+    "Champmol",
+    "Champmol"
+   ],
+   "creator": [
+    "Claus Sluter",
+    "Claus de Werve"
+   ]
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0257",
@@ -6447,7 +7190,24 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Tombeau_de_Philippe_le_Hardi,_duc_de_Bourgogne_mort_en_1404_-_Médiathèque_de_l'architecture_et_du_patrimoine_-_APMH00005088.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Tombeau%20de%20Philippe%20le%20Hardi,%20duc%20de%20Bourgogne%20mort%20en%201404%20-%20Médiathèque%20de%20l'architecture%20et%20du%20patrimoine%20-%20APMH00005088.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q1541884",
+   "via": "P180",
+   "label": "Well of Moses",
+   "y": [
+    1000
+   ],
+   "mu": [
+    "Champmol",
+    "Champmol"
+   ],
+   "creator": [
+    "Claus Sluter",
+    "Claus de Werve"
+   ]
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0259",
@@ -6497,7 +7257,24 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Philip_the_Bold_tomb_(Надгробие_Филиппа_Смелого)..jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Philip%20the%20Bold%20tomb%20(Надгробие%20Филиппа%20Смелого)..jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q42196574",
+   "via": "P180",
+   "label": "tomb of Philip II the Bold",
+   "y": [
+    1410
+   ],
+   "mu": [
+    "Musée des Beaux-Arts de Dijon",
+    "Champmol",
+    "Musée des Beaux-Arts de Dijon"
+   ],
+   "creator": [
+    "Claus Sluter",
+    "Jean de Marville"
+   ]
+  }
  },
  {
   "id": "s0261",
@@ -6522,7 +7299,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Virgin_and_Child_MET_DP144118.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Virgin%20and%20Child%20MET%20DP144118.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q345",
+   "via": "P180",
+   "label": "Mary",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0262",
@@ -6897,7 +7682,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Porta_della_mandorla_09.JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Porta%20della%20mandorla%2009.JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q110952707",
+   "via": "P180",
+   "label": "Madonna of the Girdle",
+   "y": [],
+   "mu": [
+    "Florence Cathedral",
+    "Porta della Mandorla",
+    "Florence Cathedral"
+   ],
+   "creator": [
+    "Nanni di Banco"
+   ]
+  }
  },
  {
   "id": "s0277",
@@ -6997,7 +7796,25 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Fragment_from_the_Tomb_of_John_the_Fearless_and_Margaret_of_Austria_MET_DP317612.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Fragment%20from%20the%20Tomb%20of%20John%20the%20Fearless%20and%20Margaret%20of%20Austria%20MET%20DP317612.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q101064585",
+   "via": "P180",
+   "label": "tomb of John I of Burgundy and Marguerite of Bavaria",
+   "y": [
+    1470
+   ],
+   "mu": [
+    "Musée des Beaux-Arts de Dijon",
+    "Champmol",
+    "Musée des Beaux-Arts de Dijon"
+   ],
+   "creator": [
+    "Juan de la Huerta",
+    "Antoine Le Moiturier"
+   ]
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0281",
@@ -7072,7 +7889,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Bronze_David_by_Donatello-Bargello-4.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Bronze%20David%20by%20Donatello-Bargello-4.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q735085",
+   "via": "P180",
+   "label": "David",
+   "y": [
+    1440
+   ],
+   "mu": [
+    "Bargello National Museum",
+    "Bargello National Museum",
+    "Palazzo Vecchio"
+   ],
+   "creator": [
+    "Donatello"
+   ]
+  }
  },
  {
   "id": "s0284",
@@ -7122,7 +7955,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Statue_of_Gattamelata_by_Donatello_-_Padua_2016.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Statue%20of%20Gattamelata%20by%20Donatello%20-%20Padua%202016.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q771017",
+   "via": "P180",
+   "label": "Equestrian statue of Gattamelata",
+   "y": [
+    1453,
+    1500
+   ],
+   "mu": [
+    "Piazza del Santo"
+   ],
+   "creator": [
+    "Donatello"
+   ]
+  }
  },
  {
   "id": "s0286",
@@ -7172,7 +8020,17 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Donatello-Judith_and_Holofernes-Palazzo_Vecchio.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Donatello-Judith%20and%20Holofernes-Palazzo%20Vecchio.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q126685414",
+   "via": "P180",
+   "label": "Judith and Holofernes replica",
+   "y": [],
+   "mu": [
+    "piazza della Signoria"
+   ],
+   "creator": []
+  }
  },
  {
   "id": "s0288",
@@ -7197,7 +8055,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Donatello,_Spiritello_Candalabra-Holder_(1),_c1436-8,_Paris,_Musée_Jacquemart-André.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Donatello,%20Spiritello%20Candalabra-Holder%20(1),%20c1436-8,%20Paris,%20Musée%20Jacquemart-André.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q284865",
+   "via": "P180",
+   "label": "putto",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0289",
@@ -7247,7 +8113,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Donatello,_Zuccone,_1426-c27+1435-36,_Florence,_Museo_dell'Opera_del_Duomo.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Donatello,%20Zuccone,%201426-c27+1435-36,%20Florence,%20Museo%20dell'Opera%20del%20Duomo.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q1636061",
+   "via": "P180",
+   "label": "Zuccone",
+   "y": [
+    1423,
+    1430
+   ],
+   "mu": [
+    "Museo dell'Opera del Duomo",
+    "Museo dell'Opera del Duomo"
+   ],
+   "creator": [
+    "Donatello"
+   ]
+  }
  },
  {
   "id": "s0291",
@@ -7272,7 +8154,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Banquet_d'Herodes_de_bronze,_Donatello,_pila_baptismal_del_baptisteri_de_Siena.JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Banquet%20d'Herodes%20de%20bronze,%20Donatello,%20pila%20baptismal%20del%20baptisteri%20de%20Siena.JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q2326860",
+   "via": "P180",
+   "label": "The Feast of Herod",
+   "y": [
+    1427
+   ],
+   "mu": [
+    "Battistero di San Giovanni",
+    "Siena"
+   ],
+   "creator": [
+    "Donatello"
+   ]
+  }
  },
  {
   "id": "s0292",
@@ -7297,7 +8194,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Installazione_florens_2012_crocifisso_donatello_02.JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Installazione%20florens%202012%20crocifisso%20donatello%2002.JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3698261",
+   "via": "P180",
+   "label": "Donatello's Crucifix of Santa Croce",
+   "y": [
+    1406
+   ],
+   "mu": [
+    "Basilica of Santa Croce",
+    "Bardi di Vernio Chapel",
+    "Basilica of Santa Croce"
+   ],
+   "creator": [
+    "Donatello"
+   ]
+  }
  },
  {
   "id": "s0293",
@@ -7347,7 +8260,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Donatello,_Pazzi-Madonna,_c1422,_Bode_Museum,_Berlin_wof.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Donatello,%20Pazzi-Madonna,%20c1422,%20Bode%20Museum,%20Berlin%20wof.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q2356619",
+   "via": "P180",
+   "label": "Pazzi Madonna",
+   "y": [
+    1420
+   ],
+   "mu": [
+    "Bode Museum",
+    "Bode Museum"
+   ],
+   "creator": [
+    "Donatello"
+   ]
+  }
  },
  {
   "id": "s0295",
@@ -7372,7 +8300,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Lorenzo_Ghiberti-The_Gates_of_Paradise_-_Original-Museo_dell'Opera_del_Duomo_(Florence).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Lorenzo%20Ghiberti-The%20Gates%20of%20Paradise%20-%20Original-Museo%20dell'Opera%20del%20Duomo%20(Florence).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q2480856",
+   "via": "P180",
+   "label": "Gates of Paradise",
+   "y": [
+    1425,
+    1500
+   ],
+   "mu": [
+    "Museo dell'Opera del Duomo",
+    "Museo dell'Opera del Duomo"
+   ],
+   "creator": [
+    "Lorenzo Ghiberti"
+   ]
+  }
  },
  {
   "id": "s0296",
@@ -7397,7 +8341,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Lorenzo_Ghiberti,_John_the_Evangelist_from_the_north_door_of_the_Baptistery,_1407-13,_Florence,_Museo_dell'Opera_del_Duomo.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Lorenzo%20Ghiberti,%20John%20the%20Evangelist%20from%20the%20north%20door%20of%20the%20Baptistery,%201407-13,%20Florence,%20Museo%20dell'Opera%20del%20Duomo.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q328804",
+   "via": "P180",
+   "label": "John the Evangelist",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0297",
@@ -7415,13 +8367,13 @@
   "th": [
    "浮雕"
   ],
-  "local": true,
-  "img": "img/800/s0297.webp",
-  "thumb": "img/thumb/s0297.webp",
-  "src": "Commons",
-  "src_url": "https://commons.wikimedia.org/wiki/File:Competition_Panels_by_Ghiberti_and_Brunelleschi.jpg",
-  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Competition%20Panels%20by%20Ghiberti%20and%20Brunelleschi.jpg?width=1000",
-  "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
+  "local": false,
+  "img": null,
+  "thumb": null,
+  "src": null,
+  "src_url": null,
+  "img_ext": null,
+  "verif": "自動配對圖檔經比對為其他作品，已移除；待人工補圖",
   "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
  },
  {
@@ -7447,7 +8399,24 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Museo_di_orsanmichele,_lorenzo_ghiberti,_san_matteo_01.JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Museo%20di%20orsanmichele,%20lorenzo%20ghiberti,%20san%20matteo%2001.JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3947664",
+   "via": "P180",
+   "label": "Saint Matthew",
+   "y": [
+    1419,
+    1420,
+    1500
+   ],
+   "mu": [
+    "Museum of Orsanmichele",
+    "Museum of Orsanmichele"
+   ],
+   "creator": [
+    "Lorenzo Ghiberti"
+   ]
+  }
  },
  {
   "id": "s0299",
@@ -7872,7 +8841,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Carlo_Marsuppini_Santa_Croce_01.JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Carlo%20Marsuppini%20Santa%20Croce%2001.JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3862689",
+   "via": "P180",
+   "label": "Marsuppini monument",
+   "y": [
+    1453
+   ],
+   "mu": [
+    "Basilica of Santa Croce"
+   ],
+   "creator": [
+    "Desiderio da Settignano"
+   ]
+  }
  },
  {
   "id": "s0316",
@@ -7922,7 +8905,25 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Berlin_Marietta_Strozzi_02.JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin%20Marietta%20Strozzi%2002.JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q61654521",
+   "via": "P180",
+   "label": "bust of Marietta Strozzi",
+   "y": [
+    1460,
+    1464,
+    1462
+   ],
+   "mu": [
+    "Bode Museum",
+    "Bode Museum",
+    "Palazzo Strozzi"
+   ],
+   "creator": [
+    "Desiderio da Settignano"
+   ]
+  }
  },
  {
   "id": "s0318",
@@ -8122,7 +9123,19 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:A_Rossellino_Tumba_del_Cardenal_de_Portugal_San_Miniato_Florencia.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/A%20Rossellino%20Tumba%20del%20Cardenal%20de%20Portugal%20San%20Miniato%20Florencia.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3657404",
+   "via": "P180",
+   "label": "Cardinal of Portugal's Chapel",
+   "y": [
+    1465
+   ],
+   "mu": [],
+   "creator": [
+    "Antonio Manetti"
+   ]
+  }
  },
  {
   "id": "s0326",
@@ -8197,7 +9210,24 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Francesco_botticini_e_antonio_rossellino,_tabernacolo_di_s._sebastiano,_1475-80_ca,_da_collegiata_01.JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20botticini%20e%20antonio%20rossellino,%20tabernacolo%20di%20s.%20sebastiano,%201475-80%20ca,%20da%20collegiata%2001.JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q111738668",
+   "via": "P180",
+   "label": "Tabernacle of San Sebastiano",
+   "y": [
+    1476
+   ],
+   "mu": [
+    "Museum of the Collegiate Church of Sant’Andrea",
+    "Museum of the Collegiate Church of Sant’Andrea",
+    "Collegiata of Sant'Andrea"
+   ],
+   "creator": [
+    "Antonio Rossellino",
+    "Francesco Botticini"
+   ]
+  }
  },
  {
   "id": "s0329",
@@ -8222,7 +9252,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Antonio_Rossellino-Giovanni_di_Antonio_Chellini_da_San_Miniato-Victoria_and_Albert_Museum.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Rossellino-Giovanni%20di%20Antonio%20Chellini%20da%20San%20Miniato-Victoria%20and%20Albert%20Museum.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q120491417",
+   "via": "P180",
+   "label": "Bust of Giovanni Chellini",
+   "y": [
+    1456
+   ],
+   "mu": [
+    "Victoria and Albert Museum",
+    "Victoria and Albert museum sculpture collection",
+    "Room 64a"
+   ],
+   "creator": [
+    "Antonio Rossellino"
+   ]
+  }
  },
  {
   "id": "s0330",
@@ -8272,7 +9318,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Filippo_Strozzi_-_Musée_du_Louvre_Sculptures_RF_289.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Filippo%20Strozzi%20-%20Musée%20du%20Louvre%20Sculptures%20RF%20289.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3647651",
+   "via": "P180",
+   "label": "Bust of Filippo Strozzi",
+   "y": [
+    1476,
+    1475
+   ],
+   "mu": [
+    "Department of Sculptures of the Louvre",
+    "Sculptures italiennes et espagnoles, salle 160, Entresol, Denon"
+   ],
+   "creator": [
+    "Benedetto da Maiano"
+   ]
+  }
  },
  {
   "id": "s0332",
@@ -8347,7 +9409,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Antipope_John_XXIII_tomb_001.JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Antipope%20John%20XXIII%20tomb%20001.JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q2280593",
+   "via": "P180",
+   "label": "Tomb of Antipope John XXIII",
+   "y": [
+    1426
+   ],
+   "mu": [
+    "Florence Baptistery",
+    "Florence Baptistery"
+   ],
+   "creator": [
+    "Donatello",
+    "Michelozzo"
+   ]
+  }
  },
  {
   "id": "s0335",
@@ -8372,7 +9450,18 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Michelozzo,_epigrafe_del_munumento_aragazzi,_1437-38,_montepulciano,_palazzo_vescovile.JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Michelozzo,%20epigrafe%20del%20munumento%20aragazzi,%201437-38,%20montepulciano,%20palazzo%20vescovile.JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q2942726",
+   "via": "P180",
+   "label": "Cathedral of Montepulciano",
+   "y": [
+    1594
+   ],
+   "mu": [],
+   "creator": []
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0336",
@@ -8422,7 +9511,19 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Rimini_-_Tempio_malatestiano_-_Ganimede_come_Acquario_-_Foto_Giovanni_Dall'Orto,_aprile_2004.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Rimini%20-%20Tempio%20malatestiano%20-%20Ganimede%20come%20Acquario%20-%20Foto%20Giovanni%20Dall'Orto,%20aprile%202004.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q1268593",
+   "via": "P180",
+   "label": "Tempio Malatestiano",
+   "y": [
+    1401,
+    1750
+   ],
+   "mu": [],
+   "creator": []
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0338",
@@ -8572,7 +9673,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Michelangelo's_David_2015.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Michelangelo's%20David%202015.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q179900",
+   "via": "P180",
+   "label": "David",
+   "y": [
+    1500
+   ],
+   "mu": [
+    "piazza della Signoria",
+    "Galleria dell'Accademia",
+    "Galleria dell'Accademia"
+   ],
+   "creator": [
+    "Michelangelo"
+   ]
+  }
  },
  {
   "id": "s0344",
@@ -8597,7 +9714,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Michelangelo's_Pieta,_St._Peter's_Basilica_(6074456683).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Michelangelo's%20Pieta,%20St.%20Peter's%20Basilica%20(6074456683).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q235242",
+   "via": "P180",
+   "label": "Pietà (Michelangelo)",
+   "y": [
+    1499
+   ],
+   "mu": [
+    "St. Peter's Basilica",
+    "St. Peter's Basilica"
+   ],
+   "creator": [
+    "Michelangelo"
+   ]
+  }
  },
  {
   "id": "s0345",
@@ -8622,7 +9754,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Michelangelo_-_Moses_-_San_Pietro_in_Vincoli-11.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Michelangelo%20-%20Moses%20-%20San%20Pietro%20in%20Vincoli-11.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q1989744",
+   "via": "P180",
+   "label": "Moses",
+   "y": [
+    1510
+   ],
+   "mu": [
+    "San Pietro in Vincoli"
+   ],
+   "creator": [
+    "Michelangelo"
+   ]
+  }
  },
  {
   "id": "s0346",
@@ -8647,7 +9793,25 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Madonna_Michelangelo_Bruges_-_JPG1.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Madonna%20Michelangelo%20Bruges%20-%20JPG1.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q567833",
+   "via": "P180",
+   "label": "Madonna of Bruges",
+   "y": [
+    1501,
+    1503,
+    1505
+   ],
+   "mu": [
+    "Church of Our Lady",
+    "Munich Central Collecting Point",
+    "Church of Our Lady"
+   ],
+   "creator": [
+    "Michelangelo"
+   ]
+  }
  },
  {
   "id": "s0347",
@@ -8697,7 +9861,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Dying_and_Rebellious_Slaves_by_Michelangelo_(Louvre).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Dying%20and%20Rebellious%20Slaves%20by%20Michelangelo%20(Louvre).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3203231",
+   "via": "P180",
+   "label": "Rebellious Slave",
+   "y": [
+    1514
+   ],
+   "mu": [
+    "Department of Sculptures of the Louvre",
+    "Michelangelo Gallery"
+   ],
+   "creator": [
+    "Michelangelo"
+   ]
+  }
  },
  {
   "id": "s0349",
@@ -8722,7 +9901,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:'Rebellious_Slave'_Michelangelo_JBU81.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/'Rebellious%20Slave'%20Michelangelo%20JBU81.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3203231",
+   "via": "P180",
+   "label": "Rebellious Slave",
+   "y": [
+    1514
+   ],
+   "mu": [
+    "Department of Sculptures of the Louvre",
+    "Michelangelo Gallery"
+   ],
+   "creator": [
+    "Michelangelo"
+   ]
+  }
  },
  {
   "id": "s0350",
@@ -8747,7 +9941,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Milano_-_Castello_sforzesco_-_Michelangelo,_Pietà_Rondanini_by_Michelangelo_(1564)_-_Foto_Giovanni_Dall'Orto,_6-jan-2006_-_03.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Milano%20-%20Castello%20sforzesco%20-%20Michelangelo,%20Pietà%20Rondanini%20by%20Michelangelo%20(1564)%20-%20Foto%20Giovanni%20Dall'Orto,%206-jan-2006%20-%2003.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q1878666",
+   "via": "P6243",
+   "label": "Rondanini Pietà",
+   "y": [
+    1564
+   ],
+   "mu": [
+    "Sforza Castle",
+    "Sforza Castle"
+   ],
+   "creator": [
+    "Michelangelo"
+   ]
+  }
  },
  {
   "id": "s0351",
@@ -8847,7 +10056,24 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Michelangelo-Florentine_Pietà-Museo_dell'Opera_del_Duomo,_Florence.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Michelangelo-Florentine%20Pietà-Museo%20dell'Opera%20del%20Duomo,%20Florence.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q2342843",
+   "via": "P180",
+   "label": "The Deposition",
+   "y": [
+    1600
+   ],
+   "mu": [
+    "Museo dell'Opera del Duomo",
+    "Museo dell'Opera del Duomo"
+   ],
+   "creator": [
+    "Michelangelo",
+    "Tiberio Calcagni"
+   ]
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0355",
@@ -8972,7 +10198,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Loggetta_Sansovino_Campanile_San_Marco_Venezia.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Loggetta%20Sansovino%20Campanile%20San%20Marco%20Venezia.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q1447296",
+   "via": "P180",
+   "label": "Loggetta del Sansovino",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0360",
@@ -9197,7 +10431,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Interior_of_Santi_Giovanni_e_Paolo_(Venice)_-_Monumento_del_doge_Pietro_Mocenigo_-_Pietro_Lombardo.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Interior%20of%20Santi%20Giovanni%20e%20Paolo%20(Venice)%20-%20Monumento%20del%20doge%20Pietro%20Mocenigo%20-%20Pietro%20Lombardo.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3862687",
+   "via": "P180",
+   "label": "funeral monument to Doge Pietro Mocenigo",
+   "y": [
+    1477
+   ],
+   "mu": [
+    "Santi Giovanni e Paolo"
+   ],
+   "creator": [
+    "Pietro Lombardo"
+   ]
+  }
  },
  {
   "id": "s0369",
@@ -9272,7 +10520,17 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Ravenna,_tomba_di_Dante_(09).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Ravenna,%20tomba%20di%20Dante%20(09).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q126210726",
+   "via": "P180",
+   "label": "Marble tomb of Dante",
+   "y": [],
+   "mu": [
+    "Dante Alighieri's tomb"
+   ],
+   "creator": []
+  }
  },
  {
   "id": "s0372",
@@ -9297,7 +10555,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Henry_VII's_Tomb,_Westminster_Abbey_(3610726325).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Henry%20VII's%20Tomb,%20Westminster%20Abbey%20(3610726325).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q136367742",
+   "via": "P180",
+   "label": "Tomb of Henry VII of England and Elizabeth of York",
+   "y": [
+    1512
+   ],
+   "mu": [
+    "Henry VII Chapel"
+   ],
+   "creator": [
+    "Pietro Torrigiano"
+   ]
+  }
  },
  {
   "id": "s0373",
@@ -9322,7 +10594,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Beaufort_Yale_footrest,_effigy_of_Lady_Margaret_Beaufort,_Westminster_Abbey_-_geograph.org.uk_-_6915553.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Beaufort%20Yale%20footrest,%20effigy%20of%20Lady%20Margaret%20Beaufort,%20Westminster%20Abbey%20-%20geograph.org.uk%20-%206915553.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q1081138",
+   "via": "P180",
+   "label": "historic site",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0374",
@@ -9447,7 +10727,17 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Pantheon-raphaels-tomb.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Pantheon-raphaels-tomb.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q124048981",
+   "via": "P180",
+   "label": "Tomb of Raphael",
+   "y": [],
+   "mu": [
+    "Pantheon"
+   ],
+   "creator": []
+  }
  },
  {
   "id": "s0379",
@@ -9597,7 +10887,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:San_Marco,_Florence_(26404163610).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/San%20Marco,%20Florence%20(26404163610).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q116176352",
+   "via": "P180",
+   "label": null,
+   "y": [
+    1496
+   ],
+   "mu": [
+    "Museum of San Marco",
+    "Basilica of St. Mark",
+    "Museum of San Marco"
+   ],
+   "creator": [
+    "Baccio da Montelupo"
+   ]
+  }
  },
  {
   "id": "s0385",
@@ -9747,7 +11053,20 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Budapest_Horse_focus.png",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Budapest%20Horse%20focus.png?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q1000659",
+   "via": "P180",
+   "label": "Rearing Horse and Mounted Warrior",
+   "y": [],
+   "mu": [
+    "Museum of Fine Arts, Budapest",
+    "Museum of Fine Arts, Budapest"
+   ],
+   "creator": [
+    "Leonardo da Vinci"
+   ]
+  }
  },
  {
   "id": "s0391",
@@ -9797,7 +11116,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Rape_of_the_Sabine_Women_by_Giambologna-Loggia_dei_Lanzi-.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Rape%20of%20the%20Sabine%20Women%20by%20Giambologna-Loggia%20dei%20Lanzi-.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3545179",
+   "via": "P180",
+   "label": "Rape of the Sabine Women",
+   "y": [
+    1579,
+    1580
+   ],
+   "mu": [
+    "Loggia dei Lanzi",
+    "Loggia dei Lanzi"
+   ],
+   "creator": [
+    "Giambologna"
+   ]
+  }
  },
  {
   "id": "s0393",
@@ -9822,7 +11157,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Mercurio_volante,_Giambologna,_Bargello_Florenz-01.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Mercurio%20volante,%20Giambologna,%20Bargello%20Florenz-01.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q42192886",
+   "via": "P180",
+   "label": "Mercury",
+   "y": [
+    1580
+   ],
+   "mu": [
+    "Bargello National Museum",
+    "Bargello National Museum"
+   ],
+   "creator": [
+    "Giambologna"
+   ]
+  }
  },
  {
   "id": "s0394",
@@ -9847,7 +11197,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Firenze_-_Florence_-_Piazza_della_Signoria_-_View_NNE_on_Equestrian_Statue_of_Cosimo_I_de_Medici_1594_by_Giambologna_I.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Firenze%20-%20Florence%20-%20Piazza%20della%20Signoria%20-%20View%20NNE%20on%20Equestrian%20Statue%20of%20Cosimo%20I%20de%20Medici%201594%20by%20Giambologna%20I.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3968679",
+   "via": "P180",
+   "label": "Equestrian Monument of Cosimo I",
+   "y": [
+    1594
+   ],
+   "mu": [
+    "piazza della Signoria"
+   ],
+   "creator": [
+    "Giambologna"
+   ]
+  }
  },
  {
   "id": "s0395",
@@ -9897,7 +11261,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Hercules_and_Nessus_by_Giambologna_1599_at_the_Loggia_dei_Lanzi_in_Florence_Italy_MH_01.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Hercules%20and%20Nessus%20by%20Giambologna%201599%20at%20the%20Loggia%20dei%20Lanzi%20in%20Florence%20Italy%20MH%2001.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q122248",
+   "via": "P180",
+   "label": "Heracles",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0397",
@@ -9947,7 +11319,19 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Parco_di_pratolino,_appennino_del_giambologna_05.JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Parco%20di%20pratolino,%20appennino%20del%20giambologna%2005.JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q22683776",
+   "via": "P180",
+   "label": "Apennine Colossus",
+   "y": [
+    1589
+   ],
+   "mu": [],
+   "creator": [
+    "Giambologna"
+   ]
+  }
  },
  {
   "id": "s0399",
@@ -9997,7 +11381,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Medusa's_head_from_Perseus_and_Medusa_by_Benvenuto_Cellini,_1545,_at_the_Loggia_dei_Lanzi_in_Florence_Italy_MH.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Medusa's%20head%20from%20Perseus%20and%20Medusa%20by%20Benvenuto%20Cellini,%201545,%20at%20the%20Loggia%20dei%20Lanzi%20in%20Florence%20Italy%20MH.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q160730",
+   "via": "P180",
+   "label": "Medusa",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0401",
@@ -10047,7 +11439,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:La_Nymphe_de_Fontainebleau_-_Benvenuto_Cellini_-_Musée_du_Louvre_Sculptures_MR_1706_;_N_15050.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Nymphe%20de%20Fontainebleau%20-%20Benvenuto%20Cellini%20-%20Musée%20du%20Louvre%20Sculptures%20MR%201706%20;%20N%2015050.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3346683",
+   "via": "P180",
+   "label": "Fontainebleau Nymph",
+   "y": [
+    1542
+   ],
+   "mu": [
+    "Department of Sculptures of the Louvre",
+    "Escalier Mollien",
+    "Château d'Anet"
+   ],
+   "creator": [
+    "Benvenuto Cellini"
+   ]
+  }
  },
  {
   "id": "s0403",
@@ -10097,7 +11505,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Buste_de_Bindo_Altoviti_par_Benvenuto_Cellini.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Buste%20de%20Bindo%20Altoviti%20par%20Benvenuto%20Cellini.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q18397582",
+   "via": "P180",
+   "label": null,
+   "y": [
+    1546
+   ],
+   "mu": [
+    "Isabella Stewart Gardner Museum"
+   ],
+   "creator": [
+    "Benvenuto Cellini"
+   ]
+  }
  },
  {
   "id": "s0405",
@@ -10122,7 +11544,24 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Cellini_Christ_crucified.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Cellini%20Christ%20crucified.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q5792317",
+   "via": "P180",
+   "label": "Crucifix",
+   "y": [
+    1600
+   ],
+   "mu": [
+    "Royal Monastery of San Lorenzo de El Escorial",
+    "Royal Basilica of San Lorenzo de El Escorial",
+    "Palazzo Pitti"
+   ],
+   "creator": [
+    "Benvenuto Cellini"
+   ]
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0406",
@@ -10174,7 +11613,20 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Leda_and_the_Swan_by_Bartolomeo_Ammannati-Bargello.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Leda%20and%20the%20Swan%20by%20Bartolomeo%20Ammannati-Bargello.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q111337029",
+   "via": "P180",
+   "label": null,
+   "y": [
+    1536
+   ],
+   "mu": [
+    "Bargello National Museum",
+    "Bargello National Museum"
+   ],
+   "creator": []
+  }
  },
  {
   "id": "s0408",
@@ -10251,7 +11703,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Church_of_the_Eremitani_(Padua)_-_Interior_-_Mausoleo_di_Marco_Mantova_Benavides_by_Bartolomeo_Ammannati-edit.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Church%20of%20the%20Eremitani%20(Padua)%20-%20Interior%20-%20Mausoleo%20di%20Marco%20Mantova%20Benavides%20by%20Bartolomeo%20Ammannati-edit.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3846244",
+   "via": "P180",
+   "label": "Marco Mantova Benavides",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0411",
@@ -10404,7 +11864,19 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Adam_and_Eve_by_Baccio_Bandinelli-Bargello.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Adam%20and%20Eve%20by%20Baccio%20Bandinelli-Bargello.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q121144995",
+   "via": "P180",
+   "label": "Adam and Eve",
+   "y": [
+    1551
+   ],
+   "mu": [],
+   "creator": [
+    "Baccio Bandinelli"
+   ]
+  }
  },
  {
   "id": "s0417",
@@ -10429,7 +11901,20 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Bargello_-_Bandinelli_Cosimo_I.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Bargello%20-%20Bandinelli%20Cosimo%20I.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q131414259",
+   "via": "P180",
+   "label": "Bust of Cosimo I de' Medici, Bargello",
+   "y": [],
+   "mu": [
+    "Bargello National Museum",
+    "Bargello National Museum"
+   ],
+   "creator": [
+    "Baccio Bandinelli"
+   ]
+  }
  },
  {
   "id": "s0418",
@@ -10713,7 +12198,20 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Monument_to_Philip_IV_of_Spain,_Madrid_by_Pietro_Tacca.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Monument%20to%20Philip%20IV%20of%20Spain,%20Madrid%20by%20Pietro%20Tacca.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3887462",
+   "via": "P180",
+   "label": "Monument to Philip IV of Spain",
+   "y": [
+    1640
+   ],
+   "mu": [],
+   "creator": [
+    "Pietro Tacca",
+    "Francisco Bellver y Collazos"
+   ]
+  }
  },
  {
   "id": "s0429",
@@ -10843,7 +12341,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Rotonda_jónica_y_estatua_de_Carlos_V_dominando_al_furor,_Museo_del_Prado,_Madrid,_1930.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Rotonda%20jónica%20y%20estatua%20de%20Carlos%20V%20dominando%20al%20furor,%20Museo%20del%20Prado,%20Madrid,%201930.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q5752001",
+   "via": "P180",
+   "label": "Charles V Vanquishes Fury",
+   "y": [
+    1551
+   ],
+   "mu": [
+    "Museo del Prado",
+    "Museo del Prado"
+   ],
+   "creator": [
+    "Leone Leoni",
+    "Pompeo Leoni"
+   ]
+  }
  },
  {
   "id": "s0434",
@@ -10869,7 +12383,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Felipe_II_-_Leone_Leoni_y_Pompeo_Leoni_-_Museo_del_Prado_(5).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Felipe%20II%20-%20Leone%20Leoni%20y%20Pompeo%20Leoni%20-%20Museo%20del%20Prado%20(5).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q34417",
+   "via": "P180",
+   "label": "Philip II of Spain",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0435",
@@ -10895,7 +12417,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Tomb_of_Gian_Giacomo_Medici_detto_il_Medeghino,_Duomo_di_Milano_(30820636205).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Tomb%20of%20Gian%20Giacomo%20Medici%20detto%20il%20Medeghino,%20Duomo%20di%20Milano%20(30820636205).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q28668416",
+   "via": "P180",
+   "label": "Gian Giacomo Medici's grave",
+   "y": [
+    1560
+   ],
+   "mu": [
+    "Milan Cathedral"
+   ],
+   "creator": [
+    "Leone Leoni"
+   ]
+  }
  },
  {
   "id": "s0436",
@@ -10920,7 +12456,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Leone_Leoni_y_Pompeo_Leoni_-_El_emperador_Carlos_V_-_Museo_del_Prado_(1).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Leone%20Leoni%20y%20Pompeo%20Leoni%20-%20El%20emperador%20Carlos%20V%20-%20Museo%20del%20Prado%20(1).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q32500",
+   "via": "P180",
+   "label": "Charles V",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0437",
@@ -10998,7 +12542,20 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Three_Graces_-_head.JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Three%20Graces%20-%20head.JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q11965101",
+   "via": "P180",
+   "label": "Royal Cast Collection",
+   "y": [
+    1895
+   ],
+   "mu": [
+    "West India Warehouse"
+   ],
+   "creator": []
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0440",
@@ -11049,7 +12606,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Vierge_de_douleur_-_Germain_Pilon_-_Musée_du_Louvre_Sculptures_RF_3147.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Vierge%20de%20douleur%20-%20Germain%20Pilon%20-%20Musée%20du%20Louvre%20Sculptures%20RF%203147.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q87451620",
+   "via": "P180",
+   "label": null,
+   "y": [
+    1586
+   ],
+   "mu": [
+    "Department of Sculptures of the Louvre",
+    "Room 214"
+   ],
+   "creator": [
+    "Germain Pilon"
+   ]
+  }
  },
  {
   "id": "s0442",
@@ -11309,7 +12881,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Jan_Harmensz._Muller_-_Mercury_and_Psyche,_viewed_from_three_sides_-_WGA16318.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Harmensz.%20Muller%20-%20Mercury%20and%20Psyche,%20viewed%20from%20three%20sides%20-%20WGA16318.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q107206540",
+   "via": "P180",
+   "label": "Mercury and Psyche",
+   "y": [
+    1593
+   ],
+   "mu": [
+    "Department of Sculptures of the Louvre",
+    "Michelangelo Gallery"
+   ],
+   "creator": [
+    "Adriaen de Vries"
+   ]
+  }
  },
  {
   "id": "s0452",
@@ -11361,7 +12948,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Frederiksborg_slot_-_Neptun´s_fountain-Denmark.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Frederiksborg%20slot%20-%20Neptun´s%20fountain-Denmark.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q10599232",
+   "via": "P180",
+   "label": "Neptune Fountain",
+   "y": [
+    1624
+   ],
+   "mu": [
+    "Frederiksborg Palace"
+   ],
+   "creator": [
+    "Adriaen de Vries"
+   ]
+  }
  },
  {
   "id": "s0454",
@@ -11643,7 +13244,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Apollo_and_Daphne_by_Bernini,_Galleria_Borghese_(31563085387).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Apollo%20and%20Daphne%20by%20Bernini,%20Galleria%20Borghese%20(31563085387).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q945850",
+   "via": "P180",
+   "label": "Apollo and Daphne",
+   "y": [
+    1622,
+    1620
+   ],
+   "mu": [
+    "Galleria Borghese",
+    "Galleria Borghese"
+   ],
+   "creator": [
+    "Gian Lorenzo Bernini"
+   ]
+  }
  },
  {
   "id": "s0465",
@@ -11669,7 +13286,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Roma,_galleria_borghese,_sala_del_sole,_col_david_di_bernini_02.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Roma,%20galleria%20borghese,%20sala%20del%20sole,%20col%20david%20di%20bernini%2002.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q179700",
+   "via": "P180",
+   "label": "statue",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0466",
@@ -11695,7 +13320,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:04_2024_Rape_of_Proserpina_by_Bernini_Galleria_Borghese_Rome_7501.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/04%202024%20Rape%20of%20Proserpina%20by%20Bernini%20Galleria%20Borghese%20Rome%207501.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q2352789",
+   "via": "P180",
+   "label": "The Rape of Proserpina",
+   "y": [
+    1624
+   ],
+   "mu": [
+    "Borghese Collection",
+    "Galleria Borghese",
+    "Galleria Borghese"
+   ],
+   "creator": [
+    "Gian Lorenzo Bernini"
+   ]
+  }
  },
  {
   "id": "s0467",
@@ -11720,7 +13361,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Gianlorenzo_bernini,_cappella_cornaro,_1644-52,_estasi_di_s._teresa_05.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Gianlorenzo%20bernini,%20cappella%20cornaro,%201644-52,%20estasi%20di%20s.%20teresa%2005.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q1333433",
+   "via": "P180",
+   "label": "Ecstasy of Saint Teresa",
+   "y": [
+    1647
+   ],
+   "mu": [
+    "Santa Maria della Vittoria",
+    "Cornaro chapel"
+   ],
+   "creator": [
+    "Gian Lorenzo Bernini"
+   ]
+  }
  },
  {
   "id": "s0468",
@@ -11746,7 +13402,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Isolated_View_of_Bernini's_Baldacchino._Plate_39_from_the_Album_'Basilica_di_S._Pietro_in_Vaticano'_MET_DP273757.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Isolated%20View%20of%20Bernini's%20Baldacchino.%20Plate%2039%20from%20the%20Album%20'Basilica%20di%20S.%20Pietro%20in%20Vaticano'%20MET%20DP273757.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q235113",
+   "via": "P180",
+   "label": "angel",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0469",
@@ -11822,7 +13486,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Louis_XIV_bust,_Bernini,_Versailles,_Salon_de_Diane.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Louis%20XIV%20bust,%20Bernini,%20Versailles,%20Salon%20de%20Diane.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q2928781",
+   "via": "P180",
+   "label": "Bust of Louis XIV",
+   "y": [
+    1665
+   ],
+   "mu": [
+    "Musée de l'Histoire de France",
+    "Palace of Versailles",
+    "Diana Lounge"
+   ],
+   "creator": [
+    "Gian Lorenzo Bernini"
+   ]
+  }
  },
  {
   "id": "s0472",
@@ -11848,7 +13528,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Giovanni_Lorenzo_Bernini-Blessed_Ludovica_Albertoni-Basilica_of_San_Francesco_a_Ripa.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Lorenzo%20Bernini-Blessed%20Ludovica%20Albertoni-Basilica%20of%20San%20Francesco%20a%20Ripa.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3733361",
+   "via": "P180",
+   "label": "Saint Ludovica Albertoni",
+   "y": [
+    1670
+   ],
+   "mu": [
+    "San Francesco a Ripa"
+   ],
+   "creator": [
+    "Gian Lorenzo Bernini"
+   ]
+  }
  },
  {
   "id": "s0473",
@@ -11873,7 +13567,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Gianlorenzo_bernini,_busto_del_cardinale_scipione_borghese_I,_1632_(galleria_borghese)_02.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Gianlorenzo%20bernini,%20busto%20del%20cardinale%20scipione%20borghese%20I,%201632%20(galleria%20borghese)%2002.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q16534303",
+   "via": "P180",
+   "label": "Bust of Cardinal Scipione Borghese (first version)",
+   "y": [
+    1632
+   ],
+   "mu": [
+    "Borghese Collection",
+    "Galleria Borghese"
+   ],
+   "creator": [
+    "Gian Lorenzo Bernini"
+   ]
+  }
  },
  {
   "id": "s0474",
@@ -11899,7 +13608,24 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Aeneas,_Anchises,_and_Ascanius_by_Bernini,_Galleria_Borghese_(44686152210).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Aeneas,%20Anchises,%20and%20Ascanius%20by%20Bernini,%20Galleria%20Borghese%20(44686152210).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3725175",
+   "via": "P180",
+   "label": "Aeneas, Anchises and Ascanius",
+   "y": [
+    1618,
+    1619
+   ],
+   "mu": [
+    "Borghese Collection",
+    "Galleria Borghese",
+    "Galleria Borghese"
+   ],
+   "creator": [
+    "Gian Lorenzo Bernini"
+   ]
+  }
  },
  {
   "id": "s0475",
@@ -11976,7 +13702,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Giovanni_Lorenzo_Bernini-Neptune_and_Triton-Victoria_and_Albert_Museum.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Lorenzo%20Bernini-Neptune%20and%20Triton-Victoria%20and%20Albert%20Museum.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q2535008",
+   "via": "P180",
+   "label": "Neptune and Triton",
+   "y": [
+    1620
+   ],
+   "mu": [
+    "Victoria and Albert Museum",
+    "Victoria and Albert museum sculpture collection",
+    "Room 7"
+   ],
+   "creator": [
+    "Gian Lorenzo Bernini"
+   ]
+  }
  },
  {
   "id": "s0478",
@@ -12027,7 +13769,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Altar_of_Leo_the_Great_(440-461_AD)_Marble_Relief_of_Meeting_of_Pope_Leo_I_and_Attila_the_Hun,_by_Alessandro_Algardi,_1646-53_(48466535252).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Altar%20of%20Leo%20the%20Great%20(440-461%20AD)%20Marble%20Relief%20of%20Meeting%20of%20Pope%20Leo%20I%20and%20Attila%20the%20Hun,%20by%20Alessandro%20Algardi,%201646-53%20(48466535252).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q49139349",
+   "via": "P180",
+   "label": "Altar of Saint Leo the Great in Saint Peter's Basilica",
+   "y": [
+    1653
+   ],
+   "mu": [
+    "St. Peter's Basilica"
+   ],
+   "creator": [
+    "Alessandro Algardi"
+   ]
+  }
  },
  {
   "id": "s0480",
@@ -12128,7 +13884,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Innocent_X_Algardi_Musei_Capitolini_MC1199.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Innocent%20X%20Algardi%20Musei%20Capitolini%20MC1199.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q110383028",
+   "via": "P180",
+   "label": "Statue of Innocent X",
+   "y": [
+    1640
+   ],
+   "mu": [
+    "Palazzo dei Conservatori"
+   ],
+   "creator": [
+    "Alessandro Algardi"
+   ]
+  }
  },
  {
   "id": "s0484",
@@ -12357,7 +14127,17 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:4458_-_Piacenza_-_Francesco_Mochi_-_dett._del_mon._ad_Alessandro_Farnese_-_Foto_Giovanni_Dall'Orto_14-7-2007.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/4458%20-%20Piacenza%20-%20Francesco%20Mochi%20-%20dett.%20del%20mon.%20ad%20Alessandro%20Farnese%20-%20Foto%20Giovanni%20Dall'Orto%2014-7-2007.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q21141656",
+   "via": "P180",
+   "label": "Alessandro Farnese",
+   "y": [],
+   "mu": [],
+   "creator": [
+    "Francesco Mochi"
+   ]
+  }
  },
  {
   "id": "s0493",
@@ -12613,7 +14393,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Parc_de_Versailles,_demi-lune_du_bassin_de_Neptune,_La_Renommée_du_Roi,_Domenico_Guidi_02.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Parc%20de%20Versailles,%20demi-lune%20du%20bassin%20de%20Neptune,%20La%20Renommée%20du%20Roi,%20Domenico%20Guidi%2002.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3212245",
+   "via": "P180",
+   "label": "La Renommée du Roi, by Domenico Guidi",
+   "y": [
+    1677
+   ],
+   "mu": [
+    "Demi-lune du bassin d'Apollon"
+   ],
+   "creator": [
+    "Domenico Guidi"
+   ]
+  }
  },
  {
   "id": "s0503",
@@ -12713,7 +14507,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Cristo_atado_a_la_columna_-_Gregorio_Fernández_-_Iglesia_de_la_Santa_Vera_Cruz_de_Valladolid_(1).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Cristo%20atado%20a%20la%20columna%20-%20Gregorio%20Fernández%20-%20Iglesia%20de%20la%20Santa%20Vera%20Cruz%20de%20Valladolid%20(1).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q2033105",
+   "via": "P180",
+   "label": "Flagellation of Christ",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0507",
@@ -12764,7 +14566,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Catedral_Nueva_(Plasencia)._Retablo_mayor_(s._XVII).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Catedral%20Nueva%20(Plasencia).%20Retablo%20mayor%20(s.%20XVII).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q14616641",
+   "via": "P180",
+   "label": "presbytery",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0509",
@@ -12839,7 +14649,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Inmaculada_La_Cieguecita,_Juan_Martínez_Montañés.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Inmaculada%20La%20Cieguecita,%20Juan%20Martínez%20Montañés.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q30066803",
+   "via": "P180",
+   "label": null,
+   "y": [
+    1629
+   ],
+   "mu": [
+    "Seville Cathedral"
+   ],
+   "creator": [
+    "Juan Martínez Montañés"
+   ]
+  }
  },
  {
   "id": "s0512",
@@ -12940,7 +14764,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Pedro_de_Mena_-_Dolorosa_-_Museo_de_Bellas_Artes_de_Sevilla.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20de%20Mena%20-%20Dolorosa%20-%20Museo%20de%20Bellas%20Artes%20de%20Sevilla.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q108327499",
+   "via": "P180",
+   "label": "Mater Dolorosa",
+   "y": [
+    1650
+   ],
+   "mu": [
+    "Museo de Bellas Artes de Sevilla",
+    "Museo de Bellas Artes de Sevilla - Hall VIII"
+   ],
+   "creator": [
+    "Pedro De Mena"
+   ]
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0516",
@@ -12992,7 +14832,17 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Zeughaus_Berlin_38.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Zeughaus%20Berlin%2038.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q196970",
+   "via": "P180",
+   "label": "Zeughaus",
+   "y": [],
+   "mu": [
+    "Berlin-Mitte"
+   ],
+   "creator": []
+  }
  },
  {
   "id": "s0518",
@@ -13095,7 +14945,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Apollon_et_5_nymphes,_Bosquet_des_bains_d'Apollon,_Versailles_(retouché).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Apollon%20et%205%20nymphes,%20Bosquet%20des%20bains%20d'Apollon,%20Versailles%20(retouché).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q2858462",
+   "via": "P180",
+   "label": "Apollon servi par les nymphes",
+   "y": [
+    1670
+   ],
+   "mu": [
+    "Palace of Versailles",
+    "Grotte de Téthys"
+   ],
+   "creator": [
+    "François Girardon",
+    "Thomas Regnaudin"
+   ]
+  }
  },
  {
   "id": "s0522",
@@ -13172,7 +15038,17 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Louis_XIV_statue_equestre.JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Louis%20XIV%20statue%20equestre.JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q17426004",
+   "via": "P180",
+   "label": "Room 105",
+   "y": [],
+   "mu": [
+    "Cour Puget"
+   ],
+   "creator": []
+  }
  },
  {
   "id": "s0525",
@@ -13274,7 +15150,20 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:PA060163_Paris-St_Estache_tombeau_de_Colbert_Coysevox_reduct01.JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/PA060163%20Paris-St%20Estache%20tombeau%20de%20Colbert%20Coysevox%20reduct01.JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q29212848",
+   "via": "P180",
+   "label": "Monument funéraire de Colbert",
+   "y": [],
+   "mu": [
+    "Church of Saint Eustache"
+   ],
+   "creator": [
+    "Antoine Coysevox",
+    "Jean-Baptiste Tuby"
+   ]
+  }
  },
  {
   "id": "s0529",
@@ -13376,7 +15265,17 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Le_Brun_Coysevox_Louvre_MR2156.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Le%20Brun%20Coysevox%20Louvre%20MR2156.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q19061264",
+   "via": "P180",
+   "label": "Room 104",
+   "y": [],
+   "mu": [
+    "Richelieu Wing"
+   ],
+   "creator": []
+  }
  },
  {
   "id": "s0533",
@@ -13453,7 +15352,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Milo_of_Croton_by_Pierre_Puget_(Louvre_MR_2075)_20141107_140121.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Milo%20of%20Croton%20by%20Pierre%20Puget%20(Louvre%20MR%202075)%2020141107%20140121.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q19753109",
+   "via": "P180",
+   "label": "Milo of Croton",
+   "y": [
+    1671
+   ],
+   "mu": [
+    "Department of Sculptures of the Louvre",
+    "Room 105"
+   ],
+   "creator": [
+    "Pierre Puget"
+   ]
+  }
  },
  {
   "id": "s0536",
@@ -13478,7 +15392,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Hôtel_de_Ville_Evian.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Hôtel%20de%20Ville%20Evian.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3146123",
+   "via": "P180",
+   "label": "Hôtel de ville d'Évian-les-Bains",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0537",
@@ -13503,7 +15425,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Puget_-_Diogenes_Alexander_Louvre.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Puget%20-%20Diogenes%20Alexander%20Louvre.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q19606318",
+   "via": "P180",
+   "label": "Alexandre et Diogène",
+   "y": [
+    1670
+   ],
+   "mu": [
+    "Department of Sculptures of the Louvre",
+    "Room 104"
+   ],
+   "creator": [
+    "Pierre Puget"
+   ]
+  }
  },
  {
   "id": "s0538",
@@ -13656,7 +15593,24 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Bassin_de_Flore_par_Tuby.JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Bassin%20de%20Flore%20par%20Tuby.JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q2887478",
+   "via": "P180",
+   "label": "Bassin de Flore, ou du Printemps",
+   "y": [
+    1672,
+    1679
+   ],
+   "mu": [
+    "Gardens of Versailles",
+    "Q2838995",
+    "Q2838907"
+   ],
+   "creator": [
+    "Jean-Baptiste Tuby"
+   ]
+  }
  },
  {
   "id": "s0544",
@@ -13759,7 +15713,18 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Paris_-_Jardin_des_Tuileries_-_Nicolas_Coustou_-_La_Seine_et_la_Marne_-_PA00085992_-_003.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Paris%20-%20Jardin%20des%20Tuileries%20-%20Nicolas%20Coustou%20-%20La%20Seine%20et%20la%20Marne%20-%20PA00085992%20-%20003.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q1075988",
+   "via": "P180",
+   "label": "Louvre Palace",
+   "y": [
+    1190
+   ],
+   "mu": [],
+   "creator": []
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0548",
@@ -13784,7 +15749,19 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Paris_Notre-Dame_cathedral_statue_Pieta_by_Nicolas_Coustou_zz.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Paris%20Notre-Dame%20cathedral%20statue%20Pieta%20by%20Nicolas%20Coustou%20zz.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q29212056",
+   "via": "P180",
+   "label": "Descent from the Cross",
+   "y": [],
+   "mu": [
+    "Notre-Dame de Paris"
+   ],
+   "creator": [
+    "Nicolas Coustou"
+   ]
+  }
  },
  {
   "id": "s0549",
@@ -13810,7 +15787,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Julius_Caesar_Coustou_Louvre_MR1798.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Julius%20Caesar%20Coustou%20Louvre%20MR1798.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q1048",
+   "via": "P180",
+   "label": "Julius Caesar",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0550",
@@ -13965,7 +15950,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Apollon_et_5_nymphes,_Bosquet_des_bains_d'Apollon,_Versailles_(retouché).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Apollon%20et%205%20nymphes,%20Bosquet%20des%20bains%20d'Apollon,%20Versailles%20(retouché).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q2858462",
+   "via": "P180",
+   "label": "Apollon servi par les nymphes",
+   "y": [
+    1670
+   ],
+   "mu": [
+    "Palace of Versailles",
+    "Grotte de Téthys"
+   ],
+   "creator": [
+    "François Girardon",
+    "Thomas Regnaudin"
+   ]
+  }
  },
  {
   "id": "s0556",
@@ -14121,7 +16122,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:The_Intoxication_of_Wine_MET_DP218009.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Intoxication%20of%20Wine%20MET%20DP218009.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q29383528",
+   "via": "P180",
+   "label": "The Intoxication of Wine",
+   "y": [
+    1785
+   ],
+   "mu": [
+    "Metropolitan Museum of Art",
+    "Metropolitan Museum of Art"
+   ],
+   "creator": [
+    "Q2979538"
+   ]
+  }
  },
  {
   "id": "s0562",
@@ -14173,7 +16189,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:00_5062_Saint_Petersburg_-_The_equestrian_statue_of_Tsar_Peter_the_Great_(The_Bronze_Horseman).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/00%205062%20Saint%20Petersburg%20-%20The%20equestrian%20statue%20of%20Tsar%20Peter%20the%20Great%20(The%20Bronze%20Horseman).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q672444",
+   "via": "P180",
+   "label": "Bronze Horseman",
+   "y": [
+    1768
+   ],
+   "mu": [
+    "Senate Square"
+   ],
+   "creator": [
+    "Étienne Maurice Falconet"
+   ]
+  }
  },
  {
   "id": "s0564",
@@ -14198,7 +16228,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Baigneuse_qui_descend_au_bain_(Louvre,_MR_1846).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Baigneuse%20qui%20descend%20au%20bain%20(Louvre,%20MR%201846).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q28843873",
+   "via": "P180",
+   "label": "Bather",
+   "y": [
+    1757
+   ],
+   "mu": [
+    "Department of Sculptures of the Louvre",
+    "Room 222"
+   ],
+   "creator": [
+    "Étienne Maurice Falconet"
+   ]
+  }
  },
  {
   "id": "s0565",
@@ -14223,7 +16268,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:L'Amour_menaçant_-_Étienne_Maurice_Falconet_-_Musée_du_Louvre_Sculptures_RF_296.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/L'Amour%20menaçant%20-%20Étienne%20Maurice%20Falconet%20-%20Musée%20du%20Louvre%20Sculptures%20RF%20296.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q19341508",
+   "via": "P180",
+   "label": "Amour menaçant by Falconet",
+   "y": [
+    1757
+   ],
+   "mu": [
+    "Department of Sculptures of the Louvre",
+    "Palace of Versailles"
+   ],
+   "creator": [
+    "Étienne Maurice Falconet"
+   ]
+  }
  },
  {
   "id": "s0566",
@@ -14249,7 +16309,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Étienne_Maurice_Falconet-Milo_of_Croton-Hermitage.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Étienne%20Maurice%20Falconet-Milo%20of%20Croton-Hermitage.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q19405005",
+   "via": "P180",
+   "label": "Milon de Crotone, Falconet",
+   "y": [
+    1754
+   ],
+   "mu": [
+    "Department of Sculptures of the Louvre",
+    "Room 219"
+   ],
+   "creator": [
+    "Étienne Maurice Falconet"
+   ]
+  }
  },
  {
   "id": "s0567",
@@ -14275,7 +16350,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Mercure_–_Jean-Baptiste_Pigalle_–_Musée_du_Louvre,_MR_1957_–_Q19405388.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Mercure%20–%20Jean-Baptiste%20Pigalle%20–%20Musée%20du%20Louvre,%20MR%201957%20–%20Q19405388.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q19405388",
+   "via": "P180",
+   "label": "Mercure",
+   "y": [
+    1744
+   ],
+   "mu": [
+    "Department of Sculptures of the Louvre",
+    "Room 219"
+   ],
+   "creator": [
+    "Jean-Baptiste Pigalle"
+   ]
+  }
  },
  {
   "id": "s0568",
@@ -14325,7 +16415,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Tomb_of_Maurice_de_Saxe_by_Jean-Baptiste_Pigalle,_Strasbourg_02.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Tomb%20of%20Maurice%20de%20Saxe%20by%20Jean-Baptiste%20Pigalle,%20Strasbourg%2002.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q99585752",
+   "via": "P180",
+   "label": "Tomb of Maurice de Saxe by Jean-Baptiste Pigalle",
+   "y": [
+    1777
+   ],
+   "mu": [
+    "Saint Thomas Church, Strasbourg"
+   ],
+   "creator": [
+    "Jean-Baptiste Pigalle"
+   ]
+  }
  },
  {
   "id": "s0570",
@@ -14350,7 +16454,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Pigalle_-_L'Enfant_à_la_cage_02.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Pigalle%20-%20L'Enfant%20à%20la%20cage%2002.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q19413439",
+   "via": "P180",
+   "label": "L'Enfant à la cage, Pigalle",
+   "y": [
+    1749
+   ],
+   "mu": [
+    "Department of Sculptures of the Louvre",
+    "Room 220"
+   ],
+   "creator": [
+    "Jean-Baptiste Pigalle"
+   ]
+  }
  },
  {
   "id": "s0571",
@@ -14376,7 +16495,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:L'Amitié_sous_les_traits_de_Mme_de_Pompadour_Pigalle_Louvre.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/L'Amitié%20sous%20les%20traits%20de%20Mme%20de%20Pompadour%20Pigalle%20Louvre.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q87458120",
+   "via": "P180",
+   "label": "Madame de Pompadour as Friendship",
+   "y": [
+    1753
+   ],
+   "mu": [
+    "Department of Sculptures of the Louvre",
+    "Palace of Versailles"
+   ],
+   "creator": [
+    "Jean-Baptiste Pigalle"
+   ]
+  }
  },
  {
   "id": "s0572",
@@ -14453,7 +16587,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Edme_Bouchardon_-_Eros_Making_his_Bow_from_Hercules'_Club_-_Louvre.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Edme%20Bouchardon%20-%20Eros%20Making%20his%20Bow%20from%20Hercules'%20Club%20-%20Louvre.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q19753087",
+   "via": "P180",
+   "label": "Cupid Cutting His Bow from the Club of Hercules",
+   "y": [
+    1750
+   ],
+   "mu": [
+    "Department of Sculptures of the Louvre",
+    "Room 221"
+   ],
+   "creator": [
+    "Edme Bouchardon"
+   ]
+  }
  },
  {
   "id": "s0575",
@@ -14530,7 +16679,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Adam_-_Neptune_calmant_les_flots_01.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Adam%20-%20Neptune%20calmant%20les%20flots%2001.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q18762413",
+   "via": "P180",
+   "label": "Neptune calmant les flots",
+   "y": [
+    1757
+   ],
+   "mu": [
+    "Department of Sculptures of the Louvre",
+    "Room 219"
+   ],
+   "creator": [
+    "Lambert Sigisbert Adam"
+   ]
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0578",
@@ -14633,7 +16798,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Herakles_pyre_Coustou_Louvre_MR1809.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Herakles%20pyre%20Coustou%20Louvre%20MR1809.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q19341371",
+   "via": "P180",
+   "label": "Room 219",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0582",
@@ -15263,7 +17436,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Pascal_Pajou_Louvre_RF2981.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Pascal%20Pajou%20Louvre%20RF2981.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q115660185",
+   "via": "P180",
+   "label": "Blaise Pascal",
+   "y": [
+    1785
+   ],
+   "mu": [
+    "Department of Sculptures of the Louvre",
+    "Gallery of great men"
+   ],
+   "creator": [
+    "Augustin Pajou"
+   ]
+  }
  },
  {
   "id": "s0607",
@@ -15339,7 +17527,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Psyche_Revived_by_Cupid's_Kiss,_Louvre_22_July_2017.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Psyche%20Revived%20by%20Cupid's%20Kiss,%20Louvre%2022%20July%202017.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q517408",
+   "via": "P180",
+   "label": "Psyche Revived by Cupid's Kiss",
+   "y": [
+    1794
+   ],
+   "mu": [
+    "Department of Sculptures of the Louvre",
+    "Michelangelo Gallery"
+   ],
+   "creator": [
+    "Antonio Canova"
+   ]
+  }
  },
  {
   "id": "s0610",
@@ -15365,7 +17568,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Perseus_with_the_Head_of_Medusa,_by_Antonio_Canova,_1804-1806,_marble_-_Museo_Pio-Clementino_-_Vatican_Museums_-_DSC00967.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Perseus%20with%20the%20Head%20of%20Medusa,%20by%20Antonio%20Canova,%201804-1806,%20marble%20-%20Museo%20Pio-Clementino%20-%20Vatican%20Museums%20-%20DSC00967.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3900155",
+   "via": "P180",
+   "label": "Perseus",
+   "y": [
+    1797
+   ],
+   "mu": [
+    "Vatican Museums",
+    "Vatican Museums"
+   ],
+   "creator": [
+    "Antonio Canova"
+   ]
+  }
  },
  {
   "id": "s0611",
@@ -15391,7 +17609,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Pauline_Bonaparte_as_Venus_Victrix_by_Antonio_Canova,_Galleria_Borghese_(46451349332).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Pauline%20Bonaparte%20as%20Venus%20Victrix%20by%20Antonio%20Canova,%20Galleria%20Borghese%20(46451349332).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q1093113",
+   "via": "P180",
+   "label": "Venus Victrix",
+   "y": [
+    1815,
+    1800
+   ],
+   "mu": [
+    "Galleria Borghese",
+    "Room 1 Paolina Room"
+   ],
+   "creator": [
+    "Antonio Canova"
+   ]
+  }
  },
  {
   "id": "s0612",
@@ -15417,7 +17651,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:The_Three_Graces_in_the_Hermitage_by_Antonio_Canova.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Three%20Graces%20in%20the%20Hermitage%20by%20Antonio%20Canova.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q27031453",
+   "via": "P6243",
+   "label": "The three graces",
+   "y": [
+    1810
+   ],
+   "mu": [
+    "Hermitage Museum",
+    "Hermitage Museum"
+   ],
+   "creator": [
+    "Antonio Canova"
+   ]
+  }
  },
  {
   "id": "s0613",
@@ -15469,7 +17718,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Sculptuur_van_Venus_door_Canova_in_de_Galleria_Pitti_te_Florence,_RP-F-00-507.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Sculptuur%20van%20Venus%20door%20Canova%20in%20de%20Galleria%20Pitti%20te%20Florence,%20RP-F-00-507.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q4009586",
+   "via": "P180",
+   "label": "Venus Italica",
+   "y": [
+    1804
+   ],
+   "mu": [
+    "Galleria Palatina",
+    "Hall of Venus"
+   ],
+   "creator": [
+    "Antonio Canova"
+   ]
+  }
  },
  {
   "id": "s0615",
@@ -15494,7 +17758,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Frith,_Francis_(1822-1898)_-_n._2340_-_Tomb_of_Marie_Christine_by_Canova_-_Vienna.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Frith,%20Francis%20(1822-1898)%20-%20n.%202340%20-%20Tomb%20of%20Marie%20Christine%20by%20Canova%20-%20Vienna.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3862685",
+   "via": "P180",
+   "label": "Cenotaph of Archduchess Maria Christina",
+   "y": [
+    1798
+   ],
+   "mu": [
+    "Augustinian Church"
+   ],
+   "creator": [
+    "Antonio Canova"
+   ]
+  }
  },
  {
   "id": "s0616",
@@ -15572,7 +17850,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Amor_en_Psyche_van_Antonio_Canova_in_het_Louvre_Cupid_and_Psyche._Louvre._Paris_(titel_op_object)_Beauty_Series_Stereoscopes_Amusantes_(serietitel_op_object),_RP-F-F10470.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Amor%20en%20Psyche%20van%20Antonio%20Canova%20in%20het%20Louvre%20Cupid%20and%20Psyche.%20Louvre.%20Paris%20(titel%20op%20object)%20Beauty%20Series%20Stereoscopes%20Amusantes%20(serietitel%20op%20object),%20RP-F-F10470.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q110400211",
+   "via": "P180",
+   "label": "Standing Psyche and Love",
+   "y": [
+    1797
+   ],
+   "mu": [
+    "Department of Sculptures of the Louvre",
+    "Michelangelo Gallery"
+   ],
+   "creator": [
+    "Antonio Canova"
+   ]
+  }
  },
  {
   "id": "s0619",
@@ -15623,7 +17916,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Jason_with_the_Golden_Fleece_-_Thorvaldsens_Museum_-_DSC08682.JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Jason%20with%20the%20Golden%20Fleece%20-%20Thorvaldsens%20Museum%20-%20DSC08682.JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q4563532",
+   "via": "P180",
+   "label": "Jason with the Golden Fleece",
+   "y": [
+    1803
+   ],
+   "mu": [
+    "Thorvaldsen Museum",
+    "Thorvaldsen Museum"
+   ],
+   "creator": [
+    "Bertel Thorvaldsen"
+   ]
+  }
  },
  {
   "id": "s0621",
@@ -15648,7 +17956,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Bertel_Thorvaldsen,_Kristus,_1821,_A82,_Thorvaldsensmuseum.png",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Bertel%20Thorvaldsen,%20Kristus,%201821,%20A82,%20Thorvaldsensmuseum.png?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q5113613",
+   "via": "P180",
+   "label": "Christus",
+   "y": [
+    1838
+   ],
+   "mu": [
+    "Church of Our Lady"
+   ],
+   "creator": [
+    "Bertel Thorvaldsen"
+   ]
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0622",
@@ -15674,7 +17997,20 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Lion_Monument,_sculptor_Bertel_Thorvaldsen_by_Konstanzer_Steinmetz_Lukas_Ahorn,_Lucerne_-_panoramio.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Lion%20Monument,%20sculptor%20Bertel%20Thorvaldsen%20by%20Konstanzer%20Steinmetz%20Lukas%20Ahorn,%20Lucerne%20-%20panoramio.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q688214",
+   "via": "P180",
+   "label": "Lion Monument",
+   "y": [
+    1821
+   ],
+   "mu": [],
+   "creator": [
+    "Bertel Thorvaldsen",
+    "Lukas Ahorn"
+   ]
+  }
  },
  {
   "id": "s0623",
@@ -15751,7 +18087,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Ganymede_with_Jupiter's_Eagle_-_Thorvaldsens_Museum_-_DSC08617.JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Ganymede%20with%20Jupiter's%20Eagle%20-%20Thorvaldsens%20Museum%20-%20DSC08617.JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q117521579",
+   "via": "P180",
+   "label": "Ganymede with Jupiter's Eagle",
+   "y": [
+    1817
+   ],
+   "mu": [
+    "Thorvaldsen Museum"
+   ],
+   "creator": [
+    "Bertel Thorvaldsen"
+   ]
+  }
  },
  {
   "id": "s0626",
@@ -15776,7 +18126,17 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Thorwaldsen's_Statue_of_Lord_Byron_-_ILN_1845.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Thorwaldsen's%20Statue%20of%20Lord%20Byron%20-%20ILN%201845.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q56256449",
+   "via": "P180",
+   "label": "Monument to George Gordon Byron (Villa Borghese)",
+   "y": [],
+   "mu": [
+    "Villa Borghese gardens"
+   ],
+   "creator": []
+  }
  },
  {
   "id": "s0627",
@@ -15801,7 +18161,20 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Nicolaus_Copernicus_Monument_in_Warsaw_(9629580609).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicolaus%20Copernicus%20Monument%20in%20Warsaw%20(9629580609).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3671990",
+   "via": "P180",
+   "label": "Nicolaus Copernicus Monument in Warsaw",
+   "y": [
+    1850
+   ],
+   "mu": [],
+   "creator": [
+    "Bertel Thorvaldsen"
+   ]
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0628",
@@ -15827,7 +18200,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Thorwaldsen_Józef_Poniatowski_Warsaw_01.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Thorwaldsen%20Józef%20Poniatowski%20Warsaw%2001.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q1683191",
+   "via": "P180",
+   "label": "Monument to Prince Józef Poniatowski in Warsaw",
+   "y": [
+    1826,
+    1827,
+    1832
+   ],
+   "mu": [
+    "Warsaw"
+   ],
+   "creator": [
+    "Bertel Thorvaldsen"
+   ]
+  }
  },
  {
   "id": "s0629",
@@ -15853,7 +18242,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:The_three_graces_by_Bertel_Thorvaldsen,_marble_statue_in_Thorvaldsens_museum,_Copenhagen,_Denmark..JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20three%20graces%20by%20Bertel%20Thorvaldsen,%20marble%20statue%20in%20Thorvaldsens%20museum,%20Copenhagen,%20Denmark..JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q28458146",
+   "via": "P180",
+   "label": "Cupid and Psyche",
+   "y": [
+    1804
+   ],
+   "mu": [
+    "Thorvaldsen Museum"
+   ],
+   "creator": [
+    "Bertel Thorvaldsen"
+   ]
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0630",
@@ -15930,7 +18334,17 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Jean-Antoine_Houdon's_Statue_of_George_Washington_-_Virginia_State_Capitol_Rotunda,_1796.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Antoine%20Houdon's%20Statue%20of%20George%20Washington%20-%20Virginia%20State%20Capitol%20Rotunda,%201796.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q2537798",
+   "via": "P180",
+   "label": "Virginia State Capitol",
+   "y": [
+    1785
+   ],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0633",
@@ -15955,7 +18369,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Houdon_-_Benjamin_Franklin_(1778)_retouched.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Houdon%20-%20Benjamin%20Franklin%20(1778)%20retouched.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q28812786",
+   "via": "P180",
+   "label": "Bust of Benjamin Franklin",
+   "y": [
+    1778
+   ],
+   "mu": [
+    "Metropolitan Museum of Art",
+    "Metropolitan Museum of Art"
+   ],
+   "creator": [
+    "Jean-Antoine Houdon"
+   ]
+  }
  },
  {
   "id": "s0634",
@@ -16005,7 +18434,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:SculpturesMuséeFabre21a_Houdon_Molière.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/SculpturesMuséeFabre21a%20Houdon%20Molière.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q117836404",
+   "via": "P180",
+   "label": "Portrait de Molière",
+   "y": [
+    1778
+   ],
+   "mu": [
+    "Musée Fabre",
+    "Musée Fabre"
+   ],
+   "creator": [
+    "Jean-Antoine Houdon"
+   ]
+  }
  },
  {
   "id": "s0636",
@@ -16361,7 +18805,20 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Brandenburg_Gate_Quadriga_at_Night.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Brandenburg%20Gate%20Quadriga%20at%20Night.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q82425",
+   "via": "P180",
+   "label": "Brandenburg Gate",
+   "y": [
+    1791
+   ],
+   "mu": [
+    "Dorotheenstadt",
+    "Berlin-Mitte"
+   ],
+   "creator": []
+  }
  },
  {
   "id": "s0650",
@@ -16491,7 +18948,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Equestrian_statue_of_Frederick_the_Great,_Unter_den_Linden,_18541_(1)_(39471066304).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Equestrian%20statue%20of%20Frederick%20the%20Great,%20Unter%20den%20Linden,%2018541%20(1)%20(39471066304).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q881611",
+   "via": "P180",
+   "label": "equestrian statue of Frederick the Great",
+   "y": [
+    1851
+   ],
+   "mu": [
+    "Berlin-Mitte"
+   ],
+   "creator": [
+    "Christian Daniel Rauch"
+   ]
+  }
  },
  {
   "id": "s0655",
@@ -16542,7 +19013,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Rauch_-_Blücher_statue,_Berlin_front.JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Rauch%20-%20Blücher%20statue,%20Berlin%20front.JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q51846342",
+   "via": "P180",
+   "label": "Blücher memorial",
+   "y": [
+    1824
+   ],
+   "mu": [
+    "Berlin-Mitte"
+   ],
+   "creator": [
+    "Christian Daniel Rauch"
+   ]
+  }
  },
  {
   "id": "s0657",
@@ -16568,7 +19053,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Lorenzo_Bartolini,_La_Nymphe_au_scorpion,_1845_(3573048107).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Lorenzo%20Bartolini,%20La%20Nymphe%20au%20scorpion,%201845%20(3573048107).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q17451496",
+   "via": "P180",
+   "label": "Nymph with a Scorpion",
+   "y": [
+    1835
+   ],
+   "mu": [
+    "Department of Sculptures of the Louvre",
+    "Michelangelo Gallery"
+   ],
+   "creator": [
+    "Lorenzo Bartolini"
+   ]
+  }
  },
  {
   "id": "s0658",
@@ -16687,13 +19187,13 @@
   "th": [
    "肖像／胸像"
   ],
-  "local": true,
-  "img": "img/800/s0662.webp",
-  "thumb": "img/thumb/s0662.webp",
-  "src": "Commons",
-  "src_url": "https://commons.wikimedia.org/wiki/File:John_Francis_Rigaud_-_Joseph_Nollekens_with_His_Bust_of_Laurence_Sterne_-_Google_Art_Project.jpg",
-  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20Francis%20Rigaud%20-%20Joseph%20Nollekens%20with%20His%20Bust%20of%20Laurence%20Sterne%20-%20Google%20Art%20Project.jpg?width=1000",
-  "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
+  "local": false,
+  "img": null,
+  "thumb": null,
+  "src": null,
+  "src_url": null,
+  "img_ext": null,
+  "verif": "自動配對圖檔經比對為其他作品，已移除；待人工補圖",
   "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
  },
  {
@@ -16745,7 +19245,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Rich._WESTMACOTT_(GB)_-_Achilles,_Denkm._für_Wellington_1814-22_London,_Hyde_Park,_hinter_Apsley_House_-_1987.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Rich.%20WESTMACOTT%20(GB)%20-%20Achilles,%20Denkm.%20für%20Wellington%201814-22%20London,%20Hyde%20Park,%20hinter%20Apsley%20House%20-%201987.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q41746",
+   "via": "P180",
+   "label": "Achilles",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0665",
@@ -16847,7 +19355,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:London_-_Trafalgar_Square_-_View_NE_on_St.Martin-in-the-Fields_&_Equestrian_Statue_of_King_George_IV_by_Sir_Francis_Legatt_Chantrey.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/London%20-%20Trafalgar%20Square%20-%20View%20NE%20on%20St.Martin-in-the-Fields%20&%20Equestrian%20Statue%20of%20King%20George%20IV%20by%20Sir%20Francis%20Legatt%20Chantrey.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q7604481",
+   "via": "P180",
+   "label": "equestrian statue of George IV",
+   "y": [
+    1843
+   ],
+   "mu": [
+    "Trafalgar Square"
+   ],
+   "creator": [
+    "Francis Legatt Chantrey"
+   ]
+  }
  },
  {
   "id": "s0669",
@@ -16898,7 +19420,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:CHANTREY_Duke_of_Wellington._1844,_vor_R._Exchange_-_1971.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/CHANTREY%20Duke%20of%20Wellington.%201844,%20vor%20R.%20Exchange%20-%201971.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q35473",
+   "via": "P180",
+   "label": "window",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0671",
@@ -17051,7 +19581,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:George_Washington_Greenough_statue.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/George%20Washington%20Greenough%20statue.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q10288976",
+   "via": "P180",
+   "label": "George Washington",
+   "y": [
+    1840
+   ],
+   "mu": [
+    "Smithsonian American Art Museum",
+    "National Museum of American History"
+   ],
+   "creator": [
+    "Horatio Greenough"
+   ]
+  }
  },
  {
   "id": "s0677",
@@ -17103,7 +19648,19 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Le_Départ_des_Volontaires_(La_Marseillaise)_par_Rude,_Arc_de_Triomphe_Etoile_Paris.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Le%20Départ%20des%20Volontaires%20(La%20Marseillaise)%20par%20Rude,%20Arc%20de%20Triomphe%20Etoile%20Paris.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q64436",
+   "via": "P180",
+   "label": "Arc de Triomphe",
+   "y": [
+    1836
+   ],
+   "mu": [
+    "Paris"
+   ],
+   "creator": []
+  }
  },
  {
   "id": "s0679",
@@ -17154,7 +19711,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Petit_pecheur_napolitain_-_F._Rude.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Petit%20pecheur%20napolitain%20-%20F.%20Rude.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q60181493",
+   "via": "P180",
+   "label": null,
+   "y": [
+    1833
+   ],
+   "mu": [
+    "Department of Sculptures of the Louvre",
+    "Room 226"
+   ],
+   "creator": [
+    "François Rude"
+   ]
+  }
  },
  {
   "id": "s0681",
@@ -17180,7 +19752,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Jeanne_d'Arc_Rude_Louvre_RF2974.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Jeanne%20d'Arc%20Rude%20Louvre%20RF2974.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q76528065",
+   "via": "P180",
+   "label": "Statue of Jeanne d'Arc in the Louvre, Paris",
+   "y": [
+    1852
+   ],
+   "mu": [
+    "Department of Sculptures of the Louvre",
+    "Room 105"
+   ],
+   "creator": [
+    "François Rude"
+   ]
+  }
  },
  {
   "id": "s0682",
@@ -17231,7 +19818,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Musée_du_Louvre_-_Salle_de_Rude,_Louvre,_Paris_(g0468).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Musée%20du%20Louvre%20-%20Salle%20de%20Rude,%20Louvre,%20Paris%20(g0468).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q87455966",
+   "via": "P180",
+   "label": "Mercury Fastening his Heel-Wings Preparing to Fly back to Olympus Mount",
+   "y": [
+    1834
+   ],
+   "mu": [
+    "Department of Sculptures of the Louvre",
+    "Room 226"
+   ],
+   "creator": [
+    "François Rude"
+   ]
+  }
  },
  {
   "id": "s0684",
@@ -17462,7 +20064,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Philopoemen_David_Angers_Louvre_LP1556.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Philopoemen%20David%20Angers%20Louvre%20LP1556.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q62391447",
+   "via": "P180",
+   "label": "Philopoemen",
+   "y": [
+    1837
+   ],
+   "mu": [
+    "Department of Sculptures of the Louvre",
+    "Room 105"
+   ],
+   "creator": [
+    "David d'Angers"
+   ]
+  }
  },
  {
   "id": "s0693",
@@ -17513,7 +20130,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Tuerie_d'Auguste_Préault_(Petit_Palais,_Paris)_(48742113956).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Tuerie%20d'Auguste%20Préault%20(Petit%20Palais,%20Paris)%20(48742113956).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q97123140",
+   "via": "P6243",
+   "label": "Slaughter",
+   "y": [
+    1834
+   ],
+   "mu": [
+    "Musée des Beaux-Arts de Chartres",
+    "Musée des Beaux-Arts de Chartres"
+   ],
+   "creator": [
+    "Antoine-Augustin Préault"
+   ]
+  }
  },
  {
   "id": "s0695",
@@ -17591,7 +20223,19 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Paris_Arc_de_Triomphe_de_l'Étoile_Le_Triomphe_de_1810.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Paris%20Arc%20de%20Triomphe%20de%20l'Étoile%20Le%20Triomphe%20de%201810.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q64436",
+   "via": "P180",
+   "label": "Arc de Triomphe",
+   "y": [
+    1836
+   ],
+   "mu": [
+    "Paris"
+   ],
+   "creator": []
+  }
  },
  {
   "id": "s0698",
@@ -17617,7 +20261,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Jean-Pierre_Cortot,_The_Soldier_of_Marathon_Announcing_the_Victory_(1834),_the_Louvre,_Paris_February_2010.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Pierre%20Cortot,%20The%20Soldier%20of%20Marathon%20Announcing%20the%20Victory%20(1834),%20the%20Louvre,%20Paris%20February%202010.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q87457046",
+   "via": "P180",
+   "label": "The Soldier of Marathon announcing the Victory",
+   "y": [
+    1834
+   ],
+   "mu": [
+    "Department of Sculptures of the Louvre",
+    "Room 105"
+   ],
+   "creator": [
+    "Jean-Pierre Cortot"
+   ]
+  }
  },
  {
   "id": "s0699",
@@ -17694,7 +20353,17 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Tomb_of_Napoleon_and_one_of_Pradier's_\"Victories\",_Les_Invalides,_Paris.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Tomb%20of%20Napoleon%20and%20one%20of%20Pradier's%20\"Victories\",%20Les%20Invalides,%20Paris.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q59210966",
+   "via": "P180",
+   "label": "Tomb of Napoleon",
+   "y": [],
+   "mu": [
+    "Dôme des Invalides"
+   ],
+   "creator": []
+  }
  },
  {
   "id": "s0702",
@@ -17746,7 +20415,25 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Roland_Furieux,_2019.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Roland%20Furieux,%202019.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q60180918",
+   "via": "P180",
+   "label": "Roland furieux",
+   "y": [
+    1867
+   ],
+   "mu": [
+    "Department of Sculptures of the Louvre",
+    "Jardin du Luxembourg",
+    "Louvre Palace"
+   ],
+   "creator": [
+    "Jean Bernard Duseigneur",
+    "Charnod foundry"
+   ]
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0704",
@@ -17771,7 +20458,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Fratin_-_Schloss_Babelsberg_-_DSC4295.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Fratin%20-%20Schloss%20Babelsberg%20-%20DSC4295.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q113003678",
+   "via": "P180",
+   "label": "Eagle and vulture fighting for chamois",
+   "y": [
+    1839
+   ],
+   "mu": [
+    "Prussian Palaces and Gardens Foundation Berlin-Brandenburg",
+    "Porcelain terrace"
+   ],
+   "creator": [
+    "Christopher Fratin"
+   ]
+  }
  },
  {
   "id": "s0705",
@@ -17849,7 +20551,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Spartacus-Vincenzo_Vela-MAHG_1896-0007-IMG_8686.JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Spartacus-Vincenzo%20Vela-MAHG%201896-0007-IMG%208686.JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q121792501",
+   "via": "P180",
+   "label": "Spartacus",
+   "y": [
+    1848
+   ],
+   "mu": [
+    "Museum of Art and History Geneva",
+    "Museum of Art and History Geneva"
+   ],
+   "creator": [
+    "Vincenzo Vela"
+   ]
+  }
  },
  {
   "id": "s0708",
@@ -18211,7 +20928,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Nantes_Cathedral._Tomb_of_General_Louis_Juchault_de_Lamoricière_(3486798448).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Nantes%20Cathedral.%20Tomb%20of%20General%20Louis%20Juchault%20de%20Lamoricière%20(3486798448).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3010230",
+   "via": "P180",
+   "label": "Lamoricière cenotaph",
+   "y": [
+    1879
+   ],
+   "mu": [
+    "Nantes Cathedral"
+   ],
+   "creator": [
+    "Paul Dubois"
+   ]
+  }
  },
  {
   "id": "s0722",
@@ -18237,7 +20968,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Joan_of_Arc,_Place_du_Parvis,_Reims(1).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Joan%20of%20Arc,%20Place%20du%20Parvis,%20Reims(1).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q20792861",
+   "via": "P180",
+   "label": "equestrian statue of Joan of Arc",
+   "y": [
+    1896
+   ],
+   "mu": [
+    "place du Cardinal-Luçon"
+   ],
+   "creator": [
+    "Paul Dubois",
+    "Pierre Bingen"
+   ]
+  }
  },
  {
   "id": "s0723",
@@ -18340,7 +21086,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Statue_of_Liberty,_statue,_Liberty_Island,_New_York.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Statue%20of%20Liberty,%20statue,%20Liberty%20Island,%20New%20York.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q9202",
+   "via": "P180",
+   "label": "Statue of Liberty",
+   "y": [
+    1886
+   ],
+   "mu": [
+    "France",
+    "Liberty Island"
+   ],
+   "creator": [
+    "Frédéric Auguste Bartholdi",
+    "Gustave Eiffel"
+   ]
+  }
  },
  {
   "id": "s0727",
@@ -18366,7 +21128,19 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:The_Lion_of_Belfort,_by_Bartholdi.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Lion%20of%20Belfort,%20by%20Bartholdi.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q926536",
+   "via": "P180",
+   "label": "Lion of Belfort",
+   "y": [
+    1879
+   ],
+   "mu": [],
+   "creator": [
+    "Frédéric Auguste Bartholdi"
+   ]
+  }
  },
  {
   "id": "s0728",
@@ -18391,7 +21165,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Bartholdi_Fountain,_United_States_Botanic_Garden,_Washington,_D.C._2012.JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Bartholdi%20Fountain,%20United%20States%20Botanic%20Garden,%20Washington,%20D.C.%202012.JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q4865203",
+   "via": "P180",
+   "label": "Bartholdi Fountain",
+   "y": [
+    1876
+   ],
+   "mu": [
+    "Bartholdi Park",
+    "National Mall",
+    "Fairmount Park"
+   ],
+   "creator": [
+    "Frédéric Auguste Bartholdi"
+   ]
+  }
  },
  {
   "id": "s0729",
@@ -18417,7 +21207,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:The_Statue_of_Vercingetorix_by_Bartholdi_-_On_the_square_of_Jaude_in_Clermont_Ferrand_-_France.png",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Statue%20of%20Vercingetorix%20by%20Bartholdi%20-%20On%20the%20square%20of%20Jaude%20in%20Clermont%20Ferrand%20-%20France.png?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3497631",
+   "via": "P180",
+   "label": "equestrian statue of Vercingetorix",
+   "y": [
+    1902
+   ],
+   "mu": [
+    "place de Jaude"
+   ],
+   "creator": [
+    "Frédéric Auguste Bartholdi",
+    "Jaboeuf foundry"
+   ]
+  }
  },
  {
   "id": "s0730",
@@ -18443,7 +21248,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Statue_of_Jeanne_d'Arc_in_Paris,_Place_des_Pyramides_-_France_-_4_July_2014.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Statue%20of%20Jeanne%20d'Arc%20in%20Paris,%20Place%20des%20Pyramides%20-%20France%20-%204%20July%202014.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3497617",
+   "via": "P180",
+   "label": "equestrian statue of Joan of Arc",
+   "y": [
+    1874
+   ],
+   "mu": [
+    "place des Pyramides"
+   ],
+   "creator": [
+    "Emmanuel Frémiet",
+    "Thiébaut Frères"
+   ]
+  }
  },
  {
   "id": "s0731",
@@ -18495,7 +21315,18 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:The_golden_statue_of_Archangel_Michael_atop_of_the_spire_of_the_Abbey_of_Mont-Saint-Michel.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20golden%20statue%20of%20Archangel%20Michael%20atop%20of%20the%20spire%20of%20the%20Abbey%20of%20Mont-Saint-Michel.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q651388",
+   "via": "P180",
+   "label": "Mont-Saint-Michel Abbey",
+   "y": [
+    709
+   ],
+   "mu": [],
+   "creator": []
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0733",
@@ -18521,7 +21352,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Adams_Memorial_by_Augustus_Saint_Gaudens_in_Rock_Creek_Cemetery_(13912211).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Adams%20Memorial%20by%20Augustus%20Saint%20Gaudens%20in%20Rock%20Creek%20Cemetery%20(13912211).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q351935",
+   "via": "P180",
+   "label": "Adams Memorial",
+   "y": [
+    1891
+   ],
+   "mu": [
+    "Rock Creek Cemetery"
+   ],
+   "creator": [
+    "Augustus Saint-Gaudens",
+    "Stanford White"
+   ]
+  }
  },
  {
   "id": "s0734",
@@ -18625,7 +21471,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Angel,_horse_&_Sherman_at_Grand_Army_Plaza_in_Manhattan_01.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Angel,%20horse%20&%20Sherman%20at%20Grand%20Army%20Plaza%20in%20Manhattan%2001.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q18159288",
+   "via": "P180",
+   "label": "William Tecumseh Sherman",
+   "y": [
+    1902
+   ],
+   "mu": [
+    "Grand Army Plaza"
+   ],
+   "creator": [
+    "Augustus Saint-Gaudens"
+   ]
+  }
  },
  {
   "id": "s0738",
@@ -18651,7 +21511,19 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Abraham_Lincoln_The_Man_Augustus_Saint-Gaudens_Chicago_2020-9460.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Abraham%20Lincoln%20The%20Man%20Augustus%20Saint-Gaudens%20Chicago%202020-9460.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q4668997",
+   "via": "P180",
+   "label": "Abraham Lincoln: The Man",
+   "y": [
+    1887
+   ],
+   "mu": [],
+   "creator": [
+    "Augustus Saint-Gaudens"
+   ]
+  }
  },
  {
   "id": "s0739",
@@ -18677,7 +21549,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Minute_Man,_Daniel_Chester_French,_Concord_MA.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Minute%20Man,%20Daniel%20Chester%20French,%20Concord%20MA.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q16509688",
+   "via": "P180",
+   "label": "Minute man",
+   "y": [
+    1874
+   ],
+   "mu": [
+    "Minute Man National Historical Park"
+   ],
+   "creator": [
+    "Daniel Chester French"
+   ]
+  }
  },
  {
   "id": "s0740",
@@ -18703,7 +21589,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Statue_of_Abraham_Lincoln,_Lincoln_Memorial_(2024)-L1005507.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Statue%20of%20Abraham%20Lincoln,%20Lincoln%20Memorial%20(2024)-L1005507.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q4669005",
+   "via": "P180",
+   "label": "Statue of Abraham Lincoln",
+   "y": [
+    1920
+   ],
+   "mu": [
+    "Lincoln Memorial"
+   ],
+   "creator": [
+    "Daniel Chester French"
+   ]
+  }
  },
  {
   "id": "s0741",
@@ -18729,7 +21629,19 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:2004-08-08_1580x2800_chicago_republic.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/2004-08-08%201580x2800%20chicago%20republic.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q2378921",
+   "via": "P180",
+   "label": "Statue of the Republic",
+   "y": [],
+   "mu": [
+    "Jackson Park"
+   ],
+   "creator": [
+    "Daniel Chester French"
+   ]
+  }
  },
  {
   "id": "s0742",
@@ -18755,7 +21667,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:The_Angel_of_Death_and_the_Sculptor_from_the_Milmore_Memorial_MET_DT96.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Angel%20of%20Death%20and%20the%20Sculptor%20from%20the%20Milmore%20Memorial%20MET%20DT96.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q235113",
+   "via": "P180",
+   "label": "angel",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0743",
@@ -18883,7 +21803,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Statue_of_General_Gordon,_Embankment_Gardens_1965_-_geograph.org.uk_-_4884653.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Statue%20of%20General%20Gordon,%20Embankment%20Gardens%201965%20-%20geograph.org.uk%20-%204884653.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q1081138",
+   "via": "P180",
+   "label": "historic site",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0748",
@@ -19062,7 +21990,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Cleopatra_by_William_Wetmore_Story_03.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Cleopatra%20by%20William%20Wetmore%20Story%2003.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q29383020",
+   "via": "P180",
+   "label": "Cleopatra",
+   "y": [
+    1863
+   ],
+   "mu": [
+    "Metropolitan Museum of Art",
+    "Metropolitan Museum of Art"
+   ],
+   "creator": [
+    "William Wetmore Story"
+   ]
+  }
  },
  {
   "id": "s0755",
@@ -19216,7 +22159,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Carpeaux_napoleon_iv.JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Carpeaux%20napoleon%20iv.JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q60489153",
+   "via": "P180",
+   "label": "Napoléon, Prince Imperial, by Jean-Baptiste Carpeaux",
+   "y": [
+    1888
+   ],
+   "mu": [
+    "Département des sculptures, Palais des Beaux-Arts de Lille",
+    "Palais des Beaux-Arts de Lille"
+   ],
+   "creator": [
+    "Jean-Baptiste Carpeaux"
+   ]
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0761",
@@ -19241,7 +22200,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Neapolitan_Fisherboy_by_Jean-Baptiste_Carpeaux,_1857-c.1861,_marble_-_National_Gallery_of_Art,_Washington_-_DSC08945.JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Neapolitan%20Fisherboy%20by%20Jean-Baptiste%20Carpeaux,%201857-c.1861,%20marble%20-%20National%20Gallery%20of%20Art,%20Washington%20-%20DSC08945.JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q17442738",
+   "via": "P180",
+   "label": "Neapolitan fisherboy",
+   "y": [
+    1861
+   ],
+   "mu": [
+    "Q214867"
+   ],
+   "creator": [
+    "Jean-Baptiste Carpeaux"
+   ]
+  }
  },
  {
   "id": "s0762",
@@ -19266,7 +22239,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Carpeaux_Chinese_man.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Carpeaux%20Chinese%20man.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q29653717",
+   "via": "P180",
+   "label": "Chinese man by Jean-Baptiste Carpeaux",
+   "y": [
+    1868
+   ],
+   "mu": [
+    "National Museum in Warsaw"
+   ],
+   "creator": [
+    "Jean-Baptiste Carpeaux"
+   ]
+  }
  },
  {
   "id": "s0763",
@@ -19317,7 +22304,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Paris_11e_-_Place_de_la_Nation_-_Le_Triomphe_de_la_République_(Jules_Dalou)_01.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Paris%2011e%20-%20Place%20de%20la%20Nation%20-%20Le%20Triomphe%20de%20la%20République%20(Jules%20Dalou)%2001.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3227834",
+   "via": "P180",
+   "label": "The Triumph of the Republic",
+   "y": [
+    1899
+   ],
+   "mu": [
+    "Place de la Nation"
+   ],
+   "creator": [
+    "Jules Dalou",
+    "Georges Gardet"
+   ]
+  }
  },
  {
   "id": "s0765",
@@ -19343,7 +22345,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Buste_Monument_Eugène_Delacroix_Luxembourg.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Buste%20Monument%20Eugène%20Delacroix%20Luxembourg.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q18191182",
+   "via": "P180",
+   "label": "Monument à Delacroix",
+   "y": [
+    1890
+   ],
+   "mu": [
+    "Jardin du Luxembourg"
+   ],
+   "creator": [
+    "Jules Dalou"
+   ]
+  }
  },
  {
   "id": "s0766",
@@ -19512,13 +22528,13 @@
   "th": [
    "日常／風俗"
   ],
-  "local": true,
-  "img": "img/800/s0772.webp",
-  "thumb": "img/thumb/s0772.webp",
-  "src": "Commons",
-  "src_url": "https://commons.wikimedia.org/wiki/File:Neapolitan_Fisherboy_head.jpg",
-  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Neapolitan%20Fisherboy%20head.jpg?width=1000",
-  "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
+  "local": false,
+  "img": null,
+  "thumb": null,
+  "src": null,
+  "src_url": null,
+  "img_ext": null,
+  "verif": "自動配對圖檔經比對為其他作品，已移除；待人工補圖",
   "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
  },
  {
@@ -19901,7 +22917,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:The_Thinker,_Musée_Rodin,_Paris_September_2013_004.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Thinker,%20Musée%20Rodin,%20Paris%20September%202013%20004.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q154571",
+   "via": "P180",
+   "label": "The Thinker",
+   "y": [
+    1880
+   ],
+   "mu": [
+    "Musée Rodin",
+    "Musée Rodin"
+   ],
+   "creator": [
+    "Auguste Rodin",
+    "Rudier Foundry"
+   ]
+  }
  },
  {
   "id": "s0788",
@@ -19953,7 +22985,24 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:The_Gates_of_Hell_-_Auguste_Rodin_-_FONDERIE_DE_COUBERTIN_-_Musée_Rodin_1992_Nr_6-8.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Gates%20of%20Hell%20-%20Auguste%20Rodin%20-%20FONDERIE%20DE%20COUBERTIN%20-%20Musée%20Rodin%201992%20Nr%206-8.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q2003287",
+   "via": "P180",
+   "label": "The Gates of Hell",
+   "y": [
+    1880,
+    1880
+   ],
+   "mu": [
+    "Musée d'Orsay",
+    "Museo Soumaya",
+    "Musée d'Orsay"
+   ],
+   "creator": [
+    "Auguste Rodin"
+   ]
+  }
  },
  {
   "id": "s0790",
@@ -20003,7 +23052,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Auguste_Rodin-The_Age_of_Bronze-Musée_d'Orsay.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Auguste%20Rodin-The%20Age%20of%20Bronze-Musée%20d'Orsay.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q526178",
+   "via": "P180",
+   "label": "The Age of Bronze",
+   "y": [
+    1877
+   ],
+   "mu": [
+    "Musée d'Orsay",
+    "Luxembourg Museum",
+    "Department of Paintings of the Louvre"
+   ],
+   "creator": [
+    "Auguste Rodin"
+   ]
+  }
  },
  {
   "id": "s0792",
@@ -20053,7 +23118,24 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Rodin_-_Saint_John_the_Baptist_Preaching_-_LACMA.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Rodin%20-%20Saint%20John%20the%20Baptist%20Preaching%20-%20LACMA.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3463880",
+   "via": "P180",
+   "label": "John the Baptist",
+   "y": [
+    1878,
+    1880
+   ],
+   "mu": [
+    "Musée d'Orsay",
+    "Musée Rodin",
+    "National Gallery Prague"
+   ],
+   "creator": [
+    "Auguste Rodin"
+   ]
+  }
  },
  {
   "id": "s0794",
@@ -20078,7 +23160,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:'Monumental_Torso_of_the_Walking_Man'_by_Auguste_Rodin,_Musée_Rodin_cast_1_of_8.JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/'Monumental%20Torso%20of%20the%20Walking%20Man'%20by%20Auguste%20Rodin,%20Musée%20Rodin%20cast%201%20of%208.JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q100137284",
+   "via": "P180",
+   "label": "Walking Man",
+   "y": [
+    1877
+   ],
+   "mu": [
+    "Musée d'Orsay"
+   ],
+   "creator": [
+    "Auguste Rodin",
+    "Susse Frères"
+   ]
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0795",
@@ -20257,7 +23355,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Camille_Claudel,_\"La_Valse\",_1889-1905,_bronze_fonte_(1).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Claudel,%20\"La%20Valse\",%201889-1905,%20bronze%20fonte%20(1).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q19945289",
+   "via": "P180",
+   "label": "The Waltz",
+   "y": [
+    1883,
+    1904
+   ],
+   "mu": [
+    "Musée Rodin",
+    "Museo Soumaya"
+   ],
+   "creator": [
+    "Camille Claudel"
+   ]
+  }
  },
  {
   "id": "s0802",
@@ -20334,7 +23448,17 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Camille_Claudel.-_Les_Causeuses_(1).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Claudel.-%20Les%20Causeuses%20(1).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q87736909",
+   "via": "P180",
+   "label": "The Confidence",
+   "y": [],
+   "mu": [],
+   "creator": [
+    "Camille Claudel"
+   ]
+  }
  },
  {
   "id": "s0805",
@@ -20437,7 +23561,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Camille_Claudel.-_La_Vague_1897-1903_sculpture_en_marbre,_onyx,_bronze.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Claudel.-%20La%20Vague%201897-1903%20sculpture%20en%20marbre,%20onyx,%20bronze.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q120582",
+   "via": "P180",
+   "label": "Camille Claudel",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0809",
@@ -20463,7 +23595,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Musée_Ingres-Bourdelle_-_Héraklès_Archer,_1909_-_Platre_-_Antoine_Bourdelle_Joconde06070001188.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Musée%20Ingres-Bourdelle%20-%20Héraklès%20Archer,%201909%20-%20Platre%20-%20Antoine%20Bourdelle%20Joconde06070001188.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q122310355",
+   "via": "P180",
+   "label": "Hercules the Archer",
+   "y": [
+    1909
+   ],
+   "mu": [
+    "Museum Ingres Bourdelle",
+    "Museum Ingres Bourdelle"
+   ],
+   "creator": [
+    "Q314350"
+   ]
+  }
  },
  {
   "id": "s0810",
@@ -20619,7 +23766,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Montauban_-_Bourdelle_monument_aux_morts_de_1870.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Montauban%20-%20Bourdelle%20monument%20aux%20morts%20de%201870.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3323271",
+   "via": "P180",
+   "label": "Monument aux Morts de Montauban",
+   "y": [
+    1902
+   ],
+   "mu": [
+    "Montauban"
+   ],
+   "creator": [
+    "Q314350"
+   ]
+  }
  },
  {
   "id": "s0816",
@@ -20670,7 +23831,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:2016-10-24_10-30_Burgund_083_Nancy,_Musée_des_Beaux-Arts_-_Jules_Desbois,_La_Misère_(30865411741).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/2016-10-24%2010-30%20Burgund%20083%20Nancy,%20Musée%20des%20Beaux-Arts%20-%20Jules%20Desbois,%20La%20Misère%20(30865411741).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q59431239",
+   "via": "P180",
+   "label": "La Misère by Jules Desbois",
+   "y": [
+    1896
+   ],
+   "mu": [
+    "Museum of Fine Arts of Nancy",
+    "Museum of Fine Arts of Nancy"
+   ],
+   "creator": [
+    "Jules Desbois"
+   ]
+  }
  },
  {
   "id": "s0818",
@@ -20822,7 +23998,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Sinnataggen,_Vigeland.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Sinnataggen,%20Vigeland.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q16678093",
+   "via": "P180",
+   "label": "Angry Boy",
+   "y": [
+    1928
+   ],
+   "mu": [
+    "Vigeland installation"
+   ],
+   "creator": [
+    "Q213956"
+   ]
+  }
  },
  {
   "id": "s0824",
@@ -21055,7 +24245,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Paris_Monument_aux_morts_Bartholomé_2013.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Paris%20Monument%20aux%20morts%20Bartholomé%202013.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3323309",
+   "via": "P180",
+   "label": "Monument to the Dead of Père Lachaise",
+   "y": [
+    1899
+   ],
+   "mu": [
+    "Père Lachaise Cemetery"
+   ],
+   "creator": [
+    "Albert Bartholomé"
+   ]
+  }
  },
  {
   "id": "s0833",
@@ -21207,7 +24411,20 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Girl_Dancing_by_Bessie_Potter_Vonnoh,_Muskegon_Museum_of_Art.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Girl%20Dancing%20by%20Bessie%20Potter%20Vonnoh,%20Muskegon%20Museum%20of%20Art.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q18342548",
+   "via": "P180",
+   "label": "Muskegon Museum of Art",
+   "y": [
+    1912
+   ],
+   "mu": [
+    "Muskegon Historic District"
+   ],
+   "creator": []
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0839",
@@ -21335,7 +24552,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Max_Klinger,_bust_of_Friedrich_Nietzsche,_1904.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Max%20Klinger,%20bust%20of%20Friedrich%20Nietzsche,%201904.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q9358",
+   "via": "P180",
+   "label": "Friedrich Nietzsche",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0844",
@@ -21436,7 +24661,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:De_geknielde_van_de_fontein_-_Georges_Minne_-_Museum_voor_Schone_Kunsten_Gent_-_1.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/De%20geknielde%20van%20de%20fontein%20-%20Georges%20Minne%20-%20Museum%20voor%20Schone%20Kunsten%20Gent%20-%201.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q22082047",
+   "via": "P6243",
+   "label": "Kneeling Youth",
+   "y": [
+    1898
+   ],
+   "mu": [
+    "Museum of Fine Arts Ghent (MSK)",
+    "Vlaamse Kunstcollectie",
+    "Museum of Fine Arts Ghent (MSK)"
+   ],
+   "creator": [
+    "George Minne"
+   ]
+  }
  },
  {
   "id": "s0848",
@@ -21664,7 +24905,17 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:In_der_Krypta_des_Völkerschlachtdenkmals_Leipzig_mit_Totenwächter_September_2005.JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/In%20der%20Krypta%20des%20Völkerschlachtdenkmals%20Leipzig%20mit%20Totenwächter%20September%202005.JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q699448",
+   "via": "P180",
+   "label": "Monument to the Battle of the Nations",
+   "y": [
+    1913
+   ],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0857",
@@ -21868,7 +25119,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:La_Méditerranée_Statue_Maillol_Musée_d'Orsay.JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Méditerranée%20Statue%20Maillol%20Musée%20d'Orsay.JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q18702477",
+   "via": "P180",
+   "label": "La Méditerrannée",
+   "y": [
+    1905
+   ],
+   "mu": [
+    "Musée d'Orsay",
+    "Musée d'Orsay"
+   ],
+   "creator": [
+    "Aristide Maillol"
+   ]
+  }
  },
  {
   "id": "s0865",
@@ -21894,7 +25160,24 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Pomone_drapée_by_Aristide_Maillol_(Tuileries)_03.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Pomone%20drapée%20by%20Aristide%20Maillol%20(Tuileries)%2003.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q18701387",
+   "via": "P180",
+   "label": "Pomone drapée",
+   "y": [
+    1921
+   ],
+   "mu": [
+    "Musée d'Orsay",
+    "Sculptures from the gardens of the Louvre Museum",
+    "Carrousel Garden"
+   ],
+   "creator": [
+    "Aristide Maillol"
+   ]
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0866",
@@ -21971,7 +25254,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Vénus_au_collier-_Aristide_Maillol_-_Musée_du_Louvre_Sculptures_des_jardins_FNAC_9482.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Vénus%20au%20collier-%20Aristide%20Maillol%20-%20Musée%20du%20Louvre%20Sculptures%20des%20jardins%20FNAC%209482.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3564151",
+   "via": "P180",
+   "label": "Vénus",
+   "y": [
+    1928
+   ],
+   "mu": [
+    "Fonds national d'art contemporain",
+    "Sculptures from the gardens of the Louvre Museum",
+    "Tuileries Garden"
+   ],
+   "creator": [
+    "Aristide Maillol"
+   ]
+  }
  },
  {
   "id": "s0869",
@@ -22048,7 +25347,24 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:La_Rivière_by_Aristide_Maillol_(Museum_of_Modern_Art_New_York).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Rivière%20by%20Aristide%20Maillol%20(Museum%20of%20Modern%20Art%20New%20York).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3212334",
+   "via": "P180",
+   "label": null,
+   "y": [
+    1938,
+    1939
+   ],
+   "mu": [
+    "Musée d'Orsay",
+    "Sculptures from the gardens of the Louvre Museum",
+    "Musée National d'Art Moderne"
+   ],
+   "creator": [
+    "Aristide Maillol"
+   ]
+  }
  },
  {
   "id": "s0872",
@@ -22100,7 +25416,19 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Monument_aux_morts_de_Banyuls_sur_mer_par_Maillol_.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Monument%20aux%20morts%20de%20Banyuls%20sur%20mer%20par%20Maillol%20.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q63349503",
+   "via": "P180",
+   "label": "Banyuls-sur-Mer war memorial",
+   "y": [],
+   "mu": [
+    "Banyuls-sur-Mer"
+   ],
+   "creator": [
+    "Aristide Maillol"
+   ]
+  }
  },
  {
   "id": "s0874",
@@ -22176,7 +25504,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Despiau_-_Eve_-_AMS_403_-_Musée_d’Art_moderne_de_Paris.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Despiau%20-%20Eve%20-%20AMS%20403%20-%20Musée%20d’Art%20moderne%20de%20Paris.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q110937487",
+   "via": "P180",
+   "label": "Eve",
+   "y": [
+    1925
+   ],
+   "mu": [
+    "Musée d'art moderne de Paris",
+    "Musée d'art moderne de Paris"
+   ],
+   "creator": [
+    "Charles Despiau"
+   ]
+  }
  },
  {
   "id": "s0877",
@@ -22278,7 +25621,17 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Monument_aux_morts_de_Mont-de-Marsan_blason.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Monument%20aux%20morts%20de%20Mont-de-Marsan%20blason.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q110271934",
+   "via": "P180",
+   "label": "War memorial of Mont-de-Marsan",
+   "y": [],
+   "mu": [],
+   "creator": [
+    "Charles Despiau"
+   ]
+  }
  },
  {
   "id": "s0881",
@@ -22380,7 +25733,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Georg_Kolbe_-_Der_Morgen_und_Der_Abend.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Georg%20Kolbe%20-%20Der%20Morgen%20und%20Der%20Abend.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q116357648",
+   "via": "P180",
+   "label": "The evening",
+   "y": [
+    1925
+   ],
+   "mu": [
+    "Ceciliengärten"
+   ],
+   "creator": [
+    "Georg Kolbe"
+   ]
+  }
  },
  {
   "id": "s0885",
@@ -22432,7 +25799,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Gedenktafel_Volkspark_Rehberge_(Weddi)_Rathenaubrunnen&Georg_Kolbe&1930.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Gedenktafel%20Volkspark%20Rehberge%20(Weddi)%20Rathenaubrunnen&Georg%20Kolbe&1930.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q113541728",
+   "via": "P180",
+   "label": "Rathenau fountain",
+   "y": [
+    1930,
+    1987
+   ],
+   "mu": [
+    "Volkspark Rehberge"
+   ],
+   "creator": [
+    "Georg Kolbe"
+   ]
+  }
  },
  {
   "id": "s0887",
@@ -22887,7 +26269,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:'Man_in_the_Open_Air',_bronze_sculpture_by_Elie_Nadelman,_c._1915,_Israel_Museum,_Jerusalem,_Israel.JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/'Man%20in%20the%20Open%20Air',%20bronze%20sculpture%20by%20Elie%20Nadelman,%20c.%201915,%20Israel%20Museum,%20Jerusalem,%20Israel.JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q56696107",
+   "via": "P180",
+   "label": "Man in the Open Air",
+   "y": [
+    1915
+   ],
+   "mu": [
+    "Billy Rose Sculpture garden"
+   ],
+   "creator": [
+    "Elie Nadelman"
+   ]
+  }
  },
  {
   "id": "s0905",
@@ -23219,7 +26615,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Ariel_and_Prospero_by_Eric_Gill_-_geograph.org.uk_-_1297273.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Ariel%20and%20Prospero%20by%20Eric%20Gill%20-%20geograph.org.uk%20-%201297273.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q735",
+   "via": "P180",
+   "label": "art",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s0918",
@@ -23270,7 +26674,18 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Fifth_Station_of_The_Cross,_trial_panel_for_Westminster_Cathedral,_by_Eric_Gill,_1914,_Hoptonwood_stone_relief_in_three_vertical_stones_-_Harry_Ransom_Center_-_University_of_Texas_at_Austin_-_DSC08567.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Fifth%20Station%20of%20The%20Cross,%20trial%20panel%20for%20Westminster%20Cathedral,%20by%20Eric%20Gill,%201914,%20Hoptonwood%20stone%20relief%20in%20three%20vertical%20stones%20-%20Harry%20Ransom%20Center%20-%20University%20of%20Texas%20at%20Austin%20-%20DSC08567.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q739364",
+   "via": "P180",
+   "label": "Westminster Cathedral",
+   "y": [
+    1895
+   ],
+   "mu": [],
+   "creator": []
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0920",
@@ -23706,7 +27121,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Barlach_Ehrenmal_im_Magdeburger_Dom.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Barlach%20Ehrenmal%20im%20Magdeburger%20Dom.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q34066421",
+   "via": "P180",
+   "label": "Magdeburger Ehrenmal",
+   "y": [
+    1929
+   ],
+   "mu": [
+    "\"degenerate art\" collection",
+    "Cathedral of Magdeburg",
+    "Cathedral of Magdeburg"
+   ],
+   "creator": [
+    "Ernst Barlach"
+   ]
+  }
  },
  {
   "id": "s0937",
@@ -23832,7 +27263,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Emporsteigender_Jüngling_-_Wilhelm_Lehmbruck_-_NK_2018_018_M_f_Neue_Kunst_Freiburg.png",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Emporsteigender%20Jüngling%20-%20Wilhelm%20Lehmbruck%20-%20NK%202018%20018%20M%20f%20Neue%20Kunst%20Freiburg.png?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q125993785",
+   "via": "P180",
+   "label": "Ascending Youth",
+   "y": [
+    1910
+   ],
+   "mu": [
+    "Museum of Modern Art",
+    "Museum of Modern Art"
+   ],
+   "creator": [
+    "Wilhelm Lehmbruck"
+   ]
+  }
  },
  {
   "id": "s0942",
@@ -23934,7 +27380,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Trauerndes_Elternpaar_von_Käthe_Kollwitz,_Vladslo.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Trauerndes%20Elternpaar%20von%20Käthe%20Kollwitz,%20Vladslo.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q56825917",
+   "via": "P180",
+   "label": "Mourning Parents",
+   "y": [
+    1932,
+    1927
+   ],
+   "mu": [
+    "Vladslo German war cemetery",
+    "Lommel German war cemetery"
+   ],
+   "creator": [
+    "Käthe Kollwitz"
+   ]
+  }
  },
  {
   "id": "s0946",
@@ -23960,7 +27422,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Käthe_Kollwitz's_sculpture_Mother_with_her_Dead_Son_in_Neue_Wache,_Berlin.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Käthe%20Kollwitz's%20sculpture%20Mother%20with%20her%20Dead%20Son%20in%20Neue%20Wache,%20Berlin.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q116343888",
+   "via": "P180",
+   "label": "Mother with her Dead Son",
+   "y": [
+    1937,
+    1993
+   ],
+   "mu": [
+    "Neue Wache"
+   ],
+   "creator": [
+    "Käthe Kollwitz"
+   ]
+  }
  },
  {
   "id": "s0947",
@@ -23986,7 +27463,18 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Amsterdam_-_Stedelijk_Museum_-_Käthe_Kollwitz_(1867-1945)_-_Turm_der_Mütter_(BA_258)_1937-38.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Amsterdam%20-%20Stedelijk%20Museum%20-%20Käthe%20Kollwitz%20(1867-1945)%20-%20Turm%20der%20Mütter%20(BA%20258)%201937-38.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q727",
+   "via": "P180",
+   "label": "Amsterdam",
+   "y": [
+    1300
+   ],
+   "mu": [],
+   "creator": []
+  },
+  "wd_flag": "年代與 Wikidata 不符"
  },
  {
   "id": "s0948",
@@ -24036,7 +27524,23 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Kaethe_Kollwitz_-_Mutter_mit_Zwillingen-2.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Kaethe%20Kollwitz%20-%20Mutter%20mit%20Zwillingen-2.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q22049135",
+   "via": "P180",
+   "label": "Mother with two children",
+   "y": [
+    1927,
+    1937
+   ],
+   "mu": [
+    "Käthe Kollwitz Museum",
+    "Charlottenburg"
+   ],
+   "creator": [
+    "Käthe Kollwitz"
+   ]
+  }
  },
  {
   "id": "s0950",
@@ -24420,7 +27924,19 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Der_Lichtbringer_by_Bernhard_Hoetger_in_Bremen,_Böttcherstraße_0456.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Der%20Lichtbringer%20by%20Bernhard%20Hoetger%20in%20Bremen,%20Böttcherstraße%200456.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q18286642",
+   "via": "P180",
+   "label": "Bringer of light",
+   "y": [
+    1936
+   ],
+   "mu": [],
+   "creator": [
+    "Bernhard Hoetger"
+   ]
+  }
  },
  {
   "id": "s0965",
@@ -24653,7 +28169,19 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Carl_Milles_Poseidon_01.JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Milles%20Poseidon%2001.JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q9344595",
+   "via": "P180",
+   "label": "Poseidon med brunnskar",
+   "y": [
+    1931
+   ],
+   "mu": [],
+   "creator": [
+    "Carl Milles"
+   ]
+  }
  },
  {
   "id": "s0974",
@@ -24805,7 +28333,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Ours_Pompon_Musee_Orsay.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Ours%20Pompon%20Musee%20Orsay.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3358458",
+   "via": "P180",
+   "label": "Ours blanc",
+   "y": [
+    1925
+   ],
+   "mu": [
+    "Musée d'Orsay",
+    "Musée d'Orsay"
+   ],
+   "creator": [
+    "François Pompon"
+   ]
+  }
  },
  {
   "id": "s0980",
@@ -25770,13 +29313,13 @@
   "th": [
    "人體／裸體"
   ],
-  "local": true,
-  "img": "img/800/s1017.webp",
-  "thumb": "img/thumb/s1017.webp",
-  "src": "Commons",
-  "src_url": "https://commons.wikimedia.org/wiki/File:Henri_Laurens,_La_Grande_Musicienne,_1937_(49720045406).jpg",
-  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Laurens,%20La%20Grande%20Musicienne,%201937%20(49720045406).jpg?width=1000",
-  "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
+  "local": false,
+  "img": null,
+  "thumb": null,
+  "src": null,
+  "src_url": null,
+  "img_ext": null,
+  "verif": "自動配對圖檔經比對為其他作品，已移除；待人工補圖",
   "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
  },
  {
@@ -26645,7 +30188,24 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:'Unique_Forms_of_Continuity_in_Space',_1913_bronze_by_Umberto_Boccioni.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/'Unique%20Forms%20of%20Continuity%20in%20Space',%201913%20bronze%20by%20Umberto%20Boccioni.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q55836972",
+   "via": "P180",
+   "label": "Unique Forms of Continuity in Space",
+   "y": [
+    1914,
+    1931,
+    1934
+   ],
+   "mu": [
+    "Museum of Modern Art",
+    "Museum of Modern Art"
+   ],
+   "creator": [
+    "Umberto Boccioni"
+   ]
+  }
  },
  {
   "id": "s1052",
@@ -26696,7 +30256,22 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:GUGG_Dynamism_of_a_Speeding_Horse_+_Houses.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/GUGG%20Dynamism%20of%20a%20Speeding%20Horse%20+%20Houses.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3707830",
+   "via": "P180",
+   "label": "Dynamism of a Speeding Horse + Houses",
+   "y": [
+    1915
+   ],
+   "mu": [
+    "Solomon R. Guggenheim Museum",
+    "Peggy Guggenheim Collection"
+   ],
+   "creator": [
+    "Umberto Boccioni"
+   ]
+  }
  },
  {
   "id": "s1054",
@@ -27108,7 +30683,19 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Corner_counter-relief_(Vladimir_Tatlin,_1915)_during_0,10_exhibition.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Corner%20counter-relief%20(Vladimir%20Tatlin,%201915)%20during%200,10%20exhibition.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q130583354",
+   "via": "P180",
+   "label": "Corner Counter-Relief",
+   "y": [
+    1915
+   ],
+   "mu": [],
+   "creator": [
+    "Vladimir Tatlin"
+   ]
+  }
  },
  {
   "id": "s1070",
@@ -27134,7 +30721,21 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Counter-relief_by_V.Tatlin_(1914,_GRM)_by_shakko_01.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Counter-relief%20by%20V.Tatlin%20(1914,%20GRM)%20by%20shakko%2001.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q42533546",
+   "via": "P180",
+   "label": "Corner Counter-Relief",
+   "y": [
+    1914
+   ],
+   "mu": [
+    "Russian Museum"
+   ],
+   "creator": [
+    "Vladimir Tatlin"
+   ]
+  }
  },
  {
   "id": "s1071",
@@ -27721,7 +31322,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Proun_room_for_the_Great_Berlin_Art_Exhibition._Reconstruction_of_the_Stedelijk_Van_Abbemuseum_Eindhoven_1965.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Proun%20room%20for%20the%20Great%20Berlin%20Art%20Exhibition.%20Reconstruction%20of%20the%20Stedelijk%20Van%20Abbemuseum%20Eindhoven%201965.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q3924366",
+   "via": "P180",
+   "label": "Proun",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s1094",
@@ -28407,7 +32016,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Zinnober_Merzbau_Merzfest_Theodor-Lessing-Platz_Hannover_15._Zinnober-Kunstvolkslauf_Anna_Grunemann_moderiert_die_Merz-Karaoke_an.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Zinnober%20Merzbau%20Merzfest%20Theodor-Lessing-Platz%20Hannover%2015.%20Zinnober-Kunstvolkslauf%20Anna%20Grunemann%20moderiert%20die%20Merz-Karaoke%20an.jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q128758670",
+   "via": "P180",
+   "label": "Anna Grunemann",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s1121",
@@ -28710,7 +32327,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:Sophie_taeuber-arp,_testa_dada,_1918-19.JPG",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Sophie%20taeuber-arp,%20testa%20dada,%201918-19.JPG?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q254395",
+   "via": "P180",
+   "label": "Sophie Taeuber-Arp",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s1133",
@@ -28762,7 +32387,15 @@
   "src_url": "https://commons.wikimedia.org/wiki/File:\"Tête_dada\"_de_Sophie_Taeuber-Arp_(Centre_Pompidou,_Paris).jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/\"Tête%20dada\"%20de%20Sophie%20Taeuber-Arp%20(Centre%20Pompidou,%20Paris).jpg?width=1000",
   "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "wd": {
+   "q": "Q254395",
+   "via": "P180",
+   "label": "Sophie Taeuber-Arp",
+   "y": [],
+   "mu": [],
+   "creator": []
+  }
  },
  {
   "id": "s1135",
