@@ -1,0 +1,503 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>西洋雕刻演進大全集</title>
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@500;700&family=Noto+Sans+TC:wght@400;500;700&family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&display=swap">
+<style>
+/* Layout: sticky tab bar; each tab is a full-width view; gallery wall dark-first, like a museum at night */
+:root{
+  --bg:#17171a; --bg2:#202024; --panel:#26262b; --line:#3a3a41; --fg:#ebe7df; --muted:#a39e93; --accent:#c9a45c; --accent2:#7fa7c9; --danger:#c96b5c;
+  --serif:"Noto Serif TC","Cormorant Garamond",Georgia,"PMingLiU",serif; --sans:"Noto Sans TC",-apple-system,"PingFang TC","Microsoft JhengHei",sans-serif; --latin:"Cormorant Garamond",Georgia,serif;
+  color-scheme:dark;
+}
+@media (prefers-color-scheme: light){:root:not([data-theme="dark"]){--bg:#f3efe6;--bg2:#ebe6da;--panel:#fffdf8;--line:#d8d1c2;--fg:#201d18;--muted:#6b655a;--accent:#8c6a22;--accent2:#355f85;--danger:#a3422f;color-scheme:light}}
+:root[data-theme="light"]{--bg:#f3efe6;--bg2:#ebe6da;--panel:#fffdf8;--line:#d8d1c2;--fg:#201d18;--muted:#6b655a;--accent:#8c6a22;--accent2:#355f85;--danger:#a3422f;color-scheme:light}
+*{box-sizing:border-box}
+html,body{height:100%}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--sans);font-size:15px;line-height:1.6}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg2)}
+a{color:var(--accent2)}
+h1,h2,h3{font-family:var(--serif);font-weight:700;text-wrap:balance;margin:0}
+.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:9;background:var(--bg2);border-bottom:1px solid var(--line);padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:10px 0}
+.brand{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}
+.brand h1{font-size:1.35rem;letter-spacing:.04em}
+.brand .lat{font-family:var(--latin);font-style:italic;color:var(--muted);font-size:1rem}
+.brand .stat{margin-left:auto;color:var(--muted);font-size:.8rem;font-variant-numeric:tabular-nums}
+.tabs{display:flex;gap:4px;overflow-x:auto;margin-top:8px;scrollbar-width:none}
+.tabs button{background:none;border:0;border-bottom:3px solid transparent;color:var(--muted);font:inherit;font-weight:500;padding:8px 12px;cursor:pointer;white-space:nowrap}
+.tabs button[aria-selected="true"]{color:var(--fg);border-bottom-color:var(--accent)}
+.tabs button:focus-visible{outline:2px solid var(--accent2);outline-offset:-2px}
+main{padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:18px 60px;max-width:1800px;margin:0 auto}
+#v-index,#v-movements #mlist,#v-quiz{max-width:1240px}
+.view{min-width:0}
+.lead{color:var(--muted);max-width:68ch;margin:0 0 14px}
+.lbl{font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);font-family:var(--latin);font-weight:600}
+/* timeline */
+.tl-wrap{overflow-x:auto;border:1px solid var(--line);background:var(--bg2);border-radius:4px}
+.tl{position:relative;height:var(--tlh);min-width:1860px}
+.era{position:absolute;top:0;bottom:0;border-left:1px solid var(--line);padding:4px 6px;font-family:var(--latin);font-size:.78rem;color:var(--muted);letter-spacing:.08em}
+.tick{position:absolute;bottom:0;font-size:.68rem;color:var(--muted);transform:translateX(-50%);font-variant-numeric:tabular-nums}
+.bar{position:absolute;height:22px;border-radius:3px;font-size:.74rem;line-height:22px;padding:0 6px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;cursor:pointer;color:#fff;text-shadow:0 1px 1px rgba(0,0,0,.6);border:0;text-align:left}
+.bar:hover,.bar:focus-visible{outline:2px solid var(--fg);z-index:2}
+/* movement cards */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px}
+.mcard{background:var(--panel);border:1px solid var(--line);border-left:5px solid var(--mc,var(--accent));padding:10px 12px;cursor:pointer;text-align:left;color:inherit;font:inherit;display:flex;flex-direction:column;gap:4px;min-width:0}
+.mcard:hover{border-color:var(--accent)}
+.mcard h3{font-size:1.05rem}
+.mcard .en{font-family:var(--latin);color:var(--muted);font-size:.95rem;font-style:italic}
+.mcard .yr{font-size:.78rem;color:var(--muted);font-variant-numeric:tabular-nums}
+.mcard img{width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:2px;background:var(--bg)}
+/* movement detail */
+.mdetail{display:none}
+.mdetail.on{display:block}
+.mhead{border-top:6px solid var(--mc);padding-top:10px;margin-bottom:12px}
+.mhead h2{font-size:1.7rem}
+.mhead .en{font-family:var(--latin);font-style:italic;font-size:1.2rem;color:var(--muted)}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin:8px 0}
+.chip{border:1px solid var(--line);border-radius:999px;padding:2px 10px;font-size:.8rem;background:var(--bg2)}
+.chip.link{cursor:pointer;color:var(--accent2)}
+.chip.against{border-color:var(--danger);color:var(--danger)}
+.back{background:none;border:1px solid var(--line);color:var(--fg);font:inherit;padding:6px 12px;cursor:pointer;border-radius:3px;margin-bottom:10px}
+.desc{max-width:70ch}
+.artists{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:6px 14px;margin:8px 0 16px}
+.artists div{font-size:.9rem;min-width:0}
+.artists .yrs{color:var(--muted);font-size:.78rem;font-variant-numeric:tabular-nums}
+/* works gallery */
+.ctrl{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:12px}
+.ctrl select,.ctrl input{font:inherit;background:var(--panel);color:var(--fg);border:1px solid var(--line);padding:6px 8px;border-radius:3px;min-width:0}
+.ctrl input[type=search]{flex:1 1 180px}
+.ctrl label{font-size:.85rem;color:var(--muted);display:flex;align-items:center;gap:4px}
+.wall{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
+@media (max-width:700px){.wall{grid-template-columns:repeat(auto-fill,minmax(160px,1fr))}}
+.wk{background:var(--panel);border:1px solid var(--line);padding:0;cursor:pointer;text-align:left;color:inherit;font:inherit;display:flex;flex-direction:column;min-width:0}
+.wk:hover{border-color:var(--accent)}
+.wk .ph{aspect-ratio:1;background:var(--bg2);display:flex;align-items:center;justify-content:center;overflow:hidden;position:relative}
+.wk img{width:100%;height:100%;object-fit:cover;display:block}
+.wk .noimg{color:var(--muted);font-size:.72rem;text-align:center;padding:8px;font-family:var(--latin);font-style:italic}
+.wk .cap{padding:6px 8px;font-size:.78rem;line-height:1.35}
+.wk .cap b{display:block;font-weight:500;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.wk .cap span{color:var(--muted);display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.tag{position:absolute;top:4px;left:4px;font-size:.62rem;background:rgba(0,0,0,.55);color:#fff;padding:1px 6px;border-radius:999px}
+.more{display:block;margin:14px auto 0;background:var(--panel);border:1px solid var(--line);color:var(--fg);font:inherit;padding:8px 18px;cursor:pointer;border-radius:3px}
+/* lightbox */
+.lb{position:fixed;inset:0;background:rgba(10,10,12,.92);z-index:20;display:none;overflow:auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:calc(16px + env(safe-area-inset-top,0px)) calc(24px + env(safe-area-inset-bottom,0px))}
+.lb.on{display:block}
+.lbin{max-width:1800px;margin:0 auto;display:grid;grid-template-columns:minmax(0,7fr) minmax(0,3fr);gap:22px;color:#ebe7df}
+.lb.full .lbin{grid-template-columns:1fr;max-width:none}.lb.full .meta{display:none}
+.lb.full img{max-height:calc(100vh - 40px)}
+.hires{font-size:.78rem;color:#b9b3a7;margin-top:6px;display:flex;gap:12px;flex-wrap:wrap;align-items:center}
+.hires a{color:var(--accent2)}
+.hires button{background:none;border:1px solid #55555e;color:#ebe7df;font:inherit;font-size:.78rem;padding:2px 10px;cursor:pointer;border-radius:3px}
+@media (max-width:760px){.lbin{grid-template-columns:1fr}}
+.lbin img,.lbin canvas{max-width:100%;max-height:86vh;object-fit:contain;display:block;margin:0 auto;background:#000;cursor:zoom-in}
+.lbin img.pre{filter:blur(6px);opacity:.7}
+.lbin .meta h2{font-size:1.45rem;color:#ebe7df}
+.lbin .meta .en{font-family:var(--latin);font-style:italic;font-size:1.05rem;color:#b9b3a7}
+.lbin .meta p{margin:8px 0}
+.lbin .k{color:#b9b3a7;font-size:.8rem;letter-spacing:.08em}
+.lbin .mv{display:inline-block;border-left:4px solid var(--mc);padding-left:8px;cursor:pointer}
+.close{position:fixed;top:calc(10px + env(safe-area-inset-top,0px));right:calc(12px + env(safe-area-inset-right,0px));background:#2b2b31;color:#fff;border:1px solid #555;font:inherit;font-size:1.1rem;width:40px;height:40px;border-radius:50%;cursor:pointer;z-index:21}
+.nav{position:fixed;top:50%;transform:translateY(-50%);background:rgba(43,43,49,.8);color:#fff;border:1px solid #555;font-size:1.4rem;width:42px;height:60px;cursor:pointer;z-index:21}
+.nav.prev{left:calc(4px + env(safe-area-inset-left,0px))}.nav.next{right:calc(4px + env(safe-area-inset-right,0px))}
+.verif{font-size:.74rem;color:#b9b3a7;border-top:1px solid #444;padding-top:8px;margin-top:10px}
+/* graph */
+.gwrap{overflow-x:auto;border:1px solid var(--line);background:var(--bg2);border-radius:4px}
+.gwrap svg{display:block;min-width:1500px}
+.gwrap text{font-family:var(--sans);font-size:11px;fill:var(--fg)}
+.gwrap .node{cursor:pointer}
+.gwrap .node rect{stroke:var(--line)}
+.gwrap .node:hover rect{stroke:var(--fg);stroke-width:2}
+.legend{display:flex;gap:16px;font-size:.8rem;color:var(--muted);margin:8px 0}
+.legend i{display:inline-block;width:28px;border-top:2px solid var(--accent2);vertical-align:middle;margin-right:4px}
+.legend i.d{border-top-style:dashed;border-color:var(--danger)}
+/* quiz */
+.qbox{max-width:720px}
+.qmodes{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0 16px}
+.qmodes button,.opt,.qbtn{font:inherit;background:var(--panel);color:var(--fg);border:1px solid var(--line);padding:8px 14px;border-radius:3px;cursor:pointer;text-align:left}
+.qmodes button:hover,.opt:hover{border-color:var(--accent)}
+.qimg{aspect-ratio:4/3;background:#000;display:flex;align-items:center;justify-content:center;border:1px solid var(--line);margin-bottom:10px;max-width:100%}
+.qimg img,.qimg canvas{max-width:100%;max-height:100%;object-fit:contain}
+.opts{display:grid;gap:8px}
+.opt.ok{border-color:#5fa06a;background:rgba(95,160,106,.18)}
+.opt.bad{border-color:var(--danger);background:rgba(201,107,92,.18)}
+.opt[disabled]{cursor:default}
+.qmeta{display:flex;justify-content:space-between;color:var(--muted);font-size:.85rem;font-variant-numeric:tabular-nums}
+.reveal{background:var(--panel);border-left:4px solid var(--accent);padding:10px 12px;margin-top:10px}
+.reveal p{margin:4px 0}
+.score{font-family:var(--serif);font-size:1.5rem;margin:12px 0 6px}
+.hint{color:var(--accent);font-size:.85rem;margin-top:6px}
+.foot{margin-top:40px;color:var(--muted);font-size:.78rem;max-width:80ch;border-top:1px solid var(--line);padding-top:12px}
+@media (prefers-reduced-motion: no-preference){.wk,.mcard{transition:border-color .15s}}
+
+.lbin .chip{background:#2a2a30;color:#ebe7df;border-color:#55555e}
+.ix{display:grid;gap:22px}
+.ixsec{background:var(--panel);border:1px solid var(--line);padding:14px 16px}
+.ixsec h2{font-size:1.15rem;margin-bottom:4px}
+.ixsec .sub{color:var(--muted);font-size:.85rem;margin-bottom:10px}
+.ixsec .chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip.btn{cursor:pointer;color:inherit;font:inherit;font-size:.82rem}
+.chip.btn:hover{border-color:var(--accent)}
+.chip .n{color:var(--muted);margin-left:4px;font-size:.75rem}
+.ixsec input[type=search]{width:100%;max-width:420px;margin-bottom:8px;background:var(--bg2);border:1px solid var(--line);color:var(--fg);padding:6px 10px;font:inherit}
+.moreix{background:none;border:none;color:var(--accent2);cursor:pointer;font:inherit;padding:4px 0}
+.bio{background:var(--panel);border:1px solid var(--line);padding:14px 18px;margin:0 0 16px;display:grid;grid-template-columns:minmax(0,3fr) minmax(0,2fr);gap:18px}
+@media (max-width:760px){.bio{grid-template-columns:1fr}}
+.bio h3{font-size:1rem;color:var(--accent);margin:0 0 4px}
+.bio p{margin:0 0 10px}
+.bio ul{margin:0 0 10px;padding-left:18px}
+.bio .kw span{display:inline-block;margin:0 8px 4px 0;font-family:var(--latin);font-style:italic}
+.bio .lowc{color:var(--muted);font-size:.8rem}
+.lhead h2{font-size:1.35rem}.lhead .sub{color:var(--muted);margin-bottom:12px}
+.cent{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px}
+.cent button{background:var(--bg2);border:1px solid var(--line);color:inherit;font:inherit;padding:8px;cursor:pointer;text-align:left}
+.cent button b{display:block;font-family:var(--serif)}
+.cent button:hover{border-color:var(--accent)}
+.cap .mu{display:block;color:var(--muted);font-size:.72rem;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+</style>
+
+<header class="top">
+  <div class="brand"><h1>西洋雕刻演進大全集</h1><span class="lat">A Timeline of Western Sculpture</span><span class="stat" id="stat"></span></div>
+  <div class="tabs" role="tablist">
+    <button role="tab" aria-selected="true" data-v="index">索引</button>
+    <button role="tab" aria-selected="false" data-v="timeline">時間軸</button>
+    <button role="tab" aria-selected="false" data-v="movements">流派</button>
+    <button role="tab" aria-selected="false" data-v="graph">關係圖</button>
+    <button role="tab" aria-selected="false" data-v="works">作品</button>
+    <button role="tab" aria-selected="false" data-v="quiz">小測驗</button>
+  </div>
+</header>
+<main>
+  <section class="view" id="v-index">
+    <p class="lead">五種入口瀏覽同一批作品：依流派、年代、雕塑家、收藏館、主題。點任一項進入清單；清單中點作品看大圖與說明。</p>
+    <div class="ix" id="ix"></div>
+  </section>
+  <section class="view" id="v-list" hidden>
+    <button class="back" id="lback">‹ 返回</button>
+    <div class="lhead" id="lhead"></div>
+    <div class="bio" id="lbio" hidden></div>
+    <div class="wall" id="lwall"></div>
+  </section>
+  <section class="view" id="v-timeline" hidden>
+    <p class="lead">橫向捲動時間軸，顏色條是各時期／流派的起訖年代。點任一條展開：說明、代表雕塑家、作品與它承接或反對的流派。1000 年前的年代經過壓縮，1400 年之後按比例。</p>
+    <div class="tl-wrap"><div class="tl" id="tl"></div></div>
+  </section>
+  <section class="view" id="v-movements" hidden>
+    <div id="mlist">
+      <p class="lead">依年代排列的流派一覽。每張卡片顯示該流派在本集中的作品數與一件代表作。</p>
+      <div class="grid" id="mgrid"></div>
+    </div>
+    <div class="mdetail" id="mdetail"></div>
+  </section>
+  <section class="view" id="v-graph" hidden>
+    <p class="lead">誰承接誰、誰反對誰。橫軸是年代，實線是承接或影響，虛線是反動。點節點展開流派。</p>
+    <div class="legend"><span><i></i>承接／影響</span><span><i class="d"></i>反動</span></div>
+    <div class="gwrap" id="gwrap"></div>
+  </section>
+  <section class="view" id="v-works" hidden>
+    <div class="ctrl">
+      <select id="f-mov"><option value="">全部流派</option></select>
+      <select id="f-mus"><option value="">全部館藏</option></select>
+      <select id="f-th"><option value="">全部主題</option></select>
+      <select id="f-mat"><option value="">全部材質</option></select>
+      <input id="f-q" type="search" placeholder="搜尋雕塑家或作品名（中英文）">
+      <label><input type="checkbox" id="f-img" checked> 只看有圖的</label>
+      <span class="lbl" id="f-count"></span>
+    </div>
+    <div class="wall" id="wall"></div>
+    <button class="more" id="more">顯示更多</button>
+  </section>
+  <section class="view" id="v-quiz" hidden>
+    <div class="qbox">
+      <p class="lead">看圖作答，四選一。題目只出有圖的作品；答錯不扣分，每題有提示。成績存在這個瀏覽器裡。</p>
+      <div id="qhome">
+        <div class="qmodes" id="qmodes">
+          <button data-mode="r10">隨機 10 題</button>
+          <button data-mode="r20">隨機 20 題</button>
+          <button data-mode="wrong">只考錯過的</button>
+          <button data-mode="mov">依流派（選流派後開始）</button>
+        </div>
+        <select id="q-mov" hidden></select>
+        <p id="qrecord" class="lbl"></p>
+      </div>
+      <div id="qrun" hidden>
+        <div class="qmeta"><span id="qprog"></span><span id="qscore"></span></div>
+        <div class="qimg" id="qimgbox"></div>
+        <h3 id="qq"></h3>
+        <div class="opts" id="qopts"></div>
+        <button class="qbtn" id="qhint" style="margin-top:8px">提示</button>
+        <div class="hint" id="qhinttxt" hidden></div>
+        <div class="reveal" id="qreveal" hidden></div>
+        <button class="qbtn" id="qnext" hidden style="margin-top:10px">下一題</button>
+      </div>
+      <div id="qend" hidden></div>
+    </div>
+  </section>
+  <p class="foot" id="foot"></p>
+</main>
+
+<div class="lb" id="lb" role="dialog" aria-modal="true">
+  <button class="close" id="lbclose" aria-label="關閉">×</button>
+  <button class="nav prev" id="lbprev" aria-label="上一件">‹</button>
+  <button class="nav next" id="lbnext" aria-label="下一件">›</button>
+  <div class="lbin" id="lbin"></div>
+</div>
+
+<script>
+async function main(){
+const J=n=>fetch('data/'+n+'.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw new Error(n+' '+r.status);return r.json()});
+const [M,W,A,MU,TH,META]=await Promise.all([J('movements'),J('works'),J('artists'),J('museums'),J('themes'),J('meta')]);
+const BIO=await J('bios').catch(()=>({}));
+const MATS=await J('materials').catch(()=>[]);
+const D={foot:`資料版本 ${META.version}（${META.updated}）。圖源：Wikimedia Commons（公共領域作品之攝影，以自由授權照片為限）。資料與圖片皆在本 repo 的 data/ 與 img/，可直接修改擴充。`};
+const MI={}; M.forEach(m=>MI[m.id]=m);
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const az=a=>(A[a]&&A[a].zh)||a;
+const ayrs=a=>{const x=A[a];if(!x||!x.birth)return'';const f=y=>y<0?`前${-y}`:y;return `${f(x.birth)}–${x.death?f(x.death):''}`};
+const byMov={}; W.forEach(w=>{(byMov[w.m]=byMov[w.m]||[]).push(w)});
+function hiUrls(w){
+  if(!w.img_ext) return null;
+  if(w.src==='NGA'){const base=w.img_ext.split('/full/')[0];return {view:base+'/full/!2800,2800/0/default.jpg',orig:base+'/full/max/0/default.jpg'}}
+  if(w.src==='Commons'){const base=w.img_ext.split('?')[0];return {view:base+'?width=2800',orig:base}}
+  return null;
+}
+function bigImg(w,target,fallback){
+  if(!w.img&&!w.img_ext){target.innerHTML=fallback;return}
+  const hi=hiUrls(w); const my=target.dataset.cur=w.id;
+  target.innerHTML=`<img id="lbimg" src="${esc(w.img||hi.view)}" alt="${esc(w.z)}" onerror="this.outerHTML='<p class=noimg style=padding:30px>大圖載入失敗，請用右側館藏或來源連結查看。</p>'">
+  <div class="hires" id="hires">${hi?`<span id="histat">本地 800px，載入高解析度中…</span><a href="${esc(hi.orig)}" target="_blank" rel="noopener">開啟原檔（最高解析度）</a>`:'<span>僅本地 800px</span>'}<button id="fullbtn">全螢幕看圖</button></div>`;
+  const img=target.querySelector('#lbimg'); if(img) img.onclick=()=>document.getElementById('lb').classList.toggle('full');
+  const fb=target.querySelector('#fullbtn'); if(fb) fb.onclick=()=>document.getElementById('lb').classList.toggle('full');
+  if(hi){const pre=new Image();pre.onload=()=>{if(target.dataset.cur!==my)return;const im=target.querySelector('#lbimg');if(im){im.src=hi.view;im.style.cursor='zoom-in'}const st=target.querySelector('#histat');if(st)st.textContent=`高解析度 ${pre.naturalWidth}×${pre.naturalHeight}（線上載入自 ${w.src}）`};pre.onerror=()=>{const st=target.querySelector('#histat');if(st)st.textContent='高解析度版本載入失敗，顯示本地 800px'};pre.src=hi.view}
+}
+const yearNum=s=>{const m=String(s).match(/(\d{3,4})/);if(!m)return null;let y=+m[1];if(/BC/.test(s))y=-y;return y};
+document.getElementById('stat').textContent=`${M.length} 流派 · ${Object.keys(A).length} 雕塑家 · ${W.length} 作品（${W.filter(w=>w.img).length} 有圖）· ${Object.keys(MU).length} 館藏`;
+/* tabs */
+const views=[...document.querySelectorAll('.view')], tabs=[...document.querySelectorAll('.tabs button')];
+function show(v){views.forEach(s=>s.hidden=s.id!=='v-'+v);if(v==='movements'){}tabs.forEach(b=>b.setAttribute('aria-selected',b.dataset.v===v));try{localStorage.setItem('ah.tab',v)}catch(e){}}
+tabs.forEach(b=>b.onclick=()=>show(b.dataset.v));
+/* timeline scale */
+const segs=[[-800,1000,0,120],[1000,1400,120,320],[1400,1900,320,1420],[1900,2030,1420,1820]];
+const X=y=>{for(const[a,b,x0,x1]of segs){if(y<=b)return x0+(y-a)/(b-a)*(x1-x0)}return 1820};
+function buildTimeline(){
+  const tl=document.getElementById('tl'); const sorted=[...M].sort((a,b)=>a.start-b.start);
+  const lanes=[]; const laneEnd=[];
+  sorted.forEach(m=>{let x0=X(m.start),x1=Math.max(X(m.end),x0+46);let L=laneEnd.findIndex(e=>e<x0-4);if(L<0){L=laneEnd.length;laneEnd.push(0)}laneEnd[L]=x1;m._lane=L;m._x0=x0;m._x1=x1});
+  const H=40+laneEnd.length*27+22; tl.style.setProperty('--tlh',H+'px');
+  let h='';
+  const eras=[['古代',-800],['中世紀',330],['文藝復興',1400],['巴洛克',1600],['18–19世紀',1760],['現代',1860],['戰後',1943]];
+  eras.forEach(([n,y])=>h+=`<div class="era" style="left:${X(y)}px">${n}</div>`);
+  [-500,0,500,1000,1200,1400,1500,1600,1700,1800,1850,1900,1950,2000].forEach(y=>h+=`<div class="tick" style="left:${X(y)}px">${y<0?'前'+(-y):y}</div>`);
+  sorted.forEach(m=>h+=`<button class="bar" style="left:${m._x0}px;width:${m._x1-m._x0}px;top:${34+m._lane*27}px;background:${m.color}" data-m="${m.id}" title="${esc(m.zh)} ${m.start}–${m.end}">${esc(m.zh)}</button>`);
+  tl.innerHTML=h; tl.querySelectorAll('.bar').forEach(b=>b.onclick=()=>openMov(b.dataset.m));
+}
+/* movements */
+function cover(m){const ws=(byMov[m.id]||[]).filter(w=>w.thumb);return ws.length?ws[0].thumb:null}
+function buildMovs(){
+  const g=document.getElementById('mgrid'); const s=[...M].sort((a,b)=>a.start-b.start);
+  g.innerHTML=s.map(m=>{const c=cover(m);return `<button class="mcard" style="--mc:${m.color}" data-m="${m.id}">${c?`<img src="${esc(c)}" alt="" loading="lazy" onerror="this.remove()">`:''}<h3>${esc(m.zh)}</h3><span class="en">${esc(m.en)}</span><span class="yr">${fmtY(m.start)}–${fmtY(m.end)} · ${(byMov[m.id]||[]).length} 件</span></button>`}).join('');
+  g.querySelectorAll('.mcard').forEach(b=>b.onclick=()=>openMov(b.dataset.m));
+}
+const fmtY=y=>y<0?`前${-y}`:y;
+function openMov(id){
+  const m=MI[id]; show('movements');
+  document.getElementById('mlist').hidden=true; const d=document.getElementById('mdetail'); d.classList.add('on');
+  const ws=(byMov[id]||[]).slice().sort((a,b)=>(yearNum(a.y)||0)-(yearNum(b.y)||0));
+  const rel=(ids,cls)=>ids.map(i=>MI[i]?`<span class="chip link ${cls}" data-m="${i}">${esc(MI[i].zh)}</span>`:'').join('');
+  const heirs=M.filter(x=>x.from.includes(id)).map(x=>x.id), rebels=M.filter(x=>x.against.includes(id)).map(x=>x.id);
+  d.innerHTML=`<button class="back" id="mback">‹ 回流派一覽</button>
+  <div class="mhead" style="--mc:${m.color}"><h2>${esc(m.zh)}</h2><div class="en">${esc(m.en)} · ${fmtY(m.start)}–${fmtY(m.end)}</div></div>
+  <p class="desc">${esc(m.desc)}</p>
+  <div class="chips">${m.traits.map(t=>`<span class="chip">${esc(t)}</span>`).join('')}</div>
+  ${m.from.length?`<p><span class="lbl">承接自</span>&nbsp; <span class="chips" style="display:inline-flex">${rel(m.from,'')}</span></p>`:''}
+  ${m.against.length?`<p><span class="lbl">反動於</span>&nbsp; <span class="chips" style="display:inline-flex">${rel(m.against,'against')}</span></p>`:''}
+  ${heirs.length?`<p><span class="lbl">影響了</span>&nbsp; <span class="chips" style="display:inline-flex">${rel(heirs,'')}</span></p>`:''}
+  ${rebels.length?`<p><span class="lbl">被誰反對</span>&nbsp; <span class="chips" style="display:inline-flex">${rel(rebels,'against')}</span></p>`:''}
+  <h3 style="margin-top:14px">代表雕塑家</h3>
+  <div class="artists">${m.artists.map(a=>`<div><b>${esc(az(a))}</b> <span class="yrs">${esc(a)} ${ayrs(a)}</span></div>`).join('')}</div>
+  <h3>作品（${ws.length}）</h3>
+  <div class="wall" id="mwall"></div>`;
+  d.querySelector('#mback').onclick=()=>{d.classList.remove('on');document.getElementById('mlist').hidden=false};
+  d.querySelectorAll('.chip.link').forEach(c=>c.onclick=()=>openMov(c.dataset.m));
+  renderWall(d.querySelector('#mwall'),ws,ws);
+  window.scrollTo({top:0});
+}
+/* works wall */
+function card(w,list){
+  return `<button class="wk" data-id="${w.id}"><div class="ph">${w.thumb?`<img src="${esc(w.img||w.thumb)}" alt="${esc(w.z)}" loading="lazy" onerror="this.parentNode.innerHTML='<div class=noimg>圖片載入失敗<br>點開看館藏連結</div>'">`:`<div class="noimg">${w.pd?'查無圖檔':'受著作權保護'}<br>點開看連結</div>`}<span class="tag">${esc(MI[w.m].zh)}</span></div><div class="cap"><b>${esc(w.z)}</b><span>${esc(az(w.a))} · ${esc(w.y)}</span><span class="mu">${esc(muZh(w))}</span></div></button>`;
+}
+let curList=[];
+function renderWall(el,ws,list){el.innerHTML=ws.map(w=>card(w)).join('');el.querySelectorAll('.wk').forEach(b=>b.onclick=()=>openLb(b.dataset.id,list))}
+let filtered=[], shown=0; const PAGE=80;
+function applyFilter(){
+  const mv=document.getElementById('f-mov').value, q=document.getElementById('f-q').value.trim().toLowerCase(), oi=document.getElementById('f-img').checked, mus=document.getElementById('f-mus').value, th=document.getElementById('f-th').value, mat=document.getElementById('f-mat').value;
+  filtered=W.filter(w=>(!mv||w.m===mv)&&(!mus||w.mu_id===mus)&&(!th||w.th.includes(th))&&(!mat||w.mat===mat)&&(!oi||w.img)&&(!q||(w.z+w.t+w.a+az(w.a)+w.mu).toLowerCase().includes(q)));
+  filtered.sort((a,b)=>(MI[a.m].start-MI[b.m].start)||((yearNum(a.y)||0)-(yearNum(b.y)||0)));
+  shown=0; document.getElementById('wall').innerHTML=''; moreWall();
+  document.getElementById('f-count').textContent=`${filtered.length} 件`;
+}
+function moreWall(){const el=document.getElementById('wall');const part=filtered.slice(shown,shown+PAGE);el.insertAdjacentHTML('beforeend',part.map(w=>card(w)).join(''));shown+=part.length;el.querySelectorAll('.wk:not([data-b])').forEach(b=>{b.dataset.b=1;b.onclick=()=>openLb(b.dataset.id,filtered)});document.getElementById('more').hidden=shown>=filtered.length}
+/* lightbox */
+let lbList=[], lbIdx=0;
+function openLb(id,list){lbList=list;lbIdx=list.findIndex(w=>w.id===id);drawLb();document.getElementById('lb').classList.add('on');document.body.style.overflow='hidden'}
+function closeLb(){document.getElementById('lb').classList.remove('on');document.getElementById('lb').classList.remove('full');document.body.style.overflow=''}
+function drawLb(){
+  const w=lbList[lbIdx]; const m=MI[w.m];
+  document.getElementById('lbin').innerHTML=`<div id="lbpic"></div>
+  <div class="meta"><h2>${esc(w.z)}</h2><div class="en">${esc(w.t)}</div>
+  <p><span class="mv" style="--mc:${m.color}" data-m="${m.id}">${esc(m.zh)} · ${esc(m.en)}</span></p>
+  <p><span class="k">雕塑家</span><br><span class="link" style="cursor:pointer;text-decoration:underline dotted" id="lbart">${esc(az(w.a))}　${esc(w.a)}</span> ${ayrs(w.a)}</p>
+  <p><span class="k">年代</span><br>${esc(w.y)}</p>
+  <p><span class="k">館藏</span><br><span class="link" style="cursor:pointer;text-decoration:underline dotted" id="lbmu">${esc(muZh(w))}</span>${MU[w.mu_id]&&MU[w.mu_id].zh?`<br><span class="lbl">${esc(w.mu)}</span>`:''}</p>
+  <p><span class="k">材質</span><br>${esc(w.mat||'—')}</p>
+  <p><span class="k">主題</span><br>${w.th.map(t=>`<span class="chip btn" data-th="${esc(t)}">${esc(t)}</span>`).join(' ')}</p>
+  ${w.n?`<p><span class="k">說明</span><br>${esc(w.n)}</p>`:''}
+  <p><span class="k">連結</span><br>${w.src_url?`<a href="${esc(w.src_url)}" target="_blank" rel="noopener">${w.src==='NGA'?'NGA 館藏頁':w.src==='Commons'?'Wikimedia Commons 檔案頁':'在 Wikipedia 搜尋'}</a>`:''}</p>
+  <div class="verif">圖檔來源／查證狀態：${esc(w.verif)}${w.wd?` · <a href="https://www.wikidata.org/wiki/${esc(w.wd.q)}" target="_blank" rel="noopener">Wikidata</a>${w.wd.y&&w.wd.y.length?`（Wikidata 年代 ${w.wd.y.join('/')}${w.wd.mu&&w.wd.mu.length?'，館藏 '+esc(w.wd.mu[0]):''}）`:''}`:''}${w.wd_flag?`<br><span style="color:var(--danger)">⚠ ${esc(w.wd_flag)}</span>`:''}${w.n?'。說明文字為編者撰寫的導覽式摘要。':''}</div></div>`;
+  bigImg(w,document.getElementById('lbpic'),`<p class="noimg" style="padding:40px 10px;text-align:center">${w.pd?'這件作品經搜尋仍未找到可確認的公開圖檔。':'這件作品仍受著作權保護，本集不嵌入圖片。'}<br>請用右側連結查看。</p>`);
+  document.querySelector('#lbin .mv').onclick=()=>{closeLb();openMov(m.id)};
+  document.getElementById('lbart').onclick=()=>{closeLb();openArtist(w.a)};
+  document.getElementById('lbmu').onclick=()=>{closeLb();openMuseum(w.mu_id)};
+  document.querySelectorAll('#lbin .chip[data-th]').forEach(c=>c.onclick=()=>{closeLb();openTheme(c.dataset.th)});
+}
+/* ---- index / lists ---- */
+const muZh=w=>(MU[w.mu_id]&&MU[w.mu_id].zh)||w.mu;
+const sortW=ws=>ws.slice().sort((a,b)=>(MI[a.m].start-MI[b.m].start)||((yearNum(a.y)||0)-(yearNum(b.y)||0)));
+const byArt={}; W.forEach(w=>{(byArt[w.a]=byArt[w.a]||[]).push(w)});
+let listBack='index';
+function openList(title,sub,ws,back){
+  listBack=back||'index'; show('list'); document.getElementById('lbio').hidden=true; document.getElementById('lhead').innerHTML=`<h2>${title}</h2><div class="sub">${sub}</div>`;
+  const s=sortW(ws); renderWall(document.getElementById('lwall'),s,s); window.scrollTo({top:0});
+}
+document.getElementById('lback').onclick=()=>show(listBack);
+function openArtist(a){
+  const x=A[a]||{}; const ws=byArt[a]||[]; const movs=[...new Set(ws.map(w=>w.m))].map(i=>`<span class="chip btn" data-m="${i}">${esc(MI[i].zh)}</span>`).join(' ');
+  openList(`${esc(x.zh||a)} <span class="lat" style="font-size:1rem;color:var(--muted)">${esc(a)}</span>`,
+    `${ayrs(a)}${x.nat?' · '+esc(x.nat):''} · ${ws.length} 件作品 · 流派：${movs||'—'}`, ws);
+  document.querySelectorAll('#lhead .chip[data-m]').forEach(c=>c.onclick=()=>openMov(c.dataset.m));
+  const b=BIO[a]; const el=document.getElementById('lbio');
+  if(b){el.hidden=false;el.innerHTML=`<div><h3>生平</h3><p>${esc(b.bio)}</p>${b.anecdote?`<h3>軼事</h3><p>${esc(b.anecdote)}</p>`:''}</div>
+  <div><h3>作品特色</h3><ul>${(b.style||[]).map(x=>`<li>${esc(x)}</li>`).join('')}</ul>${b.keyworks&&b.keyworks.length?`<h3>代表作</h3><div class="kw">${b.keyworks.map(x=>`<span>${esc(x)}</span>`).join('')}</div>`:''}${b.aka&&b.aka.length?`<p class="lowc">別譯：${b.aka.map(esc).join('、')}</p>`:''}${b.confidence==='low'?'<p class="lowc">此雕塑家史料稀少，介紹為概略，可信度低。</p>':''}<p class="lowc">介紹文字由編者整理，未逐條查證原始文獻。</p></div>`}
+}
+function openMuseum(id){const mu=MU[id];const ws=W.filter(w=>w.mu_id===id);openList(esc(mu?(mu.zh||mu.en):id),`${mu?esc(mu.en):''}${mu&&mu.city?' · '+esc(mu.city):''}${mu&&mu.country?' · '+esc(mu.country):''} · ${ws.length} 件`,ws)}
+function openMat(t){const ws=W.filter(w=>w.mat===t);openList(esc(t),`依主要材質 · ${ws.length} 件`,ws)}
+function openTheme(t){const ws=W.filter(w=>w.th.includes(t));openList(esc(t),`主題分類為編者依題名與流派初分，可能有誤 · ${ws.length} 件`,ws)}
+function openCentury(c0){const ws=W.filter(w=>{const y=yearNum(w.y);return y!==null&&y>=c0&&y<c0+100});openList(fmtC(c0),`依作品年代 · ${ws.length} 件`,ws)}
+const fmtC=c=>c<0?`西元前 ${-c}–${-(c+100)||1} 年`:`${c}–${c+99} 年（${Math.floor(c/100)+1} 世紀）`;
+function buildIndex(){
+  const ix=document.getElementById('ix'); const sec=(t,sub,body,id)=>`<section class="ixsec" id="ix-${id}"><h2>${t}</h2><div class="sub">${sub}</div>${body}</section>`;
+  // movements
+  const mv=[...M].sort((a,b)=>a.start-b.start).map(m=>`<span class="chip btn" style="border-left:4px solid ${m.color}" data-m="${m.id}">${esc(m.zh)}<span class="n">${(byMov[m.id]||[]).length}</span></span>`).join('');
+  // centuries
+  const cents={}; W.forEach(w=>{const y=yearNum(w.y);if(y===null)return;const c=Math.floor(y/100)*100;cents[c]=(cents[c]||0)+1});
+  const ce=Object.keys(cents).map(Number).sort((a,b)=>a-b).map(c=>`<button data-c="${c}"><b>${fmtC(c)}</b><span class="lbl">${cents[c]} 件</span></button>`).join('');
+  // artists
+  const arts=Object.keys(byArt).sort((a,b)=>byArt[b].length-byArt[a].length||((A[a]&&A[a].birth)||0)-((A[b]&&A[b].birth)||0));
+  const artChip=a=>`<span class="chip btn" data-a="${esc(a)}">${esc(az(a))}<span class="n">${byArt[a].length}</span></span>`;
+  const artBody=`<input type="search" id="ix-aq" placeholder="搜尋雕塑家（中英文）"><div class="chips" id="ix-al">${arts.slice(0,60).map(artChip).join('')}</div><button class="moreix" id="ix-amore">顯示全部 ${arts.length} 位（依出生年）</button>`;
+  // museums
+  const mus=Object.entries(MU).sort((a,b)=>b[1].count-a[1].count);
+  const muChip=([k,v])=>`<span class="chip btn" data-mu="${k}">${esc(v.zh||v.en)}<span class="n">${v.count}</span></span>`;
+  const muBody=`<div class="chips" id="ix-ml">${mus.slice(0,40).map(muChip).join('')}</div><button class="moreix" id="ix-mmore">顯示全部 ${mus.length} 個館藏</button>`;
+  // themes
+  const th=TH.map(t=>`<span class="chip btn" data-th="${esc(t.id)}">${esc(t.zh)}<span class="n">${W.filter(w=>w.th.includes(t.id)).length}</span></span>`).join('');
+  ix.innerHTML=sec('依流派','43 個流派，依起始年代排列；點入看說明、關係與作品。',`<div class="chips">${mv}</div>`,'mov')
+    +sec('依時間','依作品年代分世紀。','<div class="cent">'+ce+'</div>','time')
+    +sec('依雕塑家',`${arts.length} 位雕塑家，先列作品數最多的 60 位。`,artBody,'art')
+    +sec('依收藏博物館','以館藏所在地分類；中文館名空白者尚未補齊，先以英文顯示。',muBody,'mus')
+    +sec('依主題','一件作品可屬多個主題。',`<div class="chips">${th}</div>`,'th')
+    +sec('依材質','雕塑的材質決定技法與形式：鑿刻（大理石、木）與塑造鑄造（青銅、陶）兩大系統。',`<div class="chips">${MATS.map(t=>`<span class="chip btn" data-mat="${esc(t.id)}">${esc(t.zh)}<span class="n">${W.filter(w=>w.mat===t.id).length}</span></span>`).join('')}</div>`,'mat');
+  const bind=()=>{ix.querySelectorAll('[data-m]').forEach(c=>c.onclick=()=>openMov(c.dataset.m));ix.querySelectorAll('[data-c]').forEach(c=>c.onclick=()=>openCentury(+c.dataset.c));ix.querySelectorAll('[data-a]').forEach(c=>c.onclick=()=>openArtist(c.dataset.a));ix.querySelectorAll('[data-mu]').forEach(c=>c.onclick=()=>openMuseum(c.dataset.mu));ix.querySelectorAll('[data-th]').forEach(c=>c.onclick=()=>openTheme(c.dataset.th));ix.querySelectorAll('[data-mat]').forEach(c=>c.onclick=()=>openMat(c.dataset.mat))};
+  bind();
+  document.getElementById('ix-amore').onclick=e=>{document.getElementById('ix-al').innerHTML=arts.slice().sort((a,b)=>((A[a]&&A[a].birth)||0)-((A[b]&&A[b].birth)||0)).map(artChip).join('');e.target.remove();bind()};
+  document.getElementById('ix-mmore').onclick=e=>{document.getElementById('ix-ml').innerHTML=mus.map(muChip).join('');e.target.remove();bind()};
+  document.getElementById('ix-aq').addEventListener('input',e=>{const q=e.target.value.trim().toLowerCase();const hit=q?arts.filter(a=>(a+az(a)).toLowerCase().includes(q)):arts.slice(0,60);document.getElementById('ix-al').innerHTML=hit.map(artChip).join('');bind()});
+}
+document.getElementById('lbclose').onclick=closeLb;
+document.getElementById('lbprev').onclick=()=>{lbIdx=(lbIdx-1+lbList.length)%lbList.length;drawLb()};
+document.getElementById('lbnext').onclick=()=>{lbIdx=(lbIdx+1)%lbList.length;drawLb()};
+document.addEventListener('keydown',e=>{if(!document.getElementById('lb').classList.contains('on'))return;if(e.key==='Escape')closeLb();if(e.key==='ArrowLeft')document.getElementById('lbprev').click();if(e.key==='ArrowRight')document.getElementById('lbnext').click()});
+/* graph */
+function buildGraph(){
+  const s=[...M].sort((a,b)=>a.start-b.start); const GX=y=>60+(X(y))*0.78; const lanes=[];
+  s.forEach(m=>{const x0=GX(m.start);let L=lanes.findIndex(e=>e<x0-10);if(L<0){L=lanes.length;lanes.push(0)}lanes[L]=x0+130;m._gx=x0;m._gy=30+L*44});
+  const Hh=lanes.length*44+60, Ww=1560;
+  let edges='';
+  s.forEach(m=>{[...m.from.map(f=>[f,0]),...m.against.map(f=>[f,1])].forEach(([f,d])=>{const p=MI[f];if(!p)return;const x1=p._gx+128,y1=p._gy+12,x2=m._gx,y2=m._gy+12;const cx=(x1+x2)/2;edges+=`<path d="M${x1},${y1} C${cx},${y1} ${cx},${y2} ${x2},${y2}" fill="none" stroke="${d?'var(--danger)':'var(--accent2)'}" stroke-width="1.4" ${d?'stroke-dasharray="5 4"':''} opacity=".75"/>`})});
+  const nodes=s.map(m=>`<g class="node" data-m="${m.id}" transform="translate(${m._gx},${m._gy})"><rect width="128" height="24" rx="3" fill="${m.color}"/><text x="6" y="16" fill="#fff" style="fill:#fff;font-weight:500">${esc(m.zh)}</text></g>`).join('');
+  document.getElementById('gwrap').innerHTML=`<svg viewBox="0 0 ${Ww} ${Hh}" width="${Ww}" height="${Hh}">${edges}${nodes}</svg>`;
+  document.querySelectorAll('.gwrap .node').forEach(n=>n.onclick=()=>openMov(n.dataset.m));
+}
+/* quiz */
+const QW=W.filter(w=>w.sh); let Q=null;
+const centuryOf=y=>{const n=yearNum(y);if(n===null)return null;return n<0?`西元前${Math.ceil(-n/100)}世紀`:`${Math.floor((n-1)/100)+1}世紀`};
+const shuffle=a=>{for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
+function loadRec(){try{return JSON.parse(localStorage.getItem('ah.quiz')||'{}')}catch(e){return{}}}
+function saveRec(r){try{localStorage.setItem('ah.quiz',JSON.stringify(r))}catch(e){}}
+function qRecordText(){const r=loadRec();const n=(r.history||[]).length;document.getElementById('qrecord').textContent=n?`已作答 ${n} 回合，最佳 ${Math.max(...r.history.map(h=>h.pct))}%，錯題庫 ${(r.wrong||[]).length} 題`:'尚無作答紀錄'}
+function makeQ(w){
+  const types=['artist','mov','title','century'].filter(t=>t!=='century'||centuryOf(w.y));
+  const t=types[Math.floor(Math.random()*types.length)]; let q,ans,pool;
+  if(t==='artist'){q='這幅畫的雕塑家是誰？';ans=az(w.a);pool=shuffle([...new Set(QW.filter(x=>x.a!==w.a&&MI[x.m].era!==MI[w.m].era||x.a!==w.a&&Math.random()<.3).map(x=>az(x.a)))])}
+  else if(t==='mov'){q='這幅畫屬於哪個流派？';ans=MI[w.m].zh;pool=shuffle(M.filter(m=>m.id!==w.m).map(m=>m.zh))}
+  else if(t==='title'){q='這幅畫的名字是？';ans=w.z;pool=shuffle(QW.filter(x=>x.id!==w.id&&x.z!==w.z).map(x=>x.z))}
+  else{q='這幅畫大約是哪個世紀的作品？';ans=centuryOf(w.y);const c=yearNum(w.y);pool=shuffle([...new Set([c-200,c-100,c+100,c+200,c+300,c-300].filter(y=>y>-800&&y<2030).map(y=>centuryOf(String(y))))].filter(x=>x!==ans))}
+  const opts=shuffle([ans,...pool.filter(x=>x&&x!==ans).slice(0,3)]);
+  const hint=t==='artist'?`提示：${A[w.a]?.nat||'?'}雕塑家，${ayrs(w.a)}；流派是${MI[w.m].zh}`:t==='mov'?`提示：${esc(w.y)}，雕塑家是${az(w.a)}`:t==='title'?`提示：雕塑家是${az(w.a)}，館藏在 ${w.mu}`:`提示：流派是${MI[w.m].zh}，雕塑家${ayrs(w.a)}`;
+  return {w,q,ans,opts,hint,t};
+}
+function startQuiz(list,label){
+  if(list.length<4){document.getElementById('qrecord').textContent='這個範圍有圖的作品不足 4 件，無法出題。';return}
+  Q={items:shuffle(list.slice()).map(makeQ),i:0,score:0,wrong:[],label};
+  document.getElementById('qhome').hidden=true;document.getElementById('qend').hidden=true;document.getElementById('qrun').hidden=false;drawQ();
+}
+function drawQ(){
+  const it=Q.items[Q.i];
+  document.getElementById('qprog').textContent=`${Q.label} · 第 ${Q.i+1} / ${Q.items.length} 題`;document.getElementById('qscore').textContent=`答對 ${Q.score}`;
+  bigImg(it.w,document.getElementById('qimgbox'),'');
+  document.getElementById('qq').textContent=it.q;
+  document.getElementById('qopts').innerHTML=it.opts.map(o=>`<button class="opt">${esc(o)}</button>`).join('');
+  document.getElementById('qhinttxt').hidden=true;document.getElementById('qhinttxt').textContent=it.hint;document.getElementById('qhint').hidden=false;
+  document.getElementById('qreveal').hidden=true;document.getElementById('qnext').hidden=true;
+  document.querySelectorAll('#qopts .opt').forEach(b=>b.onclick=()=>answer(b,it));
+}
+function answer(b,it){
+  const ok=b.textContent===it.ans; document.querySelectorAll('#qopts .opt').forEach(x=>{x.disabled=true;if(x.textContent===it.ans)x.classList.add('ok')});if(!ok){b.classList.add('bad');Q.wrong.push(it.w.id)}else Q.score++;
+  document.getElementById('qscore').textContent=`答對 ${Q.score}`;
+  const w=it.w;document.getElementById('qreveal').innerHTML=`<p><b>${esc(w.z)}</b> <span class="en" style="color:var(--muted)">${esc(w.t)}</span></p><p>${esc(az(w.a))} · ${esc(w.y)} · ${esc(MI[w.m].zh)}</p><p>${esc(w.mu)}</p>${w.n?`<p>${esc(w.n)}</p>`:''}`;
+  document.getElementById('qreveal').hidden=false;document.getElementById('qnext').hidden=false;document.getElementById('qhint').hidden=true;
+}
+document.getElementById('qhint').onclick=()=>{document.getElementById('qhinttxt').hidden=false};
+document.getElementById('qnext').onclick=()=>{Q.i++;if(Q.i<Q.items.length)drawQ();else endQuiz()};
+function endQuiz(){
+  const pct=Math.round(Q.score/Q.items.length*100);const rank=pct>=90?'策展人':pct>=70?'導覽志工':pct>=50?'認真看展的人':'路過的觀眾';
+  const r=loadRec();r.history=[...(r.history||[]),{pct,n:Q.items.length,d:new Date().toISOString().slice(0,10)}];r.wrong=[...new Set([...(r.wrong||[]),...Q.wrong])].filter(id=>!Q.items.some(it=>it.w.id===id&&!Q.wrong.includes(id)));saveRec(r);
+  document.getElementById('qrun').hidden=true;const e=document.getElementById('qend');e.hidden=false;
+  e.innerHTML=`<div class="score">${Q.score} / ${Q.items.length}（${pct}%）— ${rank}</div><p>${Q.wrong.length?`錯了 ${Q.wrong.length} 題，已存進錯題庫。`:'全對！'}</p><button class="qbtn" id="qagain">回測驗首頁</button>`;
+  e.querySelector('#qagain').onclick=()=>{e.hidden=true;document.getElementById('qhome').hidden=false;qRecordText()};
+}
+document.querySelectorAll('#qmodes button').forEach(b=>b.onclick=()=>{const m=b.dataset.mode;const sel=document.getElementById('q-mov');
+  if(m==='r10')startQuiz(shuffle(QW.slice()).slice(0,10),'隨機 10 題');
+  else if(m==='r20')startQuiz(shuffle(QW.slice()).slice(0,20),'隨機 20 題');
+  else if(m==='wrong'){const ids=new Set((loadRec().wrong||[]));startQuiz(QW.filter(w=>ids.has(w.id)),'錯題複習')}
+  else{sel.hidden=false;sel.focus()}});
+document.getElementById('q-mov').onchange=e=>{const id=e.target.value;if(id)startQuiz(QW.filter(w=>w.m===id).slice(0,15),MI[id].zh)};
+/* init */
+buildTimeline();buildMovs();buildGraph();
+const fm=document.getElementById('f-mov');[...M].sort((a,b)=>a.start-b.start).forEach(m=>fm.insertAdjacentHTML('beforeend',`<option value="${m.id}">${esc(m.zh)}（${(byMov[m.id]||[]).length}）</option>`));
+const qm=document.getElementById('q-mov');qm.innerHTML='<option value="">選流派…</option>'+[...M].sort((a,b)=>a.start-b.start).filter(m=>QW.filter(w=>w.m===m.id).length>=4).map(m=>`<option value="${m.id}">${esc(m.zh)}（${QW.filter(w=>w.m===m.id).length} 件有圖）</option>`).join('');
+['f-mov','f-q','f-img','f-mus','f-th','f-mat'].forEach(id=>document.getElementById(id).addEventListener('input',applyFilter));
+document.getElementById('f-mus').insertAdjacentHTML('beforeend',Object.entries(MU).sort((a,b)=>b[1].count-a[1].count).map(([k,v])=>`<option value="${k}">${esc(v.zh||v.en)}（${v.count}）</option>`).join(''));
+document.getElementById('f-th').insertAdjacentHTML('beforeend',TH.map(t=>`<option value="${t.id}">${esc(t.zh)}</option>`).join(''));
+document.getElementById('f-mat').insertAdjacentHTML('beforeend',MATS.map(t=>`<option value="${t.id}">${esc(t.zh)}</option>`).join(''));
+document.getElementById('more').onclick=moreWall;
+applyFilter();qRecordText();
+document.getElementById('foot').textContent=D.foot;
+buildIndex();
+try{const t=localStorage.getItem('ah.tab');if(t&&document.getElementById('v-'+t)&&t!=='list')show(t)}catch(e){}
+}
+main().catch(e=>{document.querySelector('main').insertAdjacentHTML('afterbegin',`<p class="lead" style="color:var(--danger)">資料載入失敗：${e.message}。若是直接雙擊開啟 index.html，瀏覽器會擋 fetch，請透過 GitHub Pages 或本機 http 伺服器開啟。</p>`)});
+</script>
+</body></html>
