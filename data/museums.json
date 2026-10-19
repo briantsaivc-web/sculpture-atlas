@@ -1110,7 +1110,7 @@
   "zh": "布達佩斯美術館",
   "city": "Budapest",
   "country": "匈牙利",
-  "count": 1
+  "count": 3
  },
  "loggia_dei_lanzi_florence": {
   "en": "Loggia dei Lanzi, Florence",
@@ -2566,7 +2566,7 @@
   "zh": "科隆",
   "city": "Cologne",
   "country": "德國",
-  "count": 1
+  "count": 3
  },
  "place_du_trocad_ro_paris": {
   "en": "Place du Trocadéro, Paris",
@@ -4225,7 +4225,7 @@
   "zh": "收藏地不詳",
   "city": "",
   "country": "",
-  "count": 408
+  "count": 1118
  },
  "lost": {
   "en": "Lost",
@@ -4233,5 +4233,1447 @@
   "city": "",
   "country": "",
   "count": 91
+ },
+ "cleveland_museum_of_art": {
+  "en": "Cleveland Museum of Art",
+  "zh": "克里夫蘭藝術博物館",
+  "city": "克里夫蘭",
+  "country": "美國",
+  "count": 15
+ },
+ "naples_national_archaeological_museum": {
+  "en": "Naples National Archaeological Museum",
+  "zh": "那不勒斯國家考古博物館",
+  "city": "那不勒斯",
+  "country": "義大利",
+  "count": 1
+ },
+ "antikensammlung_berlin": {
+  "en": "Antikensammlung Berlin",
+  "zh": "柏林古代文物博物館",
+  "city": "柏林",
+  "country": "德國",
+  "count": 1
+ },
+ "national_archaeological_museum_of_athens": {
+  "en": "National Archaeological Museum of Athens",
+  "zh": "雅典國家考古博物館",
+  "city": "雅典",
+  "country": "希臘",
+  "count": 6
+ },
+ "regional_archaeological_museum_antonino_salinas": {
+  "en": "Regional Archaeological Museum Antonino Salinas",
+  "zh": "安東尼諾·薩利納斯區域考古博物館",
+  "city": "巴勒摩",
+  "country": "義大利",
+  "count": 1
+ },
+ "delphi_archaeological_museum": {
+  "en": "Delphi Archaeological Museum",
+  "zh": "德爾菲考古博物館",
+  "city": "德爾菲",
+  "country": "希臘",
+  "count": 1
+ },
+ "museum_of_the_collegiate_church_of_sant_andrea": {
+  "en": "Museum of the Collegiate Church of Sant’Andrea",
+  "zh": "",
+  "city": "UNKNOWN",
+  "country": "義大利",
+  "count": 2
+ },
+ "metropolitan_museum_of_art": {
+  "en": "Metropolitan Museum of Art",
+  "zh": "大都會藝術博物館",
+  "city": "紐約",
+  "country": "美國",
+  "count": 33
+ },
+ "bode_museum": {
+  "en": "Bode Museum",
+  "zh": "博德博物館",
+  "city": "柏林",
+  "country": "德國",
+  "count": 12
+ },
+ "museo_dell_opera_del_duomo": {
+  "en": "Museo dell'Opera del Duomo",
+  "zh": "主教座堂博物館",
+  "city": "UNKNOWN",
+  "country": "義大利",
+  "count": 13
+ },
+ "victoria_and_albert_museum": {
+  "en": "Victoria and Albert Museum",
+  "zh": "維多利亞與艾伯特博物館",
+  "city": "倫敦",
+  "country": "英國",
+  "count": 10
+ },
+ "skulpturensammlung_und_museum_f_r_byzantinische_kunst": {
+  "en": "Skulpturensammlung und Museum für Byzantinische Kunst",
+  "zh": "雕塑收藏與拜占庭藝術博物館",
+  "city": "柏林",
+  "country": "德國",
+  "count": 5
+ },
+ "bavarian_national_museum": {
+  "en": "Bavarian National Museum",
+  "zh": "巴伐利亞國家博物館",
+  "city": "慕尼黑",
+  "country": "德國",
+  "count": 6
+ },
+ "germanisches_nationalmuseum": {
+  "en": "Germanisches Nationalmuseum",
+  "zh": "日耳曼國家博物館",
+  "city": "紐倫堡",
+  "country": "德國",
+  "count": 10
+ },
+ "st_mary_s_basilica_in_krak_w": {
+  "en": "St. Mary's Basilica in Kraków",
+  "zh": "克拉科夫聖母聖殿",
+  "city": "克拉科夫",
+  "country": "波蘭",
+  "count": 1
+ },
+ "santissima_annunziata": {
+  "en": "Santissima Annunziata",
+  "zh": "聖母領報教堂",
+  "city": "佛羅倫斯",
+  "country": "義大利",
+  "count": 3
+ },
+ "national_museum_in_krak_w": {
+  "en": "National Museum in Kraków",
+  "zh": "克拉科夫國家博物館",
+  "city": "克拉科夫",
+  "country": "波蘭",
+  "count": 1
+ },
+ "santa_maria_della_scala": {
+  "en": "Santa Maria della Scala",
+  "zh": "聖母階梯醫院博物館",
+  "city": "錫耶納",
+  "country": "義大利",
+  "count": 3
+ },
+ "ferrara_cathedral_museum": {
+  "en": "Ferrara Cathedral Museum",
+  "zh": "費拉拉主教座堂博物館",
+  "city": "費拉拉",
+  "country": "義大利",
+  "count": 1
+ },
+ "sculptures_in_the_national_gallery_of_art": {
+  "en": "Sculptures in the National Gallery of Art",
+  "zh": "美國國家藝廊雕塑收藏",
+  "city": "華盛頓特區",
+  "country": "美國",
+  "count": 73
+ },
+ "bargello_national_museum": {
+  "en": "Bargello National Museum",
+  "zh": "巴傑羅國家博物館",
+  "city": "佛羅倫斯",
+  "country": "義大利",
+  "count": 13
+ },
+ "basilica_of_san_lorenzo": {
+  "en": "Basilica of San Lorenzo",
+  "zh": "聖羅倫佐聖殿",
+  "city": "佛羅倫斯",
+  "country": "義大利",
+  "count": 2
+ },
+ "national_museum_of_san_matteo": {
+  "en": "National Museum of San Matteo",
+  "zh": "聖馬太國家博物館",
+  "city": "比薩",
+  "country": "義大利",
+  "count": 1
+ },
+ "mus_e_jacquemart_andr": {
+  "en": "Musée Jacquemart-André",
+  "zh": "雅克馬爾-安德烈博物館",
+  "city": "巴黎",
+  "country": "法國",
+  "count": 1
+ },
+ "orsanmichele": {
+  "en": "Orsanmichele",
+  "zh": "奧爾聖米凱萊教堂",
+  "city": "佛羅倫斯",
+  "country": "義大利",
+  "count": 1
+ },
+ "museum_of_orsanmichele": {
+  "en": "Museum of Orsanmichele",
+  "zh": "奧爾聖米凱萊博物館",
+  "city": "佛羅倫斯",
+  "country": "義大利",
+  "count": 2
+ },
+ "national_museum_in_warsaw": {
+  "en": "National Museum in Warsaw",
+  "zh": "華沙國家博物館",
+  "city": "華沙",
+  "country": "波蘭",
+  "count": 13
+ },
+ "department_of_sculptures_of_the_louvre": {
+  "en": "Department of Sculptures of the Louvre",
+  "zh": "羅浮宮雕塑部",
+  "city": "巴黎",
+  "country": "法國",
+  "count": 48
+ },
+ "filangieri_civic_museum": {
+  "en": "Filangieri Civic Museum",
+  "zh": "菲蘭傑里市立博物館",
+  "city": "那不勒斯",
+  "country": "義大利",
+  "count": 1
+ },
+ "florence_cathedral": {
+  "en": "Florence Cathedral",
+  "zh": "佛羅倫斯主教座堂",
+  "city": "佛羅倫斯",
+  "country": "義大利",
+  "count": 2
+ },
+ "the_frick_collection": {
+  "en": "The Frick Collection",
+  "zh": "弗里克收藏館",
+  "city": "紐約",
+  "country": "美國",
+  "count": 2
+ },
+ "hospital_of_santa_maria_nuova": {
+  "en": "Hospital of Santa Maria Nuova",
+  "zh": "新聖母醫院",
+  "city": "佛羅倫斯",
+  "country": "義大利",
+  "count": 1
+ },
+ "kunsthistorisches_museum": {
+  "en": "Kunsthistorisches Museum",
+  "zh": "維也納藝術史博物館",
+  "city": "維也納",
+  "country": "奧地利",
+  "count": 5
+ },
+ "basilica_of_the_holy_trinity": {
+  "en": "Basilica of the Holy Trinity",
+  "zh": "聖三一聖殿",
+  "city": "UNKNOWN",
+  "country": "UNKNOWN",
+  "count": 2
+ },
+ "toledo_museum_of_art": {
+  "en": "Toledo Museum of Art",
+  "zh": "托雷多藝術博物館",
+  "city": "托雷多（俄亥俄州）",
+  "country": "美國",
+  "count": 3
+ },
+ "currier_museum_of_art": {
+  "en": "Currier Museum of Art",
+  "zh": "柯里爾藝術博物館",
+  "city": "曼徹斯特（新罕布夏州）",
+  "country": "美國",
+  "count": 2
+ },
+ "santa_maria_a_campi_bisenzio": {
+  "en": "Santa Maria a Campi Bisenzio",
+  "zh": "坎皮比森齊奧聖母教堂",
+  "city": "坎皮比森齊奧",
+  "country": "義大利",
+  "count": 1
+ },
+ "museo_d_arte_antica": {
+  "en": "Museo d'Arte Antica",
+  "zh": "古代藝術博物館",
+  "city": "米蘭",
+  "country": "義大利",
+  "count": 1
+ },
+ "thyssen_bornemisza_family_collection": {
+  "en": "Thyssen-Bornemisza family Collection",
+  "zh": "蒂森-博內米薩家族收藏",
+  "city": "UNKNOWN",
+  "country": "UNKNOWN",
+  "count": 1
+ },
+ "seville_cathedral": {
+  "en": "Seville Cathedral",
+  "zh": "塞維亞主教座堂",
+  "city": "塞維亞",
+  "country": "西班牙",
+  "count": 1
+ },
+ "hospital_of_innocents": {
+  "en": "Hospital of Innocents",
+  "zh": "育嬰堂",
+  "city": "佛羅倫斯",
+  "country": "義大利",
+  "count": 1
+ },
+ "museo_degli_innocenti": {
+  "en": "Museo degli Innocenti",
+  "zh": "育嬰堂博物館",
+  "city": "佛羅倫斯",
+  "country": "義大利",
+  "count": 1
+ },
+ "carmen_thyssen_collection": {
+  "en": "Carmen Thyssen Collection",
+  "zh": "卡門·蒂森收藏",
+  "city": "UNKNOWN",
+  "country": "西班牙",
+  "count": 1
+ },
+ "santo_spirito": {
+  "en": "Santo Spirito",
+  "zh": "聖靈教堂",
+  "city": "佛羅倫斯",
+  "country": "義大利",
+  "count": 1
+ },
+ "casa_buonarroti": {
+  "en": "Casa Buonarroti",
+  "zh": "米開朗基羅之家",
+  "city": "佛羅倫斯",
+  "country": "義大利",
+  "count": 1
+ },
+ "basilica_of_san_domenico": {
+  "en": "Basilica of San Domenico",
+  "zh": "聖多米尼克聖殿",
+  "city": "波隆那",
+  "country": "義大利",
+  "count": 3
+ },
+ "hermitage_museum": {
+  "en": "Hermitage Museum",
+  "zh": "艾米塔吉博物館",
+  "city": "聖彼得堡",
+  "country": "俄羅斯",
+  "count": 5
+ },
+ "medici_chapels": {
+  "en": "Medici Chapels",
+  "zh": "麥地奇禮拜堂",
+  "city": "佛羅倫斯",
+  "country": "義大利",
+  "count": 1
+ },
+ "palazzo_vecchio": {
+  "en": "Palazzo Vecchio",
+  "zh": "舊宮",
+  "city": "佛羅倫斯",
+  "country": "義大利",
+  "count": 1
+ },
+ "doge_s_palace": {
+  "en": "Doge's Palace",
+  "zh": "總督宮",
+  "city": "威尼斯",
+  "country": "義大利",
+  "count": 2
+ },
+ "rijksmuseum": {
+  "en": "Rijksmuseum",
+  "zh": "阿姆斯特丹國立博物館",
+  "city": "阿姆斯特丹",
+  "country": "荷蘭",
+  "count": 3
+ },
+ "santa_maria_gloriosa_dei_frari": {
+  "en": "Santa Maria Gloriosa dei Frari",
+  "zh": "榮耀聖母教堂（弗拉里聖殿）",
+  "city": "威尼斯",
+  "country": "義大利",
+  "count": 1
+ },
+ "museo_de_bellas_artes_de_sevilla": {
+  "en": "Museo de Bellas Artes de Sevilla",
+  "zh": "塞維亞美術館",
+  "city": "塞維亞",
+  "country": "西班牙",
+  "count": 1
+ },
+ "fitzwilliam_museum": {
+  "en": "Fitzwilliam Museum",
+  "zh": "費茲威廉博物館",
+  "city": "劍橋",
+  "country": "英國",
+  "count": 1
+ },
+ "j_paul_getty_museum": {
+  "en": "J. Paul Getty Museum",
+  "zh": "蓋提博物館",
+  "city": "洛杉磯",
+  "country": "美國",
+  "count": 3
+ },
+ "world_intellectual_property_organization": {
+  "en": "World Intellectual Property Organization",
+  "zh": "世界智慧財產權組織",
+  "city": "日內瓦",
+  "country": "瑞士",
+  "count": 2
+ },
+ "department_of_decorative_arts_of_the_louvre": {
+  "en": "Department of Decorative Arts of the Louvre",
+  "zh": "羅浮宮裝飾藝術部",
+  "city": "巴黎",
+  "country": "法國",
+  "count": 2
+ },
+ "medieval_civic_museum": {
+  "en": "Medieval Civic Museum",
+  "zh": "中世紀市立博物館",
+  "city": "波隆那",
+  "country": "義大利",
+  "count": 1
+ },
+ "villa_corsini_in_castello": {
+  "en": "Villa Corsini in Castello",
+  "zh": "卡斯泰洛科西尼別墅",
+  "city": "佛羅倫斯",
+  "country": "義大利",
+  "count": 1
+ },
+ "galleria_palatina": {
+  "en": "Galleria Palatina",
+  "zh": "帕拉廷美術館",
+  "city": "佛羅倫斯",
+  "country": "義大利",
+  "count": 1
+ },
+ "collections_du_mus_e_national_de_la_marine_de_brest": {
+  "en": "Collections du Musée national de la Marine de Brest",
+  "zh": "國家海洋博物館布雷斯特館藏",
+  "city": "布雷斯特",
+  "country": "法國",
+  "count": 2
+ },
+ "nationalmuseum": {
+  "en": "Nationalmuseum",
+  "zh": "瑞典國家博物館",
+  "city": "斯德哥爾摩",
+  "country": "瑞典",
+  "count": 2
+ },
+ "art_institute_of_chicago": {
+  "en": "Art Institute of Chicago",
+  "zh": "芝加哥藝術博物館",
+  "city": "芝加哥",
+  "country": "美國",
+  "count": 2
+ },
+ "church_of_san_giorgio_maggiore": {
+  "en": "Church of San Giorgio Maggiore",
+  "zh": "聖喬治馬喬雷教堂",
+  "city": "威尼斯",
+  "country": "義大利",
+  "count": 4
+ },
+ "department_of_greek_etruscan_and_roman_antiquities_of_the_louvre": {
+  "en": "Department of Greek, Etruscan, and Roman Antiquities of the Louvre",
+  "zh": "羅浮宮希臘、伊特魯里亞及羅馬文物部",
+  "city": "巴黎",
+  "country": "法國",
+  "count": 2
+ },
+ "galleria_borghese": {
+  "en": "Galleria Borghese",
+  "zh": "博爾蓋塞美術館",
+  "city": "羅馬",
+  "country": "義大利",
+  "count": 2
+ },
+ "art_gallery_of_ontario": {
+  "en": "Art Gallery of Ontario",
+  "zh": "安大略美術館",
+  "city": "多倫多",
+  "country": "加拿大",
+  "count": 1
+ },
+ "capitoline_museums": {
+  "en": "Capitoline Museums",
+  "zh": "卡比托利歐博物館",
+  "city": "羅馬",
+  "country": "義大利",
+  "count": 1
+ },
+ "museo_poldi_pezzoli": {
+  "en": "Museo Poldi Pezzoli",
+  "zh": "波迪·佩佐利博物館",
+  "city": "米蘭",
+  "country": "義大利",
+  "count": 2
+ },
+ "pinacoteca_nazionale_di_bologna": {
+  "en": "Pinacoteca Nazionale di Bologna",
+  "zh": "波隆那國立美術館",
+  "city": "波隆那",
+  "country": "義大利",
+  "count": 1
+ },
+ "palazzo_doria_pamphilj": {
+  "en": "Palazzo Doria-Pamphilj",
+  "zh": "多利亞·潘菲利宮",
+  "city": "羅馬",
+  "country": "義大利",
+  "count": 1
+ },
+ "british_museum": {
+  "en": "British Museum",
+  "zh": "大英博物館",
+  "city": "倫敦",
+  "country": "英國",
+  "count": 2
+ },
+ "collection_bemberg": {
+  "en": "Collection Bemberg",
+  "zh": "貝姆貝格基金會收藏",
+  "city": "圖盧茲",
+  "country": "法國",
+  "count": 1
+ },
+ "liechtenstein_museum": {
+  "en": "Liechtenstein Museum",
+  "zh": "列支敦士登博物館",
+  "city": "維也納",
+  "country": "奧地利",
+  "count": 1
+ },
+ "galleria_doria_pamphilj": {
+  "en": "Galleria Doria Pamphilj",
+  "zh": "多利亞·潘菲利美術館",
+  "city": "羅馬",
+  "country": "義大利",
+  "count": 1
+ },
+ "galleria_spada": {
+  "en": "Galleria Spada",
+  "zh": "斯帕達美術館",
+  "city": "羅馬",
+  "country": "義大利",
+  "count": 1
+ },
+ "rubenshuis": {
+  "en": "Rubenshuis",
+  "zh": "魯本斯故居",
+  "city": "安特衛普",
+  "country": "比利時",
+  "count": 1
+ },
+ "staatliche_museen_zu_berlin": {
+  "en": "Staatliche Museen zu Berlin",
+  "zh": "柏林國家博物館",
+  "city": "柏林",
+  "country": "德國",
+  "count": 4
+ },
+ "national_museum_of_sculpture": {
+  "en": "National Museum of Sculpture",
+  "zh": "國家雕塑博物館",
+  "city": "巴利亞多利德",
+  "country": "西班牙",
+  "count": 2
+ },
+ "university_of_seville": {
+  "en": "University of Seville",
+  "zh": "塞維亞大學",
+  "city": "塞維亞",
+  "country": "西班牙",
+  "count": 2
+ },
+ "royal_academy_of_fine_arts_of_san_fernando": {
+  "en": "Royal Academy of Fine Arts of San Fernando",
+  "zh": "聖費爾南多皇家美術學院",
+  "city": "馬德里",
+  "country": "西班牙",
+  "count": 1
+ },
+ "national_museum_of_decorative_arts": {
+  "en": "National Museum of Decorative Arts",
+  "zh": "國家裝飾藝術博物館",
+  "city": "UNKNOWN",
+  "country": "UNKNOWN",
+  "count": 1
+ },
+ "s_a_i_catedral_metropolitana_de_la_encarnaci_n": {
+  "en": "S.A.I. Catedral Metropolitana de la Encarnación",
+  "zh": "道成肉身大都會主教座堂",
+  "city": "UNKNOWN",
+  "country": "UNKNOWN",
+  "count": 1
+ },
+ "the_public_establishment_of_the_palace_museum_and_national_estate_of_versailles": {
+  "en": "The Public Establishment of the Palace, Museum and National Estate of Versailles",
+  "zh": "凡爾賽宮、博物館暨國家領地公共機構",
+  "city": "凡爾賽",
+  "country": "法國",
+  "count": 3
+ },
+ "sculptures_from_the_gardens_of_the_louvre_museum": {
+  "en": "Sculptures from the gardens of the Louvre Museum",
+  "zh": "羅浮宮花園雕塑",
+  "city": "巴黎",
+  "country": "法國",
+  "count": 10
+ },
+ "notre_dame_de_paris": {
+  "en": "Notre-Dame de Paris",
+  "zh": "巴黎聖母院",
+  "city": "巴黎",
+  "country": "法國",
+  "count": 2
+ },
+ "mus_e_fabre": {
+  "en": "Musée Fabre",
+  "zh": "法布爾博物館",
+  "city": "蒙彼利埃",
+  "country": "法國",
+  "count": 6
+ },
+ "staatliche_kunstsammlungen_dresden": {
+  "en": "Staatliche Kunstsammlungen Dresden",
+  "zh": "德勒斯登國家藝術收藏",
+  "city": "德勒斯登",
+  "country": "德國",
+  "count": 1
+ },
+ "wallraf_richartz_museum": {
+  "en": "Wallraf–Richartz Museum",
+  "zh": "瓦爾拉夫-里夏茨博物館",
+  "city": "科隆",
+  "country": "德國",
+  "count": 1
+ },
+ "prussian_palaces_and_gardens_foundation_berlin_brandenburg": {
+  "en": "Prussian Palaces and Gardens Foundation Berlin-Brandenburg",
+  "zh": "柏林-勃蘭登堡普魯士宮殿與花園基金會",
+  "city": "波茨坦",
+  "country": "德國",
+  "count": 2
+ },
+ "mus_e_des_augustins": {
+  "en": "Musée des Augustins",
+  "zh": "奧古斯丁博物館",
+  "city": "圖盧茲",
+  "country": "法國",
+  "count": 13
+ },
+ "mus_e_des_beaux_arts_de_bordeaux": {
+  "en": "Musée des Beaux-Arts de Bordeaux",
+  "zh": "波爾多美術館",
+  "city": "波爾多",
+  "country": "法國",
+  "count": 2
+ },
+ "belvedere": {
+  "en": "Belvedere",
+  "zh": "美景宮",
+  "city": "維也納",
+  "country": "奧地利",
+  "count": 1
+ },
+ "augustiner_museum": {
+  "en": "Augustiner Museum",
+  "zh": "奧古斯丁博物館",
+  "city": "弗賴堡",
+  "country": "德國",
+  "count": 1
+ },
+ "grassi_museum_of_applied_arts_leipzig": {
+  "en": "GRASSI Museum of Applied Arts Leipzig",
+  "zh": "萊比錫格拉西應用藝術博物館",
+  "city": "萊比錫",
+  "country": "德國",
+  "count": 1
+ },
+ "museum_of_fine_arts_of_lyon": {
+  "en": "Museum of Fine Arts of Lyon",
+  "zh": "里昂美術館",
+  "city": "里昂",
+  "country": "法國",
+  "count": 4
+ },
+ "museo_correr": {
+  "en": "Museo Correr",
+  "zh": "科雷爾博物館",
+  "city": "威尼斯",
+  "country": "義大利",
+  "count": 1
+ },
+ "galleria_nazionale_d_arte_moderna_e_contemporanea_di_roma": {
+  "en": "Galleria Nazionale d'Arte Moderna e Contemporanea di Roma",
+  "zh": "羅馬國立現當代美術館",
+  "city": "羅馬",
+  "country": "義大利",
+  "count": 2
+ },
+ "chatsworth_house": {
+  "en": "Chatsworth House",
+  "zh": "查茨沃斯莊園",
+  "city": "德比郡",
+  "country": "英國",
+  "count": 1
+ },
+ "mus_e_des_beaux_arts_d_angers": {
+  "en": "Musée des Beaux-Arts d'Angers",
+  "zh": "昂熱美術館",
+  "city": "昂熱",
+  "country": "法國",
+  "count": 1
+ },
+ "gothenburg_museum_of_art": {
+  "en": "Gothenburg Museum of Art",
+  "zh": "哥特堡美術館",
+  "city": "哥特堡",
+  "country": "瑞典",
+  "count": 1
+ },
+ "finnish_national_gallery": {
+  "en": "Finnish National Gallery",
+  "zh": "芬蘭國家美術館",
+  "city": "赫爾辛基",
+  "country": "芬蘭",
+  "count": 2
+ },
+ "friedrichswerder_church": {
+  "en": "Friedrichswerder Church",
+  "zh": "腓特烈韋爾德教堂",
+  "city": "柏林",
+  "country": "德國",
+  "count": 1
+ },
+ "palazzo_pretorio_museum": {
+  "en": "Palazzo Pretorio Museum",
+  "zh": "普雷托里奧宮博物館",
+  "city": "UNKNOWN",
+  "country": "義大利",
+  "count": 1
+ },
+ "yale_center_for_british_art": {
+  "en": "Yale Center for British Art",
+  "zh": "耶魯大學英國藝術中心",
+  "city": "紐哈芬",
+  "country": "美國",
+  "count": 6
+ },
+ "london_museum": {
+  "en": "London Museum",
+  "zh": "倫敦博物館",
+  "city": "倫敦",
+  "country": "英國",
+  "count": 1
+ },
+ "victoria_memorial": {
+  "en": "Victoria Memorial",
+  "zh": "維多利亞紀念堂",
+  "city": "加爾各答",
+  "country": "印度",
+  "count": 1
+ },
+ "uffizi_gallery": {
+  "en": "Uffizi Gallery",
+  "zh": "烏菲茲美術館",
+  "city": "佛羅倫斯",
+  "country": "義大利",
+  "count": 1
+ },
+ "etruscan_academy_museum_of_the_city_of_cortona": {
+  "en": "Etruscan Academy Museum of the City of Cortona",
+  "zh": "科爾托納伊特魯里亞學院與城市博物館",
+  "city": "科爾托納",
+  "country": "義大利",
+  "count": 1
+ },
+ "cincinnati_art_museum": {
+  "en": "Cincinnati Art Museum",
+  "zh": "辛辛那提藝術博物館",
+  "city": "辛辛那提",
+  "country": "美國",
+  "count": 1
+ },
+ "smithsonian_american_art_museum": {
+  "en": "Smithsonian American Art Museum",
+  "zh": "史密森尼美國藝術博物館",
+  "city": "華盛頓特區",
+  "country": "美國",
+  "count": 39
+ },
+ "mus_e_des_beaux_arts_de_dijon": {
+  "en": "Musée des Beaux-Arts de Dijon",
+  "zh": "第戎美術館",
+  "city": "第戎",
+  "country": "法國",
+  "count": 2
+ },
+ "collections_of_mus_e_national_de_la_marine_de_paris": {
+  "en": "Collections of Musée national de la Marine de Paris",
+  "zh": "國家海洋博物館巴黎館藏",
+  "city": "巴黎",
+  "country": "法國",
+  "count": 1
+ },
+ "museum_of_grenoble": {
+  "en": "Museum of Grenoble",
+  "zh": "格勒諾布爾博物館",
+  "city": "格勒諾布爾",
+  "country": "法國",
+  "count": 3
+ },
+ "museum_of_fine_arts_of_nancy": {
+  "en": "Museum of Fine Arts of Nancy",
+  "zh": "南錫美術館",
+  "city": "南錫",
+  "country": "法國",
+  "count": 1
+ },
+ "mus_e_national_de_la_marine": {
+  "en": "Musée national de la Marine",
+  "zh": "法國國家海洋博物館",
+  "city": "巴黎",
+  "country": "法國",
+  "count": 1
+ },
+ "chartres": {
+  "en": "Chartres",
+  "zh": "沙特爾",
+  "city": "沙特爾",
+  "country": "法國",
+  "count": 1
+ },
+ "centre_national_des_arts_plastiques": {
+  "en": "Centre national des arts plastiques",
+  "zh": "法國國家造形藝術中心",
+  "city": "巴黎",
+  "country": "法國",
+  "count": 2
+ },
+ "mus_e_national_du_ch_teau_de_fontainebleau": {
+  "en": "Musée national du Château de Fontainebleau",
+  "zh": "楓丹白露宮國家博物館",
+  "city": "楓丹白露",
+  "country": "法國",
+  "count": 2
+ },
+ "mus_e_de_l_histoire_de_france": {
+  "en": "Musée de l'Histoire de France",
+  "zh": "法國歷史博物館",
+  "city": "巴黎",
+  "country": "法國",
+  "count": 1
+ },
+ "mus_e_d_orsay": {
+  "en": "Musée d'Orsay",
+  "zh": "奧賽博物館",
+  "city": "巴黎",
+  "country": "法國",
+  "count": 17
+ },
+ "d_partement_des_sculptures_palais_des_beaux_arts_de_lille": {
+  "en": "Département des sculptures, Palais des Beaux-Arts de Lille",
+  "zh": "里爾美術宮雕塑部",
+  "city": "里爾",
+  "country": "法國",
+  "count": 1
+ },
+ "galleria_d_arte_moderna_di_milano": {
+  "en": "Galleria d'arte moderna di Milano",
+  "zh": "米蘭現代藝術美術館",
+  "city": "米蘭",
+  "country": "義大利",
+  "count": 2
+ },
+ "museo_soumaya": {
+  "en": "Museo Soumaya",
+  "zh": "蘇馬亞博物館",
+  "city": "墨西哥城",
+  "country": "墨西哥",
+  "count": 7
+ },
+ "cond_museum": {
+  "en": "Condé Museum",
+  "zh": "孔代博物館",
+  "city": "尚蒂伊",
+  "country": "法國",
+  "count": 3
+ },
+ "unterlinden_museum": {
+  "en": "Unterlinden Museum",
+  "zh": "安德林登博物館",
+  "city": "科爾馬",
+  "country": "法國",
+  "count": 1
+ },
+ "mus_um_national_d_histoire_naturelle": {
+  "en": "Muséum national d'histoire naturelle",
+  "zh": "法國國家自然史博物館",
+  "city": "巴黎",
+  "country": "法國",
+  "count": 1
+ },
+ "philadelphia_museum_of_art": {
+  "en": "Philadelphia Museum of Art",
+  "zh": "費城藝術博物館",
+  "city": "費城",
+  "country": "美國",
+  "count": 1
+ },
+ "mohatta_palace": {
+  "en": "Mohatta Palace",
+  "zh": "莫哈塔宮",
+  "city": "喀拉蚩",
+  "country": "巴基斯坦",
+  "count": 1
+ },
+ "town_hall_of_paris_10th_arrondissement": {
+  "en": "town hall of Paris 10th arrondissement",
+  "zh": "巴黎第十區區政府",
+  "city": "巴黎",
+  "country": "法國",
+  "count": 1
+ },
+ "bavarian_state_painting_collections": {
+  "en": "Bavarian State Painting Collections",
+  "zh": "巴伐利亞國家繪畫收藏",
+  "city": "慕尼黑",
+  "country": "德國",
+  "count": 2
+ },
+ "brussels": {
+  "en": "Brussels",
+  "zh": "布魯塞爾",
+  "city": "布魯塞爾",
+  "country": "比利時",
+  "count": 2
+ },
+ "civic_museum_of_castel_nuovo": {
+  "en": "Civic Museum of Castel Nuovo",
+  "zh": "新堡市立博物館",
+  "city": "那不勒斯",
+  "country": "義大利",
+  "count": 1
+ },
+ "revoltella_museum": {
+  "en": "Revoltella Museum",
+  "zh": "雷沃爾泰拉博物館",
+  "city": "的里雅斯特",
+  "country": "義大利",
+  "count": 1
+ },
+ "museum_of_fine_arts_ghent_msk": {
+  "en": "Museum of Fine Arts Ghent (MSK)",
+  "zh": "根特美術館",
+  "city": "根特",
+  "country": "比利時",
+  "count": 4
+ },
+ "mus_e_de_picardie": {
+  "en": "Musée de Picardie",
+  "zh": "皮卡第博物館",
+  "city": "亞眠",
+  "country": "法國",
+  "count": 1
+ },
+ "cantonal_museum_of_zoology_lausanne": {
+  "en": "Cantonal museum of Zoology, Lausanne",
+  "zh": "洛桑州立動物學博物館",
+  "city": "洛桑",
+  "country": "瑞士",
+  "count": 1
+ },
+ "mus_e_salies": {
+  "en": "Musée Salies",
+  "zh": "薩利埃博物館",
+  "city": "巴涅爾-德比戈爾",
+  "country": "法國",
+  "count": 1
+ },
+ "mus_e_rodin": {
+  "en": "Musée Rodin",
+  "zh": "羅丹美術館",
+  "city": "巴黎",
+  "country": "法國",
+  "count": 4
+ },
+ "museum_of_art_and_history_geneva": {
+  "en": "Museum of Art and History Geneva",
+  "zh": "日內瓦藝術與歷史博物館",
+  "city": "日內瓦",
+  "country": "瑞士",
+  "count": 1
+ },
+ "kr_ller_m_ller_museum": {
+  "en": "Kröller-Müller Museum",
+  "zh": "克勒勒-穆勒博物館",
+  "city": "奧特洛",
+  "country": "荷蘭",
+  "count": 24
+ },
+ "cullen_sculpture_garden": {
+  "en": "Cullen Sculpture Garden",
+  "zh": "卡倫雕塑花園",
+  "city": "休士頓",
+  "country": "美國",
+  "count": 1
+ },
+ "strasbourg_museum_of_modern_and_contemporary_art": {
+  "en": "Strasbourg Museum of Modern and Contemporary Art",
+  "zh": "史特拉斯堡現當代藝術博物館",
+  "city": "史特拉斯堡",
+  "country": "法國",
+  "count": 2
+ },
+ "national_museum_of_art_architecture_and_design": {
+  "en": "National Museum of Art, Architecture and Design",
+  "zh": "挪威國家藝術、建築與設計博物館",
+  "city": "奧斯陸",
+  "country": "挪威",
+  "count": 6
+ },
+ "vlaamse_kunstcollectie": {
+  "en": "Vlaamse Kunstcollectie",
+  "zh": "法蘭德斯藝術收藏",
+  "city": "UNKNOWN",
+  "country": "比利時",
+  "count": 10
+ },
+ "royal_museum_of_fine_arts_antwerp": {
+  "en": "Royal Museum of Fine Arts Antwerp",
+  "zh": "安特衛普皇家美術館",
+  "city": "安特衛普",
+  "country": "比利時",
+  "count": 1
+ },
+ "middelheim_museum": {
+  "en": "Middelheim Museum",
+  "zh": "米德爾海姆博物館",
+  "city": "安特衛普",
+  "country": "比利時",
+  "count": 31
+ },
+ "royal_museums_of_art_and_history": {
+  "en": "Royal Museums of Art and History",
+  "zh": "皇家藝術與歷史博物館",
+  "city": "布魯塞爾",
+  "country": "比利時",
+  "count": 1
+ },
+ "m_leuven": {
+  "en": "M Leuven",
+  "zh": "魯汶M博物館",
+  "city": "魯汶",
+  "country": "比利時",
+  "count": 1
+ },
+ "museum_plantin_moretus": {
+  "en": "Museum Plantin-Moretus",
+  "zh": "普朗坦-莫雷圖斯博物館",
+  "city": "安特衛普",
+  "country": "比利時",
+  "count": 2
+ },
+ "collection_gillion_crowet": {
+  "en": "Collection Gillion Crowet",
+  "zh": "吉利翁·克羅韋收藏",
+  "city": "UNKNOWN",
+  "country": "比利時",
+  "count": 1
+ },
+ "royal_museums_of_fine_arts_of_belgium": {
+  "en": "Royal Museums of Fine Arts of Belgium",
+  "zh": "比利時皇家美術館",
+  "city": "布魯塞爾",
+  "country": "比利時",
+  "count": 2
+ },
+ "german_pavilion_barcelona": {
+  "en": "German Pavilion, Barcelona",
+  "zh": "巴塞隆納德國館",
+  "city": "巴塞隆納",
+  "country": "西班牙",
+  "count": 1
+ },
+ "lincoln_national_corporation": {
+  "en": "Lincoln National Corporation",
+  "zh": "林肯國家公司",
+  "city": "UNKNOWN",
+  "country": "美國",
+  "count": 1
+ },
+ "british_broadcasting_corporation": {
+  "en": "British Broadcasting Corporation",
+  "zh": "英國廣播公司",
+  "city": "倫敦",
+  "country": "英國",
+  "count": 1
+ },
+ "kunstforum_ostdeutsche_galerie": {
+  "en": "Kunstforum Ostdeutsche Galerie",
+  "zh": "東德藝術論壇美術館",
+  "city": "雷根斯堡",
+  "country": "德國",
+  "count": 1
+ },
+ "g_strow_cathedral": {
+  "en": "Güstrow Cathedral",
+  "zh": "居斯特羅主教座堂",
+  "city": "居斯特羅",
+  "country": "德國",
+  "count": 1
+ },
+ "museum_am_dom": {
+  "en": "Museum am Dom",
+  "zh": "主教座堂博物館",
+  "city": "UNKNOWN",
+  "country": "德國",
+  "count": 1
+ },
+ "neue_nationalgalerie": {
+  "en": "Neue Nationalgalerie",
+  "zh": "柏林新國家美術館",
+  "city": "柏林",
+  "country": "德國",
+  "count": 3
+ },
+ "ernst_barlach_house": {
+  "en": "Ernst Barlach House",
+  "zh": "恩斯特·巴拉赫之家",
+  "city": "漢堡",
+  "country": "德國",
+  "count": 1
+ },
+ "berlinische_galerie": {
+  "en": "Berlinische Galerie",
+  "zh": "柏林畫廊",
+  "city": "柏林",
+  "country": "德國",
+  "count": 1
+ },
+ "fondation_ernst_barlach": {
+  "en": "Fondation Ernst Barlach",
+  "zh": "恩斯特·巴拉赫基金會",
+  "city": "UNKNOWN",
+  "country": "UNKNOWN",
+  "count": 1
+ },
+ "sculpture_garden_of_the_neue_nationalgalerie": {
+  "en": "Sculpture garden of the Neue Nationalgalerie",
+  "zh": "新國家美術館雕塑花園",
+  "city": "柏林",
+  "country": "德國",
+  "count": 1
+ },
+ "museum_ludwig": {
+  "en": "Museum Ludwig",
+  "zh": "路德維希博物館",
+  "city": "科隆",
+  "country": "德國",
+  "count": 2
+ },
+ "museum_folkwang": {
+  "en": "Museum Folkwang",
+  "zh": "福克旺博物館",
+  "city": "埃森",
+  "country": "德國",
+  "count": 1
+ },
+ "kirchner_museum_davos": {
+  "en": "Kirchner Museum Davos",
+  "zh": "達沃斯基爾希納博物館",
+  "city": "達沃斯",
+  "country": "瑞士",
+  "count": 1
+ },
+ "st_del_museum": {
+  "en": "Städel Museum",
+  "zh": "施泰德博物館",
+  "city": "法蘭克福",
+  "country": "德國",
+  "count": 3
+ },
+ "national_museum_in_szczecin": {
+  "en": "National Museum in Szczecin",
+  "zh": "什切青國家博物館",
+  "city": "什切青",
+  "country": "波蘭",
+  "count": 1
+ },
+ "lynden_sculpture_garden": {
+  "en": "Lynden Sculpture Garden",
+  "zh": "林登雕塑花園",
+  "city": "密爾瓦基",
+  "country": "美國",
+  "count": 1
+ },
+ "israel_museum": {
+  "en": "Israel Museum",
+  "zh": "以色列博物館",
+  "city": "耶路撒冷",
+  "country": "以色列",
+  "count": 8
+ },
+ "solomon_r_guggenheim_museum": {
+  "en": "Solomon R. Guggenheim Museum",
+  "zh": "所羅門·R·古根漢美術館",
+  "city": "紐約",
+  "country": "美國",
+  "count": 2
+ },
+ "international_sculpture_collection": {
+  "en": "International Sculpture Collection",
+  "zh": "國際雕塑收藏",
+  "city": "UNKNOWN",
+  "country": "UNKNOWN",
+  "count": 11
+ },
+ "national_gallery_prague": {
+  "en": "National Gallery Prague",
+  "zh": "布拉格國家美術館",
+  "city": "布拉格",
+  "country": "捷克",
+  "count": 1
+ },
+ "institut_valenci_d_art_modern": {
+  "en": "Institut Valencià d'Art Modern",
+  "zh": "瓦倫西亞現代藝術學院",
+  "city": "瓦倫西亞",
+  "country": "西班牙",
+  "count": 3
+ },
+ "tel_aviv_museum_of_art": {
+  "en": "Tel Aviv Museum of Art",
+  "zh": "特拉維夫藝術博物館",
+  "city": "特拉維夫",
+  "country": "以色列",
+  "count": 1
+ },
+ "centre_georges_pompidou": {
+  "en": "Centre Georges Pompidou",
+  "zh": "龐畢度中心",
+  "city": "巴黎",
+  "country": "法國",
+  "count": 1
+ },
+ "municipal_fund_for_contemporary_art_geneva": {
+  "en": "Municipal Fund for Contemporary Art Geneva",
+  "zh": "日內瓦市當代藝術基金",
+  "city": "日內瓦",
+  "country": "瑞士",
+  "count": 2
+ },
+ "fondation_maeght": {
+  "en": "Fondation Maeght",
+  "zh": "馬埃基金會",
+  "city": "聖保羅-德旺斯",
+  "country": "法國",
+  "count": 1
+ },
+ "mus_e_national_d_art_moderne": {
+  "en": "Musée National d'Art Moderne",
+  "zh": "國立現代藝術博物館",
+  "city": "巴黎",
+  "country": "法國",
+  "count": 2
+ },
+ "ch_teau_de_pommard": {
+  "en": "Château de Pommard",
+  "zh": "波瑪城堡",
+  "city": "波瑪",
+  "country": "法國",
+  "count": 1
+ },
+ "fundaci_joan_mir": {
+  "en": "Fundació Joan Miró",
+  "zh": "米羅基金會",
+  "city": "巴塞隆納",
+  "country": "西班牙",
+  "count": 3
+ },
+ "barcelona_city_council": {
+  "en": "Barcelona City Council",
+  "zh": "巴塞隆納市政府",
+  "city": "巴塞隆納",
+  "country": "西班牙",
+  "count": 1
+ },
+ "henry_moore_sculpture_perry_green": {
+  "en": "Henry Moore Sculpture Perry Green",
+  "zh": "亨利·摩爾佩里格林雕塑園",
+  "city": "佩里格林",
+  "country": "英國",
+  "count": 1
+ },
+ "hirshhorn_museum_and_sculpture_garden": {
+  "en": "Hirshhorn Museum and Sculpture Garden",
+  "zh": "赫希洪博物館與雕塑公園",
+  "city": "華盛頓特區",
+  "country": "美國",
+  "count": 3
+ },
+ "scottish_national_gallery_of_modern_art": {
+  "en": "Scottish National Gallery of Modern Art",
+  "zh": "蘇格蘭國家現代美術館",
+  "city": "愛丁堡",
+  "country": "英國",
+  "count": 1
+ },
+ "manchester_art_gallery": {
+  "en": "Manchester Art Gallery",
+  "zh": "曼徹斯特美術館",
+  "city": "曼徹斯特",
+  "country": "英國",
+  "count": 1
+ },
+ "tate": {
+  "en": "Tate",
+  "zh": "泰特美術館",
+  "city": "倫敦",
+  "country": "英國",
+  "count": 2
+ },
+ "tate_britain": {
+  "en": "Tate Britain",
+  "zh": "泰特不列顛美術館",
+  "city": "倫敦",
+  "country": "英國",
+  "count": 2
+ },
+ "national_galleries_scotland": {
+  "en": "National Galleries Scotland",
+  "zh": "蘇格蘭國家美術館群",
+  "city": "愛丁堡",
+  "country": "英國",
+  "count": 1
+ },
+ "kunsthaus_z_rich": {
+  "en": "Kunsthaus Zürich",
+  "zh": "蘇黎世美術館",
+  "city": "蘇黎世",
+  "country": "瑞士",
+  "count": 1
+ },
+ "university_of_edinburgh": {
+  "en": "University of Edinburgh",
+  "zh": "愛丁堡大學",
+  "city": "愛丁堡",
+  "country": "英國",
+  "count": 1
+ },
+ "university_of_michigan_museum_of_art": {
+  "en": "University of Michigan Museum of Art",
+  "zh": "密西根大學藝術博物館",
+  "city": "安娜堡",
+  "country": "美國",
+  "count": 1
+ },
+ "artium_museum": {
+  "en": "Artium Museum",
+  "zh": "阿爾提烏姆博物館",
+  "city": "維多利亞-加斯特伊斯",
+  "country": "西班牙",
+  "count": 1
+ },
+ "whitney_museum_of_american_art": {
+  "en": "Whitney Museum of American Art",
+  "zh": "惠特尼美國藝術博物館",
+  "city": "紐約",
+  "country": "美國",
+  "count": 1
+ },
+ "bonnefanten_museum": {
+  "en": "Bonnefanten Museum",
+  "zh": "博內芬滕博物館",
+  "city": "馬斯垂克",
+  "country": "荷蘭",
+  "count": 2
+ },
+ "kunstmuseum_den_haag": {
+  "en": "Kunstmuseum Den Haag",
+  "zh": "海牙市立美術館",
+  "city": "海牙",
+  "country": "荷蘭",
+  "count": 1
+ },
+ "mingei_international_museum": {
+  "en": "Mingei International Museum",
+  "zh": "民藝國際博物館",
+  "city": "聖地牙哥",
+  "country": "美國",
+  "count": 1
+ },
+ "mus_e_municipal_de_bourg_en_bresse": {
+  "en": "Musée municipal de Bourg-en-Bresse",
+  "zh": "布爾卡布雷斯市立博物館",
+  "city": "布爾卡布雷斯",
+  "country": "法國",
+  "count": 1
+ },
+ "tate_modern": {
+  "en": "Tate Modern",
+  "zh": "泰特現代美術館",
+  "city": "倫敦",
+  "country": "英國",
+  "count": 2
+ },
+ "sprengel_museum": {
+  "en": "Sprengel Museum",
+  "zh": "施普倫格爾博物館",
+  "city": "漢諾威",
+  "country": "德國",
+  "count": 1
+ },
+ "sculpture_at_schoenthal": {
+  "en": "Sculpture at Schoenthal",
+  "zh": "舍恩塔爾雕塑園",
+  "city": "朗根布呂",
+  "country": "瑞士",
+  "count": 3
+ },
+ "geneva": {
+  "en": "Geneva",
+  "zh": "日內瓦",
+  "city": "日內瓦",
+  "country": "瑞士",
+  "count": 1
+ },
+ "guggenheim_museum_bilbao": {
+  "en": "Guggenheim Museum Bilbao",
+  "zh": "畢爾包古根漢美術館",
+  "city": "畢爾包",
+  "country": "西班牙",
+  "count": 1
+ },
+ "autostadt": {
+  "en": "Autostadt",
+  "zh": "沃爾夫斯堡汽車城",
+  "city": "沃爾夫斯堡",
+  "country": "德國",
+  "count": 1
+ },
+ "artscape_nordland": {
+  "en": "Artscape Nordland",
+  "zh": "北國藝術景觀",
+  "city": "博德",
+  "country": "挪威",
+  "count": 1
+ },
+ "neues_museum_weimar": {
+  "en": "Neues Museum Weimar",
+  "zh": "威瑪新博物館",
+  "city": "威瑪",
+  "country": "德國",
+  "count": 1
  }
 }

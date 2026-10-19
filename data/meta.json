@@ -1,15 +1,16 @@
 {
- "version": "v1",
+ "version": "v2",
  "updated": "2026-10-19",
  "counts": {
   "movements": 40,
   "artists": 480,
-  "works": 1716,
-  "with_image": 559,
-  "museums": 605
+  "works": 3149,
+  "with_image": 1642,
+  "museums": 811
  },
  "notes": [
   "v1（2026-10-19）：首版。流派／雕塑家／作品／說明由 Sonnet 子代理依知識整理；圖檔以 Commons 站內搜尋自動配對，待 Wikidata 比對。",
-  "2026-10-19：565 張圖經 Commons 結構化資料→Wikidata 比對（雕塑照片多只有 P180「描繪」連結，8 件有 P6243），37 件年代不符標 wd_flag，6 件錯配已移除。"
+  "2026-10-19：565 張圖經 Commons 結構化資料→Wikidata 比對（雕塑照片多只有 P180「描繪」連結，8 件有 P6243），37 件年代不符標 wd_flag，6 件錯配已移除。",
+  "v2（2026-10-19）：由 Wikidata SPARQL（創作者 P170 + 圖檔 P18）新增 1433 件作品（1083 件有圖）；題名／年代／館藏為 Wikidata 結構化資料，中文題名與說明由 AI 撰寫。"
  ]
 }
