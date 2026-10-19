@@ -1,0 +1,1445 @@
+[
+ {
+  "id": "archaic_greek",
+  "zh": "古希臘古風雕刻",
+  "en": "Archaic Greek Sculpture",
+  "start": -700,
+  "end": -480,
+  "era": "古代",
+  "color": "#8d6e63",
+  "desc": "以大理石的青年立像（kouros）與少女立像（kore）為代表，姿態正面僵直、左腳前跨、嘴角帶著「古風微笑」。受埃及雕刻啟發，漸次掌握人體結構。多作為墓碑與神殿奉獻，山牆浮雕開始敘事，並以彩繪增添生氣。此一階段奠定了希臘雕刻日後追求自然與理想美的基礎。",
+  "traits": [
+   "青年立像",
+   "古風微笑",
+   "正面律",
+   "彩繪大理石"
+  ],
+  "from": [],
+  "against": [],
+  "artists": [
+   "Aristion of Paros",
+   "Endoios",
+   "Antenor",
+   "Aristocles",
+   "Kalamis",
+   "Rhoikos",
+   "Theodoros of Samos",
+   "Bupalus",
+   "Athenis",
+   "Dipoinos",
+   "Skyllis",
+   "Gitiadas",
+   "Unknown (Archaic Greek)"
+  ]
+ },
+ {
+  "id": "classical_greek",
+  "zh": "古希臘古典雕刻",
+  "en": "Classical Greek Sculpture",
+  "start": -480,
+  "end": -323,
+  "era": "古代",
+  "color": "#a1887f",
+  "desc": "以理想化的人體比例與「對立式平衡」（contrapposto）為核心，追求均衡、和諧與靜穆的美。青銅鑄造與大理石並行，帕德嫩神殿雕飾達到高峰。波留克列特斯訂立人體法則，普拉克西特列斯則賦予裸像柔和的感性。原作多已散佚，今日多賴羅馬時代的大理石摹本得以窺見。",
+  "traits": [
+   "對立式平衡",
+   "理想美",
+   "比例法則",
+   "帕德嫩雕飾"
+  ],
+  "from": [
+   "archaic_greek"
+  ],
+  "against": [
+   "archaic_greek"
+  ],
+  "artists": [
+   "Phidias",
+   "Polykleitos",
+   "Myron",
+   "Praxiteles",
+   "Scopas",
+   "Lysippos",
+   "Kresilas",
+   "Alcamenes",
+   "Kallimachos",
+   "Paionios",
+   "Leochares",
+   "Bryaxis",
+   "Agoracritus",
+   "Kritios"
+  ]
+ },
+ {
+  "id": "hellenistic",
+  "zh": "希臘化雕刻",
+  "en": "Hellenistic Sculpture",
+  "start": -323,
+  "end": -30,
+  "era": "古代",
+  "color": "#795548",
+  "desc": "亞歷山大東征後，希臘藝術擴及地中海與近東。雕刻轉向戲劇性、動勢與強烈情感，也描寫老人、孩童、醉者與痛苦。構圖多為螺旋式、可環繞觀看的群像，《勞孔》《薩莫色雷斯的勝利女神》與帕加馬大祭壇為其代表。其誇張而生動的表現，日後深刻影響了巴洛克雕刻。",
+  "traits": [
+   "戲劇性動勢",
+   "情感表現",
+   "螺旋構圖",
+   "群像"
+  ],
+  "from": [
+   "classical_greek"
+  ],
+  "against": [
+   "classical_greek"
+  ],
+  "artists": [
+   "Agesander",
+   "Athenodoros of Rhodes",
+   "Polydorus",
+   "Epigonus",
+   "Phyromachus",
+   "Boethos",
+   "Eutychides",
+   "Chares of Lindos",
+   "Damophon",
+   "Apollonius of Athens",
+   "Alexandros of Antioch",
+   "Pythokritos"
+  ]
+ },
+ {
+  "id": "etruscan",
+  "zh": "伊特魯里亞雕刻",
+  "en": "Etruscan Sculpture",
+  "start": -800,
+  "end": -100,
+  "era": "古代",
+  "color": "#9c7a5b",
+  "desc": "盛行於義大利中部的伊特魯里亞文明，擅長赤陶與青銅雕塑。作品生動、帶笑意，常見於墓葬：夫妻像石棺栩栩如生，維伊的《阿波羅》赤陶像氣勢飽滿。其寫實的肖像傳統與青銅鑄造技術，深深影響後來的羅馬雕刻。作品兼具實用與信仰功能，也影響了羅馬共和時期的肖像風格。",
+  "traits": [
+   "赤陶",
+   "青銅鑄造",
+   "墓葬石棺",
+   "生動笑容"
+  ],
+  "from": [
+   "archaic_greek"
+  ],
+  "against": [],
+  "artists": [
+   "Vulca",
+   "Unknown (Etruscan Veii workshop)",
+   "Unknown (Etruscan Cerveteri workshop)",
+   "Unknown (Etruscan bronze workshop)",
+   "Unknown (Etruscan Chiusi workshop)"
+  ]
+ },
+ {
+  "id": "roman",
+  "zh": "古羅馬雕刻",
+  "en": "Ancient Roman Sculpture",
+  "start": -509,
+  "end": 476,
+  "era": "古代",
+  "color": "#b08968",
+  "desc": "承襲希臘與伊特魯里亞並轉向寫實與實用。共和時期的肖像不避皺紋與缺陷，帝國時期則以奧古斯都像美化君王。紀念性浮雕如圖拉真紀功柱連續敘事，石棺與皇帝騎馬像也十分發達。大量摹製希臘名作，使其流傳後世。其皇帝肖像與凱旋浮雕，成為政治宣傳的重要媒介。",
+  "traits": [
+   "寫實肖像",
+   "敘事浮雕",
+   "紀功柱",
+   "希臘摹本"
+  ],
+  "from": [
+   "hellenistic",
+   "etruscan"
+  ],
+  "against": [],
+  "artists": [
+   "Pasiteles",
+   "Zenodorus",
+   "Arkesilaos",
+   "Kleomenes",
+   "Stephanos",
+   "Menelaos",
+   "Unknown (Roman portraitist)",
+   "Unknown (Ara Pacis workshop)",
+   "Unknown (Trajan's Column workshop)",
+   "Unknown (Roman sarcophagus workshop)"
+  ]
+ },
+ {
+  "id": "early_christian_byzantine",
+  "zh": "早期基督教與拜占庭雕刻",
+  "en": "Early Christian and Byzantine Sculpture",
+  "start": 250,
+  "end": 1453,
+  "era": "中世紀",
+  "color": "#7e57c2",
+  "desc": "古典寫實逐步轉為象徵與精神性。早期基督教以石棺浮雕敘述聖經故事；拜占庭則避免立體聖像，偏好象牙雕、小型浮雕與柱頭裝飾。人物趨向正面、扁平、神聖而超然，與聖像畫、馬賽克共同構成宗教視覺語言。此一轉向影響了西歐中世紀雕刻的宗教造像與象徵語言。象牙雙連板與皇帝像也在宮廷與教會中廣為流通。",
+  "traits": [
+   "石棺浮雕",
+   "象牙雕",
+   "去立體化",
+   "象徵性"
+  ],
+  "from": [
+   "roman"
+  ],
+  "against": [
+   "classical_greek"
+  ],
+  "artists": [
+   "Unknown (Early Christian sarcophagus workshop)",
+   "Unknown (Junius Bassus sarcophagus)",
+   "Unknown (Barberini Ivory)",
+   "Unknown (Byzantine ivory workshop)",
+   "Unknown (Constantinople workshop)",
+   "Unknown (Syrian stone carvers)"
+  ]
+ },
+ {
+  "id": "romanesque",
+  "zh": "羅馬式雕刻",
+  "en": "Romanesque Sculpture",
+  "start": 1000,
+  "end": 1200,
+  "era": "中世紀",
+  "color": "#9575cd",
+  "desc": "隨修道院與朝聖路線興起，雕刻附屬於建築，集中於教堂門楣、柱頭與迴廊。人物依空間被拉長、扭曲或壓縮，造型有力而富裝飾性，主題為末日審判與善惡寓意。此時也出現青銅門與金工聖物，如希爾德斯海姆。石材的沉重感與神聖秩序，成為朝聖者理解信仰的視覺教材。",
+  "traits": [
+   "門楣雕刻",
+   "柱頭敘事",
+   "變形比例",
+   "末日審判"
+  ],
+  "from": [
+   "early_christian_byzantine"
+  ],
+  "against": [],
+  "artists": [
+   "Gislebertus",
+   "Wiligelmo",
+   "Benedetto Antelami",
+   "Master of Cabestany",
+   "Nicholas of Verdun",
+   "Renier of Huy",
+   "Bernward of Hildesheim",
+   "Bonanno Pisano",
+   "Roger of Helmarshausen",
+   "Godefroid de Claire",
+   "Master Mateo"
+  ]
+ },
+ {
+  "id": "gothic",
+  "zh": "哥德式雕刻",
+  "en": "Gothic Sculpture",
+  "start": 1140,
+  "end": 1400,
+  "era": "中世紀",
+  "color": "#6a4fa3",
+  "desc": "隨哥德式大教堂發展，雕刻從建築壁面逐步獨立。人像脫離柱體，姿態趨自然，面容帶著人性的微笑與哀傷，衣褶流暢。夏特爾、蘭斯、班貝格與瑙姆堡的門像群為經典；義大利的皮薩諾父子則融合古典要素，預示文藝復興。雕像漸具獨立性與立體感，為後來的圓雕與文藝復興人像鋪路。",
+  "traits": [
+   "門像群",
+   "衣褶流暢",
+   "人性化表情",
+   "與建築分離"
+  ],
+  "from": [
+   "romanesque"
+  ],
+  "against": [
+   "romanesque"
+  ],
+  "artists": [
+   "Nicola Pisano",
+   "Giovanni Pisano",
+   "Arnolfo di Cambio",
+   "Andrea Pisano",
+   "Peter Parler",
+   "Naumburg Master",
+   "Jean Pépin de Huy",
+   "Tilman Riemenschneider",
+   "Veit Stoss",
+   "Nikolaus Gerhaert",
+   "Hans Multscher",
+   "Adam Kraft"
+  ]
+ },
+ {
+  "id": "international_gothic",
+  "zh": "國際哥德與勃艮第雕刻",
+  "en": "International Gothic and Burgundian Sculpture",
+  "start": 1380,
+  "end": 1430,
+  "era": "中世紀",
+  "color": "#8e6fc4",
+  "desc": "十四世紀末的宮廷風格。勃艮第公爵的工坊中，斯呂特以《摩西井》確立前所未見的體積、寫實與情感，人物如真人般具有重量與個性。墓碑「哀悼者」小像群尤具特色。其寫實精神連結北方傳統與日後文藝復興。斯呂特的成就被視為北方文藝復興寫實精神的先聲。此期亦見法蘭德斯祭壇木雕的興盛與跨國工匠的往來。",
+  "traits": [
+   "寫實體積",
+   "宮廷風格",
+   "墓碑哀悼者",
+   "個性化面容"
+  ],
+  "from": [
+   "gothic"
+  ],
+  "against": [],
+  "artists": [
+   "Claus Sluter",
+   "Claus de Werve",
+   "Jean de Marville",
+   "Jacques de Baerze",
+   "André Beauneveu",
+   "Jean de Liège",
+   "Jacopo della Quercia",
+   "Nanni di Banco",
+   "Juan de la Huerta",
+   "Pietro Lamberti"
+  ]
+ },
+ {
+  "id": "early_renaissance",
+  "zh": "早期文藝復興雕刻",
+  "en": "Early Renaissance Sculpture",
+  "start": 1400,
+  "end": 1490,
+  "era": "文藝復興",
+  "color": "#c58b2a",
+  "desc": "佛羅倫斯重拾古典，並以透視、解剖與人文主義重塑雕刻。多那太羅復興獨立裸像（青銅《大衛》）與騎馬像，並發展淺浮雕（rilievo schiacciato）；吉貝爾蒂的《天堂之門》以透視入浮雕。盧卡．德拉．羅比亞的彩釉陶塑則別具特色。此期的肖像胸像與紀念碑，也確立了雕塑家的個人聲望。",
+  "traits": [
+   "古典復興",
+   "線性透視浮雕",
+   "獨立裸像",
+   "人文主義"
+  ],
+  "from": [
+   "international_gothic",
+   "roman",
+   "classical_greek"
+  ],
+  "against": [
+   "gothic"
+  ],
+  "artists": [
+   "Donatello",
+   "Lorenzo Ghiberti",
+   "Luca della Robbia",
+   "Andrea del Verrocchio",
+   "Antonio del Pollaiolo",
+   "Desiderio da Settignano",
+   "Mino da Fiesole",
+   "Bernardo Rossellino",
+   "Antonio Rossellino",
+   "Benedetto da Maiano",
+   "Michelozzo",
+   "Agostino di Duccio",
+   "Andrea della Robbia"
+  ]
+ },
+ {
+  "id": "high_renaissance",
+  "zh": "盛期文藝復興雕刻",
+  "en": "High Renaissance Sculpture",
+  "start": 1490,
+  "end": 1527,
+  "era": "文藝復興",
+  "color": "#d9a441",
+  "desc": "理想美、和諧與英雄氣概的巔峰。米開朗基羅以「從石中釋放形象」的減法雕刻，完成《聖殤》《大衛》與《摩西》，肌肉與精神張力並重。其作品結合解剖精確與宏偉構圖，同時期威尼斯的隆巴多家族亦繼承古典典雅。後世視其為西方雕刻追求完美人體的典範與標竿。此期教宗尤里烏斯二世的大型委託，也推動了雕塑的紀念性。",
+  "traits": [
+   "理想化英雄",
+   "解剖精確",
+   "減法雕刻",
+   "宏偉構圖"
+  ],
+  "from": [
+   "early_renaissance"
+  ],
+  "against": [],
+  "artists": [
+   "Michelangelo",
+   "Andrea Sansovino",
+   "Jacopo Sansovino",
+   "Tullio Lombardo",
+   "Pietro Lombardo",
+   "Pietro Torrigiano",
+   "Lorenzetto",
+   "Giovanni Francesco Rustici",
+   "Andrea Riccio",
+   "Baccio da Montelupo",
+   "Benedetto da Rovezzano",
+   "Leonardo da Vinci"
+  ]
+ },
+ {
+  "id": "mannerism",
+  "zh": "矯飾主義雕刻",
+  "en": "Mannerist Sculpture",
+  "start": 1520,
+  "end": 1600,
+  "era": "文藝復興",
+  "color": "#b87a1d",
+  "desc": "盛期文藝復興之後，雕刻轉向刻意的優雅與技巧炫耀。人體被拉長，軀幹呈蛇形扭轉（figura serpentinata），強調多角度觀賞。姜波隆那的《劫奪薩賓婦女》一石多面；切利尼的《鹽罐》則展現金工的精緻與宮廷趣味。這種炫技風格雖不及前代莊重，卻啟發了巴洛克的動感與華麗。",
+  "traits": [
+   "蛇形扭轉",
+   "拉長人體",
+   "多面觀賞",
+   "宮廷精緻"
+  ],
+  "from": [
+   "high_renaissance"
+  ],
+  "against": [
+   "high_renaissance"
+  ],
+  "artists": [
+   "Giambologna",
+   "Benvenuto Cellini",
+   "Bartolomeo Ammannati",
+   "Baccio Bandinelli",
+   "Vincenzo Danti",
+   "Pierino da Vinci",
+   "Pietro Tacca",
+   "Leone Leoni",
+   "Germain Pilon",
+   "Jean Goujon",
+   "Adriaen de Vries",
+   "Alessandro Vittoria",
+   "Niccolò Tribolo"
+  ]
+ },
+ {
+  "id": "baroque",
+  "zh": "巴洛克雕刻",
+  "en": "Baroque Sculpture",
+  "start": 1600,
+  "end": 1750,
+  "era": "巴洛克",
+  "color": "#b23a48",
+  "desc": "強調動勢、戲劇性與感官張力，常捕捉行動中最劇烈的瞬間。貝尼尼以大理石展現肌膚、衣袍與靈魂的悸動，《阿波羅與達芙妮》《聖女大德蘭的狂喜》結合建築、光線與雕塑。西班牙另以彩繪木雕表現宗教激情。貝尼尼的工坊影響遍及歐洲教堂、噴泉與教宗陵墓的裝飾。",
+  "traits": [
+   "動勢瞬間",
+   "戲劇性",
+   "光線與建築整合",
+   "彩繪木雕"
+  ],
+  "from": [
+   "mannerism",
+   "high_renaissance"
+  ],
+  "against": [
+   "mannerism"
+  ],
+  "artists": [
+   "Gian Lorenzo Bernini",
+   "Alessandro Algardi",
+   "François Duquesnoy",
+   "Stefano Maderno",
+   "Francesco Mochi",
+   "Pietro Bernini",
+   "Ercole Ferrata",
+   "Melchiorre Cafà",
+   "Antonio Raggi",
+   "Domenico Guidi",
+   "Gregorio Fernández",
+   "Juan Martínez Montañés",
+   "Pedro de Mena",
+   "Andreas Schlüter"
+  ]
+ },
+ {
+  "id": "french_classical_baroque",
+  "zh": "法國古典巴洛克雕刻",
+  "en": "French Classical Baroque Sculpture",
+  "start": 1660,
+  "end": 1715,
+  "era": "巴洛克",
+  "color": "#c45062",
+  "desc": "路易十四時期的宮廷雕刻，融合巴洛克氣勢與古典理性秩序。凡爾賽花園與宮殿需要大量神話群像、噴泉與王室肖像，由勒布倫主持工坊。吉哈東、柯瓦茲沃克制了義大利式的激烈，轉向莊嚴、均衡與恢宏。其風格成為歐洲宮廷雕刻的範本，並延續至十八世紀初。大批雕塑家在路易十四的皇家學院體制下集體創作。",
+  "traits": [
+   "宮廷藝術",
+   "古典秩序",
+   "園林雕塑",
+   "王權頌揚"
+  ],
+  "from": [
+   "baroque"
+  ],
+  "against": [],
+  "artists": [
+   "François Girardon",
+   "Antoine Coysevox",
+   "Pierre Puget",
+   "Jean-Baptiste Tuby",
+   "Martin Desjardins",
+   "Nicolas Coustou",
+   "Jacques Sarazin",
+   "Gaspard Marsy",
+   "Balthazar Marsy",
+   "Thomas Regnaudin",
+   "Corneille Van Clève",
+   "François Anguier",
+   "Michel Anguier"
+  ]
+ },
+ {
+  "id": "rococo",
+  "zh": "洛可可雕刻",
+  "en": "Rococo Sculpture",
+  "start": 1720,
+  "end": 1780,
+  "era": "18–19世紀",
+  "color": "#2e7d9a",
+  "desc": "隨沙龍文化興起，尺度轉小、題材轉為輕盈親密：愛神、牧歌、女性裸像與小型陶塑。克洛迪翁的赤陶群像充滿嬉戲，法爾科內以優雅婉約著稱；德國南部則有華麗的教堂木雕與麥森瓷塑。曲線、不對稱與粉彩般的柔美是共同特徵。此期的雕像多為私人宅邸與沙龍而作，反映貴族的享樂品味。",
+  "traits": [
+   "輕盈優雅",
+   "小型赤陶",
+   "瓷塑",
+   "曲線不對稱"
+  ],
+  "from": [
+   "baroque",
+   "french_classical_baroque"
+  ],
+  "against": [
+   "french_classical_baroque"
+  ],
+  "artists": [
+   "Clodion",
+   "Étienne Maurice Falconet",
+   "Jean-Baptiste Pigalle",
+   "Edme Bouchardon",
+   "Lambert-Sigisbert Adam",
+   "Guillaume Coustou",
+   "Jean-Baptiste Lemoyne",
+   "Franz Xaver Messerschmidt",
+   "Ignaz Günther",
+   "Johann Joachim Kändler",
+   "Louis-François Roubiliac",
+   "Giuseppe Sanmartino",
+   "Augustin Pajou"
+  ]
+ },
+ {
+  "id": "neoclassicism",
+  "zh": "新古典主義雕刻",
+  "en": "Neoclassical Sculpture",
+  "start": 1760,
+  "end": 1830,
+  "era": "18–19世紀",
+  "color": "#3a93b0",
+  "desc": "受龐貝、赫庫蘭尼姆出土與溫克爾曼理論啟發，回歸古希臘羅馬的純淨、崇高與理性。形體理想化、輪廓清晰、表面光滑潔白。卡諾瓦將優雅與感性融入大理石，托瓦德森則更嚴謹冷靜；肖像與紀念碑亦盛行此風。此風格亦與啟蒙運動及革命時代的公民美德理想相互呼應。",
+  "traits": [
+   "純淨潔白",
+   "理想美",
+   "古典題材",
+   "光滑表面"
+  ],
+  "from": [
+   "classical_greek",
+   "hellenistic",
+   "roman"
+  ],
+  "against": [
+   "rococo",
+   "baroque"
+  ],
+  "artists": [
+   "Antonio Canova",
+   "Bertel Thorvaldsen",
+   "Jean-Antoine Houdon",
+   "John Flaxman",
+   "Johan Tobias Sergel",
+   "Johann Gottfried Schadow",
+   "Christian Daniel Rauch",
+   "Lorenzo Bartolini",
+   "Joseph Nollekens",
+   "Richard Westmacott",
+   "Francis Chantrey",
+   "Pietro Tenerani",
+   "Hiram Powers",
+   "Horatio Greenough"
+  ]
+ },
+ {
+  "id": "romanticism",
+  "zh": "浪漫主義雕刻",
+  "en": "Romantic Sculpture",
+  "start": 1820,
+  "end": 1870,
+  "era": "18–19世紀",
+  "color": "#27687f",
+  "desc": "反抗新古典的冷靜，強調激情、民族情感與自然的野性。呂德的《馬賽曲》浮雕洋溢革命熱情；巴里以猛獸搏鬥象徵自然力量；大衛．當熱則創造紀念偉人的新型肖像。動態、情緒與歷史題材取代了靜穆的理想。此期雕刻把戲劇性與民族記憶帶進公共廣場，開啟了現代紀念碑傳統。",
+  "traits": [
+   "激情動勢",
+   "動物雕塑",
+   "民族主義",
+   "歷史題材"
+  ],
+  "from": [
+   "baroque"
+  ],
+  "against": [
+   "neoclassicism"
+  ],
+  "artists": [
+   "François Rude",
+   "Antoine-Louis Barye",
+   "Pierre-Jean David d'Angers",
+   "Auguste Préault",
+   "Jean-Pierre Cortot",
+   "James Pradier",
+   "Antoine Étex",
+   "Jehan Duseigneur",
+   "Christophe Fratin",
+   "Giovanni Duprè",
+   "Vincenzo Vela",
+   "Ernst Rietschel"
+  ]
+ },
+ {
+  "id": "academic_salon",
+  "zh": "學院與沙龍雕塑",
+  "en": "Academic and Salon Sculpture",
+  "start": 1830,
+  "end": 1900,
+  "era": "18–19世紀",
+  "color": "#4aa3b8",
+  "desc": "十九世紀由美術學院與官方沙龍主導的主流風格，結合古典規範、技巧嫻熟與敘事性。作品以神話、歷史、寓意與紀念碑為主，如巴托爾迪的《自由女神像》與聖高登斯的紀念像。美術學院訓練與公共委託，使其遍及歐美城市。其過度矯飾與程式化，後來成為現代主義反叛的主要對象。",
+  "traits": [
+   "學院訓練",
+   "神話寓意",
+   "紀念碑",
+   "技巧嫻熟"
+  ],
+  "from": [
+   "neoclassicism",
+   "high_renaissance"
+  ],
+  "against": [],
+  "artists": [
+   "Alexandre Falguière",
+   "Antonin Mercié",
+   "Paul Dubois",
+   "Jean-Joseph Perraud",
+   "Henri Chapu",
+   "Auguste Bartholdi",
+   "Emmanuel Frémiet",
+   "Augustus Saint-Gaudens",
+   "Daniel Chester French",
+   "Hamo Thornycroft",
+   "Frederic Leighton",
+   "Harriet Hosmer",
+   "William Wetmore Story",
+   "Randolph Rogers"
+  ]
+ },
+ {
+  "id": "realism_naturalism",
+  "zh": "寫實與自然主義雕塑",
+  "en": "Realism and Naturalism in Sculpture",
+  "start": 1850,
+  "end": 1900,
+  "era": "18–19世紀",
+  "color": "#1f5f78",
+  "desc": "在學院理想化之外，轉而直視當代生活與勞動者。卡爾波的《舞蹈》充滿生命的躍動，達魯讚頌工人與平民，默尼埃描繪礦工與碼頭工人。表面保留塑造痕跡，形象貼近真實體態，社會關懷與自然觀察成為新主題。此風潮為羅丹的出現預先鋪平了道路，也促成雕塑題材的民主化。",
+  "traits": [
+   "當代生活",
+   "勞動者",
+   "塑造痕跡",
+   "社會關懷"
+  ],
+  "from": [
+   "romanticism"
+  ],
+  "against": [
+   "academic_salon",
+   "neoclassicism"
+  ],
+  "artists": [
+   "Jean-Baptiste Carpeaux",
+   "Aimé-Jules Dalou",
+   "Constantin Meunier",
+   "Vincenzo Gemito",
+   "Adriano Cecioni",
+   "Achille D'Orsi",
+   "Domenico Trentacoste",
+   "Paolo Troubetzkoy",
+   "Jean-Baptiste Clésinger",
+   "Alfred Gilbert"
+  ]
+ },
+ {
+  "id": "rodin_modern_origin",
+  "zh": "羅丹與現代雕塑之始",
+  "en": "Rodin and the Origins of Modern Sculpture",
+  "start": 1875,
+  "end": 1917,
+  "era": "現代",
+  "color": "#3f7f4f",
+  "desc": "羅丹打破學院理想，以粗糙表面、未完成感與內在情緒塑造人體，《沉思者》《地獄門》《加萊義民》開啟現代雕塑。他重視塑造過程、碎片化身體與光影的流動，使雕塑成為表達心理與生命的媒介，後世幾乎無人不受其影響。其工作室製作與大量翻鑄，也改變了雕塑的生產與流通方式。",
+  "traits": [
+   "內在情感",
+   "未完成感",
+   "碎片化身體",
+   "塑造肌理"
+  ],
+  "from": [
+   "realism_naturalism",
+   "romanticism",
+   "high_renaissance"
+  ],
+  "against": [
+   "academic_salon"
+  ],
+  "artists": [
+   "Auguste Rodin",
+   "Camille Claudel",
+   "Antoine Bourdelle",
+   "Jules Desbois",
+   "Medardo Rosso",
+   "Gustav Vigeland",
+   "Ivan Meštrović",
+   "Albert Bartholomé",
+   "Malvina Hoffman",
+   "Bessie Potter Vonnoh"
+  ]
+ },
+ {
+  "id": "symbolism_art_nouveau",
+  "zh": "象徵主義與新藝術雕塑",
+  "en": "Symbolist and Art Nouveau Sculpture",
+  "start": 1885,
+  "end": 1914,
+  "era": "現代",
+  "color": "#4f9460",
+  "desc": "世紀末對物質主義的反動，追求夢境、死亡、情慾與神祕。克林格以彩色多材質（大理石、青銅、象牙）創作；明內的《跪著的少年》以簡練姿態傳達內省憂鬱。新藝術則帶來流動曲線與自然植物形，並與裝飾工藝相互滲透。此風格影響了分離派與德語區的世紀末造形藝術。",
+  "traits": [
+   "夢境與死亡",
+   "多材質",
+   "內省憂鬱",
+   "流動曲線"
+  ],
+  "from": [
+   "rodin_modern_origin",
+   "romanticism"
+  ],
+  "against": [
+   "realism_naturalism"
+  ],
+  "artists": [
+   "Max Klinger",
+   "George Minne",
+   "Hermann Obrist",
+   "Rembrandt Bugatti",
+   "Jef Lambeaux",
+   "Victor Rousseau",
+   "Charles van der Stappen",
+   "Franz Metzner",
+   "Agathon Léonard",
+   "Fernand Khnopff",
+   "Georges Lacombe"
+  ]
+ },
+ {
+  "id": "maillol_classical_return",
+  "zh": "馬約爾與古典復歸",
+  "en": "Maillol and the Return to Classicism",
+  "start": 1900,
+  "end": 1940,
+  "era": "現代",
+  "color": "#2f6b40",
+  "desc": "面對羅丹的激烈表現，馬約爾回歸安定、單純與體塊的古典精神。他的豐腴女性裸像去除敘事與情緒，追求穩重的形式之美。這股「秩序的回歸」風潮影響法國、德國與美國，一戰前後尤為顯著，亦與地中海傳統相連。其穩定典雅的形式，也是對一戰後秩序與和諧的渴望。",
+  "traits": [
+   "體塊穩重",
+   "簡化女性裸像",
+   "秩序回歸",
+   "地中海古典"
+  ],
+  "from": [
+   "classical_greek",
+   "rodin_modern_origin"
+  ],
+  "against": [
+   "rodin_modern_origin"
+  ],
+  "artists": [
+   "Aristide Maillol",
+   "Charles Despiau",
+   "Georg Kolbe",
+   "Gerhard Marcks",
+   "Robert Wlérick",
+   "Joseph Bernard (sculptor)",
+   "Gaston Lachaise",
+   "Elie Nadelman",
+   "Paul Manship",
+   "Fritz Klimsch",
+   "Eric Gill",
+   "Richard Scheibe",
+   "Renée Sintenis"
+  ]
+ },
+ {
+  "id": "expressionist_sculpture",
+  "zh": "表現主義雕塑",
+  "en": "Expressionist Sculpture",
+  "start": 1905,
+  "end": 1935,
+  "era": "現代",
+  "color": "#5ba36d",
+  "desc": "以內在情感與精神苦悶為出發點，扭曲形體以求真實。巴拉赫的厚重人像充滿悲憫與宿命感，萊姆布魯克的修長身形流露沉默的悲傷，珂勒惠支關注戰爭與貧困。木雕與粗獷刀痕，受哥德雕刻與非洲藝術啟發。納粹上台後，這些作品多被斥為「墮落藝術」而遭沒收。戰後德國雕刻的人文傳統，亦由此承繼。",
+  "traits": [
+   "情感扭曲",
+   "修長身形",
+   "木雕刀痕",
+   "悲憫"
+  ],
+  "from": [
+   "gothic",
+   "rodin_modern_origin",
+   "symbolism_art_nouveau"
+  ],
+  "against": [
+   "academic_salon"
+  ],
+  "artists": [
+   "Ernst Barlach",
+   "Wilhelm Lehmbruck",
+   "Käthe Kollwitz",
+   "Ernst Ludwig Kirchner",
+   "Karl Schmidt-Rottluff",
+   "Ewald Mataré",
+   "Rudolf Belling",
+   "Oskar Schlemmer",
+   "Milly Steger",
+   "Emy Roeder",
+   "Bernhard Hoetger",
+   "Ernesto de Fiori",
+   "Erich Heckel"
+  ]
+ },
+ {
+  "id": "art_deco_sculpture",
+  "zh": "裝飾藝術雕塑",
+  "en": "Art Deco Sculpture",
+  "start": 1920,
+  "end": 1940,
+  "era": "現代",
+  "color": "#6bb07c",
+  "desc": "兩次大戰之間流行的都會風格，融合幾何簡化、流線與異國情調。材質常見青銅與象牙混合、鍍金與銀，也有建築外牆浮雕與紀念性像。題材包括舞者、動物、速度與摩登女性，如洛克斐勒中心的裝飾，兼具奢華與工業時代的樂觀。其影響遍及建築、珠寶與家居，是都會現代性的視覺象徵。",
+  "traits": [
+   "幾何簡化",
+   "流線造型",
+   "銅與象牙",
+   "建築裝飾"
+  ],
+  "from": [
+   "symbolism_art_nouveau",
+   "maillol_classical_return"
+  ],
+  "against": [],
+  "artists": [
+   "Lee Lawrie",
+   "Carl Milles",
+   "Jan and Joël Martel",
+   "François Pompon",
+   "Demétre Chiparus",
+   "Ferdinand Preiss",
+   "Alfred Janniot",
+   "Paul Landowski",
+   "Carl Paul Jennewein",
+   "Edward McCartan",
+   "Max Le Verrier",
+   "Bruno Zach"
+  ]
+ },
+ {
+  "id": "cubist_sculpture",
+  "zh": "立體派雕塑",
+  "en": "Cubist Sculpture",
+  "start": 1909,
+  "end": 1925,
+  "era": "現代",
+  "color": "#37744a",
+  "desc": "將立體派繪畫的多視角分解轉為三維：以平面、凹凸與空洞重構人體。阿契本科首開「以空洞為形」之法，利普希茨以透明與疊合構成，洛朗斯則以柔和的幾何體塊建構。畢卡索的拼貼式《吉他》亦打破傳統雕塑的材質與塑造觀念。這些實驗打開了組裝雕塑與抽象雕塑的大門。",
+  "traits": [
+   "幾何分解",
+   "以空洞為形",
+   "多視角",
+   "拼接組裝"
+  ],
+  "from": [
+   "rodin_modern_origin"
+  ],
+  "against": [
+   "academic_salon"
+  ],
+  "artists": [
+   "Alexander Archipenko",
+   "Jacques Lipchitz",
+   "Henri Laurens",
+   "Raymond Duchamp-Villon",
+   "Joseph Csaky",
+   "Ossip Zadkine",
+   "Pablo Picasso",
+   "Otto Gutfreund",
+   "Gustave Miklos",
+   "Amedeo Modigliani"
+  ]
+ },
+ {
+  "id": "futurism",
+  "zh": "未來主義雕塑",
+  "en": "Futurist Sculpture",
+  "start": 1909,
+  "end": 1916,
+  "era": "現代",
+  "color": "#47895a",
+  "desc": "義大利未來主義頌揚速度、機械與現代都市。波丘尼在《空間中連續性的獨特形式》中把動作的軌跡凝成可見的形體，主張雕塑應打破封閉輪廓，融入環境並採用多種異質材料。其理論與作品深遠影響構成主義與動態雕塑。雖然持續時間短暫，其對動態與空間的主張卻影響深遠。",
+  "traits": [
+   "速度與動勢",
+   "打破輪廓",
+   "多種材料",
+   "機械崇拜"
+  ],
+  "from": [
+   "cubist_sculpture",
+   "rodin_modern_origin"
+  ],
+  "against": [
+   "academic_salon"
+  ],
+  "artists": [
+   "Umberto Boccioni",
+   "Giacomo Balla",
+   "Fortunato Depero",
+   "Enrico Prampolini",
+   "Thayaht",
+   "Ivo Pannaggi",
+   "Mino Rosso",
+   "Renato Bertelli",
+   "Fillia",
+   "Bruno Munari"
+  ]
+ },
+ {
+  "id": "constructivism",
+  "zh": "構成主義雕塑",
+  "en": "Constructivist Sculpture",
+  "start": 1913,
+  "end": 1935,
+  "era": "現代",
+  "color": "#7bbf8b",
+  "desc": "以「建構」取代雕塑與塑造，使用金屬、玻璃、塑膠與線材，把空間與體積視為主角。塔特林的《第三國際紀念塔》是烏托邦構想；加博與佩夫斯納的《寫實宣言》主張以動勢與空間取代體量。對建築、設計與後來的極簡有深遠影響。其影響延伸至包浩斯、設計與建築，並與蘇聯的社會實驗密切相關。",
+  "traits": [
+   "建構而非塑造",
+   "空間與體積",
+   "工業材料",
+   "烏托邦"
+  ],
+  "from": [
+   "cubist_sculpture",
+   "futurism"
+  ],
+  "against": [
+   "academic_salon"
+  ],
+  "artists": [
+   "Vladimir Tatlin",
+   "Naum Gabo",
+   "Antoine Pevsner",
+   "Alexander Rodchenko",
+   "Karl Ioganson",
+   "Georgii Stenberg",
+   "Vladimir Stenberg",
+   "Konstantin Medunetsky",
+   "Kazimir Malevich",
+   "El Lissitzky",
+   "László Moholy-Nagy",
+   "Katarzyna Kobro"
+  ]
+ },
+ {
+  "id": "dada_readymade",
+  "zh": "達達與現成物",
+  "en": "Dada and the Readymade",
+  "start": 1915,
+  "end": 1925,
+  "era": "現代",
+  "color": "#2c5f3b",
+  "desc": "在一戰的荒謬之下，達達否定理性與藝術體制。杜象將小便斗題為《噴泉》，提出「現成物」，藝術不再取決於手藝而取決於選擇與語境。曼雷以日常物件組裝，史威特斯則以廢棄物建構《梅爾茲堡》。此精神啟迪了觀念藝術與裝置。這種對藝術定義的質疑，持續回響至整個二十世紀後半。",
+  "traits": [
+   "現成物",
+   "反藝術",
+   "偶然性",
+   "廢棄物組裝"
+  ],
+  "from": [],
+  "against": [
+   "academic_salon"
+  ],
+  "artists": [
+   "Marcel Duchamp",
+   "Man Ray",
+   "Kurt Schwitters",
+   "Francis Picabia",
+   "Johannes Baader",
+   "Raoul Hausmann",
+   "Elsa von Freytag-Loringhoven",
+   "Morton Schamberg",
+   "Sophie Taeuber-Arp",
+   "Marcel Janco",
+   "Hannah Höch",
+   "Johannes Theodor Baargeld"
+  ]
+ },
+ {
+  "id": "surrealist_sculpture",
+  "zh": "超現實主義雕塑",
+  "en": "Surrealist Sculpture",
+  "start": 1924,
+  "end": 1950,
+  "era": "現代",
+  "color": "#3f7f4f",
+  "desc": "以夢境、潛意識與偶然為源泉，結合怪誕與詩意。阿爾普的圓潤生物形體介於植物與人體之間；賈克梅第早期的《下午四點的宮殿》以空間架構構成夢境；歐本海姆的《毛皮早餐》則把日常物件變得詭異。奠定了物件與情境的雕塑語彙。其對潛意識與物件的處理，也預示戰後裝置與裝配藝術的發展。",
+  "traits": [
+   "潛意識",
+   "生物形體",
+   "日常物件怪誕化",
+   "夢境"
+  ],
+  "from": [
+   "dada_readymade",
+   "cubist_sculpture"
+  ],
+  "against": [],
+  "artists": [
+   "Jean Arp",
+   "Alberto Giacometti",
+   "Max Ernst",
+   "Salvador Dalí",
+   "Joan Miró",
+   "Meret Oppenheim",
+   "Hans Bellmer",
+   "Victor Brauner",
+   "Wolfgang Paalen",
+   "Óscar Domínguez",
+   "Isamu Noguchi",
+   "Roland Penrose",
+   "Eileen Agar"
+  ]
+ },
+ {
+  "id": "direct_carving_organic",
+  "zh": "直接雕刻與有機抽象",
+  "en": "Direct Carving and Organic Abstraction",
+  "start": 1910,
+  "end": 1970,
+  "era": "現代",
+  "color": "#4f9460",
+  "desc": "雕刻家不再交由工匠翻製，而是親手直接雕鑿石材與木材，尊重材質本性（truth to materials）。布朗庫西以極度簡化的卵形與鳥形追求本質；摩爾與赫普沃斯則以孔洞、起伏與風景般的曲線呈現人體，成為二十世紀現代雕塑的重要主流。其簡潔純粹的造形，也深刻影響建築、設計與公共空間雕塑。",
+  "traits": [
+   "尊重材質",
+   "孔洞與曲面",
+   "簡化本質",
+   "自然與人體"
+  ],
+  "from": [
+   "rodin_modern_origin",
+   "cubist_sculpture"
+  ],
+  "against": [
+   "academic_salon"
+  ],
+  "artists": [
+   "Constantin Brâncuși",
+   "Henry Moore",
+   "Barbara Hepworth",
+   "Jacob Epstein",
+   "John Skeaping",
+   "Isamu Noguchi",
+   "Henri Gaudier-Brzeska",
+   "William Zorach",
+   "John B. Flannagan",
+   "Chaim Gross",
+   "Chana Orloff"
+  ]
+ },
+ {
+  "id": "postwar_existential_figuration",
+  "zh": "戰後存在主義具象雕塑",
+  "en": "Postwar Existential Figuration",
+  "start": 1945,
+  "end": 1965,
+  "era": "戰後",
+  "color": "#455a9a",
+  "desc": "二戰後面對廢墟與孤寂，歐洲雕塑家以瘦削、破碎、粗糙的人像體現存在的脆弱。賈克梅第的細長行走者表現人與空間的疏離，里奇耶的樹狀人形與傷痕，馬里尼的騎士則呈現不安。英國「恐懼的幾何學」亦屬同期。這些人像反映了戰後歐洲對人性與脆弱的集體反思。材質多為青銅與石膏，刻意保留刀痕與抹痕以呈現侵蝕感。",
+  "traits": [
+   "瘦削人像",
+   "孤寂疏離",
+   "粗糙表面",
+   "存在主義"
+  ],
+  "from": [
+   "surrealist_sculpture",
+   "expressionist_sculpture"
+  ],
+  "against": [],
+  "artists": [
+   "Alberto Giacometti",
+   "Germaine Richier",
+   "Marino Marini",
+   "Giacomo Manzù",
+   "Fritz Wotruba",
+   "Lynn Chadwick",
+   "Kenneth Armitage",
+   "Reg Butler",
+   "Bernard Meadows",
+   "Eduardo Paolozzi",
+   "Elisabeth Frink",
+   "Emilio Greco",
+   "Mirko Basaldella"
+  ]
+ },
+ {
+  "id": "abstract_expressionist_sculpture",
+  "zh": "抽象表現與焊接金屬雕塑",
+  "en": "Abstract Expressionist and Welded-Metal Sculpture",
+  "start": 1945,
+  "end": 1970,
+  "era": "戰後",
+  "color": "#5870b5",
+  "desc": "借助畢卡索與岡薩雷斯的鐵焊技術，雕塑家以金屬焊接、鍛造和廢料創造開放而線性的抽象。大衛．史密斯的《立方體》系列以不鏽鋼闡述幾何與筆觸；奇里達的鐵與鋼探討空間與重力。此風潮與抽象表現主義繪畫的姿態同源。金屬成為戰後雕塑的主要語彙，並影響了後來的極簡與新一代雕塑家。",
+  "traits": [
+   "金屬焊接",
+   "線性抽象",
+   "廢料利用",
+   "姿態與空間"
+  ],
+  "from": [
+   "cubist_sculpture",
+   "surrealist_sculpture",
+   "constructivism"
+  ],
+  "against": [],
+  "artists": [
+   "David Smith",
+   "Eduardo Chillida",
+   "Julio González",
+   "Seymour Lipton",
+   "Herbert Ferber",
+   "Theodore Roszak",
+   "Ibram Lassaw",
+   "David Hare",
+   "Richard Stankiewicz",
+   "John Chamberlain",
+   "Mark di Suvero",
+   "Louise Nevelson",
+   "Anthony Caro",
+   "Jorge Oteiza"
+  ]
+ },
+ {
+  "id": "kinetic_sculpture",
+  "zh": "動態雕塑",
+  "en": "Kinetic Sculpture",
+  "start": 1930,
+  "end": 1970,
+  "era": "戰後",
+  "color": "#364a86",
+  "desc": "讓雕塑真正動起來，以風、馬達、磁力或觀者驅動。考爾德發明「動態懸吊物」（mobile），以平衡與偶然創造輕盈的空間舞蹈；譚格利的機械與廢料裝置則帶著詼諧與破壞性。光、聲音與運動，使雕塑成為時間藝術。其發展與光學藝術及機械美學交織，並影響了公共裝置與噴泉設計。",
+  "traits": [
+   "懸吊平衡",
+   "機械運動",
+   "風與光",
+   "時間性"
+  ],
+  "from": [
+   "constructivism",
+   "dada_readymade",
+   "surrealist_sculpture"
+  ],
+  "against": [],
+  "artists": [
+   "Alexander Calder",
+   "Jean Tinguely",
+   "George Rickey",
+   "Takis",
+   "Pol Bury",
+   "Jesús Rafael Soto",
+   "Yaacov Agam",
+   "Nicolas Schöffer",
+   "Harry Bertoia",
+   "Len Lye",
+   "Julio Le Parc",
+   "Gyula Kosice",
+   "Tsai Wen-ying"
+  ]
+ },
+ {
+  "id": "minimalism",
+  "zh": "極簡主義雕塑",
+  "en": "Minimalist Sculpture",
+  "start": 1960,
+  "end": 1975,
+  "era": "戰後",
+  "color": "#6a82c8",
+  "desc": "以工業材料與簡單幾何，排除敘事、情感與雕塑家的手感。賈德的壁掛箱體、安德烈的地面金屬磚、勒維特的方格結構，強調「物」本身與觀者在空間中的身體經驗。作品常由工廠製作，反對抽象表現的個人姿態。批評者稱其為「特定物件」，卻也徹底改變了雕塑與空間的關係。",
+  "traits": [
+   "幾何單元",
+   "工業製造",
+   "重複序列",
+   "現象學經驗"
+  ],
+  "from": [
+   "constructivism",
+   "abstract_expressionist_sculpture"
+  ],
+  "against": [
+   "abstract_expressionist_sculpture"
+  ],
+  "artists": [
+   "Donald Judd",
+   "Carl Andre",
+   "Sol LeWitt",
+   "Dan Flavin",
+   "Robert Morris (artist)",
+   "Tony Smith (artist)",
+   "Anne Truitt",
+   "Ronald Bladen",
+   "John McCracken",
+   "Larry Bell",
+   "Fred Sandback",
+   "Phillip King (sculptor)"
+  ]
+ },
+ {
+  "id": "pop_sculpture",
+  "zh": "普普雕塑",
+  "en": "Pop Sculpture",
+  "start": 1960,
+  "end": 1975,
+  "era": "戰後",
+  "color": "#3f5190",
+  "desc": "以消費文化與大眾圖像入雕。歐登堡把漢堡、冰淇淋與口紅放大成軟質巨像；席格以石膏包覆真人建構日常場景；基恩霍茲的《移動式》裝置則批判社會。新寫實主義的阿曼、塞薩的壓縮與堆積，也與其並行。其幽默、諷刺與親民，拉近了雕塑與大眾生活的距離。素材從石膏、帆布到塑膠，皆刻意挪用大眾媒體的鮮豔色彩。",
+  "traits": [
+   "日常物品",
+   "放大與軟化",
+   "石膏人像",
+   "消費文化"
+  ],
+  "from": [
+   "dada_readymade"
+  ],
+  "against": [
+   "abstract_expressionist_sculpture",
+   "minimalism"
+  ],
+  "artists": [
+   "Claes Oldenburg",
+   "George Segal",
+   "Edward Kienholz",
+   "Marisol Escobar",
+   "Niki de Saint Phalle",
+   "Allen Jones",
+   "Andy Warhol",
+   "Red Grooms",
+   "Richard Artschwager",
+   "Arman",
+   "César Baldaccini",
+   "Robert Rauschenberg",
+   "Jasper Johns",
+   "Jim Dine"
+  ]
+ },
+ {
+  "id": "postminimal_process",
+  "zh": "後極簡與過程藝術",
+  "en": "Postminimalism and Process Art",
+  "start": 1966,
+  "end": 1980,
+  "era": "戰後",
+  "color": "#4f66a8",
+  "desc": "承接極簡卻回到柔軟、不穩定與身體性。赫斯用乳膠、玻璃纖維與繩索創作鬆垮而脆弱的作品；塞拉的拋擲鉛與巨型鋼板重視重力與過程；諾曼以身體與語言為材。材料的特性和製作過程本身成為內容。這些實驗也影響了女性主義藝術與日後的裝置創作。作品常隨時間老化、變形，拒絕永恆與完美的傳統想像，並帶有鮮明的個人情感。",
+  "traits": [
+   "柔軟材料",
+   "重力與過程",
+   "身體性",
+   "不穩定"
+  ],
+  "from": [
+   "minimalism"
+  ],
+  "against": [
+   "minimalism"
+  ],
+  "artists": [
+   "Eva Hesse",
+   "Richard Serra",
+   "Bruce Nauman",
+   "Barry Le Va",
+   "Lynda Benglis",
+   "Keith Sonnier",
+   "Richard Tuttle",
+   "Joel Shapiro",
+   "Gordon Matta-Clark",
+   "Jackie Winsor",
+   "Alan Saret",
+   "Rafael Ferrer",
+   "Barry Flanagan"
+  ]
+ },
+ {
+  "id": "land_art",
+  "zh": "地景藝術",
+  "en": "Land Art",
+  "start": 1967,
+  "end": 1985,
+  "era": "戰後",
+  "color": "#7c93d6",
+  "desc": "雕塑離開美術館，走入沙漠、湖泊與荒野。史密森的《螺旋形防波堤》以玄武岩與泥土伸入鹽湖；海哲的《雙重否定》挖掘大地；德．瑪利亞的《閃電原野》則召喚天象。作品強調尺度、時間、熵與風化，並仰賴照片與紀錄傳世。許多作品位處偏遠，隨風化與水位變化，成為時間本身的雕塑。",
+  "traits": [
+   "大地尺度",
+   "時間與熵",
+   "現場特定",
+   "紀錄攝影"
+  ],
+  "from": [
+   "minimalism",
+   "postminimal_process"
+  ],
+  "against": [],
+  "artists": [
+   "Robert Smithson",
+   "Michael Heizer",
+   "Walter De Maria",
+   "Nancy Holt",
+   "Richard Long",
+   "Christo and Jeanne-Claude",
+   "Andy Goldsworthy",
+   "Agnes Denes",
+   "Alice Aycock",
+   "Dennis Oppenheim",
+   "James Turrell",
+   "Mary Miss",
+   "Ana Mendieta",
+   "David Nash"
+  ]
+ },
+ {
+  "id": "arte_povera",
+  "zh": "貧窮藝術",
+  "en": "Arte Povera",
+  "start": 1967,
+  "end": 1975,
+  "era": "戰後",
+  "color": "#2e3f78",
+  "desc": "義大利藝術家以泥土、樹枝、布料、石頭與火等「貧窮」材料，反抗消費社會與藝術市場。庫奈里斯把活馬帶入畫廊，佩諾內雕出樹木的生長，皮斯托萊托的《破布維納斯》並置古典與垃圾，藉自然與文化的對話探索能量與變化。其詩意與反體制立場，在六〇年代的歐洲獨樹一幟。",
+  "traits": [
+   "貧窮材料",
+   "自然能量",
+   "古典與廢料",
+   "反商品化"
+  ],
+  "from": [
+   "dada_readymade",
+   "minimalism"
+  ],
+  "against": [
+   "pop_sculpture"
+  ],
+  "artists": [
+   "Jannis Kounellis",
+   "Michelangelo Pistoletto",
+   "Mario Merz",
+   "Marisa Merz",
+   "Giovanni Anselmo",
+   "Giuseppe Penone",
+   "Alighiero Boetti",
+   "Pino Pascali",
+   "Luciano Fabro",
+   "Giulio Paolini",
+   "Gilberto Zorio",
+   "Piero Manzoni",
+   "Pier Paolo Calzolari"
+  ]
+ },
+ {
+  "id": "conceptual_installation",
+  "zh": "觀念與裝置雕塑",
+  "en": "Conceptual and Installation Sculpture",
+  "start": 1965,
+  "end": 2020,
+  "era": "戰後",
+  "color": "#566cb0",
+  "desc": "雕塑由物件擴展為場域、行動與想法。博伊斯以脂肪、毛氈與「社會雕塑」概念擴大藝術定義；考索斯主張觀念先於形式；之後的裝置藝術——如卡普爾的虛空、懷特里德的空間鑄型、艾未未的大量複製——探討記憶、政治與觀看。雕塑因此成為跨媒材、跨領域的社會與政治介入手段。",
+  "traits": [
+   "觀念先行",
+   "社會雕塑",
+   "沉浸空間",
+   "場域特定"
+  ],
+  "from": [
+   "dada_readymade",
+   "minimalism",
+   "postminimal_process"
+  ],
+  "against": [
+   "abstract_expressionist_sculpture"
+  ],
+  "artists": [
+   "Joseph Beuys",
+   "Anish Kapoor",
+   "Joseph Kosuth",
+   "Louise Bourgeois",
+   "Rachel Whiteread",
+   "Damien Hirst",
+   "Ai Weiwei",
+   "Ilya Kabakov",
+   "Christian Boltanski",
+   "Doris Salcedo",
+   "Cornelia Parker",
+   "Olafur Eliasson",
+   "Yayoi Kusama",
+   "Mona Hatoum"
+  ]
+ },
+ {
+  "id": "contemporary_figurative",
+  "zh": "當代具象與超寫實雕塑",
+  "en": "Contemporary Figurative and Hyperrealist Sculpture",
+  "start": 1970,
+  "end": 2025,
+  "era": "戰後",
+  "color": "#6279bd",
+  "desc": "在觀念與抽象之後，人像再度成為焦點。漢森與德安德利亞以矽膠、聚酯翻模，造出幾可亂真的日常人物；穆克刻意改變比例，產生令人不安的親密感；高姆雷以身體鑄型的鐵人佇立於海岸與城市。材料與技術重新探討肉身、身份與存在。這些作品常在美術館與公共場域引發關於真實與擬像的討論。",
+  "traits": [
+   "超寫實",
+   "身體翻模",
+   "比例錯置",
+   "當代身份"
+  ],
+  "from": [
+   "pop_sculpture",
+   "postwar_existential_figuration"
+  ],
+  "against": [
+   "minimalism"
+  ],
+  "artists": [
+   "Duane Hanson",
+   "Ron Mueck",
+   "Antony Gormley",
+   "John De Andrea",
+   "Marc Quinn",
+   "Kiki Smith",
+   "Charles Ray",
+   "Maurizio Cattelan",
+   "Katharina Fritsch",
+   "Thomas Schütte",
+   "Juan Muñoz",
+   "Berlinde De Bruyckere",
+   "Evan Penny",
+   "Jeff Koons"
+  ]
+ }
+]

@@ -1,0 +1,2882 @@
+{
+ "Aristion of Paros": {
+  "zh": "帕羅斯的阿里斯提翁",
+  "birth": -570,
+  "death": -510,
+  "nat": "古希臘"
+ },
+ "Endoios": {
+  "zh": "恩多伊奧斯",
+  "birth": -560,
+  "death": -500,
+  "nat": "古希臘（雅典）"
+ },
+ "Antenor": {
+  "zh": "安忒諾爾",
+  "birth": -540,
+  "death": -500,
+  "nat": "古希臘（雅典）"
+ },
+ "Aristocles": {
+  "zh": "阿里斯托克勒斯",
+  "birth": -540,
+  "death": -490,
+  "nat": "古希臘"
+ },
+ "Kalamis": {
+  "zh": "卡拉米斯",
+  "birth": -500,
+  "death": -430,
+  "nat": "古希臘"
+ },
+ "Rhoikos": {
+  "zh": "洛伊科斯",
+  "birth": -600,
+  "death": -540,
+  "nat": "古希臘（薩摩斯）"
+ },
+ "Theodoros of Samos": {
+  "zh": "薩摩斯的狄奧多羅斯",
+  "birth": -600,
+  "death": -520,
+  "nat": "古希臘（薩摩斯）"
+ },
+ "Bupalus": {
+  "zh": "布帕洛斯",
+  "birth": -580,
+  "death": -520,
+  "nat": "古希臘（希俄斯）"
+ },
+ "Athenis": {
+  "zh": "阿忒尼斯",
+  "birth": -570,
+  "death": -520,
+  "nat": "古希臘（希俄斯）"
+ },
+ "Dipoinos": {
+  "zh": "狄波伊諾斯",
+  "birth": -620,
+  "death": -550,
+  "nat": "古希臘（克里特）"
+ },
+ "Skyllis": {
+  "zh": "斯基利斯",
+  "birth": -620,
+  "death": -550,
+  "nat": "古希臘（克里特）"
+ },
+ "Gitiadas": {
+  "zh": "吉提阿達斯",
+  "birth": -620,
+  "death": -550,
+  "nat": "古希臘（斯巴達）"
+ },
+ "Unknown (Archaic Greek)": {
+  "zh": "佚名（古希臘古風）",
+  "birth": -700,
+  "death": -480,
+  "nat": "古希臘"
+ },
+ "Phidias": {
+  "zh": "菲迪亞斯",
+  "birth": -480,
+  "death": -430,
+  "nat": "古希臘（雅典）"
+ },
+ "Polykleitos": {
+  "zh": "波留克列特斯",
+  "birth": -480,
+  "death": -410,
+  "nat": "古希臘（阿爾戈斯）"
+ },
+ "Myron": {
+  "zh": "米隆",
+  "birth": -480,
+  "death": -420,
+  "nat": "古希臘"
+ },
+ "Praxiteles": {
+  "zh": "普拉克西特列斯",
+  "birth": -395,
+  "death": -330,
+  "nat": "古希臘（雅典）"
+ },
+ "Scopas": {
+  "zh": "斯科帕斯",
+  "birth": -395,
+  "death": -350,
+  "nat": "古希臘（帕羅斯）"
+ },
+ "Lysippos": {
+  "zh": "利西波斯",
+  "birth": -390,
+  "death": -300,
+  "nat": "古希臘（西錫安）"
+ },
+ "Kresilas": {
+  "zh": "克雷西拉斯",
+  "birth": -480,
+  "death": -410,
+  "nat": "古希臘"
+ },
+ "Alcamenes": {
+  "zh": "阿爾卡美涅斯",
+  "birth": -470,
+  "death": -400,
+  "nat": "古希臘（雅典）"
+ },
+ "Kallimachos": {
+  "zh": "卡利馬科斯",
+  "birth": -450,
+  "death": -400,
+  "nat": "古希臘（雅典）"
+ },
+ "Paionios": {
+  "zh": "派奧尼奧斯",
+  "birth": -470,
+  "death": -400,
+  "nat": "古希臘（門德）"
+ },
+ "Leochares": {
+  "zh": "利奧卡雷斯",
+  "birth": -380,
+  "death": -320,
+  "nat": "古希臘（雅典）"
+ },
+ "Bryaxis": {
+  "zh": "布里亞克西斯",
+  "birth": -390,
+  "death": -320,
+  "nat": "古希臘"
+ },
+ "Agoracritus": {
+  "zh": "阿戈拉克里托斯",
+  "birth": -470,
+  "death": -400,
+  "nat": "古希臘（帕羅斯）"
+ },
+ "Kritios": {
+  "zh": "克里提奧斯",
+  "birth": -510,
+  "death": -440,
+  "nat": "古希臘（雅典）"
+ },
+ "Agesander": {
+  "zh": "阿格山德羅斯",
+  "birth": -150,
+  "death": -50,
+  "nat": "古希臘（羅得島）"
+ },
+ "Athenodoros of Rhodes": {
+  "zh": "羅得島的阿典諾多羅斯",
+  "birth": -150,
+  "death": -50,
+  "nat": "古希臘（羅得島）"
+ },
+ "Polydorus": {
+  "zh": "波呂多羅斯",
+  "birth": -150,
+  "death": -50,
+  "nat": "古希臘（羅得島）"
+ },
+ "Epigonus": {
+  "zh": "埃皮戈諾斯",
+  "birth": -270,
+  "death": -200,
+  "nat": "古希臘（帕加馬）"
+ },
+ "Phyromachus": {
+  "zh": "菲羅馬科斯",
+  "birth": -280,
+  "death": -200,
+  "nat": "古希臘（帕加馬）"
+ },
+ "Boethos": {
+  "zh": "波厄托斯",
+  "birth": -230,
+  "death": -150,
+  "nat": "古希臘（卡爾西頓）"
+ },
+ "Eutychides": {
+  "zh": "歐提奇德斯",
+  "birth": -330,
+  "death": -270,
+  "nat": "古希臘（西錫安）"
+ },
+ "Chares of Lindos": {
+  "zh": "林多斯的卡列斯",
+  "birth": -330,
+  "death": -280,
+  "nat": "古希臘（羅得島）"
+ },
+ "Damophon": {
+  "zh": "達莫豐",
+  "birth": -230,
+  "death": -160,
+  "nat": "古希臘（墨塞尼）"
+ },
+ "Apollonius of Athens": {
+  "zh": "雅典的阿波羅尼奧斯",
+  "birth": -100,
+  "death": 0,
+  "nat": "古希臘（雅典）"
+ },
+ "Alexandros of Antioch": {
+  "zh": "安條克的亞歷山德羅斯",
+  "birth": -150,
+  "death": -50,
+  "nat": "古希臘（安條克）"
+ },
+ "Pythokritos": {
+  "zh": "皮托克里托斯",
+  "birth": -240,
+  "death": -170,
+  "nat": "古希臘（羅得島）"
+ },
+ "Vulca": {
+  "zh": "烏爾卡",
+  "birth": -540,
+  "death": -480,
+  "nat": "伊特拉斯坎（維伊）"
+ },
+ "Unknown (Etruscan Veii workshop)": {
+  "zh": "佚名（伊特拉斯坎維伊工坊）",
+  "birth": -650,
+  "death": -396,
+  "nat": "伊特拉斯坎"
+ },
+ "Unknown (Etruscan Cerveteri workshop)": {
+  "zh": "佚名（伊特拉斯坎切爾韋泰里工坊）",
+  "birth": -650,
+  "death": -350,
+  "nat": "伊特拉斯坎"
+ },
+ "Unknown (Etruscan bronze workshop)": {
+  "zh": "佚名（伊特拉斯坎青銅工坊）",
+  "birth": -600,
+  "death": -100,
+  "nat": "伊特拉斯坎"
+ },
+ "Unknown (Etruscan Chiusi workshop)": {
+  "zh": "佚名（伊特拉斯坎丘西工坊）",
+  "birth": -650,
+  "death": -100,
+  "nat": "伊特拉斯坎"
+ },
+ "Pasiteles": {
+  "zh": "帕西特列斯",
+  "birth": -100,
+  "death": -40,
+  "nat": "古羅馬（希臘裔）"
+ },
+ "Zenodorus": {
+  "zh": "澤諾多魯斯",
+  "birth": 10,
+  "death": 80,
+  "nat": "古羅馬（高盧）"
+ },
+ "Arkesilaos": {
+  "zh": "阿爾克西勞斯",
+  "birth": -100,
+  "death": -40,
+  "nat": "古羅馬"
+ },
+ "Kleomenes": {
+  "zh": "克萊奧梅尼斯",
+  "birth": -100,
+  "death": -30,
+  "nat": "古羅馬（雅典裔）"
+ },
+ "Stephanos": {
+  "zh": "斯特凡諾斯",
+  "birth": -80,
+  "death": -10,
+  "nat": "古羅馬（希臘裔）"
+ },
+ "Menelaos": {
+  "zh": "梅涅勞斯",
+  "birth": -50,
+  "death": 20,
+  "nat": "古羅馬（希臘裔）"
+ },
+ "Unknown (Roman portraitist)": {
+  "zh": "佚名（羅馬肖像雕刻家）",
+  "birth": -100,
+  "death": 300,
+  "nat": "古羅馬"
+ },
+ "Unknown (Ara Pacis workshop)": {
+  "zh": "佚名（和平祭壇工坊）",
+  "birth": -13,
+  "death": -9,
+  "nat": "古羅馬"
+ },
+ "Unknown (Trajan's Column workshop)": {
+  "zh": "佚名（圖拉真圓柱工坊）",
+  "birth": 100,
+  "death": 113,
+  "nat": "古羅馬"
+ },
+ "Unknown (Roman sarcophagus workshop)": {
+  "zh": "佚名（羅馬石棺工坊）",
+  "birth": 100,
+  "death": 300,
+  "nat": "古羅馬"
+ },
+ "Unknown (Early Christian sarcophagus workshop)": {
+  "zh": "佚名（早期基督教石棺工坊）",
+  "birth": 250,
+  "death": 450,
+  "nat": "早期基督教羅馬"
+ },
+ "Unknown (Junius Bassus sarcophagus)": {
+  "zh": "佚名（尤尼烏斯·巴蘇斯石棺）",
+  "birth": 359,
+  "death": 359,
+  "nat": "早期基督教羅馬"
+ },
+ "Unknown (Barberini Ivory)": {
+  "zh": "佚名（巴貝里尼象牙板）",
+  "birth": 500,
+  "death": 550,
+  "nat": "拜占庭（君士坦丁堡）"
+ },
+ "Unknown (Byzantine ivory workshop)": {
+  "zh": "佚名（拜占庭象牙工坊）",
+  "birth": 500,
+  "death": 1200,
+  "nat": "拜占庭"
+ },
+ "Unknown (Constantinople workshop)": {
+  "zh": "佚名（君士坦丁堡工坊）",
+  "birth": 330,
+  "death": 1453,
+  "nat": "拜占庭（君士坦丁堡）"
+ },
+ "Unknown (Syrian stone carvers)": {
+  "zh": "佚名（敘利亞石雕匠）",
+  "birth": 400,
+  "death": 600,
+  "nat": "敘利亞（拜占庭）"
+ },
+ "Gislebertus": {
+  "zh": "吉斯勒貝爾圖斯",
+  "birth": 1095,
+  "death": 1145,
+  "nat": "法國"
+ },
+ "Wiligelmo": {
+  "zh": "維利傑爾莫",
+  "birth": 1075,
+  "death": 1130,
+  "nat": "義大利"
+ },
+ "Benedetto Antelami": {
+  "zh": "貝內代托·安泰拉米",
+  "birth": 1150,
+  "death": 1230,
+  "nat": "義大利"
+ },
+ "Master of Cabestany": {
+  "zh": "卡貝斯塔尼大師",
+  "birth": 1130,
+  "death": 1200,
+  "nat": "法國（朗格多克）"
+ },
+ "Nicholas of Verdun": {
+  "zh": "凡爾登的尼古拉",
+  "birth": 1130,
+  "death": 1205,
+  "nat": "洛林（神聖羅馬帝國）"
+ },
+ "Renier of Huy": {
+  "zh": "于伊的雷尼耶",
+  "birth": 1070,
+  "death": 1150,
+  "nat": "列日（今比利時）"
+ },
+ "Bernward of Hildesheim": {
+  "zh": "希爾德斯海姆的貝恩瓦德",
+  "birth": 960,
+  "death": 1022,
+  "nat": "德國"
+ },
+ "Bonanno Pisano": {
+  "zh": "博南諾·皮薩諾",
+  "birth": 1130,
+  "death": 1200,
+  "nat": "義大利"
+ },
+ "Roger of Helmarshausen": {
+  "zh": "赫爾馬斯豪森的羅傑",
+  "birth": 1070,
+  "death": 1125,
+  "nat": "德國"
+ },
+ "Godefroid de Claire": {
+  "zh": "戈弗魯瓦·德克萊爾",
+  "birth": 1100,
+  "death": 1173,
+  "nat": "馬斯地區（今比利時）"
+ },
+ "Master Mateo": {
+  "zh": "馬特奧大師",
+  "birth": 1150,
+  "death": 1217,
+  "nat": "西班牙"
+ },
+ "Nicola Pisano": {
+  "zh": "尼古拉·皮薩諾",
+  "birth": 1220,
+  "death": 1284,
+  "nat": "義大利"
+ },
+ "Giovanni Pisano": {
+  "zh": "喬凡尼·皮薩諾",
+  "birth": 1250,
+  "death": 1315,
+  "nat": "義大利"
+ },
+ "Arnolfo di Cambio": {
+  "zh": "阿爾諾爾福·迪·坎比奧",
+  "birth": 1245,
+  "death": 1302,
+  "nat": "義大利"
+ },
+ "Andrea Pisano": {
+  "zh": "安德烈亞·皮薩諾",
+  "birth": 1290,
+  "death": 1348,
+  "nat": "義大利"
+ },
+ "Peter Parler": {
+  "zh": "彼得·帕勒",
+  "birth": 1333,
+  "death": 1399,
+  "nat": "神聖羅馬帝國（波希米亞）"
+ },
+ "Naumburg Master": {
+  "zh": "瑙姆堡大師",
+  "birth": 1220,
+  "death": 1270,
+  "nat": "德國"
+ },
+ "Jean Pépin de Huy": {
+  "zh": "于伊的讓·佩潘",
+  "birth": 1290,
+  "death": 1330,
+  "nat": "法國"
+ },
+ "Tilman Riemenschneider": {
+  "zh": "提爾曼·里門施奈德",
+  "birth": 1460,
+  "death": 1531,
+  "nat": "德國"
+ },
+ "Veit Stoss": {
+  "zh": "法伊特·施托斯",
+  "birth": 1447,
+  "death": 1533,
+  "nat": "德國（活躍於波蘭）"
+ },
+ "Nikolaus Gerhaert": {
+  "zh": "尼可勞斯·格哈特",
+  "birth": 1430,
+  "death": 1473,
+  "nat": "荷蘭（活躍於德國）"
+ },
+ "Hans Multscher": {
+  "zh": "漢斯·穆爾特舍",
+  "birth": 1400,
+  "death": 1467,
+  "nat": "德國"
+ },
+ "Adam Kraft": {
+  "zh": "亞當·克拉夫特",
+  "birth": 1455,
+  "death": 1509,
+  "nat": "德國"
+ },
+ "Claus Sluter": {
+  "zh": "克勞斯·斯呂特",
+  "birth": 1350,
+  "death": 1406,
+  "nat": "荷蘭（勃艮第公國）"
+ },
+ "Claus de Werve": {
+  "zh": "克勞斯·德韋爾夫",
+  "birth": 1380,
+  "death": 1439,
+  "nat": "荷蘭（勃艮第公國）"
+ },
+ "Jean de Marville": {
+  "zh": "讓·德馬維爾",
+  "birth": 1340,
+  "death": 1389,
+  "nat": "法國（勃艮第公國）"
+ },
+ "Jacques de Baerze": {
+  "zh": "雅克·德巴爾澤",
+  "birth": 1350,
+  "death": 1400,
+  "nat": "法蘭德斯"
+ },
+ "André Beauneveu": {
+  "zh": "安德烈·博訥弗",
+  "birth": 1335,
+  "death": 1403,
+  "nat": "法蘭德斯"
+ },
+ "Jean de Liège": {
+  "zh": "列日的讓",
+  "birth": 1330,
+  "death": 1382,
+  "nat": "法蘭德斯（列日）"
+ },
+ "Jacopo della Quercia": {
+  "zh": "雅各布·德拉·奎爾恰",
+  "birth": 1374,
+  "death": 1438,
+  "nat": "義大利"
+ },
+ "Nanni di Banco": {
+  "zh": "南尼·迪·班科",
+  "birth": 1384,
+  "death": 1421,
+  "nat": "義大利"
+ },
+ "Juan de la Huerta": {
+  "zh": "胡安·德拉韋爾塔",
+  "birth": 1410,
+  "death": 1462,
+  "nat": "西班牙（活躍於勃艮第）"
+ },
+ "Pietro Lamberti": {
+  "zh": "彼得羅·蘭貝蒂",
+  "birth": 1393,
+  "death": 1435,
+  "nat": "義大利"
+ },
+ "Donatello": {
+  "zh": "多那太羅",
+  "birth": 1386,
+  "death": 1466,
+  "nat": "義大利"
+ },
+ "Lorenzo Ghiberti": {
+  "zh": "洛倫佐·吉貝爾蒂",
+  "birth": 1378,
+  "death": 1455,
+  "nat": "義大利"
+ },
+ "Luca della Robbia": {
+  "zh": "盧卡·德拉·羅比亞",
+  "birth": 1399,
+  "death": 1482,
+  "nat": "義大利"
+ },
+ "Andrea del Verrocchio": {
+  "zh": "安德烈亞·德爾·韋羅基奧",
+  "birth": 1435,
+  "death": 1488,
+  "nat": "義大利"
+ },
+ "Antonio del Pollaiolo": {
+  "zh": "安東尼奧·德爾·波拉尤奧洛",
+  "birth": 1429,
+  "death": 1498,
+  "nat": "義大利"
+ },
+ "Desiderio da Settignano": {
+  "zh": "德西德里奧·達·塞蒂尼亞諾",
+  "birth": 1430,
+  "death": 1464,
+  "nat": "義大利"
+ },
+ "Mino da Fiesole": {
+  "zh": "米諾·達·費埃索萊",
+  "birth": 1429,
+  "death": 1484,
+  "nat": "義大利"
+ },
+ "Bernardo Rossellino": {
+  "zh": "貝爾納多·羅塞利諾",
+  "birth": 1409,
+  "death": 1464,
+  "nat": "義大利"
+ },
+ "Antonio Rossellino": {
+  "zh": "安東尼奧·羅塞利諾",
+  "birth": 1427,
+  "death": 1479,
+  "nat": "義大利"
+ },
+ "Benedetto da Maiano": {
+  "zh": "貝內代托·達·馬亞諾",
+  "birth": 1442,
+  "death": 1497,
+  "nat": "義大利"
+ },
+ "Michelozzo": {
+  "zh": "米開羅佐",
+  "birth": 1396,
+  "death": 1472,
+  "nat": "義大利"
+ },
+ "Agostino di Duccio": {
+  "zh": "阿戈斯蒂諾·迪·杜喬",
+  "birth": 1418,
+  "death": 1481,
+  "nat": "義大利"
+ },
+ "Andrea della Robbia": {
+  "zh": "安德烈亞·德拉·羅比亞",
+  "birth": 1435,
+  "death": 1525,
+  "nat": "義大利"
+ },
+ "Michelangelo": {
+  "zh": "米開朗基羅",
+  "birth": 1475,
+  "death": 1564,
+  "nat": "義大利"
+ },
+ "Andrea Sansovino": {
+  "zh": "安德烈亞·桑索維諾",
+  "birth": 1467,
+  "death": 1529,
+  "nat": "義大利"
+ },
+ "Jacopo Sansovino": {
+  "zh": "雅各布·桑索維諾",
+  "birth": 1486,
+  "death": 1570,
+  "nat": "義大利"
+ },
+ "Tullio Lombardo": {
+  "zh": "圖利奧·隆巴爾多",
+  "birth": 1455,
+  "death": 1532,
+  "nat": "義大利"
+ },
+ "Pietro Lombardo": {
+  "zh": "彼得羅·隆巴爾多",
+  "birth": 1435,
+  "death": 1515,
+  "nat": "義大利"
+ },
+ "Pietro Torrigiano": {
+  "zh": "彼得羅·托里賈尼",
+  "birth": 1472,
+  "death": 1528,
+  "nat": "義大利"
+ },
+ "Lorenzetto": {
+  "zh": "洛倫采托",
+  "birth": 1490,
+  "death": 1541,
+  "nat": "義大利"
+ },
+ "Giovanni Francesco Rustici": {
+  "zh": "喬凡尼·弗朗切斯科·魯斯蒂奇",
+  "birth": 1475,
+  "death": 1554,
+  "nat": "義大利"
+ },
+ "Andrea Riccio": {
+  "zh": "安德烈亞·里喬",
+  "birth": 1470,
+  "death": 1532,
+  "nat": "義大利"
+ },
+ "Baccio da Montelupo": {
+  "zh": "巴喬·達·蒙特盧波",
+  "birth": 1469,
+  "death": 1523,
+  "nat": "義大利"
+ },
+ "Benedetto da Rovezzano": {
+  "zh": "貝內代托·達·羅韋扎諾",
+  "birth": 1474,
+  "death": 1552,
+  "nat": "義大利"
+ },
+ "Leonardo da Vinci": {
+  "zh": "李奧納多·達文西",
+  "birth": 1452,
+  "death": 1519,
+  "nat": "義大利"
+ },
+ "Giambologna": {
+  "zh": "詹波隆那",
+  "birth": 1529,
+  "death": 1608,
+  "nat": "法蘭德斯（活躍於義大利）"
+ },
+ "Benvenuto Cellini": {
+  "zh": "本韋努托·切利尼",
+  "birth": 1500,
+  "death": 1571,
+  "nat": "義大利"
+ },
+ "Bartolomeo Ammannati": {
+  "zh": "巴托洛梅奧·阿曼納蒂",
+  "birth": 1511,
+  "death": 1592,
+  "nat": "義大利"
+ },
+ "Baccio Bandinelli": {
+  "zh": "巴喬·班迪內利",
+  "birth": 1493,
+  "death": 1560,
+  "nat": "義大利"
+ },
+ "Vincenzo Danti": {
+  "zh": "溫琴佐·丹蒂",
+  "birth": 1530,
+  "death": 1576,
+  "nat": "義大利"
+ },
+ "Pierino da Vinci": {
+  "zh": "皮耶里諾·達·文奇",
+  "birth": 1529,
+  "death": 1553,
+  "nat": "義大利"
+ },
+ "Pietro Tacca": {
+  "zh": "彼得羅·塔卡",
+  "birth": 1577,
+  "death": 1640,
+  "nat": "義大利"
+ },
+ "Leone Leoni": {
+  "zh": "萊昂內·萊奧尼",
+  "birth": 1509,
+  "death": 1590,
+  "nat": "義大利"
+ },
+ "Germain Pilon": {
+  "zh": "熱爾曼·皮隆",
+  "birth": 1528,
+  "death": 1590,
+  "nat": "法國"
+ },
+ "Jean Goujon": {
+  "zh": "讓·古戎",
+  "birth": 1510,
+  "death": 1568,
+  "nat": "法國"
+ },
+ "Adriaen de Vries": {
+  "zh": "阿德里安·德弗里斯",
+  "birth": 1556,
+  "death": 1626,
+  "nat": "荷蘭"
+ },
+ "Alessandro Vittoria": {
+  "zh": "亞歷山德羅·維多利亞",
+  "birth": 1525,
+  "death": 1608,
+  "nat": "義大利"
+ },
+ "Niccolò Tribolo": {
+  "zh": "尼可羅·特里博洛",
+  "birth": 1500,
+  "death": 1550,
+  "nat": "義大利"
+ },
+ "Gian Lorenzo Bernini": {
+  "zh": "詹羅倫佐·貝尼尼",
+  "birth": 1598,
+  "death": 1680,
+  "nat": "義大利"
+ },
+ "Alessandro Algardi": {
+  "zh": "阿萊桑德羅·阿爾加迪",
+  "birth": 1598,
+  "death": 1654,
+  "nat": "義大利"
+ },
+ "François Duquesnoy": {
+  "zh": "弗朗索瓦·迪凱努瓦",
+  "birth": 1597,
+  "death": 1643,
+  "nat": "法蘭德斯（活躍於羅馬）"
+ },
+ "Stefano Maderno": {
+  "zh": "斯特凡諾·馬代爾諾",
+  "birth": 1575,
+  "death": 1636,
+  "nat": "義大利"
+ },
+ "Francesco Mochi": {
+  "zh": "弗朗切斯科·莫基",
+  "birth": 1580,
+  "death": 1654,
+  "nat": "義大利"
+ },
+ "Pietro Bernini": {
+  "zh": "彼得羅·貝尼尼",
+  "birth": 1562,
+  "death": 1629,
+  "nat": "義大利"
+ },
+ "Ercole Ferrata": {
+  "zh": "埃爾科萊·費拉塔",
+  "birth": 1610,
+  "death": 1686,
+  "nat": "義大利"
+ },
+ "Melchiorre Cafà": {
+  "zh": "梅爾基奧雷·卡法",
+  "birth": 1636,
+  "death": 1667,
+  "nat": "馬爾他"
+ },
+ "Antonio Raggi": {
+  "zh": "安東尼奧·拉吉",
+  "birth": 1624,
+  "death": 1686,
+  "nat": "義大利"
+ },
+ "Domenico Guidi": {
+  "zh": "多梅尼科·圭迪",
+  "birth": 1625,
+  "death": 1701,
+  "nat": "義大利"
+ },
+ "Gregorio Fernández": {
+  "zh": "格雷戈里奧·費爾南德斯",
+  "birth": 1576,
+  "death": 1636,
+  "nat": "西班牙"
+ },
+ "Juan Martínez Montañés": {
+  "zh": "胡安·馬丁內斯·蒙塔涅斯",
+  "birth": 1568,
+  "death": 1649,
+  "nat": "西班牙"
+ },
+ "Pedro de Mena": {
+  "zh": "佩德羅·德梅納",
+  "birth": 1628,
+  "death": 1688,
+  "nat": "西班牙"
+ },
+ "Andreas Schlüter": {
+  "zh": "安德烈亞斯·施呂特",
+  "birth": 1664,
+  "death": 1714,
+  "nat": "德國（普魯士）"
+ },
+ "François Girardon": {
+  "zh": "弗朗索瓦·吉拉爾東",
+  "birth": 1628,
+  "death": 1715,
+  "nat": "法國"
+ },
+ "Antoine Coysevox": {
+  "zh": "安托萬·科瓦茲沃",
+  "birth": 1640,
+  "death": 1720,
+  "nat": "法國"
+ },
+ "Pierre Puget": {
+  "zh": "皮埃爾·皮傑",
+  "birth": 1620,
+  "death": 1694,
+  "nat": "法國"
+ },
+ "Jean-Baptiste Tuby": {
+  "zh": "尚-巴蒂斯特·蒂比",
+  "birth": 1635,
+  "death": 1700,
+  "nat": "法國"
+ },
+ "Martin Desjardins": {
+  "zh": "馬丁·德雅爾丹",
+  "birth": 1637,
+  "death": 1694,
+  "nat": "法國（荷蘭出生）"
+ },
+ "Nicolas Coustou": {
+  "zh": "尼古拉·庫斯圖",
+  "birth": 1658,
+  "death": 1733,
+  "nat": "法國"
+ },
+ "Jacques Sarazin": {
+  "zh": "雅克·薩拉辛",
+  "birth": 1592,
+  "death": 1660,
+  "nat": "法國"
+ },
+ "Gaspard Marsy": {
+  "zh": "加斯帕爾·馬西",
+  "birth": 1625,
+  "death": 1681,
+  "nat": "法國"
+ },
+ "Balthazar Marsy": {
+  "zh": "巴爾塔扎爾·馬西",
+  "birth": 1628,
+  "death": 1674,
+  "nat": "法國"
+ },
+ "Thomas Regnaudin": {
+  "zh": "托馬·雷諾丹",
+  "birth": 1622,
+  "death": 1706,
+  "nat": "法國"
+ },
+ "Corneille Van Clève": {
+  "zh": "科爾內耶·范克列夫",
+  "birth": 1645,
+  "death": 1732,
+  "nat": "法國"
+ },
+ "François Anguier": {
+  "zh": "弗朗索瓦·昂吉耶",
+  "birth": 1604,
+  "death": 1669,
+  "nat": "法國"
+ },
+ "Michel Anguier": {
+  "zh": "米歇爾·昂吉耶",
+  "birth": 1612,
+  "death": 1686,
+  "nat": "法國"
+ },
+ "Clodion": {
+  "zh": "克洛迪翁",
+  "birth": 1738,
+  "death": 1814,
+  "nat": "法國"
+ },
+ "Étienne Maurice Falconet": {
+  "zh": "艾蒂安-莫里斯·法爾科內",
+  "birth": 1716,
+  "death": 1791,
+  "nat": "法國"
+ },
+ "Jean-Baptiste Pigalle": {
+  "zh": "尚-巴蒂斯特·皮加勒",
+  "birth": 1714,
+  "death": 1785,
+  "nat": "法國"
+ },
+ "Edme Bouchardon": {
+  "zh": "埃德姆·布夏東",
+  "birth": 1698,
+  "death": 1762,
+  "nat": "法國"
+ },
+ "Lambert-Sigisbert Adam": {
+  "zh": "朗貝爾-西吉斯貝爾·亞當",
+  "birth": 1700,
+  "death": 1759,
+  "nat": "法國"
+ },
+ "Guillaume Coustou": {
+  "zh": "紀堯姆·庫斯圖",
+  "birth": 1677,
+  "death": 1746,
+  "nat": "法國"
+ },
+ "Jean-Baptiste Lemoyne": {
+  "zh": "尚-巴蒂斯特·勒穆瓦納",
+  "birth": 1704,
+  "death": 1778,
+  "nat": "法國"
+ },
+ "Franz Xaver Messerschmidt": {
+  "zh": "弗朗茨·克薩韋爾·梅塞施密特",
+  "birth": 1736,
+  "death": 1783,
+  "nat": "德國（活躍於奧地利）"
+ },
+ "Ignaz Günther": {
+  "zh": "伊格納茨·京特",
+  "birth": 1725,
+  "death": 1775,
+  "nat": "德國"
+ },
+ "Johann Joachim Kändler": {
+  "zh": "約翰·約阿希姆·克恩德勒",
+  "birth": 1706,
+  "death": 1775,
+  "nat": "德國"
+ },
+ "Louis-François Roubiliac": {
+  "zh": "路易-弗朗索瓦·魯比里亞克",
+  "birth": 1702,
+  "death": 1762,
+  "nat": "法國（活躍於英國）"
+ },
+ "Giuseppe Sanmartino": {
+  "zh": "朱塞佩·薩恩馬蒂諾",
+  "birth": 1720,
+  "death": 1793,
+  "nat": "義大利"
+ },
+ "Augustin Pajou": {
+  "zh": "奧古斯丁·帕茹",
+  "birth": 1730,
+  "death": 1809,
+  "nat": "法國"
+ },
+ "Antonio Canova": {
+  "zh": "安東尼奧·卡諾瓦",
+  "birth": 1757,
+  "death": 1822,
+  "nat": "義大利"
+ },
+ "Bertel Thorvaldsen": {
+  "zh": "貝爾特爾·托瓦爾森",
+  "birth": 1770,
+  "death": 1844,
+  "nat": "丹麥"
+ },
+ "Jean-Antoine Houdon": {
+  "zh": "讓-安托萬·烏東",
+  "birth": 1741,
+  "death": 1828,
+  "nat": "法國"
+ },
+ "John Flaxman": {
+  "zh": "約翰·弗拉克斯曼",
+  "birth": 1755,
+  "death": 1826,
+  "nat": "英國"
+ },
+ "Johan Tobias Sergel": {
+  "zh": "約翰·托比亞斯·塞格爾",
+  "birth": 1740,
+  "death": 1814,
+  "nat": "瑞典"
+ },
+ "Johann Gottfried Schadow": {
+  "zh": "約翰·戈特弗里德·沙多",
+  "birth": 1764,
+  "death": 1850,
+  "nat": "德國"
+ },
+ "Christian Daniel Rauch": {
+  "zh": "克里斯蒂安·丹尼爾·勞赫",
+  "birth": 1777,
+  "death": 1857,
+  "nat": "德國"
+ },
+ "Lorenzo Bartolini": {
+  "zh": "洛倫佐·巴爾托利尼",
+  "birth": 1777,
+  "death": 1850,
+  "nat": "義大利"
+ },
+ "Joseph Nollekens": {
+  "zh": "約瑟夫·諾勒肯斯",
+  "birth": 1737,
+  "death": 1823,
+  "nat": "英國"
+ },
+ "Richard Westmacott": {
+  "zh": "理察·維斯馬科特",
+  "birth": 1775,
+  "death": 1856,
+  "nat": "英國"
+ },
+ "Francis Chantrey": {
+  "zh": "法蘭西斯·錢特里",
+  "birth": 1781,
+  "death": 1841,
+  "nat": "英國"
+ },
+ "Pietro Tenerani": {
+  "zh": "彼得羅·特內拉尼",
+  "birth": 1789,
+  "death": 1869,
+  "nat": "義大利"
+ },
+ "Hiram Powers": {
+  "zh": "海勒姆·鮑爾斯",
+  "birth": 1805,
+  "death": 1873,
+  "nat": "美國"
+ },
+ "Horatio Greenough": {
+  "zh": "霍雷肖·格林諾",
+  "birth": 1805,
+  "death": 1852,
+  "nat": "美國"
+ },
+ "François Rude": {
+  "zh": "弗朗索瓦·呂德",
+  "birth": 1784,
+  "death": 1855,
+  "nat": "法國"
+ },
+ "Antoine-Louis Barye": {
+  "zh": "安托萬-路易·巴里",
+  "birth": 1795,
+  "death": 1875,
+  "nat": "法國"
+ },
+ "Pierre-Jean David d'Angers": {
+  "zh": "皮埃爾-尚·大衛·當熱",
+  "birth": 1788,
+  "death": 1856,
+  "nat": "法國"
+ },
+ "Auguste Préault": {
+  "zh": "奧古斯特·普雷奧",
+  "birth": 1809,
+  "death": 1879,
+  "nat": "法國"
+ },
+ "Jean-Pierre Cortot": {
+  "zh": "尚-皮耶·科爾托",
+  "birth": 1787,
+  "death": 1843,
+  "nat": "法國"
+ },
+ "James Pradier": {
+  "zh": "詹姆斯·普拉迪耶",
+  "birth": 1790,
+  "death": 1852,
+  "nat": "法國（瑞士日內瓦出生）"
+ },
+ "Antoine Étex": {
+  "zh": "安托萬·埃泰克斯",
+  "birth": 1808,
+  "death": 1888,
+  "nat": "法國"
+ },
+ "Jehan Duseigneur": {
+  "zh": "熱昂·迪塞涅",
+  "birth": 1808,
+  "death": 1866,
+  "nat": "法國"
+ },
+ "Christophe Fratin": {
+  "zh": "克里斯托夫·弗拉坦",
+  "birth": 1801,
+  "death": 1864,
+  "nat": "法國"
+ },
+ "Giovanni Duprè": {
+  "zh": "喬凡尼·杜普雷",
+  "birth": 1817,
+  "death": 1882,
+  "nat": "義大利"
+ },
+ "Vincenzo Vela": {
+  "zh": "溫琴佐·韋拉",
+  "birth": 1820,
+  "death": 1891,
+  "nat": "瑞士"
+ },
+ "Ernst Rietschel": {
+  "zh": "恩斯特·里切爾",
+  "birth": 1804,
+  "death": 1861,
+  "nat": "德國"
+ },
+ "Alexandre Falguière": {
+  "zh": "亞歷山大·法爾吉埃",
+  "birth": 1831,
+  "death": 1900,
+  "nat": "法國"
+ },
+ "Antonin Mercié": {
+  "zh": "安東南·梅西埃",
+  "birth": 1845,
+  "death": 1916,
+  "nat": "法國"
+ },
+ "Paul Dubois": {
+  "zh": "保羅·杜布瓦",
+  "birth": 1829,
+  "death": 1905,
+  "nat": "法國"
+ },
+ "Jean-Joseph Perraud": {
+  "zh": "尚-約瑟夫·佩羅",
+  "birth": 1819,
+  "death": 1876,
+  "nat": "法國"
+ },
+ "Henri Chapu": {
+  "zh": "亨利·沙普",
+  "birth": 1833,
+  "death": 1891,
+  "nat": "法國"
+ },
+ "Auguste Bartholdi": {
+  "zh": "奧古斯特·巴托爾迪",
+  "birth": 1834,
+  "death": 1904,
+  "nat": "法國"
+ },
+ "Emmanuel Frémiet": {
+  "zh": "艾曼紐·弗雷米耶",
+  "birth": 1824,
+  "death": 1910,
+  "nat": "法國"
+ },
+ "Augustus Saint-Gaudens": {
+  "zh": "奧古斯都·聖高登斯",
+  "birth": 1848,
+  "death": 1907,
+  "nat": "美國（愛爾蘭出生）"
+ },
+ "Daniel Chester French": {
+  "zh": "丹尼爾·切斯特·弗倫奇",
+  "birth": 1850,
+  "death": 1931,
+  "nat": "美國"
+ },
+ "Hamo Thornycroft": {
+  "zh": "哈莫·桑尼克羅夫特",
+  "birth": 1850,
+  "death": 1925,
+  "nat": "英國"
+ },
+ "Frederic Leighton": {
+  "zh": "弗雷德里克·萊頓",
+  "birth": 1830,
+  "death": 1896,
+  "nat": "英國"
+ },
+ "Harriet Hosmer": {
+  "zh": "哈麗特·霍斯默",
+  "birth": 1830,
+  "death": 1908,
+  "nat": "美國"
+ },
+ "William Wetmore Story": {
+  "zh": "威廉·韋特莫爾·斯托里",
+  "birth": 1819,
+  "death": 1895,
+  "nat": "美國"
+ },
+ "Randolph Rogers": {
+  "zh": "蘭道夫·羅傑斯",
+  "birth": 1825,
+  "death": 1892,
+  "nat": "美國"
+ },
+ "Jean-Baptiste Carpeaux": {
+  "zh": "尚-巴蒂斯特·卡爾波",
+  "birth": 1827,
+  "death": 1875,
+  "nat": "法國"
+ },
+ "Aimé-Jules Dalou": {
+  "zh": "艾梅-朱爾·達魯",
+  "birth": 1838,
+  "death": 1902,
+  "nat": "法國"
+ },
+ "Constantin Meunier": {
+  "zh": "康斯坦丁·默尼耶",
+  "birth": 1831,
+  "death": 1905,
+  "nat": "比利時"
+ },
+ "Vincenzo Gemito": {
+  "zh": "溫琴佐·傑米托",
+  "birth": 1852,
+  "death": 1929,
+  "nat": "義大利"
+ },
+ "Adriano Cecioni": {
+  "zh": "阿德里亞諾·切喬尼",
+  "birth": 1836,
+  "death": 1886,
+  "nat": "義大利"
+ },
+ "Achille D'Orsi": {
+  "zh": "阿基萊·多爾西",
+  "birth": 1845,
+  "death": 1929,
+  "nat": "義大利"
+ },
+ "Domenico Trentacoste": {
+  "zh": "多梅尼科·特倫塔科斯塔",
+  "birth": 1859,
+  "death": 1933,
+  "nat": "義大利"
+ },
+ "Paolo Troubetzkoy": {
+  "zh": "保羅·特魯別茨科伊",
+  "birth": 1866,
+  "death": 1938,
+  "nat": "俄羅斯（義大利出生）"
+ },
+ "Jean-Baptiste Clésinger": {
+  "zh": "讓-巴蒂斯特·克萊辛熱",
+  "birth": 1814,
+  "death": 1883,
+  "nat": "法國"
+ },
+ "Alfred Gilbert": {
+  "zh": "阿爾弗雷德·吉爾伯特",
+  "birth": 1854,
+  "death": 1934,
+  "nat": "英國"
+ },
+ "Auguste Rodin": {
+  "zh": "奧古斯特·羅丹",
+  "birth": 1840,
+  "death": 1917,
+  "nat": "法國"
+ },
+ "Camille Claudel": {
+  "zh": "卡蜜兒·克勞黛",
+  "birth": 1864,
+  "death": 1943,
+  "nat": "法國"
+ },
+ "Antoine Bourdelle": {
+  "zh": "安托萬·布德爾",
+  "birth": 1861,
+  "death": 1929,
+  "nat": "法國"
+ },
+ "Jules Desbois": {
+  "zh": "朱爾·德布瓦",
+  "birth": 1851,
+  "death": 1935,
+  "nat": "法國"
+ },
+ "Medardo Rosso": {
+  "zh": "梅達爾多·羅索",
+  "birth": 1858,
+  "death": 1928,
+  "nat": "義大利"
+ },
+ "Gustav Vigeland": {
+  "zh": "古斯塔夫·維格蘭",
+  "birth": 1869,
+  "death": 1943,
+  "nat": "挪威"
+ },
+ "Ivan Meštrović": {
+  "zh": "伊萬·梅什特羅維奇",
+  "birth": 1883,
+  "death": 1962,
+  "nat": "克羅埃西亞（南斯拉夫）"
+ },
+ "Albert Bartholomé": {
+  "zh": "阿爾貝·巴托洛梅",
+  "birth": 1848,
+  "death": 1928,
+  "nat": "法國"
+ },
+ "Malvina Hoffman": {
+  "zh": "瑪爾維娜·霍夫曼",
+  "birth": 1885,
+  "death": 1966,
+  "nat": "美國"
+ },
+ "Bessie Potter Vonnoh": {
+  "zh": "貝西·波特·馮諾",
+  "birth": 1872,
+  "death": 1955,
+  "nat": "美國"
+ },
+ "Max Klinger": {
+  "zh": "馬克斯·克林格",
+  "birth": 1857,
+  "death": 1920,
+  "nat": "德國"
+ },
+ "George Minne": {
+  "zh": "喬治·閔內",
+  "birth": 1866,
+  "death": 1941,
+  "nat": "比利時"
+ },
+ "Hermann Obrist": {
+  "zh": "赫爾曼·奧布里斯特",
+  "birth": 1862,
+  "death": 1927,
+  "nat": "瑞士"
+ },
+ "Rembrandt Bugatti": {
+  "zh": "雷布朗·布加迪",
+  "birth": 1884,
+  "death": 1916,
+  "nat": "義大利"
+ },
+ "Jef Lambeaux": {
+  "zh": "傑夫·朗博",
+  "birth": 1852,
+  "death": 1908,
+  "nat": "比利時"
+ },
+ "Victor Rousseau": {
+  "zh": "維克多·盧梭",
+  "birth": 1865,
+  "death": 1954,
+  "nat": "比利時"
+ },
+ "Charles van der Stappen": {
+  "zh": "夏爾·范德斯塔彭",
+  "birth": 1843,
+  "death": 1910,
+  "nat": "比利時"
+ },
+ "Franz Metzner": {
+  "zh": "弗朗茨·梅茨納",
+  "birth": 1870,
+  "death": 1919,
+  "nat": "德國（波希米亞出生）"
+ },
+ "Agathon Léonard": {
+  "zh": "阿加通·萊昂納爾",
+  "birth": 1841,
+  "death": 1923,
+  "nat": "法國"
+ },
+ "Fernand Khnopff": {
+  "zh": "費爾南·克諾普夫",
+  "birth": 1858,
+  "death": 1921,
+  "nat": "比利時"
+ },
+ "Georges Lacombe": {
+  "zh": "喬治·拉孔布",
+  "birth": 1868,
+  "death": 1916,
+  "nat": "法國"
+ },
+ "Aristide Maillol": {
+  "zh": "阿里斯蒂德·馬約爾",
+  "birth": 1861,
+  "death": 1944,
+  "nat": "法國"
+ },
+ "Charles Despiau": {
+  "zh": "夏爾·德斯皮奧",
+  "birth": 1874,
+  "death": 1946,
+  "nat": "法國"
+ },
+ "Georg Kolbe": {
+  "zh": "格奧爾格·科爾貝",
+  "birth": 1877,
+  "death": 1947,
+  "nat": "德國"
+ },
+ "Gerhard Marcks": {
+  "zh": "格哈德·馬爾克斯",
+  "birth": 1889,
+  "death": 1981,
+  "nat": "德國"
+ },
+ "Robert Wlérick": {
+  "zh": "羅貝爾·維勒里克",
+  "birth": 1882,
+  "death": 1944,
+  "nat": "法國"
+ },
+ "Joseph Bernard (sculptor)": {
+  "zh": "約瑟夫·貝爾納",
+  "birth": 1866,
+  "death": 1931,
+  "nat": "法國"
+ },
+ "Gaston Lachaise": {
+  "zh": "加斯頓·拉謝茲",
+  "birth": 1882,
+  "death": 1935,
+  "nat": "法國／美國"
+ },
+ "Elie Nadelman": {
+  "zh": "埃利·納德爾曼",
+  "birth": 1882,
+  "death": 1946,
+  "nat": "波蘭／美國"
+ },
+ "Paul Manship": {
+  "zh": "保羅·曼希普",
+  "birth": 1885,
+  "death": 1966,
+  "nat": "美國"
+ },
+ "Fritz Klimsch": {
+  "zh": "弗里茨·克林姆施",
+  "birth": 1870,
+  "death": 1960,
+  "nat": "德國"
+ },
+ "Eric Gill": {
+  "zh": "埃里克·吉爾",
+  "birth": 1882,
+  "death": 1940,
+  "nat": "英國"
+ },
+ "Richard Scheibe": {
+  "zh": "理查·沙伊貝",
+  "birth": 1879,
+  "death": 1964,
+  "nat": "德國"
+ },
+ "Renée Sintenis": {
+  "zh": "雷妮·辛特尼斯",
+  "birth": 1888,
+  "death": 1965,
+  "nat": "德國"
+ },
+ "Ernst Barlach": {
+  "zh": "恩斯特·巴拉赫",
+  "birth": 1870,
+  "death": 1938,
+  "nat": "德國"
+ },
+ "Wilhelm Lehmbruck": {
+  "zh": "威廉·倫布魯克",
+  "birth": 1881,
+  "death": 1919,
+  "nat": "德國"
+ },
+ "Käthe Kollwitz": {
+  "zh": "凱特·珂勒惠支",
+  "birth": 1867,
+  "death": 1945,
+  "nat": "德國"
+ },
+ "Ernst Ludwig Kirchner": {
+  "zh": "恩斯特·路德維希·基希納",
+  "birth": 1880,
+  "death": 1938,
+  "nat": "德國"
+ },
+ "Karl Schmidt-Rottluff": {
+  "zh": "卡爾·施密特－羅特魯夫",
+  "birth": 1884,
+  "death": 1976,
+  "nat": "德國"
+ },
+ "Ewald Mataré": {
+  "zh": "埃瓦爾德·馬塔雷",
+  "birth": 1887,
+  "death": 1965,
+  "nat": "德國"
+ },
+ "Rudolf Belling": {
+  "zh": "魯道夫·貝林",
+  "birth": 1886,
+  "death": 1972,
+  "nat": "德國"
+ },
+ "Oskar Schlemmer": {
+  "zh": "奧斯卡·施萊默",
+  "birth": 1888,
+  "death": 1943,
+  "nat": "德國"
+ },
+ "Milly Steger": {
+  "zh": "米莉·施特格",
+  "birth": 1881,
+  "death": 1948,
+  "nat": "德國"
+ },
+ "Emy Roeder": {
+  "zh": "艾米·勒德",
+  "birth": 1890,
+  "death": 1971,
+  "nat": "德國"
+ },
+ "Bernhard Hoetger": {
+  "zh": "伯恩哈德·赫特格",
+  "birth": 1874,
+  "death": 1949,
+  "nat": "德國"
+ },
+ "Ernesto de Fiori": {
+  "zh": "埃內斯托·德·菲奧里",
+  "birth": 1884,
+  "death": 1945,
+  "nat": "義大利／德國"
+ },
+ "Erich Heckel": {
+  "zh": "埃里希·黑克爾",
+  "birth": 1883,
+  "death": 1970,
+  "nat": "德國"
+ },
+ "Lee Lawrie": {
+  "zh": "李·勞里",
+  "birth": 1877,
+  "death": 1963,
+  "nat": "美國"
+ },
+ "Carl Milles": {
+  "zh": "卡爾·米勒斯",
+  "birth": 1875,
+  "death": 1955,
+  "nat": "瑞典／美國"
+ },
+ "Jan and Joël Martel": {
+  "zh": "馬泰爾兄弟（揚與喬埃爾）",
+  "birth": 1896,
+  "death": 1966,
+  "nat": "法國"
+ },
+ "François Pompon": {
+  "zh": "弗朗索瓦·龐龐",
+  "birth": 1855,
+  "death": 1933,
+  "nat": "法國"
+ },
+ "Demétre Chiparus": {
+  "zh": "德梅特爾·希帕魯斯",
+  "birth": 1886,
+  "death": 1947,
+  "nat": "羅馬尼亞／法國"
+ },
+ "Ferdinand Preiss": {
+  "zh": "費迪南·普萊斯",
+  "birth": 1882,
+  "death": 1943,
+  "nat": "德國"
+ },
+ "Alfred Janniot": {
+  "zh": "阿爾弗雷德·賈尼奧",
+  "birth": 1889,
+  "death": 1969,
+  "nat": "法國"
+ },
+ "Paul Landowski": {
+  "zh": "保羅·朗多斯基",
+  "birth": 1875,
+  "death": 1961,
+  "nat": "法國"
+ },
+ "Carl Paul Jennewein": {
+  "zh": "卡爾·保羅·耶內魏因",
+  "birth": 1890,
+  "death": 1978,
+  "nat": "德國／美國"
+ },
+ "Edward McCartan": {
+  "zh": "愛德華·麥卡坦",
+  "birth": 1879,
+  "death": 1947,
+  "nat": "美國"
+ },
+ "Max Le Verrier": {
+  "zh": "馬克斯·勒韋里耶",
+  "birth": 1891,
+  "death": 1973,
+  "nat": "法國"
+ },
+ "Bruno Zach": {
+  "zh": "布魯諾·扎赫",
+  "birth": 1891,
+  "death": 1945,
+  "nat": "奧地利"
+ },
+ "Alexander Archipenko": {
+  "zh": "亞歷山大·阿基片科",
+  "birth": 1887,
+  "death": 1964,
+  "nat": "烏克蘭／美國"
+ },
+ "Jacques Lipchitz": {
+  "zh": "雅克·利普希茨",
+  "birth": 1891,
+  "death": 1973,
+  "nat": "立陶宛／法國／美國"
+ },
+ "Henri Laurens": {
+  "zh": "亨利·洛朗斯",
+  "birth": 1885,
+  "death": 1954,
+  "nat": "法國"
+ },
+ "Raymond Duchamp-Villon": {
+  "zh": "雷蒙·杜象－維隆",
+  "birth": 1876,
+  "death": 1918,
+  "nat": "法國"
+ },
+ "Joseph Csaky": {
+  "zh": "約瑟夫·恰基",
+  "birth": 1888,
+  "death": 1971,
+  "nat": "匈牙利／法國"
+ },
+ "Ossip Zadkine": {
+  "zh": "奧西普·扎德金",
+  "birth": 1888,
+  "death": 1967,
+  "nat": "俄羅斯／法國"
+ },
+ "Pablo Picasso": {
+  "zh": "巴勃羅·畢卡索",
+  "birth": 1881,
+  "death": 1973,
+  "nat": "西班牙／法國"
+ },
+ "Otto Gutfreund": {
+  "zh": "奧托·古特弗羅因德",
+  "birth": 1889,
+  "death": 1927,
+  "nat": "捷克"
+ },
+ "Gustave Miklos": {
+  "zh": "古斯塔夫·米克洛斯",
+  "birth": 1888,
+  "death": 1967,
+  "nat": "匈牙利／法國"
+ },
+ "Amedeo Modigliani": {
+  "zh": "阿梅代奧·莫迪里亞尼",
+  "birth": 1884,
+  "death": 1920,
+  "nat": "義大利"
+ },
+ "Umberto Boccioni": {
+  "zh": "翁貝托·博丘尼",
+  "birth": 1882,
+  "death": 1916,
+  "nat": "義大利"
+ },
+ "Giacomo Balla": {
+  "zh": "賈科莫·巴拉",
+  "birth": 1871,
+  "death": 1958,
+  "nat": "義大利"
+ },
+ "Fortunato Depero": {
+  "zh": "福爾圖納托·德佩羅",
+  "birth": 1892,
+  "death": 1960,
+  "nat": "義大利"
+ },
+ "Enrico Prampolini": {
+  "zh": "恩里科·普蘭波利尼",
+  "birth": 1894,
+  "death": 1956,
+  "nat": "義大利"
+ },
+ "Thayaht": {
+  "zh": "塔亞特",
+  "birth": 1893,
+  "death": 1959,
+  "nat": "義大利"
+ },
+ "Ivo Pannaggi": {
+  "zh": "伊沃·帕納吉",
+  "birth": 1901,
+  "death": 1981,
+  "nat": "義大利"
+ },
+ "Mino Rosso": {
+  "zh": "米諾·羅索",
+  "birth": 1904,
+  "death": 1963,
+  "nat": "義大利"
+ },
+ "Renato Bertelli": {
+  "zh": "雷納托·貝爾泰利",
+  "birth": 1900,
+  "death": 1974,
+  "nat": "義大利"
+ },
+ "Fillia": {
+  "zh": "菲利亞",
+  "birth": 1904,
+  "death": 1936,
+  "nat": "義大利"
+ },
+ "Bruno Munari": {
+  "zh": "布魯諾·穆納里",
+  "birth": 1907,
+  "death": 1998,
+  "nat": "義大利"
+ },
+ "Vladimir Tatlin": {
+  "zh": "弗拉基米爾·塔特林",
+  "birth": 1885,
+  "death": 1953,
+  "nat": "俄羅斯"
+ },
+ "Naum Gabo": {
+  "zh": "瑙姆·加博",
+  "birth": 1890,
+  "death": 1977,
+  "nat": "俄羅斯／美國"
+ },
+ "Antoine Pevsner": {
+  "zh": "安東萬·佩夫斯納",
+  "birth": 1886,
+  "death": 1962,
+  "nat": "俄羅斯／法國"
+ },
+ "Alexander Rodchenko": {
+  "zh": "亞歷山大·羅欽可",
+  "birth": 1891,
+  "death": 1956,
+  "nat": "俄羅斯"
+ },
+ "Karl Ioganson": {
+  "zh": "卡爾·約根松",
+  "birth": 1890,
+  "death": 1929,
+  "nat": "拉脫維亞／俄羅斯"
+ },
+ "Georgii Stenberg": {
+  "zh": "格奧爾基·斯坦伯格",
+  "birth": 1900,
+  "death": 1933,
+  "nat": "俄羅斯"
+ },
+ "Vladimir Stenberg": {
+  "zh": "弗拉基米爾·斯坦伯格",
+  "birth": 1899,
+  "death": 1982,
+  "nat": "俄羅斯"
+ },
+ "Konstantin Medunetsky": {
+  "zh": "康斯坦丁·梅杜涅茨基",
+  "birth": 1899,
+  "death": 1935,
+  "nat": "俄羅斯"
+ },
+ "Kazimir Malevich": {
+  "zh": "卡濟米爾·馬列維奇",
+  "birth": 1879,
+  "death": 1935,
+  "nat": "俄羅斯／烏克蘭"
+ },
+ "El Lissitzky": {
+  "zh": "埃爾·利西茨基",
+  "birth": 1890,
+  "death": 1941,
+  "nat": "俄羅斯"
+ },
+ "László Moholy-Nagy": {
+  "zh": "拉斯洛·莫何利－納吉",
+  "birth": 1895,
+  "death": 1946,
+  "nat": "匈牙利／美國"
+ },
+ "Katarzyna Kobro": {
+  "zh": "卡塔茲娜·科布羅",
+  "birth": 1898,
+  "death": 1951,
+  "nat": "波蘭"
+ },
+ "Marcel Duchamp": {
+  "zh": "馬塞爾·杜象",
+  "birth": 1887,
+  "death": 1968,
+  "nat": "法國／美國"
+ },
+ "Man Ray": {
+  "zh": "曼·雷",
+  "birth": 1890,
+  "death": 1976,
+  "nat": "美國"
+ },
+ "Kurt Schwitters": {
+  "zh": "庫爾特·施維特斯",
+  "birth": 1887,
+  "death": 1948,
+  "nat": "德國"
+ },
+ "Francis Picabia": {
+  "zh": "弗朗西斯·畢卡比亞",
+  "birth": 1879,
+  "death": 1953,
+  "nat": "法國"
+ },
+ "Johannes Baader": {
+  "zh": "約翰內斯·巴德爾",
+  "birth": 1875,
+  "death": 1955,
+  "nat": "德國"
+ },
+ "Raoul Hausmann": {
+  "zh": "勞爾·豪斯曼",
+  "birth": 1886,
+  "death": 1971,
+  "nat": "奧地利／德國"
+ },
+ "Elsa von Freytag-Loringhoven": {
+  "zh": "艾爾莎·馮·弗賴塔格－洛林霍芬",
+  "birth": 1874,
+  "death": 1927,
+  "nat": "德國／美國"
+ },
+ "Morton Schamberg": {
+  "zh": "莫頓·尚伯格",
+  "birth": 1881,
+  "death": 1918,
+  "nat": "美國"
+ },
+ "Sophie Taeuber-Arp": {
+  "zh": "蘇菲·陶柏－阿爾普",
+  "birth": 1889,
+  "death": 1943,
+  "nat": "瑞士"
+ },
+ "Marcel Janco": {
+  "zh": "馬塞爾·揚科",
+  "birth": 1895,
+  "death": 1984,
+  "nat": "羅馬尼亞／以色列"
+ },
+ "Hannah Höch": {
+  "zh": "漢娜·赫希",
+  "birth": 1889,
+  "death": 1978,
+  "nat": "德國"
+ },
+ "Johannes Theodor Baargeld": {
+  "zh": "約翰內斯·特奧多爾·巴爾格爾德",
+  "birth": 1892,
+  "death": 1927,
+  "nat": "德國"
+ },
+ "Jean Arp": {
+  "zh": "讓·阿爾普",
+  "birth": 1886,
+  "death": 1966,
+  "nat": "法國／德國"
+ },
+ "Alberto Giacometti": {
+  "zh": "阿爾貝托·賈柯梅蒂",
+  "birth": 1901,
+  "death": 1966,
+  "nat": "瑞士"
+ },
+ "Max Ernst": {
+  "zh": "馬克斯·恩斯特",
+  "birth": 1891,
+  "death": 1976,
+  "nat": "德國／法國"
+ },
+ "Salvador Dalí": {
+  "zh": "薩爾瓦多·達利",
+  "birth": 1904,
+  "death": 1989,
+  "nat": "西班牙"
+ },
+ "Joan Miró": {
+  "zh": "華金·米羅",
+  "birth": 1893,
+  "death": 1983,
+  "nat": "西班牙"
+ },
+ "Meret Oppenheim": {
+  "zh": "梅雷特·奧本海姆",
+  "birth": 1913,
+  "death": 1985,
+  "nat": "瑞士"
+ },
+ "Hans Bellmer": {
+  "zh": "漢斯·貝爾默",
+  "birth": 1902,
+  "death": 1975,
+  "nat": "德國／法國"
+ },
+ "Victor Brauner": {
+  "zh": "維克多·布勞納",
+  "birth": 1903,
+  "death": 1966,
+  "nat": "羅馬尼亞／法國"
+ },
+ "Wolfgang Paalen": {
+  "zh": "沃爾夫岡·帕倫",
+  "birth": 1905,
+  "death": 1959,
+  "nat": "奧地利／墨西哥"
+ },
+ "Óscar Domínguez": {
+  "zh": "奧斯卡·多明格斯",
+  "birth": 1906,
+  "death": 1957,
+  "nat": "西班牙"
+ },
+ "Isamu Noguchi": {
+  "zh": "野口勇",
+  "birth": 1904,
+  "death": 1988,
+  "nat": "美國（日裔）"
+ },
+ "Roland Penrose": {
+  "zh": "羅蘭·彭羅斯",
+  "birth": 1900,
+  "death": 1984,
+  "nat": "英國"
+ },
+ "Eileen Agar": {
+  "zh": "艾琳·艾格",
+  "birth": 1899,
+  "death": 1991,
+  "nat": "英國（阿根廷出生）"
+ },
+ "Constantin Brâncuși": {
+  "zh": "康斯坦丁·布朗庫西",
+  "birth": 1876,
+  "death": 1957,
+  "nat": "羅馬尼亞／法國"
+ },
+ "Henry Moore": {
+  "zh": "亨利·摩爾",
+  "birth": 1898,
+  "death": 1986,
+  "nat": "英國"
+ },
+ "Barbara Hepworth": {
+  "zh": "芭芭拉·赫普沃斯",
+  "birth": 1903,
+  "death": 1975,
+  "nat": "英國"
+ },
+ "Jacob Epstein": {
+  "zh": "雅各布·愛潑斯坦",
+  "birth": 1880,
+  "death": 1959,
+  "nat": "美國／英國"
+ },
+ "John Skeaping": {
+  "zh": "約翰·斯基平",
+  "birth": 1901,
+  "death": 1980,
+  "nat": "英國"
+ },
+ "Henri Gaudier-Brzeska": {
+  "zh": "亨利·戈迪耶－布爾澤斯卡",
+  "birth": 1891,
+  "death": 1915,
+  "nat": "法國"
+ },
+ "William Zorach": {
+  "zh": "威廉·佐拉克",
+  "birth": 1887,
+  "death": 1966,
+  "nat": "美國"
+ },
+ "John B. Flannagan": {
+  "zh": "約翰·弗蘭納根",
+  "birth": 1895,
+  "death": 1942,
+  "nat": "美國"
+ },
+ "Chaim Gross": {
+  "zh": "柴姆·格羅斯",
+  "birth": 1902,
+  "death": 1991,
+  "nat": "美國"
+ },
+ "Chana Orloff": {
+  "zh": "夏娜·奧洛夫",
+  "birth": 1888,
+  "death": 1968,
+  "nat": "烏克蘭／法國"
+ },
+ "Germaine Richier": {
+  "zh": "熱爾梅娜·里希耶",
+  "birth": 1902,
+  "death": 1959,
+  "nat": "法國"
+ },
+ "Marino Marini": {
+  "zh": "馬里諾·馬里尼",
+  "birth": 1901,
+  "death": 1980,
+  "nat": "義大利"
+ },
+ "Giacomo Manzù": {
+  "zh": "賈科莫·曼祖",
+  "birth": 1908,
+  "death": 1991,
+  "nat": "義大利"
+ },
+ "Fritz Wotruba": {
+  "zh": "弗里茨·沃特魯巴",
+  "birth": 1907,
+  "death": 1975,
+  "nat": "奧地利"
+ },
+ "Lynn Chadwick": {
+  "zh": "林恩·查德威克",
+  "birth": 1914,
+  "death": 2003,
+  "nat": "英國"
+ },
+ "Kenneth Armitage": {
+  "zh": "肯尼斯·阿米蒂奇",
+  "birth": 1916,
+  "death": 2002,
+  "nat": "英國"
+ },
+ "Reg Butler": {
+  "zh": "雷格·巴特勒",
+  "birth": 1913,
+  "death": 1981,
+  "nat": "英國"
+ },
+ "Bernard Meadows": {
+  "zh": "伯納德·米多斯",
+  "birth": 1915,
+  "death": 2005,
+  "nat": "英國"
+ },
+ "Eduardo Paolozzi": {
+  "zh": "愛德華多·保羅齊",
+  "birth": 1924,
+  "death": 2005,
+  "nat": "英國（蘇格蘭）"
+ },
+ "Elisabeth Frink": {
+  "zh": "伊莉莎白·弗林克",
+  "birth": 1930,
+  "death": 1993,
+  "nat": "英國"
+ },
+ "Emilio Greco": {
+  "zh": "艾米利奧·格列柯",
+  "birth": 1913,
+  "death": 1995,
+  "nat": "義大利"
+ },
+ "Mirko Basaldella": {
+  "zh": "米爾科·巴薩爾代拉",
+  "birth": 1910,
+  "death": 1969,
+  "nat": "義大利"
+ },
+ "David Smith": {
+  "zh": "大衛·史密斯",
+  "birth": 1906,
+  "death": 1965,
+  "nat": "美國"
+ },
+ "Eduardo Chillida": {
+  "zh": "愛德華多·奇里達",
+  "birth": 1924,
+  "death": 2002,
+  "nat": "西班牙"
+ },
+ "Julio González": {
+  "zh": "胡利奧·岡薩雷斯",
+  "birth": 1876,
+  "death": 1942,
+  "nat": "西班牙"
+ },
+ "Seymour Lipton": {
+  "zh": "西摩·利普頓",
+  "birth": 1903,
+  "death": 1986,
+  "nat": "美國"
+ },
+ "Herbert Ferber": {
+  "zh": "赫伯特·費伯",
+  "birth": 1906,
+  "death": 1991,
+  "nat": "美國"
+ },
+ "Theodore Roszak": {
+  "zh": "西奧多·羅薩克",
+  "birth": 1907,
+  "death": 1981,
+  "nat": "美國"
+ },
+ "Ibram Lassaw": {
+  "zh": "伊布拉姆·拉索",
+  "birth": 1913,
+  "death": 2003,
+  "nat": "美國"
+ },
+ "David Hare": {
+  "zh": "大衛·黑爾",
+  "birth": 1917,
+  "death": 1992,
+  "nat": "美國"
+ },
+ "Richard Stankiewicz": {
+  "zh": "理查·斯坦基維茨",
+  "birth": 1922,
+  "death": 1983,
+  "nat": "美國"
+ },
+ "John Chamberlain": {
+  "zh": "約翰·張伯倫",
+  "birth": 1927,
+  "death": 2011,
+  "nat": "美國"
+ },
+ "Mark di Suvero": {
+  "zh": "馬克·迪·蘇維羅",
+  "birth": 1933,
+  "death": null,
+  "nat": "美國"
+ },
+ "Louise Nevelson": {
+  "zh": "路易絲·內維爾森",
+  "birth": 1899,
+  "death": 1988,
+  "nat": "美國"
+ },
+ "Anthony Caro": {
+  "zh": "安東尼·卡羅",
+  "birth": 1924,
+  "death": 2013,
+  "nat": "英國"
+ },
+ "Jorge Oteiza": {
+  "zh": "豪爾赫·奧泰薩",
+  "birth": 1908,
+  "death": 2003,
+  "nat": "西班牙"
+ },
+ "Alexander Calder": {
+  "zh": "亞歷山大·考爾德",
+  "birth": 1898,
+  "death": 1976,
+  "nat": "美國"
+ },
+ "Jean Tinguely": {
+  "zh": "尚·丁格利",
+  "birth": 1925,
+  "death": 1991,
+  "nat": "瑞士"
+ },
+ "George Rickey": {
+  "zh": "喬治·里基",
+  "birth": 1907,
+  "death": 2002,
+  "nat": "美國"
+ },
+ "Takis": {
+  "zh": "塔基斯",
+  "birth": 1925,
+  "death": 2019,
+  "nat": "希臘"
+ },
+ "Pol Bury": {
+  "zh": "波爾·比里",
+  "birth": 1922,
+  "death": 2005,
+  "nat": "比利時"
+ },
+ "Jesús Rafael Soto": {
+  "zh": "赫蘇斯·拉斐爾·索托",
+  "birth": 1923,
+  "death": 2005,
+  "nat": "委內瑞拉"
+ },
+ "Yaacov Agam": {
+  "zh": "雅科夫·阿加姆",
+  "birth": 1928,
+  "death": 2024,
+  "nat": "以色列／法國"
+ },
+ "Nicolas Schöffer": {
+  "zh": "尼古拉·舍費爾",
+  "birth": 1912,
+  "death": 1992,
+  "nat": "匈牙利／法國"
+ },
+ "Harry Bertoia": {
+  "zh": "哈里·貝爾托亞",
+  "birth": 1915,
+  "death": 1978,
+  "nat": "義大利／美國"
+ },
+ "Len Lye": {
+  "zh": "蘭·萊",
+  "birth": 1901,
+  "death": 1980,
+  "nat": "紐西蘭／美國"
+ },
+ "Julio Le Parc": {
+  "zh": "胡利奧·勒·帕爾克",
+  "birth": 1928,
+  "death": null,
+  "nat": "阿根廷／法國"
+ },
+ "Gyula Kosice": {
+  "zh": "朱拉·科西策",
+  "birth": 1924,
+  "death": 2016,
+  "nat": "阿根廷"
+ },
+ "Tsai Wen-ying": {
+  "zh": "蔡文穎",
+  "birth": 1928,
+  "death": 2013,
+  "nat": "台灣／美國"
+ },
+ "Donald Judd": {
+  "zh": "唐納德·賈德",
+  "birth": 1928,
+  "death": 1994,
+  "nat": "美國"
+ },
+ "Carl Andre": {
+  "zh": "卡爾·安德烈",
+  "birth": 1935,
+  "death": 2024,
+  "nat": "美國"
+ },
+ "Sol LeWitt": {
+  "zh": "索爾·勒維特",
+  "birth": 1928,
+  "death": 2007,
+  "nat": "美國"
+ },
+ "Dan Flavin": {
+  "zh": "丹·弗萊文",
+  "birth": 1933,
+  "death": 1996,
+  "nat": "美國"
+ },
+ "Robert Morris (artist)": {
+  "zh": "羅伯特·莫里斯",
+  "birth": 1931,
+  "death": 2018,
+  "nat": "美國"
+ },
+ "Tony Smith (artist)": {
+  "zh": "托尼·史密斯",
+  "birth": 1912,
+  "death": 1980,
+  "nat": "美國"
+ },
+ "Anne Truitt": {
+  "zh": "安·特魯伊特",
+  "birth": 1921,
+  "death": 2004,
+  "nat": "美國"
+ },
+ "Ronald Bladen": {
+  "zh": "羅納德·布萊登",
+  "birth": 1918,
+  "death": 1988,
+  "nat": "加拿大／美國"
+ },
+ "John McCracken": {
+  "zh": "約翰·麥克拉肯",
+  "birth": 1934,
+  "death": 2011,
+  "nat": "美國"
+ },
+ "Larry Bell": {
+  "zh": "拉里·貝爾",
+  "birth": 1939,
+  "death": null,
+  "nat": "美國"
+ },
+ "Fred Sandback": {
+  "zh": "弗雷德·桑巴克",
+  "birth": 1943,
+  "death": 2003,
+  "nat": "美國"
+ },
+ "Phillip King (sculptor)": {
+  "zh": "菲利普·金",
+  "birth": 1934,
+  "death": 2021,
+  "nat": "英國"
+ },
+ "Claes Oldenburg": {
+  "zh": "克萊斯·奧登伯格",
+  "birth": 1929,
+  "death": 2022,
+  "nat": "瑞典／美國"
+ },
+ "George Segal": {
+  "zh": "喬治·西格爾",
+  "birth": 1924,
+  "death": 2000,
+  "nat": "美國"
+ },
+ "Edward Kienholz": {
+  "zh": "愛德華·金霍爾茨",
+  "birth": 1927,
+  "death": 1994,
+  "nat": "美國"
+ },
+ "Marisol Escobar": {
+  "zh": "瑪麗索·埃斯科瓦爾",
+  "birth": 1930,
+  "death": 2016,
+  "nat": "委內瑞拉／美國"
+ },
+ "Niki de Saint Phalle": {
+  "zh": "妮基·桑法勒",
+  "birth": 1930,
+  "death": 2002,
+  "nat": "法國／美國"
+ },
+ "Allen Jones": {
+  "zh": "艾倫·瓊斯",
+  "birth": 1937,
+  "death": null,
+  "nat": "英國"
+ },
+ "Andy Warhol": {
+  "zh": "安迪·沃荷",
+  "birth": 1928,
+  "death": 1987,
+  "nat": "美國"
+ },
+ "Red Grooms": {
+  "zh": "雷德·格魯姆斯",
+  "birth": 1937,
+  "death": null,
+  "nat": "美國"
+ },
+ "Richard Artschwager": {
+  "zh": "理查·阿特施瓦格",
+  "birth": 1923,
+  "death": 2013,
+  "nat": "美國"
+ },
+ "Arman": {
+  "zh": "阿爾曼",
+  "birth": 1928,
+  "death": 2005,
+  "nat": "法國／美國"
+ },
+ "César Baldaccini": {
+  "zh": "塞薩爾·巴爾達奇尼",
+  "birth": 1921,
+  "death": 1998,
+  "nat": "法國"
+ },
+ "Robert Rauschenberg": {
+  "zh": "羅伯特·羅森伯格",
+  "birth": 1925,
+  "death": 2008,
+  "nat": "美國"
+ },
+ "Jasper Johns": {
+  "zh": "賈斯培·瓊斯",
+  "birth": 1930,
+  "death": null,
+  "nat": "美國"
+ },
+ "Jim Dine": {
+  "zh": "吉姆·戴恩",
+  "birth": 1935,
+  "death": null,
+  "nat": "美國"
+ },
+ "Eva Hesse": {
+  "zh": "伊娃·海瑟",
+  "birth": 1936,
+  "death": 1970,
+  "nat": "德國／美國"
+ },
+ "Richard Serra": {
+  "zh": "理查·塞拉",
+  "birth": 1938,
+  "death": 2024,
+  "nat": "美國"
+ },
+ "Bruce Nauman": {
+  "zh": "布魯斯·瑙曼",
+  "birth": 1941,
+  "death": null,
+  "nat": "美國"
+ },
+ "Barry Le Va": {
+  "zh": "巴里·勒瓦",
+  "birth": 1941,
+  "death": 2021,
+  "nat": "美國"
+ },
+ "Lynda Benglis": {
+  "zh": "琳達·本格利斯",
+  "birth": 1941,
+  "death": null,
+  "nat": "美國"
+ },
+ "Keith Sonnier": {
+  "zh": "基思·桑尼爾",
+  "birth": 1941,
+  "death": 2020,
+  "nat": "美國"
+ },
+ "Richard Tuttle": {
+  "zh": "理查·塔特爾",
+  "birth": 1941,
+  "death": null,
+  "nat": "美國"
+ },
+ "Joel Shapiro": {
+  "zh": "喬爾·夏皮羅",
+  "birth": 1941,
+  "death": null,
+  "nat": "美國"
+ },
+ "Gordon Matta-Clark": {
+  "zh": "戈登·馬塔－克拉克",
+  "birth": 1943,
+  "death": 1978,
+  "nat": "美國"
+ },
+ "Jackie Winsor": {
+  "zh": "傑基·溫瑟",
+  "birth": 1941,
+  "death": null,
+  "nat": "加拿大／美國"
+ },
+ "Alan Saret": {
+  "zh": "艾倫·薩雷特",
+  "birth": 1944,
+  "death": null,
+  "nat": "美國"
+ },
+ "Rafael Ferrer": {
+  "zh": "拉斐爾·費雷爾",
+  "birth": 1933,
+  "death": 2025,
+  "nat": "波多黎各／美國"
+ },
+ "Barry Flanagan": {
+  "zh": "巴里·弗拉納根",
+  "birth": 1941,
+  "death": 2009,
+  "nat": "英國（威爾斯）"
+ },
+ "Robert Smithson": {
+  "zh": "羅伯特·史密森",
+  "birth": 1938,
+  "death": 1973,
+  "nat": "美國"
+ },
+ "Michael Heizer": {
+  "zh": "邁克爾·海澤",
+  "birth": 1944,
+  "death": null,
+  "nat": "美國"
+ },
+ "Walter De Maria": {
+  "zh": "沃爾特·德·瑪利亞",
+  "birth": 1935,
+  "death": 2013,
+  "nat": "美國"
+ },
+ "Nancy Holt": {
+  "zh": "南希·霍爾特",
+  "birth": 1938,
+  "death": 2014,
+  "nat": "美國"
+ },
+ "Richard Long": {
+  "zh": "理查·朗",
+  "birth": 1945,
+  "death": null,
+  "nat": "英國"
+ },
+ "Christo and Jeanne-Claude": {
+  "zh": "克里斯托與珍妮－克勞德",
+  "birth": 1935,
+  "death": 2020,
+  "nat": "保加利亞／法國／美國"
+ },
+ "Andy Goldsworthy": {
+  "zh": "安迪·高茲沃西",
+  "birth": 1956,
+  "death": null,
+  "nat": "英國"
+ },
+ "Agnes Denes": {
+  "zh": "艾格尼絲·丹妮絲",
+  "birth": 1931,
+  "death": null,
+  "nat": "匈牙利／美國"
+ },
+ "Alice Aycock": {
+  "zh": "愛麗絲·艾考克",
+  "birth": 1946,
+  "death": null,
+  "nat": "美國"
+ },
+ "Dennis Oppenheim": {
+  "zh": "丹尼斯·奧本海姆",
+  "birth": 1938,
+  "death": 2011,
+  "nat": "美國"
+ },
+ "James Turrell": {
+  "zh": "詹姆斯·特瑞爾",
+  "birth": 1943,
+  "death": null,
+  "nat": "美國"
+ },
+ "Mary Miss": {
+  "zh": "瑪麗·米斯",
+  "birth": 1944,
+  "death": null,
+  "nat": "美國"
+ },
+ "Ana Mendieta": {
+  "zh": "安娜·門迪耶塔",
+  "birth": 1948,
+  "death": 1985,
+  "nat": "古巴／美國"
+ },
+ "David Nash": {
+  "zh": "大衛·納許",
+  "birth": 1945,
+  "death": null,
+  "nat": "英國（威爾斯）"
+ },
+ "Jannis Kounellis": {
+  "zh": "揚尼斯·庫奈里斯",
+  "birth": 1936,
+  "death": 2017,
+  "nat": "希臘／義大利"
+ },
+ "Michelangelo Pistoletto": {
+  "zh": "米開朗基羅·皮斯托萊托",
+  "birth": 1933,
+  "death": null,
+  "nat": "義大利"
+ },
+ "Mario Merz": {
+  "zh": "馬里奧·梅爾茲",
+  "birth": 1925,
+  "death": 2003,
+  "nat": "義大利"
+ },
+ "Marisa Merz": {
+  "zh": "瑪麗莎·梅爾茲",
+  "birth": 1926,
+  "death": 2019,
+  "nat": "義大利"
+ },
+ "Giovanni Anselmo": {
+  "zh": "喬瓦尼·安塞爾莫",
+  "birth": 1934,
+  "death": 2023,
+  "nat": "義大利"
+ },
+ "Giuseppe Penone": {
+  "zh": "朱塞佩·佩諾內",
+  "birth": 1947,
+  "death": null,
+  "nat": "義大利"
+ },
+ "Alighiero Boetti": {
+  "zh": "阿里吉耶羅·博埃蒂",
+  "birth": 1940,
+  "death": 1994,
+  "nat": "義大利"
+ },
+ "Pino Pascali": {
+  "zh": "皮諾·帕斯卡利",
+  "birth": 1935,
+  "death": 1968,
+  "nat": "義大利"
+ },
+ "Luciano Fabro": {
+  "zh": "盧恰諾·法布羅",
+  "birth": 1936,
+  "death": 2007,
+  "nat": "義大利"
+ },
+ "Giulio Paolini": {
+  "zh": "朱利奧·保利尼",
+  "birth": 1940,
+  "death": null,
+  "nat": "義大利"
+ },
+ "Gilberto Zorio": {
+  "zh": "吉爾貝托·佐里奧",
+  "birth": 1944,
+  "death": null,
+  "nat": "義大利"
+ },
+ "Piero Manzoni": {
+  "zh": "皮耶羅·曼佐尼",
+  "birth": 1933,
+  "death": 1963,
+  "nat": "義大利"
+ },
+ "Pier Paolo Calzolari": {
+  "zh": "皮耶爾·保羅·卡爾佐拉里",
+  "birth": 1943,
+  "death": null,
+  "nat": "義大利"
+ },
+ "Joseph Beuys": {
+  "zh": "約瑟夫·博伊斯",
+  "birth": 1921,
+  "death": 1986,
+  "nat": "德國"
+ },
+ "Anish Kapoor": {
+  "zh": "安尼施·卡普爾",
+  "birth": 1954,
+  "death": null,
+  "nat": "英國（印度出生）"
+ },
+ "Joseph Kosuth": {
+  "zh": "約瑟夫·科蘇斯",
+  "birth": 1945,
+  "death": null,
+  "nat": "美國"
+ },
+ "Louise Bourgeois": {
+  "zh": "路易絲·布爾喬亞",
+  "birth": 1911,
+  "death": 2010,
+  "nat": "法國／美國"
+ },
+ "Rachel Whiteread": {
+  "zh": "瑞秋·懷特瑞德",
+  "birth": 1963,
+  "death": null,
+  "nat": "英國"
+ },
+ "Damien Hirst": {
+  "zh": "達米恩·赫斯特",
+  "birth": 1965,
+  "death": null,
+  "nat": "英國"
+ },
+ "Ai Weiwei": {
+  "zh": "艾未未",
+  "birth": 1957,
+  "death": null,
+  "nat": "中國"
+ },
+ "Ilya Kabakov": {
+  "zh": "伊利亞·卡巴科夫",
+  "birth": 1933,
+  "death": 2023,
+  "nat": "俄羅斯／美國"
+ },
+ "Christian Boltanski": {
+  "zh": "克里斯提昂·波爾坦斯基",
+  "birth": 1944,
+  "death": 2021,
+  "nat": "法國"
+ },
+ "Doris Salcedo": {
+  "zh": "多麗絲·薩爾塞多",
+  "birth": 1958,
+  "death": null,
+  "nat": "哥倫比亞"
+ },
+ "Cornelia Parker": {
+  "zh": "康妮莉亞·帕克",
+  "birth": 1956,
+  "death": null,
+  "nat": "英國"
+ },
+ "Olafur Eliasson": {
+  "zh": "奧拉維爾·埃利亞松",
+  "birth": 1967,
+  "death": null,
+  "nat": "丹麥／冰島"
+ },
+ "Yayoi Kusama": {
+  "zh": "草間彌生",
+  "birth": 1929,
+  "death": null,
+  "nat": "日本"
+ },
+ "Mona Hatoum": {
+  "zh": "莫娜·哈圖姆",
+  "birth": 1952,
+  "death": null,
+  "nat": "巴勒斯坦／英國"
+ },
+ "Duane Hanson": {
+  "zh": "杜安·漢森",
+  "birth": 1925,
+  "death": 1996,
+  "nat": "美國"
+ },
+ "Ron Mueck": {
+  "zh": "榮·繆克",
+  "birth": 1958,
+  "death": null,
+  "nat": "澳洲／英國"
+ },
+ "Antony Gormley": {
+  "zh": "安東尼·葛姆雷",
+  "birth": 1950,
+  "death": null,
+  "nat": "英國"
+ },
+ "John De Andrea": {
+  "zh": "約翰·德·安德烈亞",
+  "birth": 1941,
+  "death": null,
+  "nat": "美國"
+ },
+ "Marc Quinn": {
+  "zh": "馬克·奎恩",
+  "birth": 1964,
+  "death": null,
+  "nat": "英國"
+ },
+ "Kiki Smith": {
+  "zh": "琪琪·史密斯",
+  "birth": 1954,
+  "death": null,
+  "nat": "美國（德國出生）"
+ },
+ "Charles Ray": {
+  "zh": "查爾斯·雷",
+  "birth": 1953,
+  "death": null,
+  "nat": "美國"
+ },
+ "Maurizio Cattelan": {
+  "zh": "毛里奇奧·卡特蘭",
+  "birth": 1960,
+  "death": null,
+  "nat": "義大利"
+ },
+ "Katharina Fritsch": {
+  "zh": "卡塔琳娜·弗里奇",
+  "birth": 1956,
+  "death": null,
+  "nat": "德國"
+ },
+ "Thomas Schütte": {
+  "zh": "托馬斯·許特",
+  "birth": 1954,
+  "death": null,
+  "nat": "德國"
+ },
+ "Juan Muñoz": {
+  "zh": "胡安·穆尼奧斯",
+  "birth": 1953,
+  "death": 2001,
+  "nat": "西班牙"
+ },
+ "Berlinde De Bruyckere": {
+  "zh": "貝琳德·德·布魯伊克雷",
+  "birth": 1964,
+  "death": null,
+  "nat": "比利時"
+ },
+ "Evan Penny": {
+  "zh": "埃文·彭尼",
+  "birth": 1953,
+  "death": 2022,
+  "nat": "加拿大"
+ },
+ "Jeff Koons": {
+  "zh": "傑夫·昆斯",
+  "birth": 1955,
+  "death": null,
+  "nat": "美國"
+ }
+}
