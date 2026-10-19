@@ -1,0 +1,14 @@
+{
+ "version": "v1",
+ "updated": "2026-10-19",
+ "counts": {
+  "movements": 40,
+  "artists": 480,
+  "works": 1716,
+  "with_image": 565,
+  "museums": 605
+ },
+ "notes": [
+  "v1（2026-10-19）：首版。流派／雕塑家／作品／說明由 Sonnet 子代理依知識整理；圖檔以 Commons 站內搜尋自動配對，待 Wikidata 比對。"
+ ]
+}

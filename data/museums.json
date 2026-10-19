@@ -1,0 +1,4237 @@
+{
+ "national_archaeological_museum_athens": {
+  "en": "National Archaeological Museum, Athens",
+  "zh": "國家考古博物館",
+  "city": "Athens",
+  "country": "希臘",
+  "count": 10
+ },
+ "acropolis_museum_athens": {
+  "en": "Acropolis Museum, Athens",
+  "zh": "衛城博物館",
+  "city": "Athens",
+  "country": "希臘",
+  "count": 7
+ },
+ "delphi_archaeological_museum_delphi": {
+  "en": "Delphi Archaeological Museum, Delphi",
+  "zh": "德爾斐考古博物館",
+  "city": "Delphi",
+  "country": "希臘",
+  "count": 3
+ },
+ "louvre_paris": {
+  "en": "Louvre, Paris",
+  "zh": "羅浮宮",
+  "city": "Paris",
+  "country": "法國",
+  "count": 70
+ },
+ "metropolitan_museum_of_art_new_york": {
+  "en": "Metropolitan Museum of Art, New York",
+  "zh": "大都會藝術博物館",
+  "city": "New York",
+  "country": "美國",
+  "count": 11
+ },
+ "glyptothek_munich": {
+  "en": "Glyptothek, Munich",
+  "zh": "慕尼黑雕刻館",
+  "city": "Munich",
+  "country": "德國",
+  "count": 1
+ },
+ "british_museum_london": {
+  "en": "British Museum, London",
+  "zh": "大英博物館",
+  "city": "London",
+  "country": "英國",
+  "count": 7
+ },
+ "olympia_archaeological_museum_olympia": {
+  "en": "Olympia Archaeological Museum, Olympia",
+  "zh": "奧林匹亞考古博物館",
+  "city": "Olympia",
+  "country": "希臘",
+  "count": 4
+ },
+ "vatican_museums_vatican_city": {
+  "en": "Vatican Museums, Vatican City",
+  "zh": "梵蒂岡博物館",
+  "city": "Vatican City",
+  "country": "梵蒂岡",
+  "count": 10
+ },
+ "museo_archeologico_nazionale_sperlonga": {
+  "en": "Museo Archeologico Nazionale, Sperlonga",
+  "zh": "斯佩隆加國立考古博物館",
+  "city": "Sperlonga",
+  "country": "義大利",
+  "count": 4
+ },
+ "capitoline_museums_rome": {
+  "en": "Capitoline Museums, Rome",
+  "zh": "卡比托利歐博物館",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 7
+ },
+ "palazzo_altemps_rome": {
+  "en": "Palazzo Altemps, Rome",
+  "zh": "阿爾騰普斯宮",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 3
+ },
+ "archaeological_museum_of_messene_messene": {
+  "en": "Archaeological Museum of Messene, Messene",
+  "zh": "美塞尼考古博物館",
+  "city": "Messene",
+  "country": "希臘",
+  "count": 1
+ },
+ "palazzo_massimo_rome": {
+  "en": "Palazzo Massimo, Rome",
+  "zh": "馬西莫宮",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 2
+ },
+ "villa_giulia_rome": {
+  "en": "Villa Giulia, Rome",
+  "zh": "朱利亞別墅",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 7
+ },
+ "museo_archeologico_nazionale_florence": {
+  "en": "Museo Archeologico Nazionale, Florence",
+  "zh": "佛羅倫斯國立考古博物館",
+  "city": "Florence",
+  "country": "義大利",
+  "count": 3
+ },
+ "museo_guarnacci_volterra": {
+  "en": "Museo Guarnacci, Volterra",
+  "zh": "瓜爾納奇博物館",
+  "city": "Volterra",
+  "country": "義大利",
+  "count": 1
+ },
+ "museo_archeologico_nazionale_chiusi": {
+  "en": "Museo Archeologico Nazionale, Chiusi",
+  "zh": "丘西國立考古博物館",
+  "city": "Chiusi",
+  "country": "義大利",
+  "count": 2
+ },
+ "uffizi_gallery_florence": {
+  "en": "Uffizi Gallery, Florence",
+  "zh": "烏菲茲美術館",
+  "city": "Florence",
+  "country": "義大利",
+  "count": 2
+ },
+ "villa_albani_rome": {
+  "en": "Villa Albani, Rome",
+  "zh": "阿爾巴尼別墅",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 1
+ },
+ "museo_del_prado_madrid": {
+  "en": "Museo del Prado, Madrid",
+  "zh": "普拉多博物館",
+  "city": "Madrid",
+  "country": "西班牙",
+  "count": 4
+ },
+ "centrale_montemartini_rome": {
+  "en": "Centrale Montemartini, Rome",
+  "zh": "蒙特馬爾蒂尼發電廠博物館",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 1
+ },
+ "museo_archeologico_nazionale_naples": {
+  "en": "Museo Archeologico Nazionale, Naples",
+  "zh": "那不勒斯國立考古博物館",
+  "city": "Naples",
+  "country": "義大利",
+  "count": 1
+ },
+ "museo_di_antichit_turin": {
+  "en": "Museo di Antichità, Turin",
+  "zh": "都靈古物博物館",
+  "city": "Turin",
+  "country": "義大利",
+  "count": 1
+ },
+ "ara_pacis_museum_rome": {
+  "en": "Ara Pacis Museum, Rome",
+  "zh": "和平祭壇博物館",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 4
+ },
+ "trajan_s_forum_rome": {
+  "en": "Trajan's Forum, Rome",
+  "zh": "圖拉真廣場",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 1
+ },
+ "arch_of_constantine_rome": {
+  "en": "Arch of Constantine, Rome",
+  "zh": "君士坦丁凱旋門",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 2
+ },
+ "istanbul_archaeology_museums_istanbul": {
+  "en": "Istanbul Archaeology Museums, Istanbul",
+  "zh": "伊斯坦堡考古博物館",
+  "city": "Istanbul",
+  "country": "土耳其",
+  "count": 1
+ },
+ "basilica_of_sant_ambrogio_milan": {
+  "en": "Basilica of Sant'Ambrogio, Milan",
+  "zh": "聖安布羅斯大殿",
+  "city": "Milan",
+  "country": "義大利",
+  "count": 1
+ },
+ "santa_maria_antiqua_rome": {
+  "en": "Santa Maria Antiqua, Rome",
+  "zh": "古聖母堂",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 1
+ },
+ "museo_storico_del_tesoro_della_basilica_di_san_pietro_vatican_city": {
+  "en": "Museo Storico del Tesoro della Basilica di San Pietro, Vatican City",
+  "zh": "聖彼得大殿寶庫博物館",
+  "city": "Vatican City",
+  "country": "梵蒂岡",
+  "count": 1
+ },
+ "victoria_and_albert_museum_london": {
+  "en": "Victoria and Albert Museum, London",
+  "zh": "維多利亞與艾伯特博物館",
+  "city": "London",
+  "country": "英國",
+  "count": 8
+ },
+ "cabinet_des_m_dailles_paris": {
+  "en": "Cabinet des Médailles, Paris",
+  "zh": "錢幣與獎章博物館（法國國家圖書館）",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "museo_arcivescovile_ravenna": {
+  "en": "Museo Arcivescovile, Ravenna",
+  "zh": "大主教博物館",
+  "city": "Ravenna",
+  "country": "義大利",
+  "count": 1
+ },
+ "basilica_di_san_marco_venice": {
+  "en": "Basilica di San Marco, Venice",
+  "zh": "聖馬可大殿",
+  "city": "Venice",
+  "country": "義大利",
+  "count": 4
+ },
+ "hippodrome_istanbul": {
+  "en": "Hippodrome, Istanbul",
+  "zh": "君士坦丁堡賽馬場",
+  "city": "Istanbul",
+  "country": "土耳其",
+  "count": 1
+ },
+ "piazza_marina_barletta": {
+  "en": "Piazza Marina, Barletta",
+  "zh": "馬里納廣場",
+  "city": "Barletta",
+  "country": "義大利",
+  "count": 1
+ },
+ "qal_at_sim_an_aleppo_governorate": {
+  "en": "Qal'at Sim'an, Aleppo Governorate",
+  "zh": "聖西緬修道院遺址",
+  "city": "Aleppo Governorate",
+  "country": "敘利亞",
+  "count": 1
+ },
+ "qalb_loze_idlib_governorate": {
+  "en": "Qalb Loze, Idlib Governorate",
+  "zh": "卡勒布盧澤教堂",
+  "city": "Idlib Governorate",
+  "country": "敘利亞",
+  "count": 1
+ },
+ "cath_drale_saint_lazare_autun": {
+  "en": "Cathédrale Saint-Lazare, Autun",
+  "zh": "聖拉撒祿主教座堂",
+  "city": "Autun",
+  "country": "法國",
+  "count": 4
+ },
+ "mus_e_rolin_autun": {
+  "en": "Musée Rolin, Autun",
+  "zh": "羅蘭博物館",
+  "city": "Autun",
+  "country": "法國",
+  "count": 1
+ },
+ "modena_cathedral_modena": {
+  "en": "Modena Cathedral, Modena",
+  "zh": "摩德納主教座堂",
+  "city": "Modena",
+  "country": "義大利",
+  "count": 4
+ },
+ "parma_cathedral_parma": {
+  "en": "Parma Cathedral, Parma",
+  "zh": "帕爾馬主教座堂",
+  "city": "Parma",
+  "country": "義大利",
+  "count": 1
+ },
+ "parma_baptistery_parma": {
+  "en": "Parma Baptistery, Parma",
+  "zh": "帕爾馬洗禮堂",
+  "city": "Parma",
+  "country": "義大利",
+  "count": 3
+ },
+ "fidenza_cathedral_fidenza": {
+  "en": "Fidenza Cathedral, Fidenza",
+  "zh": "菲登扎主教座堂",
+  "city": "Fidenza",
+  "country": "義大利",
+  "count": 1
+ },
+ "notre_dame_des_anges_cabestany": {
+  "en": "Notre-Dame-des-Anges, Cabestany",
+  "zh": "天使聖母教堂",
+  "city": "Cabestany",
+  "country": "法國",
+  "count": 1
+ },
+ "saint_papoul_abbey_saint_papoul": {
+  "en": "Saint-Papoul Abbey, Saint-Papoul",
+  "zh": "聖帕波修道院",
+  "city": "Saint-Papoul",
+  "country": "法國",
+  "count": 1
+ },
+ "rieux_minervois_church_rieux_minervois": {
+  "en": "Rieux-Minervois Church, Rieux-Minervois",
+  "zh": "里厄-米內瓦教堂",
+  "city": "Rieux-Minervois",
+  "country": "法國",
+  "count": 1
+ },
+ "abbey_of_sant_antimo_montalcino": {
+  "en": "Abbey of Sant'Antimo, Montalcino",
+  "zh": "聖安蒂莫修道院",
+  "city": "Montalcino",
+  "country": "義大利",
+  "count": 1
+ },
+ "klosterneuburg_abbey_klosterneuburg": {
+  "en": "Klosterneuburg Abbey, Klosterneuburg",
+  "zh": "克洛斯特新堡修道院",
+  "city": "Klosterneuburg",
+  "country": "奧地利",
+  "count": 1
+ },
+ "cologne_cathedral_cologne": {
+  "en": "Cologne Cathedral, Cologne",
+  "zh": "科隆大教堂",
+  "city": "Cologne",
+  "country": "德國",
+  "count": 2
+ },
+ "tournai_cathedral_tournai": {
+  "en": "Tournai Cathedral, Tournai",
+  "zh": "圖爾奈主教座堂",
+  "city": "Tournai",
+  "country": "比利時",
+  "count": 1
+ },
+ "church_of_saint_barth_lemy_li_ge": {
+  "en": "Church of Saint Barthélemy, Liège",
+  "zh": "聖巴托羅繆教堂",
+  "city": "Liège",
+  "country": "比利時",
+  "count": 1
+ },
+ "hildesheim_cathedral_hildesheim": {
+  "en": "Hildesheim Cathedral, Hildesheim",
+  "zh": "希爾德斯海姆主教座堂",
+  "city": "Hildesheim",
+  "country": "德國",
+  "count": 3
+ },
+ "pisa_cathedral_pisa": {
+  "en": "Pisa Cathedral, Pisa",
+  "zh": "比薩主教座堂",
+  "city": "Pisa",
+  "country": "義大利",
+  "count": 2
+ },
+ "monreale_cathedral_monreale": {
+  "en": "Monreale Cathedral, Monreale",
+  "zh": "蒙雷阿萊主教座堂",
+  "city": "Monreale",
+  "country": "義大利",
+  "count": 1
+ },
+ "paderborn_cathedral_treasury_paderborn": {
+  "en": "Paderborn Cathedral Treasury, Paderborn",
+  "zh": "帕德伯恩主教座堂寶庫",
+  "city": "Paderborn",
+  "country": "德國",
+  "count": 1
+ },
+ "st_heribert_s_church_cologne_deutz": {
+  "en": "St. Heribert's Church, Cologne-Deutz",
+  "zh": "聖赫里伯特教堂",
+  "city": "Cologne-Deutz",
+  "country": "德國",
+  "count": 1
+ },
+ "collegiate_church_of_notre_dame_huy": {
+  "en": "Collegiate Church of Notre-Dame, Huy",
+  "zh": "于伊聖母學院教堂",
+  "city": "Huy",
+  "country": "比利時",
+  "count": 1
+ },
+ "royal_museums_of_art_and_history_brussels": {
+  "en": "Royal Museums of Art and History, Brussels",
+  "zh": "皇家藝術與歷史博物館",
+  "city": "Brussels",
+  "country": "比利時",
+  "count": 1
+ },
+ "santiago_de_compostela_cathedral_santiago_de_compostela": {
+  "en": "Santiago de Compostela Cathedral, Santiago de Compostela",
+  "zh": "聖地牙哥德孔波斯特拉主教座堂",
+  "city": "Santiago de Compostela",
+  "country": "西班牙",
+  "count": 3
+ },
+ "baptistery_pisa": {
+  "en": "Baptistery, Pisa",
+  "zh": "比薩洗禮堂",
+  "city": "Pisa",
+  "country": "義大利",
+  "count": 1
+ },
+ "siena_cathedral_siena": {
+  "en": "Siena Cathedral, Siena",
+  "zh": "錫耶納主教座堂",
+  "city": "Siena",
+  "country": "義大利",
+  "count": 1
+ },
+ "piazza_iv_novembre_perugia": {
+  "en": "Piazza IV Novembre, Perugia",
+  "zh": "十一月四日廣場",
+  "city": "Perugia",
+  "country": "義大利",
+  "count": 2
+ },
+ "basilica_of_san_domenico_bologna": {
+  "en": "Basilica of San Domenico, Bologna",
+  "zh": "聖多明尼克大殿",
+  "city": "Bologna",
+  "country": "義大利",
+  "count": 1
+ },
+ "sant_andrea_pistoia": {
+  "en": "Sant'Andrea, Pistoia",
+  "zh": "聖安德烈亞教堂",
+  "city": "Pistoia",
+  "country": "義大利",
+  "count": 1
+ },
+ "museo_dell_opera_del_duomo_siena": {
+  "en": "Museo dell'Opera del Duomo, Siena",
+  "zh": "錫耶納主教座堂博物館",
+  "city": "Siena",
+  "country": "義大利",
+  "count": 1
+ },
+ "scrovegni_chapel_padua": {
+  "en": "Scrovegni Chapel, Padua",
+  "zh": "斯科羅威尼禮拜堂",
+  "city": "Padua",
+  "country": "義大利",
+  "count": 1
+ },
+ "museo_dell_opera_del_duomo_pisa": {
+  "en": "Museo dell'Opera del Duomo, Pisa",
+  "zh": "比薩主教座堂博物館",
+  "city": "Pisa",
+  "country": "義大利",
+  "count": 1
+ },
+ "san_domenico_orvieto": {
+  "en": "San Domenico, Orvieto",
+  "zh": "聖多明尼克教堂",
+  "city": "Orvieto",
+  "country": "義大利",
+  "count": 1
+ },
+ "basilica_of_san_paolo_fuori_le_mura_rome": {
+  "en": "Basilica of San Paolo fuori le Mura, Rome",
+  "zh": "城外聖保羅大殿",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 1
+ },
+ "santa_maria_maggiore_rome": {
+  "en": "Santa Maria Maggiore, Rome",
+  "zh": "聖母大殿",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 2
+ },
+ "museo_dell_opera_del_duomo_florence": {
+  "en": "Museo dell'Opera del Duomo, Florence",
+  "zh": "佛羅倫斯主教座堂博物館",
+  "city": "Florence",
+  "country": "義大利",
+  "count": 9
+ },
+ "st_peter_s_basilica_vatican_city": {
+  "en": "St. Peter's Basilica, Vatican City",
+  "zh": "聖彼得大殿",
+  "city": "Vatican City",
+  "country": "梵蒂岡",
+  "count": 14
+ },
+ "baptistery_of_san_giovanni_florence": {
+  "en": "Baptistery of San Giovanni, Florence",
+  "zh": "佛羅倫斯聖若望洗禮堂",
+  "city": "Florence",
+  "country": "義大利",
+  "count": 7
+ },
+ "orvieto_cathedral_museum_orvieto": {
+  "en": "Orvieto Cathedral Museum, Orvieto",
+  "zh": "奧爾維耶托主教座堂博物館",
+  "city": "Orvieto",
+  "country": "義大利",
+  "count": 1
+ },
+ "st_vitus_cathedral_prague": {
+  "en": "St. Vitus Cathedral, Prague",
+  "zh": "聖維特主教座堂",
+  "city": "Prague",
+  "country": "捷克",
+  "count": 2
+ },
+ "old_town_bridge_tower_prague": {
+  "en": "Old Town Bridge Tower, Prague",
+  "zh": "舊城橋塔",
+  "city": "Prague",
+  "country": "捷克",
+  "count": 1
+ },
+ "heilig_kreuz_m_nster_schw_bisch_gm_nd": {
+  "en": "Heilig-Kreuz-Münster, Schwäbisch Gmünd",
+  "zh": "聖十字大教堂",
+  "city": "Schwäbisch Gmünd",
+  "country": "德國",
+  "count": 1
+ },
+ "naumburg_cathedral_naumburg": {
+  "en": "Naumburg Cathedral, Naumburg",
+  "zh": "瑙姆堡主教座堂",
+  "city": "Naumburg",
+  "country": "德國",
+  "count": 2
+ },
+ "mainz_cathedral_museum_mainz": {
+  "en": "Mainz Cathedral Museum, Mainz",
+  "zh": "美因茲主教座堂博物館",
+  "city": "Mainz",
+  "country": "德國",
+  "count": 1
+ },
+ "st_jakob_s_church_rothenburg_ob_der_tauber": {
+  "en": "St. Jakob's Church, Rothenburg ob der Tauber",
+  "zh": "聖雅各教堂",
+  "city": "Rothenburg ob der Tauber",
+  "country": "德國",
+  "count": 1
+ },
+ "herrgottskirche_creglingen": {
+  "en": "Herrgottskirche, Creglingen",
+  "zh": "赫爾戈特教堂",
+  "city": "Creglingen",
+  "country": "德國",
+  "count": 1
+ },
+ "bamberg_cathedral_bamberg": {
+  "en": "Bamberg Cathedral, Bamberg",
+  "zh": "班貝格主教座堂",
+  "city": "Bamberg",
+  "country": "德國",
+  "count": 2
+ },
+ "mainfr_nkisches_museum_w_rzburg": {
+  "en": "Mainfränkisches Museum, Würzburg",
+  "zh": "美因法蘭克尼亞博物館",
+  "city": "Würzburg",
+  "country": "德國",
+  "count": 1
+ },
+ "w_rzburg_cathedral_w_rzburg": {
+  "en": "Würzburg Cathedral, Würzburg",
+  "zh": "維爾茨堡主教座堂",
+  "city": "Würzburg",
+  "country": "德國",
+  "count": 1
+ },
+ "bode_museum_berlin": {
+  "en": "Bode Museum, Berlin",
+  "zh": "博德博物館",
+  "city": "Berlin",
+  "country": "德國",
+  "count": 5
+ },
+ "st_mary_s_basilica_krak_w": {
+  "en": "St. Mary's Basilica, Kraków",
+  "zh": "聖母聖殿",
+  "city": "Kraków",
+  "country": "波蘭",
+  "count": 1
+ },
+ "st_lorenz_church_nuremberg": {
+  "en": "St. Lorenz Church, Nuremberg",
+  "zh": "聖勞倫斯教堂",
+  "city": "Nuremberg",
+  "country": "德國",
+  "count": 2
+ },
+ "wawel_cathedral_krak_w": {
+  "en": "Wawel Cathedral, Kraków",
+  "zh": "瓦維爾主教座堂",
+  "city": "Kraków",
+  "country": "波蘭",
+  "count": 1
+ },
+ "germanisches_nationalmuseum_nuremberg": {
+  "en": "Germanisches Nationalmuseum, Nuremberg",
+  "zh": "日耳曼國家博物館",
+  "city": "Nuremberg",
+  "country": "德國",
+  "count": 2
+ },
+ "mus_e_de_l_uvre_notre_dame_strasbourg": {
+  "en": "Musée de l'Œuvre Notre-Dame, Strasbourg",
+  "zh": "聖母大教堂博物館",
+  "city": "Strasbourg",
+  "country": "法國",
+  "count": 1
+ },
+ "liebieghaus_frankfurt": {
+  "en": "Liebieghaus, Frankfurt",
+  "zh": "利比希之家雕塑博物館",
+  "city": "Frankfurt",
+  "country": "德國",
+  "count": 1
+ },
+ "stiftskirche_baden_baden": {
+  "en": "Stiftskirche, Baden-Baden",
+  "zh": "巴登-巴登協同教堂",
+  "city": "Baden-Baden",
+  "country": "德國",
+  "count": 1
+ },
+ "st_stephen_s_cathedral_vienna": {
+  "en": "St. Stephen's Cathedral, Vienna",
+  "zh": "聖史蒂芬主教座堂",
+  "city": "Vienna",
+  "country": "奧地利",
+  "count": 1
+ },
+ "gem_ldegalerie_berlin": {
+  "en": "Gemäldegalerie, Berlin",
+  "zh": "柏林繪畫館",
+  "city": "Berlin",
+  "country": "德國",
+  "count": 1
+ },
+ "multscher_museum_sterzing": {
+  "en": "Multscher Museum, Sterzing",
+  "zh": "穆爾舍博物館",
+  "city": "Sterzing",
+  "country": "義大利",
+  "count": 1
+ },
+ "ulm_minster_ulm": {
+  "en": "Ulm Minster, Ulm",
+  "zh": "烏爾姆大教堂",
+  "city": "Ulm",
+  "country": "德國",
+  "count": 2
+ },
+ "st_sebald_church_nuremberg": {
+  "en": "St. Sebald Church, Nuremberg",
+  "zh": "聖澤巴德教堂",
+  "city": "Nuremberg",
+  "country": "德國",
+  "count": 1
+ },
+ "champmol_charterhouse_dijon": {
+  "en": "Champmol Charterhouse, Dijon",
+  "zh": "尚莫爾修道院",
+  "city": "Dijon",
+  "country": "法國",
+  "count": 3
+ },
+ "mus_e_des_beaux_arts_dijon": {
+  "en": "Musée des Beaux-Arts, Dijon",
+  "zh": "第戎美術館",
+  "city": "Dijon",
+  "country": "法國",
+  "count": 6
+ },
+ "mus_e_arch_ologique_dijon": {
+  "en": "Musée Archéologique, Dijon",
+  "zh": "第戎考古博物館",
+  "city": "Dijon",
+  "country": "法國",
+  "count": 1
+ },
+ "church_of_saint_philibert_dijon": {
+  "en": "Church of Saint-Philibert, Dijon",
+  "zh": "聖菲利貝爾教堂",
+  "city": "Dijon",
+  "country": "法國",
+  "count": 1
+ },
+ "basilica_of_saint_denis_saint_denis": {
+  "en": "Basilica of Saint-Denis, Saint-Denis",
+  "zh": "聖但尼聖殿",
+  "city": "Saint-Denis",
+  "country": "法國",
+  "count": 5
+ },
+ "palazzo_pubblico_siena": {
+  "en": "Palazzo Pubblico, Siena",
+  "zh": "公共宮",
+  "city": "Siena",
+  "country": "義大利",
+  "count": 1
+ },
+ "lucca_cathedral_lucca": {
+  "en": "Lucca Cathedral, Lucca",
+  "zh": "盧卡主教座堂",
+  "city": "Lucca",
+  "country": "義大利",
+  "count": 1
+ },
+ "basilica_of_san_petronio_bologna": {
+  "en": "Basilica of San Petronio, Bologna",
+  "zh": "聖白托尼奧大殿",
+  "city": "Bologna",
+  "country": "義大利",
+  "count": 1
+ },
+ "baptistery_of_san_giovanni_siena": {
+  "en": "Baptistery of San Giovanni, Siena",
+  "zh": "錫耶納聖若望洗禮堂",
+  "city": "Siena",
+  "country": "義大利",
+  "count": 2
+ },
+ "san_frediano_lucca": {
+  "en": "San Frediano, Lucca",
+  "zh": "聖弗雷迪亞諾教堂",
+  "city": "Lucca",
+  "country": "義大利",
+  "count": 1
+ },
+ "orsanmichele_florence": {
+  "en": "Orsanmichele, Florence",
+  "zh": "奧爾桑米凱萊教堂",
+  "city": "Florence",
+  "country": "義大利",
+  "count": 6
+ },
+ "porta_della_mandorla_florence_cathedral_florence": {
+  "en": "Porta della Mandorla, Florence Cathedral, Florence",
+  "zh": "杏仁門（佛羅倫斯主教座堂）",
+  "city": "Florence",
+  "country": "義大利",
+  "count": 1
+ },
+ "florence_cathedral_florence": {
+  "en": "Florence Cathedral, Florence",
+  "zh": "佛羅倫斯主教座堂",
+  "city": "Florence",
+  "country": "義大利",
+  "count": 4
+ },
+ "museo_nazionale_del_bargello_florence": {
+  "en": "Museo Nazionale del Bargello, Florence",
+  "zh": "巴傑羅國家博物館",
+  "city": "Florence",
+  "country": "義大利",
+  "count": 25
+ },
+ "piazza_del_santo_padua": {
+  "en": "Piazza del Santo, Padua",
+  "zh": "聖安東尼廣場",
+  "city": "Padua",
+  "country": "義大利",
+  "count": 1
+ },
+ "palazzo_vecchio_florence": {
+  "en": "Palazzo Vecchio, Florence",
+  "zh": "舊宮",
+  "city": "Florence",
+  "country": "義大利",
+  "count": 3
+ },
+ "santa_croce_florence": {
+  "en": "Santa Croce, Florence",
+  "zh": "聖十字教堂",
+  "city": "Florence",
+  "country": "義大利",
+  "count": 5
+ },
+ "santa_trinita_florence": {
+  "en": "Santa Trinita, Florence",
+  "zh": "聖三一教堂",
+  "city": "Florence",
+  "country": "義大利",
+  "count": 1
+ },
+ "campo_santi_giovanni_e_paolo_venice": {
+  "en": "Campo Santi Giovanni e Paolo, Venice",
+  "zh": "聖若望與保祿廣場",
+  "city": "Venice",
+  "country": "義大利",
+  "count": 1
+ },
+ "san_lorenzo_florence": {
+  "en": "San Lorenzo, Florence",
+  "zh": "聖羅倫佐教堂",
+  "city": "Florence",
+  "country": "義大利",
+  "count": 2
+ },
+ "badia_fiorentina_florence": {
+  "en": "Badia Fiorentina, Florence",
+  "zh": "佛羅倫斯修道院教堂",
+  "city": "Florence",
+  "country": "義大利",
+  "count": 1
+ },
+ "vatican_grottoes_vatican_city": {
+  "en": "Vatican Grottoes, Vatican City",
+  "zh": "梵蒂岡地下墓室",
+  "city": "Vatican City",
+  "country": "梵蒂岡",
+  "count": 1
+ },
+ "santa_maria_novella_florence": {
+  "en": "Santa Maria Novella, Florence",
+  "zh": "新聖母大殿",
+  "city": "Florence",
+  "country": "義大利",
+  "count": 1
+ },
+ "pienza": {
+  "en": "Pienza",
+  "zh": "皮恩扎",
+  "city": "Pienza",
+  "country": "義大利",
+  "count": 1
+ },
+ "san_miniato_al_monte_florence": {
+  "en": "San Miniato al Monte, Florence",
+  "zh": "聖米尼亞托山教堂",
+  "city": "Florence",
+  "country": "義大利",
+  "count": 1
+ },
+ "sant_anna_dei_lombardi_naples": {
+  "en": "Sant'Anna dei Lombardi, Naples",
+  "zh": "倫巴底聖安娜教堂",
+  "city": "Naples",
+  "country": "義大利",
+  "count": 2
+ },
+ "collegiata_empoli": {
+  "en": "Collegiata, Empoli",
+  "zh": "恩波利學院教堂",
+  "city": "Empoli",
+  "country": "義大利",
+  "count": 1
+ },
+ "faenza_cathedral_faenza": {
+  "en": "Faenza Cathedral, Faenza",
+  "zh": "法恩札主教座堂",
+  "city": "Faenza",
+  "country": "義大利",
+  "count": 1
+ },
+ "duomo_montepulciano": {
+  "en": "Duomo, Montepulciano",
+  "zh": "蒙特普齊亞諾主教座堂",
+  "city": "Montepulciano",
+  "country": "義大利",
+  "count": 1
+ },
+ "prato_cathedral_prato": {
+  "en": "Prato Cathedral, Prato",
+  "zh": "普拉托主教座堂",
+  "city": "Prato",
+  "country": "義大利",
+  "count": 1
+ },
+ "tempio_malatestiano_rimini": {
+  "en": "Tempio Malatestiano, Rimini",
+  "zh": "馬拉泰斯塔神殿",
+  "city": "Rimini",
+  "country": "義大利",
+  "count": 2
+ },
+ "oratorio_di_san_bernardino_perugia": {
+  "en": "Oratorio di San Bernardino, Perugia",
+  "zh": "聖貝爾納迪諾祈禱堂",
+  "city": "Perugia",
+  "country": "義大利",
+  "count": 1
+ },
+ "ospedale_degli_innocenti_florence": {
+  "en": "Ospedale degli Innocenti, Florence",
+  "zh": "孤兒院（無辜者醫院）",
+  "city": "Florence",
+  "country": "義大利",
+  "count": 1
+ },
+ "santuario_della_verna_chiesa_maggiore_chiusi_della_verna": {
+  "en": "Santuario della Verna, Chiesa Maggiore, Chiusi della Verna",
+  "zh": "拉維納聖所大教堂",
+  "city": "Chiusi della Verna",
+  "country": "義大利",
+  "count": 1
+ },
+ "galleria_dell_accademia_florence": {
+  "en": "Galleria dell'Accademia, Florence",
+  "zh": "學院美術館",
+  "city": "Florence",
+  "country": "義大利",
+  "count": 1
+ },
+ "san_pietro_in_vincoli_rome": {
+  "en": "San Pietro in Vincoli, Rome",
+  "zh": "鎖鏈聖伯多祿堂",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 1
+ },
+ "church_of_our_lady_bruges": {
+  "en": "Church of Our Lady, Bruges",
+  "zh": "聖母教堂",
+  "city": "Bruges",
+  "country": "比利時",
+  "count": 1
+ },
+ "medici_chapel_san_lorenzo_florence": {
+  "en": "Medici Chapel, San Lorenzo, Florence",
+  "zh": "聖羅倫佐教堂美第奇禮拜堂",
+  "city": "Florence",
+  "country": "義大利",
+  "count": 1
+ },
+ "castello_sforzesco_milan": {
+  "en": "Castello Sforzesco, Milan",
+  "zh": "斯福爾札城堡",
+  "city": "Milan",
+  "country": "義大利",
+  "count": 1
+ },
+ "royal_academy_of_arts_london": {
+  "en": "Royal Academy of Arts, London",
+  "zh": "皇家藝術學院",
+  "city": "London",
+  "country": "英國",
+  "count": 2
+ },
+ "casa_buonarroti_florence": {
+  "en": "Casa Buonarroti, Florence",
+  "zh": "博那羅蒂之家",
+  "city": "Florence",
+  "country": "義大利",
+  "count": 1
+ },
+ "santa_maria_del_popolo_rome": {
+  "en": "Santa Maria del Popolo, Rome",
+  "zh": "人民聖母堂",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 1
+ },
+ "sant_agostino_rome": {
+  "en": "Sant'Agostino, Rome",
+  "zh": "聖奧古斯丁教堂",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 2
+ },
+ "basilica_della_santa_casa_loreto": {
+  "en": "Basilica della Santa Casa, Loreto",
+  "zh": "洛雷托聖屋聖殿",
+  "city": "Loreto",
+  "country": "義大利",
+  "count": 1
+ },
+ "st_mark_s_campanile_venice": {
+  "en": "St. Mark's Campanile, Venice",
+  "zh": "聖馬可鐘樓",
+  "city": "Venice",
+  "country": "義大利",
+  "count": 1
+ },
+ "doge_s_palace_venice": {
+  "en": "Doge's Palace, Venice",
+  "zh": "總督宮",
+  "city": "Venice",
+  "country": "義大利",
+  "count": 2
+ },
+ "santi_giovanni_e_paolo_venice": {
+  "en": "Santi Giovanni e Paolo, Venice",
+  "zh": "聖若望與保祿大殿",
+  "city": "Venice",
+  "country": "義大利",
+  "count": 3
+ },
+ "kunsthistorisches_museum_vienna": {
+  "en": "Kunsthistorisches Museum, Vienna",
+  "zh": "藝術史博物館",
+  "city": "Vienna",
+  "country": "奧地利",
+  "count": 4
+ },
+ "ca_d_oro_venice": {
+  "en": "Ca' d'Oro, Venice",
+  "zh": "黃金屋",
+  "city": "Venice",
+  "country": "義大利",
+  "count": 2
+ },
+ "santa_maria_dei_miracoli_venice": {
+  "en": "Santa Maria dei Miracoli, Venice",
+  "zh": "奇蹟聖母堂",
+  "city": "Venice",
+  "country": "義大利",
+  "count": 1
+ },
+ "dante_s_tomb_ravenna": {
+  "en": "Dante's Tomb, Ravenna",
+  "zh": "但丁墓",
+  "city": "Ravenna",
+  "country": "義大利",
+  "count": 1
+ },
+ "westminster_abbey_london": {
+  "en": "Westminster Abbey, London",
+  "zh": "西敏寺",
+  "city": "London",
+  "country": "英國",
+  "count": 8
+ },
+ "museo_de_bellas_artes_seville": {
+  "en": "Museo de Bellas Artes, Seville",
+  "zh": "塞維亞美術館",
+  "city": "Seville",
+  "country": "西班牙",
+  "count": 1
+ },
+ "chigi_chapel_santa_maria_del_popolo_rome": {
+  "en": "Chigi Chapel, Santa Maria del Popolo, Rome",
+  "zh": "人民聖母堂奇吉禮拜堂",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 2
+ },
+ "pantheon_rome": {
+  "en": "Pantheon, Rome",
+  "zh": "萬神殿",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 1
+ },
+ "basilica_of_sant_antonio_padua": {
+  "en": "Basilica of Sant'Antonio, Padua",
+  "zh": "聖安東尼大殿",
+  "city": "Padua",
+  "country": "義大利",
+  "count": 1
+ },
+ "san_marco_florence": {
+  "en": "San Marco, Florence",
+  "zh": "聖馬可修道院",
+  "city": "Florence",
+  "country": "義大利",
+  "count": 1
+ },
+ "santa_maria_del_carmine_florence": {
+  "en": "Santa Maria del Carmine, Florence",
+  "zh": "卡爾米內聖母堂",
+  "city": "Florence",
+  "country": "義大利",
+  "count": 1
+ },
+ "st_paul_s_cathedral_london": {
+  "en": "St Paul's Cathedral, London",
+  "zh": "聖保羅主教座堂",
+  "city": "London",
+  "country": "英國",
+  "count": 4
+ },
+ "museum_of_fine_arts_budapest": {
+  "en": "Museum of Fine Arts, Budapest",
+  "zh": "布達佩斯美術館",
+  "city": "Budapest",
+  "country": "匈牙利",
+  "count": 1
+ },
+ "loggia_dei_lanzi_florence": {
+  "en": "Loggia dei Lanzi, Florence",
+  "zh": "領主廣場涼廊",
+  "city": "Florence",
+  "country": "義大利",
+  "count": 3
+ },
+ "piazza_della_signoria_florence": {
+  "en": "Piazza della Signoria, Florence",
+  "zh": "領主廣場",
+  "city": "Florence",
+  "country": "義大利",
+  "count": 3
+ },
+ "piazza_del_nettuno_bologna": {
+  "en": "Piazza del Nettuno, Bologna",
+  "zh": "海神廣場",
+  "city": "Bologna",
+  "country": "義大利",
+  "count": 1
+ },
+ "villa_demidoff_pratolino": {
+  "en": "Villa Demidoff, Pratolino",
+  "zh": "德米多夫別墅",
+  "city": "Pratolino",
+  "country": "義大利",
+  "count": 1
+ },
+ "isabella_stewart_gardner_museum_boston": {
+  "en": "Isabella Stewart Gardner Museum, Boston",
+  "zh": "伊莎貝拉·斯圖爾特·加德納博物館",
+  "city": "Boston",
+  "country": "美國",
+  "count": 1
+ },
+ "monasterio_de_el_escorial_san_lorenzo_de_el_escorial": {
+  "en": "Monasterio de El Escorial, San Lorenzo de El Escorial",
+  "zh": "埃爾艾斯科里亞爾修道院",
+  "city": "San Lorenzo de El Escorial",
+  "country": "西班牙",
+  "count": 1
+ },
+ "palazzo_del_liviano_padua": {
+  "en": "Palazzo del Liviano, Padua",
+  "zh": "利維亞諾宮",
+  "city": "Padua",
+  "country": "義大利",
+  "count": 1
+ },
+ "eremitani_church_padua": {
+  "en": "Eremitani Church, Padua",
+  "zh": "埃雷米塔尼教堂",
+  "city": "Padua",
+  "country": "義大利",
+  "count": 1
+ },
+ "florence": {
+  "en": "Florence",
+  "zh": "佛羅倫斯",
+  "city": "Florence",
+  "country": "義大利",
+  "count": 2
+ },
+ "palazzo_medici_riccardi_florence": {
+  "en": "Palazzo Medici Riccardi, Florence",
+  "zh": "美第奇-里卡迪宮",
+  "city": "Florence",
+  "country": "義大利",
+  "count": 1
+ },
+ "santissima_annunziata_florence": {
+  "en": "Santissima Annunziata, Florence",
+  "zh": "至聖報喜堂",
+  "city": "Florence",
+  "country": "義大利",
+  "count": 1
+ },
+ "piazza_della_santissima_annunziata_florence": {
+  "en": "Piazza della Santissima Annunziata, Florence",
+  "zh": "至聖報喜廣場",
+  "city": "Florence",
+  "country": "義大利",
+  "count": 2
+ },
+ "plaza_de_oriente_madrid": {
+  "en": "Plaza de Oriente, Madrid",
+  "zh": "東方廣場",
+  "city": "Madrid",
+  "country": "西班牙",
+  "count": 1
+ },
+ "piazza_micheli_livorno": {
+  "en": "Piazza Micheli, Livorno",
+  "zh": "米凱利廣場",
+  "city": "Livorno",
+  "country": "義大利",
+  "count": 2
+ },
+ "mercato_nuovo_florence": {
+  "en": "Mercato Nuovo, Florence",
+  "zh": "新市場涼廊",
+  "city": "Florence",
+  "country": "義大利",
+  "count": 1
+ },
+ "duomo_milan": {
+  "en": "Duomo, Milan",
+  "zh": "米蘭主教座堂",
+  "city": "Milan",
+  "country": "義大利",
+  "count": 1
+ },
+ "casa_degli_omenoni_milan": {
+  "en": "Casa degli Omenoni, Milan",
+  "zh": "奧梅諾尼之家",
+  "city": "Milan",
+  "country": "義大利",
+  "count": 1
+ },
+ "piazza_roma_guastalla": {
+  "en": "Piazza Roma, Guastalla",
+  "zh": "羅馬廣場",
+  "city": "Guastalla",
+  "country": "義大利",
+  "count": 1
+ },
+ "square_des_innocents_paris": {
+  "en": "Square des Innocents, Paris",
+  "zh": "無辜者廣場",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "h_tel_carnavalet_paris": {
+  "en": "Hôtel Carnavalet, Paris",
+  "zh": "卡納瓦雷博物館",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "maximilianstrasse_augsburg": {
+  "en": "Maximilianstrasse, Augsburg",
+  "zh": "馬克西米利安大街",
+  "city": "Augsburg",
+  "country": "德國",
+  "count": 2
+ },
+ "drottningholm_palace_stockholm": {
+  "en": "Drottningholm Palace, Stockholm",
+  "zh": "卓寧霍姆宮",
+  "city": "Stockholm",
+  "country": "瑞典",
+  "count": 1
+ },
+ "santa_maria_gloriosa_dei_frari_venice": {
+  "en": "Santa Maria Gloriosa dei Frari, Venice",
+  "zh": "榮耀聖母大殿",
+  "city": "Venice",
+  "country": "義大利",
+  "count": 1
+ },
+ "villa_medicea_di_castello_florence": {
+  "en": "Villa Medicea di Castello, Florence",
+  "zh": "卡斯泰洛美第奇別墅",
+  "city": "Florence",
+  "country": "義大利",
+  "count": 2
+ },
+ "galleria_borghese_rome": {
+  "en": "Galleria Borghese, Rome",
+  "zh": "博爾蓋塞美術館",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 6
+ },
+ "santa_maria_della_vittoria_rome": {
+  "en": "Santa Maria della Vittoria, Rome",
+  "zh": "勝利聖母堂",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 1
+ },
+ "piazza_navona_rome": {
+  "en": "Piazza Navona, Rome",
+  "zh": "納沃納廣場",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 1
+ },
+ "palace_of_versailles_versailles": {
+  "en": "Palace of Versailles, Versailles",
+  "zh": "凡爾賽宮",
+  "city": "Versailles",
+  "country": "法國",
+  "count": 5
+ },
+ "san_francesco_a_ripa_rome": {
+  "en": "San Francesco a Ripa, Rome",
+  "zh": "阿里帕聖方濟各堂",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 1
+ },
+ "piazza_della_minerva_rome": {
+  "en": "Piazza della Minerva, Rome",
+  "zh": "密涅瓦廣場",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 2
+ },
+ "san_paolo_maggiore_bologna": {
+  "en": "San Paolo Maggiore, Bologna",
+  "zh": "波隆那聖保羅堂",
+  "city": "Bologna",
+  "country": "義大利",
+  "count": 1
+ },
+ "galleria_doria_pamphilj_rome": {
+  "en": "Galleria Doria Pamphilj, Rome",
+  "zh": "多利亞潘菲利美術館",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 1
+ },
+ "palazzo_dei_conservatori_rome": {
+  "en": "Palazzo dei Conservatori, Rome",
+  "zh": "保守宮",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 2
+ },
+ "santa_maria_in_vallicella_rome": {
+  "en": "Santa Maria in Vallicella, Rome",
+  "zh": "瓦利切拉聖母堂",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 1
+ },
+ "santa_maria_di_loreto_rome": {
+  "en": "Santa Maria di Loreto, Rome",
+  "zh": "羅雷托聖母堂",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 1
+ },
+ "santa_maria_dell_anima_rome": {
+  "en": "Santa Maria dell'Anima, Rome",
+  "zh": "靈魂聖母堂",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 1
+ },
+ "santa_cecilia_in_trastevere_rome": {
+  "en": "Santa Cecilia in Trastevere, Rome",
+  "zh": "特拉斯提弗列聖賽琪莉亞堂",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 1
+ },
+ "duomo_orvieto": {
+  "en": "Duomo, Orvieto",
+  "zh": "奧爾維耶托主教座堂",
+  "city": "Orvieto",
+  "country": "義大利",
+  "count": 2
+ },
+ "piazza_dei_cavalli_piacenza": {
+  "en": "Piazza dei Cavalli, Piacenza",
+  "zh": "騎士廣場",
+  "city": "Piacenza",
+  "country": "義大利",
+  "count": 2
+ },
+ "piazza_di_spagna_rome": {
+  "en": "Piazza di Spagna, Rome",
+  "zh": "西班牙廣場",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 1
+ },
+ "sant_agnese_in_agone_rome": {
+  "en": "Sant'Agnese in Agone, Rome",
+  "zh": "阿戈內聖艾格尼絲堂",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 2
+ },
+ "ponte_sant_angelo_rome": {
+  "en": "Ponte Sant'Angelo, Rome",
+  "zh": "聖天使橋",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 1
+ },
+ "il_ges_rome": {
+  "en": "Il Gesù, Rome",
+  "zh": "耶穌會教堂",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 1
+ },
+ "convento_de_los_capuchinos_el_pardo_madrid": {
+  "en": "Convento de los Capuchinos, El Pardo, Madrid",
+  "zh": "卡布欽修道院",
+  "city": "El Pardo, Madrid",
+  "country": "西班牙",
+  "count": 1
+ },
+ "museo_nacional_de_escultura_valladolid": {
+  "en": "Museo Nacional de Escultura, Valladolid",
+  "zh": "國立雕塑博物館",
+  "city": "Valladolid",
+  "country": "西班牙",
+  "count": 4
+ },
+ "church_of_las_angustias_valladolid": {
+  "en": "Church of Las Angustias, Valladolid",
+  "zh": "苦難聖母教堂",
+  "city": "Valladolid",
+  "country": "西班牙",
+  "count": 1
+ },
+ "plasencia_cathedral_plasencia": {
+  "en": "Plasencia Cathedral, Plasencia",
+  "zh": "普拉森西亞主教座堂",
+  "city": "Plasencia",
+  "country": "西班牙",
+  "count": 1
+ },
+ "seville_cathedral_seville": {
+  "en": "Seville Cathedral, Seville",
+  "zh": "塞維亞主教座堂",
+  "city": "Seville",
+  "country": "西班牙",
+  "count": 2
+ },
+ "iglesia_del_salvador_seville": {
+  "en": "Iglesia del Salvador, Seville",
+  "zh": "救世主教堂",
+  "city": "Seville",
+  "country": "西班牙",
+  "count": 1
+ },
+ "toledo_cathedral_toledo": {
+  "en": "Toledo Cathedral, Toledo",
+  "zh": "托雷多主教座堂",
+  "city": "Toledo",
+  "country": "西班牙",
+  "count": 1
+ },
+ "m_laga_cathedral_m_laga": {
+  "en": "Málaga Cathedral, Málaga",
+  "zh": "馬拉加主教座堂",
+  "city": "Málaga",
+  "country": "西班牙",
+  "count": 1
+ },
+ "charlottenburg_palace_berlin": {
+  "en": "Charlottenburg Palace, Berlin",
+  "zh": "夏洛滕堡宮",
+  "city": "Berlin",
+  "country": "德國",
+  "count": 1
+ },
+ "zeughaus_german_historical_museum_berlin": {
+  "en": "Zeughaus (German Historical Museum), Berlin",
+  "zh": "德意志歷史博物館（武器庫）",
+  "city": "Berlin",
+  "country": "德國",
+  "count": 1
+ },
+ "st_mary_s_church_berlin": {
+  "en": "St. Mary's Church, Berlin",
+  "zh": "聖母教堂",
+  "city": "Berlin",
+  "country": "德國",
+  "count": 1
+ },
+ "berlin_cathedral_berlin": {
+  "en": "Berlin Cathedral, Berlin",
+  "zh": "柏林大教堂",
+  "city": "Berlin",
+  "country": "德國",
+  "count": 1
+ },
+ "humboldt_forum_berlin": {
+  "en": "Humboldt Forum, Berlin",
+  "zh": "洪堡論壇",
+  "city": "Berlin",
+  "country": "德國",
+  "count": 1
+ },
+ "bosquet_des_bains_d_apollon_palace_of_versailles": {
+  "en": "Bosquet des Bains d'Apollon, Palace of Versailles",
+  "zh": "阿波羅浴場樹叢（凡爾賽宮）",
+  "city": "Versailles",
+  "country": "法國",
+  "count": 2
+ },
+ "colonnade_palace_of_versailles": {
+  "en": "Colonnade, Palace of Versailles",
+  "zh": "柱廊（凡爾賽宮）",
+  "city": "Versailles",
+  "country": "法國",
+  "count": 1
+ },
+ "church_of_the_sorbonne_paris": {
+  "en": "Church of the Sorbonne, Paris",
+  "zh": "索邦教堂",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "gardens_of_versailles": {
+  "en": "Gardens of Versailles",
+  "zh": "凡爾賽花園",
+  "city": "Versailles",
+  "country": "法國",
+  "count": 8
+ },
+ "institut_de_france_paris": {
+  "en": "Institut de France, Paris",
+  "zh": "法蘭西學院",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "saint_eustache_paris": {
+  "en": "Saint-Eustache, Paris",
+  "zh": "聖厄斯塔什教堂",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "salon_de_la_guerre_palace_of_versailles": {
+  "en": "Salon de la Guerre, Palace of Versailles",
+  "zh": "戰爭廳（凡爾賽宮）",
+  "city": "Versailles",
+  "country": "法國",
+  "count": 1
+ },
+ "town_hall_h_tel_de_ville_toulon": {
+  "en": "Town Hall (Hôtel de Ville), Toulon",
+  "zh": "土倫市政廳",
+  "city": "Toulon",
+  "country": "法國",
+  "count": 1
+ },
+ "santa_maria_assunta_di_carignano_genoa": {
+  "en": "Santa Maria Assunta di Carignano, Genoa",
+  "zh": "卡里尼亞諾聖母升天堂",
+  "city": "Genoa",
+  "country": "義大利",
+  "count": 2
+ },
+ "saint_nicolas_du_chardonnet_paris": {
+  "en": "Saint-Nicolas-du-Chardonnet, Paris",
+  "zh": "聖尼古拉迪夏爾多內教堂",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "tuileries_garden_paris": {
+  "en": "Tuileries Garden, Paris",
+  "zh": "杜樂麗花園",
+  "city": "Paris",
+  "country": "法國",
+  "count": 3
+ },
+ "notre_dame_de_paris_paris": {
+  "en": "Notre-Dame de Paris, Paris",
+  "zh": "巴黎聖母院",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "lyc_e_banville_moulins": {
+  "en": "Lycée Banville, Moulins",
+  "zh": "班維爾中學",
+  "city": "Moulins",
+  "country": "法國",
+  "count": 1
+ },
+ "val_de_gr_ce_paris": {
+  "en": "Val-de-Grâce, Paris",
+  "zh": "恩寵谷教堂",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "porte_saint_denis_paris": {
+  "en": "Porte Saint-Denis, Paris",
+  "zh": "聖但尼門",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "senate_square_saint_petersburg": {
+  "en": "Senate Square, Saint Petersburg",
+  "zh": "參議院廣場",
+  "city": "Saint Petersburg",
+  "country": "俄羅斯",
+  "count": 1
+ },
+ "saint_thomas_church_strasbourg": {
+  "en": "Saint-Thomas Church, Strasbourg",
+  "zh": "聖多馬教堂",
+  "city": "Strasbourg",
+  "country": "法國",
+  "count": 1
+ },
+ "place_royale_reims": {
+  "en": "Place Royale, Reims",
+  "zh": "皇家廣場",
+  "city": "Reims",
+  "country": "法國",
+  "count": 1
+ },
+ "rue_de_grenelle_paris": {
+  "en": "Rue de Grenelle, Paris",
+  "zh": "格勒內勒街",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "bassin_de_neptune_gardens_of_versailles": {
+  "en": "Bassin de Neptune, Gardens of Versailles",
+  "zh": "海神池（凡爾賽花園）",
+  "city": "Versailles",
+  "country": "法國",
+  "count": 1
+ },
+ "sens_cathedral_sens": {
+  "en": "Sens Cathedral, Sens",
+  "zh": "桑斯主教座堂",
+  "city": "Sens",
+  "country": "法國",
+  "count": 1
+ },
+ "h_tel_de_ville_lyon": {
+  "en": "Hôtel de Ville, Lyon",
+  "zh": "里昂市政廳",
+  "city": "Lyon",
+  "country": "法國",
+  "count": 1
+ },
+ "belvedere_vienna": {
+  "en": "Belvedere, Vienna",
+  "zh": "美景宮",
+  "city": "Vienna",
+  "country": "奧地利",
+  "count": 4
+ },
+ "bavarian_national_museum_munich": {
+  "en": "Bavarian National Museum, Munich",
+  "zh": "巴伐利亞國家博物館",
+  "city": "Munich",
+  "country": "德國",
+  "count": 2
+ },
+ "parish_church_nenningen": {
+  "en": "Parish Church, Nenningen",
+  "zh": "內寧根教區教堂",
+  "city": "Nenningen",
+  "country": "德國",
+  "count": 1
+ },
+ "rott_am_inn_abbey_rott_am_inn": {
+  "en": "Rott am Inn Abbey, Rott am Inn",
+  "zh": "羅特安因修道院",
+  "city": "Rott am Inn",
+  "country": "德國",
+  "count": 1
+ },
+ "trinity_college_chapel_cambridge": {
+  "en": "Trinity College Chapel, Cambridge",
+  "zh": "三一學院禮拜堂",
+  "city": "Cambridge",
+  "country": "英國",
+  "count": 1
+ },
+ "cappella_sansevero_naples": {
+  "en": "Cappella Sansevero, Naples",
+  "zh": "聖塞維洛禮拜堂",
+  "city": "Naples",
+  "country": "義大利",
+  "count": 1
+ },
+ "mus_um_national_d_histoire_naturelle_paris": {
+  "en": "Muséum national d'Histoire naturelle, Paris",
+  "zh": "國家自然史博物館",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "state_hermitage_museum_saint_petersburg": {
+  "en": "State Hermitage Museum, Saint Petersburg",
+  "zh": "冬宮國立艾米塔吉博物館",
+  "city": "Saint Petersburg",
+  "country": "俄羅斯",
+  "count": 1
+ },
+ "palazzo_pitti_florence": {
+  "en": "Palazzo Pitti, Florence",
+  "zh": "彼提宮",
+  "city": "Florence",
+  "country": "義大利",
+  "count": 3
+ },
+ "augustinerkirche_vienna": {
+  "en": "Augustinerkirche, Vienna",
+  "zh": "奧古斯丁教堂",
+  "city": "Vienna",
+  "country": "奧地利",
+  "count": 1
+ },
+ "pinacoteca_di_brera_milan": {
+  "en": "Pinacoteca di Brera, Milan",
+  "zh": "布雷拉美術館",
+  "city": "Milan",
+  "country": "義大利",
+  "count": 1
+ },
+ "galleria_nazionale_d_arte_moderna_rome": {
+  "en": "Galleria Nazionale d'Arte Moderna, Rome",
+  "zh": "國立現代美術館",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 2
+ },
+ "thorvaldsens_museum_copenhagen": {
+  "en": "Thorvaldsens Museum, Copenhagen",
+  "zh": "托瓦爾森博物館",
+  "city": "Copenhagen",
+  "country": "丹麥",
+  "count": 4
+ },
+ "church_of_our_lady_copenhagen": {
+  "en": "Church of Our Lady, Copenhagen",
+  "zh": "聖母教堂",
+  "city": "Copenhagen",
+  "country": "丹麥",
+  "count": 1
+ },
+ "l_wendenkmal_lucerne": {
+  "en": "Löwendenkmal, Lucerne",
+  "zh": "瀕死獅子紀念碑",
+  "city": "Lucerne",
+  "country": "瑞士",
+  "count": 1
+ },
+ "christiansborg_palace_copenhagen": {
+  "en": "Christiansborg Palace, Copenhagen",
+  "zh": "克里斯蒂安堡宮",
+  "city": "Copenhagen",
+  "country": "丹麥",
+  "count": 1
+ },
+ "trinity_college_library_cambridge": {
+  "en": "Trinity College Library, Cambridge",
+  "zh": "三一學院圖書館",
+  "city": "Cambridge",
+  "country": "英國",
+  "count": 1
+ },
+ "krakowskie_przedmie_cie_warsaw": {
+  "en": "Krakowskie Przedmieście, Warsaw",
+  "zh": "克拉科夫郊區大道",
+  "city": "Warsaw",
+  "country": "波蘭",
+  "count": 1
+ },
+ "presidential_palace_warsaw": {
+  "en": "Presidential Palace, Warsaw",
+  "zh": "總統府",
+  "city": "Warsaw",
+  "country": "波蘭",
+  "count": 1
+ },
+ "com_die_fran_aise_paris": {
+  "en": "Comédie-Française, Paris",
+  "zh": "法蘭西喜劇院",
+  "city": "Paris",
+  "country": "法國",
+  "count": 2
+ },
+ "calouste_gulbenkian_museum_lisbon": {
+  "en": "Calouste Gulbenkian Museum, Lisbon",
+  "zh": "古爾本基安博物館",
+  "city": "Lisbon",
+  "country": "葡萄牙",
+  "count": 1
+ },
+ "virginia_state_capitol_richmond": {
+  "en": "Virginia State Capitol, Richmond",
+  "zh": "維吉尼亞州議會大廈",
+  "city": "Richmond",
+  "country": "美國",
+  "count": 1
+ },
+ "mus_e_fabre_montpellier": {
+  "en": "Musée Fabre, Montpellier",
+  "zh": "法布爾博物館",
+  "city": "Montpellier",
+  "country": "法國",
+  "count": 1
+ },
+ "petworth_house_petworth": {
+  "en": "Petworth House, Petworth",
+  "zh": "佩特沃斯莊園",
+  "city": "Petworth",
+  "country": "英國",
+  "count": 1
+ },
+ "nationalmuseum_stockholm": {
+  "en": "Nationalmuseum, Stockholm",
+  "zh": "瑞典國家博物館",
+  "city": "Stockholm",
+  "country": "瑞典",
+  "count": 3
+ },
+ "slottsbacken_stockholm": {
+  "en": "Slottsbacken, Stockholm",
+  "zh": "城堡山坡廣場",
+  "city": "Stockholm",
+  "country": "瑞典",
+  "count": 1
+ },
+ "brandenburg_gate_berlin": {
+  "en": "Brandenburg Gate, Berlin",
+  "zh": "布蘭登堡門",
+  "city": "Berlin",
+  "country": "德國",
+  "count": 1
+ },
+ "alte_nationalgalerie_berlin": {
+  "en": "Alte Nationalgalerie, Berlin",
+  "zh": "舊國家美術館",
+  "city": "Berlin",
+  "country": "德國",
+  "count": 1
+ },
+ "rostock": {
+  "en": "Rostock",
+  "zh": "羅斯托克",
+  "city": "Rostock",
+  "country": "德國",
+  "count": 1
+ },
+ "szczecin": {
+  "en": "Szczecin",
+  "zh": "什切青",
+  "city": "Szczecin",
+  "country": "波蘭",
+  "count": 1
+ },
+ "charlottenburg_palace_mausoleum_berlin": {
+  "en": "Charlottenburg Palace Mausoleum, Berlin",
+  "zh": "夏洛滕堡宮陵墓",
+  "city": "Berlin",
+  "country": "德國",
+  "count": 1
+ },
+ "unter_den_linden_berlin": {
+  "en": "Unter den Linden, Berlin",
+  "zh": "菩提樹下大道",
+  "city": "Berlin",
+  "country": "德國",
+  "count": 2
+ },
+ "albrecht_d_rer_platz_nuremberg": {
+  "en": "Albrecht-Dürer-Platz, Nuremberg",
+  "zh": "杜勒廣場",
+  "city": "Nuremberg",
+  "country": "德國",
+  "count": 1
+ },
+ "hyde_park_london": {
+  "en": "Hyde Park, London",
+  "zh": "海德公園",
+  "city": "London",
+  "country": "英國",
+  "count": 2
+ },
+ "lichfield_cathedral_lichfield": {
+  "en": "Lichfield Cathedral, Lichfield",
+  "zh": "利奇菲爾德主教座堂",
+  "city": "Lichfield",
+  "country": "英國",
+  "count": 1
+ },
+ "trafalgar_square_london": {
+  "en": "Trafalgar Square, London",
+  "zh": "特拉法加廣場",
+  "city": "London",
+  "country": "英國",
+  "count": 2
+ },
+ "royal_exchange_london": {
+  "en": "Royal Exchange, London",
+  "zh": "皇家交易所",
+  "city": "London",
+  "country": "英國",
+  "count": 1
+ },
+ "yale_university_art_gallery_new_haven": {
+  "en": "Yale University Art Gallery, New Haven",
+  "zh": "耶魯大學美術館",
+  "city": "New Haven",
+  "country": "美國",
+  "count": 3
+ },
+ "smithsonian_american_art_museum_washington_d_c": {
+  "en": "Smithsonian American Art Museum, Washington, D.C.",
+  "zh": "史密森尼美國藝術博物館",
+  "city": "Washington, D.C.",
+  "country": "美國",
+  "count": 1
+ },
+ "museum_of_fine_arts_boston": {
+  "en": "Museum of Fine Arts, Boston",
+  "zh": "波士頓美術館",
+  "city": "Boston",
+  "country": "美國",
+  "count": 2
+ },
+ "arc_de_triomphe_paris": {
+  "en": "Arc de Triomphe, Paris",
+  "zh": "凱旋門",
+  "city": "Paris",
+  "country": "法國",
+  "count": 3
+ },
+ "parc_noisot_fixin": {
+  "en": "Parc Noisot, Fixin",
+  "zh": "諾瓦公園",
+  "city": "Fixin",
+  "country": "法國",
+  "count": 1
+ },
+ "avenue_de_l_observatoire_paris": {
+  "en": "Avenue de l'Observatoire, Paris",
+  "zh": "天文台大道",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "panth_on_paris": {
+  "en": "Panthéon, Paris",
+  "zh": "先賢祠",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "place_gutenberg_strasbourg": {
+  "en": "Place Gutenberg, Strasbourg",
+  "zh": "古騰堡廣場",
+  "city": "Strasbourg",
+  "country": "法國",
+  "count": 1
+ },
+ "p_re_lachaise_cemetery_paris": {
+  "en": "Père Lachaise Cemetery, Paris",
+  "zh": "拉雪茲神父公墓",
+  "city": "Paris",
+  "country": "法國",
+  "count": 7
+ },
+ "mus_e_des_beaux_arts_d_angers_angers": {
+  "en": "Musée des Beaux-Arts d'Angers, Angers",
+  "zh": "昂熱美術館",
+  "city": "Angers",
+  "country": "法國",
+  "count": 1
+ },
+ "mus_e_des_beaux_arts_chartres": {
+  "en": "Musée des Beaux-Arts, Chartres",
+  "zh": "夏特美術館",
+  "city": "Chartres",
+  "country": "法國",
+  "count": 1
+ },
+ "mus_e_d_orsay_paris": {
+  "en": "Musée d'Orsay, Paris",
+  "zh": "奧賽美術館",
+  "city": "Paris",
+  "country": "法國",
+  "count": 30
+ },
+ "les_invalides_paris": {
+  "en": "Les Invalides, Paris",
+  "zh": "榮軍院",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "cimitero_della_misericordia_siena": {
+  "en": "Cimitero della Misericordia, Siena",
+  "zh": "慈悲公墓",
+  "city": "Siena",
+  "country": "義大利",
+  "count": 1
+ },
+ "museo_vela_ligornetto": {
+  "en": "Museo Vela, Ligornetto",
+  "zh": "韋拉博物館",
+  "city": "Ligornetto",
+  "country": "瑞士",
+  "count": 1
+ },
+ "airolo_gotthard_tunnel": {
+  "en": "Airolo, Gotthard Tunnel",
+  "zh": "戈特哈德隧道（艾羅洛）",
+  "city": "Airolo",
+  "country": "瑞士",
+  "count": 1
+ },
+ "theaterplatz_weimar": {
+  "en": "Theaterplatz, Weimar",
+  "zh": "劇院廣場",
+  "city": "Weimar",
+  "country": "德國",
+  "count": 1
+ },
+ "braunschweig": {
+  "en": "Braunschweig",
+  "zh": "布倫瑞克",
+  "city": "Braunschweig",
+  "country": "德國",
+  "count": 1
+ },
+ "lutherdenkmal_worms": {
+  "en": "Lutherdenkmal, Worms",
+  "zh": "路德紀念碑",
+  "city": "Worms",
+  "country": "德國",
+  "count": 1
+ },
+ "friedenskirche_potsdam": {
+  "en": "Friedenskirche, Potsdam",
+  "zh": "和平教堂",
+  "city": "Potsdam",
+  "country": "德國",
+  "count": 1
+ },
+ "belfort": {
+  "en": "Belfort",
+  "zh": "貝爾福",
+  "city": "Belfort",
+  "country": "法國",
+  "count": 1
+ },
+ "nantes_cathedral_nantes": {
+  "en": "Nantes Cathedral, Nantes",
+  "zh": "南特主教座堂",
+  "city": "Nantes",
+  "country": "法國",
+  "count": 1
+ },
+ "place_colbert_reims": {
+  "en": "Place Colbert, Reims",
+  "zh": "科爾貝爾廣場",
+  "city": "Reims",
+  "country": "法國",
+  "count": 1
+ },
+ "liberty_island_new_york": {
+  "en": "Liberty Island, New York",
+  "zh": "自由島",
+  "city": "New York",
+  "country": "美國",
+  "count": 1
+ },
+ "place_denfert_rochereau_belfort": {
+  "en": "Place Denfert-Rochereau, Belfort",
+  "zh": "丹費爾-羅什洛廣場",
+  "city": "Belfort",
+  "country": "法國",
+  "count": 1
+ },
+ "united_states_botanic_garden_washington_d_c": {
+  "en": "United States Botanic Garden, Washington, D.C.",
+  "zh": "美國國家植物園",
+  "city": "Washington, D.C.",
+  "country": "美國",
+  "count": 1
+ },
+ "place_de_jaude_clermont_ferrand": {
+  "en": "Place de Jaude, Clermont-Ferrand",
+  "zh": "若達廣場",
+  "city": "Clermont-Ferrand",
+  "country": "法國",
+  "count": 1
+ },
+ "place_des_pyramides_paris": {
+  "en": "Place des Pyramides, Paris",
+  "zh": "金字塔廣場",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "mus_e_des_beaux_arts_nantes": {
+  "en": "Musée des Beaux-Arts, Nantes",
+  "zh": "南特美術館",
+  "city": "Nantes",
+  "country": "法國",
+  "count": 1
+ },
+ "mont_saint_michel_abbey_mont_saint_michel": {
+  "en": "Mont-Saint-Michel Abbey, Mont-Saint-Michel",
+  "zh": "聖米歇爾山修道院",
+  "city": "Mont-Saint-Michel",
+  "country": "法國",
+  "count": 1
+ },
+ "rock_creek_cemetery_washington_d_c": {
+  "en": "Rock Creek Cemetery, Washington, D.C.",
+  "zh": "岩溪公墓",
+  "city": "Washington, D.C.",
+  "country": "美國",
+  "count": 1
+ },
+ "boston_common_boston": {
+  "en": "Boston Common, Boston",
+  "zh": "波士頓公園",
+  "city": "Boston",
+  "country": "美國",
+  "count": 1
+ },
+ "philadelphia_museum_of_art_philadelphia": {
+  "en": "Philadelphia Museum of Art, Philadelphia",
+  "zh": "費城藝術博物館",
+  "city": "Philadelphia",
+  "country": "美國",
+  "count": 15
+ },
+ "madison_square_park_new_york": {
+  "en": "Madison Square Park, New York",
+  "zh": "麥迪遜廣場公園",
+  "city": "New York",
+  "country": "美國",
+  "count": 2
+ },
+ "grand_army_plaza_new_york": {
+  "en": "Grand Army Plaza, New York",
+  "zh": "大軍廣場",
+  "city": "New York",
+  "country": "美國",
+  "count": 1
+ },
+ "lincoln_park_chicago": {
+  "en": "Lincoln Park, Chicago",
+  "zh": "林肯公園",
+  "city": "Chicago",
+  "country": "美國",
+  "count": 1
+ },
+ "minute_man_national_historical_park_concord": {
+  "en": "Minute Man National Historical Park, Concord",
+  "zh": "明人國家歷史公園",
+  "city": "Concord",
+  "country": "美國",
+  "count": 1
+ },
+ "lincoln_memorial_washington_d_c": {
+  "en": "Lincoln Memorial, Washington, D.C.",
+  "zh": "林肯紀念堂",
+  "city": "Washington, D.C.",
+  "country": "美國",
+  "count": 1
+ },
+ "jackson_park_chicago": {
+  "en": "Jackson Park, Chicago",
+  "zh": "傑克遜公園",
+  "city": "Chicago",
+  "country": "美國",
+  "count": 1
+ },
+ "forest_hills_cemetery_boston": {
+  "en": "Forest Hills Cemetery, Boston",
+  "zh": "森林山公墓",
+  "city": "Boston",
+  "country": "美國",
+  "count": 1
+ },
+ "harvard_yard_cambridge": {
+  "en": "Harvard Yard, Cambridge",
+  "zh": "哈佛園",
+  "city": "Cambridge",
+  "country": "美國",
+  "count": 1
+ },
+ "tate_britain_london": {
+  "en": "Tate Britain, London",
+  "zh": "泰特不列顛美術館",
+  "city": "London",
+  "country": "英國",
+  "count": 5
+ },
+ "palace_of_westminster_london": {
+  "en": "Palace of Westminster, London",
+  "zh": "西敏宮（國會大廈）",
+  "city": "London",
+  "country": "英國",
+  "count": 1
+ },
+ "embankment_london": {
+  "en": "Embankment, London",
+  "zh": "泰晤士河堤岸",
+  "city": "London",
+  "country": "英國",
+  "count": 1
+ },
+ "winchester": {
+  "en": "Winchester",
+  "zh": "溫徹斯特",
+  "city": "Winchester",
+  "country": "英國",
+  "count": 1
+ },
+ "walters_art_museum_baltimore": {
+  "en": "Walters Art Museum, Baltimore",
+  "zh": "沃爾特斯藝術博物館",
+  "city": "Baltimore",
+  "country": "美國",
+  "count": 1
+ },
+ "st_louis_mercantile_library_st_louis": {
+  "en": "St. Louis Mercantile Library, St. Louis",
+  "zh": "聖路易斯商業圖書館",
+  "city": "St. Louis",
+  "country": "美國",
+  "count": 1
+ },
+ "united_states_capitol_washington_d_c": {
+  "en": "United States Capitol, Washington, D.C.",
+  "zh": "美國國會大廈",
+  "city": "Washington, D.C.",
+  "country": "美國",
+  "count": 1
+ },
+ "jardin_marco_polo_paris": {
+  "en": "Jardin Marco Polo, Paris",
+  "zh": "馬可波羅花園",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "place_de_la_nation_paris": {
+  "en": "Place de la Nation, Paris",
+  "zh": "民族廣場",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "jardin_du_luxembourg_paris": {
+  "en": "Jardin du Luxembourg, Paris",
+  "zh": "盧森堡公園",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "galleria_d_arte_moderna_palazzo_pitti_florence": {
+  "en": "Galleria d'Arte Moderna, Palazzo Pitti, Florence",
+  "zh": "彼提宮現代藝術館",
+  "city": "Florence",
+  "country": "義大利",
+  "count": 2
+ },
+ "museo_di_capodimonte_naples": {
+  "en": "Museo di Capodimonte, Naples",
+  "zh": "卡波迪蒙特博物館",
+  "city": "Naples",
+  "country": "義大利",
+  "count": 2
+ },
+ "marble_palace_saint_petersburg": {
+  "en": "Marble Palace, Saint Petersburg",
+  "zh": "大理石宮",
+  "city": "Saint Petersburg",
+  "country": "俄羅斯",
+  "count": 1
+ },
+ "piccadilly_circus_london": {
+  "en": "Piccadilly Circus, London",
+  "zh": "皮卡迪里圓環",
+  "city": "London",
+  "country": "英國",
+  "count": 1
+ },
+ "winchester_castle_winchester": {
+  "en": "Winchester Castle, Winchester",
+  "zh": "溫徹斯特城堡",
+  "city": "Winchester",
+  "country": "英國",
+  "count": 1
+ },
+ "mus_e_rodin_paris": {
+  "en": "Musée Rodin, Paris",
+  "zh": "羅丹博物館",
+  "city": "Paris",
+  "country": "法國",
+  "count": 18
+ },
+ "place_du_soldat_inconnu_calais": {
+  "en": "Place du Soldat Inconnu, Calais",
+  "zh": "無名戰士廣場",
+  "city": "Calais",
+  "country": "法國",
+  "count": 1
+ },
+ "boulevard_raspail_paris": {
+  "en": "Boulevard Raspail, Paris",
+  "zh": "拉斯帕伊大道",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "mus_e_bourdelle_paris": {
+  "en": "Musée Bourdelle, Paris",
+  "zh": "布德爾美術館",
+  "city": "Paris",
+  "country": "法國",
+  "count": 3
+ },
+ "plaza_francia_buenos_aires": {
+  "en": "Plaza Francia, Buenos Aires",
+  "zh": "法蘭西廣場",
+  "city": "Buenos Aires",
+  "country": "阿根廷",
+  "count": 1
+ },
+ "place_de_l_alma_paris": {
+  "en": "Place de l'Alma, Paris",
+  "zh": "阿爾瑪廣場",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "th_tre_des_champs_lys_es_paris": {
+  "en": "Théâtre des Champs-Élysées, Paris",
+  "zh": "香榭麗舍劇院",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "montauban": {
+  "en": "Montauban",
+  "zh": "蒙托邦",
+  "city": "Montauban",
+  "country": "法國",
+  "count": 1
+ },
+ "vigeland_park_oslo": {
+  "en": "Vigeland Park, Oslo",
+  "zh": "維格蘭雕塑公園",
+  "city": "Oslo",
+  "country": "挪威",
+  "count": 5
+ },
+ "slottsparken_oslo": {
+  "en": "Slottsparken, Oslo",
+  "zh": "王宮公園",
+  "city": "Oslo",
+  "country": "挪威",
+  "count": 1
+ },
+ "grant_park_chicago": {
+  "en": "Grant Park, Chicago",
+  "zh": "格蘭特公園",
+  "city": "Chicago",
+  "country": "美國",
+  "count": 1
+ },
+ "peristyle_split": {
+  "en": "Peristyle, Split",
+  "zh": "迪奧克里先宮列柱廊",
+  "city": "Split",
+  "country": "克羅埃西亞",
+  "count": 1
+ },
+ "mount_avala_belgrade": {
+  "en": "Mount Avala, Belgrade",
+  "zh": "阿瓦拉山",
+  "city": "Belgrade",
+  "country": "塞爾維亞",
+  "count": 1
+ },
+ "mount_lov_en_montenegro": {
+  "en": "Mount Lovćen, Montenegro",
+  "zh": "洛夫琴山",
+  "city": "Montenegro",
+  "country": "蒙特內哥羅",
+  "count": 1
+ },
+ "field_museum_chicago": {
+  "en": "Field Museum, Chicago",
+  "zh": "菲爾德自然史博物館",
+  "city": "Chicago",
+  "country": "美國",
+  "count": 1
+ },
+ "pinal_american_cemetery_pinal": {
+  "en": "Épinal American Cemetery, Épinal",
+  "zh": "埃皮納勒美軍公墓",
+  "city": "Épinal",
+  "country": "法國",
+  "count": 1
+ },
+ "museum_der_bildenden_k_nste_leipzig": {
+  "en": "Museum der bildenden Künste, Leipzig",
+  "zh": "萊比錫造型藝術博物館",
+  "city": "Leipzig",
+  "country": "德國",
+  "count": 4
+ },
+ "museum_folkwang_essen": {
+  "en": "Museum Folkwang, Essen",
+  "zh": "福克旺博物館",
+  "city": "Essen",
+  "country": "德國",
+  "count": 1
+ },
+ "ghent": {
+  "en": "Ghent",
+  "zh": "根特",
+  "city": "Ghent",
+  "country": "比利時",
+  "count": 1
+ },
+ "grote_markt_antwerp": {
+  "en": "Grote Markt, Antwerp",
+  "zh": "大市集廣場",
+  "city": "Antwerp",
+  "country": "比利時",
+  "count": 1
+ },
+ "jef_lambeaux_pavilion_parc_du_cinquantenaire_brussels": {
+  "en": "Jef Lambeaux Pavilion, Parc du Cinquantenaire, Brussels",
+  "zh": "傑夫·蘭博展館（五十週年紀念公園）",
+  "city": "Brussels",
+  "country": "比利時",
+  "count": 1
+ },
+ "monument_to_the_battle_of_the_nations_leipzig": {
+  "en": "Monument to the Battle of the Nations, Leipzig",
+  "zh": "萊比錫民族大會戰紀念碑",
+  "city": "Leipzig",
+  "country": "德國",
+  "count": 1
+ },
+ "place_de_la_r_publique_puget_th_niers": {
+  "en": "Place de la République, Puget-Théniers",
+  "zh": "共和國廣場",
+  "city": "Puget-Théniers",
+  "country": "法國",
+  "count": 1
+ },
+ "museum_of_modern_art_new_york": {
+  "en": "Museum of Modern Art, New York",
+  "zh": "現代藝術博物館",
+  "city": "New York",
+  "country": "美國",
+  "count": 43
+ },
+ "kr_ller_m_ller_museum_otterlo": {
+  "en": "Kröller-Müller Museum, Otterlo",
+  "zh": "庫勒穆勒博物館",
+  "city": "Otterlo",
+  "country": "荷蘭",
+  "count": 1
+ },
+ "banyuls_sur_mer": {
+  "en": "Banyuls-sur-Mer",
+  "zh": "巴紐爾斯",
+  "city": "Banyuls-sur-Mer",
+  "country": "法國",
+  "count": 1
+ },
+ "mus_e_national_d_art_moderne_paris": {
+  "en": "Musée national d'art moderne, Paris",
+  "zh": "國立現代藝術博物館",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "palais_de_chaillot_paris": {
+  "en": "Palais de Chaillot, Paris",
+  "zh": "夏佑宮",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "mont_de_marsan": {
+  "en": "Mont-de-Marsan",
+  "zh": "蒙德馬桑",
+  "city": "Mont-de-Marsan",
+  "country": "法國",
+  "count": 1
+ },
+ "georg_kolbe_museum_berlin": {
+  "en": "Georg Kolbe Museum, Berlin",
+  "zh": "格奧爾格·柯爾貝博物館",
+  "city": "Berlin",
+  "country": "德國",
+  "count": 2
+ },
+ "taunusanlage_frankfurt": {
+  "en": "Taunusanlage, Frankfurt",
+  "zh": "陶努斯公園",
+  "city": "Frankfurt",
+  "country": "德國",
+  "count": 1
+ },
+ "wallanlagen_frankfurt": {
+  "en": "Wallanlagen, Frankfurt",
+  "zh": "城牆公園",
+  "city": "Frankfurt",
+  "country": "德國",
+  "count": 1
+ },
+ "volkspark_rehberge_berlin": {
+  "en": "Volkspark Rehberge, Berlin",
+  "zh": "雷伯格人民公園",
+  "city": "Berlin",
+  "country": "德國",
+  "count": 1
+ },
+ "olympiastadion_berlin": {
+  "en": "Olympiastadion, Berlin",
+  "zh": "柏林奧林匹克體育場",
+  "city": "Berlin",
+  "country": "德國",
+  "count": 1
+ },
+ "town_hall_bremen": {
+  "en": "Town Hall, Bremen",
+  "zh": "不來梅市政廳",
+  "city": "Bremen",
+  "country": "德國",
+  "count": 1
+ },
+ "gerhard_marcks_haus_bremen": {
+  "en": "Gerhard-Marcks-Haus, Bremen",
+  "zh": "格哈德·馬爾克斯之家",
+  "city": "Bremen",
+  "country": "德國",
+  "count": 1
+ },
+ "cologne": {
+  "en": "Cologne",
+  "zh": "科隆",
+  "city": "Cologne",
+  "country": "德國",
+  "count": 1
+ },
+ "place_du_trocad_ro_paris": {
+  "en": "Place du Trocadéro, Paris",
+  "zh": "特羅卡德羅廣場",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "whitney_museum_of_american_art_new_york": {
+  "en": "Whitney Museum of American Art, New York",
+  "zh": "惠特尼美國藝術博物館",
+  "city": "New York",
+  "country": "美國",
+  "count": 23
+ },
+ "rockefeller_center_new_york": {
+  "en": "Rockefeller Center, New York",
+  "zh": "洛克菲勒中心",
+  "city": "New York",
+  "country": "美國",
+  "count": 2
+ },
+ "bronx_zoo_new_york": {
+  "en": "Bronx Zoo, New York",
+  "zh": "布朗克斯動物園",
+  "city": "New York",
+  "country": "美國",
+  "count": 1
+ },
+ "1939_new_york_world_s_fair": {
+  "en": "1939 New York World's Fair",
+  "zh": "1939年紐約世界博覽會",
+  "city": "New York",
+  "country": "美國",
+  "count": 1
+ },
+ "bbc_broadcasting_house_london": {
+  "en": "BBC Broadcasting House, London",
+  "zh": "BBC廣播大廈",
+  "city": "London",
+  "country": "英國",
+  "count": 1
+ },
+ "tate_london": {
+  "en": "Tate, London",
+  "zh": "泰特美術館",
+  "city": "London",
+  "country": "英國",
+  "count": 32
+ },
+ "westminster_cathedral_london": {
+  "en": "Westminster Cathedral, London",
+  "zh": "西敏寺主教座堂",
+  "city": "London",
+  "country": "英國",
+  "count": 1
+ },
+ "palais_des_nations_geneva": {
+  "en": "Palais des Nations, Geneva",
+  "zh": "萬國宮",
+  "city": "Geneva",
+  "country": "瑞士",
+  "count": 1
+ },
+ "bendlerblock_berlin": {
+  "en": "Bendlerblock, Berlin",
+  "zh": "本德勒街區",
+  "city": "Berlin",
+  "country": "德國",
+  "count": 1
+ },
+ "paulskirche_frankfurt": {
+  "en": "Paulskirche, Frankfurt",
+  "zh": "聖保羅教堂",
+  "city": "Frankfurt",
+  "country": "德國",
+  "count": 1
+ },
+ "berlin_film_festival_berlinale_berlin": {
+  "en": "Berlin Film Festival (Berlinale), Berlin",
+  "zh": "柏林影展",
+  "city": "Berlin",
+  "country": "德國",
+  "count": 1
+ },
+ "g_strow_cathedral_g_strow": {
+  "en": "Güstrow Cathedral, Güstrow",
+  "zh": "居斯特羅主教座堂",
+  "city": "Güstrow",
+  "country": "德國",
+  "count": 1
+ },
+ "ernst_barlach_haus_hamburg": {
+  "en": "Ernst Barlach Haus, Hamburg",
+  "zh": "恩斯特·巴爾拉赫之家",
+  "city": "Hamburg",
+  "country": "德國",
+  "count": 6
+ },
+ "magdeburg_cathedral_magdeburg": {
+  "en": "Magdeburg Cathedral, Magdeburg",
+  "zh": "馬德堡主教座堂",
+  "city": "Magdeburg",
+  "country": "德國",
+  "count": 1
+ },
+ "lehmbruck_museum_duisburg": {
+  "en": "Lehmbruck Museum, Duisburg",
+  "zh": "萊姆布魯克博物館",
+  "city": "Duisburg",
+  "country": "德國",
+  "count": 4
+ },
+ "staatsgalerie_stuttgart_stuttgart": {
+  "en": "Staatsgalerie Stuttgart, Stuttgart",
+  "zh": "斯圖加特國立美術館",
+  "city": "Stuttgart",
+  "country": "德國",
+  "count": 2
+ },
+ "vladslo_german_war_cemetery_vladslo": {
+  "en": "Vladslo German War Cemetery, Vladslo",
+  "zh": "弗拉德斯洛德國軍公墓",
+  "city": "Vladslo",
+  "country": "比利時",
+  "count": 1
+ },
+ "neue_wache_berlin": {
+  "en": "Neue Wache, Berlin",
+  "zh": "新崗哨",
+  "city": "Berlin",
+  "country": "德國",
+  "count": 1
+ },
+ "k_the_kollwitz_museum_berlin": {
+  "en": "Käthe Kollwitz Museum, Berlin",
+  "zh": "凱特·珂勒維茲博物館",
+  "city": "Berlin",
+  "country": "德國",
+  "count": 4
+ },
+ "bauhaus_archiv_berlin": {
+  "en": "Bauhaus-Archiv, Berlin",
+  "zh": "包浩斯檔案館",
+  "city": "Berlin",
+  "country": "德國",
+  "count": 1
+ },
+ "bauhaus_weimar": {
+  "en": "Bauhaus Weimar",
+  "zh": "魏瑪包浩斯",
+  "city": "Weimar",
+  "country": "德國",
+  "count": 1
+ },
+ "weyerberg_worpswede": {
+  "en": "Weyerberg, Worpswede",
+  "zh": "韋爾貝格山",
+  "city": "Worpswede",
+  "country": "德國",
+  "count": 1
+ },
+ "b_ttcherstra_e_bremen": {
+  "en": "Böttcherstraße, Bremen",
+  "zh": "伯特歇街",
+  "city": "Bremen",
+  "country": "德國",
+  "count": 1
+ },
+ "mathildenh_he_darmstadt": {
+  "en": "Mathildenhöhe, Darmstadt",
+  "zh": "瑪蒂爾德高地",
+  "city": "Darmstadt",
+  "country": "德國",
+  "count": 1
+ },
+ "30_rockefeller_plaza_new_york": {
+  "en": "30 Rockefeller Plaza, New York",
+  "zh": "洛克菲勒廣場30號",
+  "city": "New York",
+  "country": "美國",
+  "count": 1
+ },
+ "nebraska_state_capitol_lincoln": {
+  "en": "Nebraska State Capitol, Lincoln",
+  "zh": "內布拉斯加州議會大廈",
+  "city": "Lincoln",
+  "country": "美國",
+  "count": 1
+ },
+ "los_angeles_central_library_los_angeles": {
+  "en": "Los Angeles Central Library, Los Angeles",
+  "zh": "洛杉磯中央圖書館",
+  "city": "Los Angeles",
+  "country": "美國",
+  "count": 1
+ },
+ "millesg_rden_stockholm": {
+  "en": "Millesgården, Stockholm",
+  "zh": "米勒斯花園",
+  "city": "Stockholm",
+  "country": "瑞典",
+  "count": 3
+ },
+ "stockholm_concert_hall_stockholm": {
+  "en": "Stockholm Concert Hall, Stockholm",
+  "zh": "斯德哥爾摩音樂廳",
+  "city": "Stockholm",
+  "country": "瑞典",
+  "count": 1
+ },
+ "g_taplatsen_gothenburg": {
+  "en": "Götaplatsen, Gothenburg",
+  "zh": "哥塔廣場",
+  "city": "Gothenburg",
+  "country": "瑞典",
+  "count": 1
+ },
+ "aloe_plaza_st_louis": {
+  "en": "Aloe Plaza, St. Louis",
+  "zh": "阿羅廣場",
+  "city": "St. Louis",
+  "country": "美國",
+  "count": 1
+ },
+ "cranbrook_academy_of_art_bloomfield_hills": {
+  "en": "Cranbrook Academy of Art, Bloomfield Hills",
+  "zh": "克蘭布魯克藝術學院",
+  "city": "Bloomfield Hills",
+  "country": "美國",
+  "count": 1
+ },
+ "stora_torget_link_ping": {
+  "en": "Stora Torget, Linköping",
+  "zh": "大廣場",
+  "city": "Linköping",
+  "country": "瑞典",
+  "count": 1
+ },
+ "saulieu": {
+  "en": "Saulieu",
+  "zh": "索利約",
+  "city": "Saulieu",
+  "country": "法國",
+  "count": 1
+ },
+ "palais_de_la_porte_dor_e_paris": {
+  "en": "Palais de la Porte Dorée, Paris",
+  "zh": "黃金之門宮（移民史博物館）",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "palais_de_tokyo_paris": {
+  "en": "Palais de Tokyo, Paris",
+  "zh": "東京宮",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "corcovado_rio_de_janeiro": {
+  "en": "Corcovado, Rio de Janeiro",
+  "zh": "科爾科瓦多山",
+  "city": "Rio de Janeiro",
+  "country": "巴西",
+  "count": 1
+ },
+ "parc_des_bastions_geneva": {
+  "en": "Parc des Bastions, Geneva",
+  "zh": "堡壘公園",
+  "city": "Geneva",
+  "country": "瑞士",
+  "count": 1
+ },
+ "british_empire_building_rockefeller_center_new_york": {
+  "en": "British Empire Building, Rockefeller Center, New York",
+  "zh": "英國帝國大廈（洛克菲勒中心）",
+  "city": "New York",
+  "country": "美國",
+  "count": 1
+ },
+ "department_of_justice_building_washington_d_c": {
+  "en": "Department of Justice Building, Washington, D.C.",
+  "zh": "司法部大樓",
+  "city": "Washington, D.C.",
+  "country": "美國",
+  "count": 1
+ },
+ "solomon_r_guggenheim_museum_new_york": {
+  "en": "Solomon R. Guggenheim Museum, New York",
+  "zh": "所羅門·R·古根漢美術館",
+  "city": "New York",
+  "country": "美國",
+  "count": 4
+ },
+ "notre_dame_de_toute_gr_ce_assy": {
+  "en": "Notre-Dame-de-Toute-Grâce, Assy",
+  "zh": "恩寵聖母堂",
+  "city": "Assy",
+  "country": "法國",
+  "count": 2
+ },
+ "centre_pompidou_paris": {
+  "en": "Centre Pompidou, Paris",
+  "zh": "龐畢度中心",
+  "city": "Paris",
+  "country": "法國",
+  "count": 22
+ },
+ "leuvehaven_rotterdam": {
+  "en": "Leuvehaven, Rotterdam",
+  "zh": "勒夫哈芬",
+  "city": "Rotterdam",
+  "country": "荷蘭",
+  "count": 1
+ },
+ "auvers_sur_oise": {
+  "en": "Auvers-sur-Oise",
+  "zh": "瓦茲河畔奧維",
+  "city": "Auvers-sur-Oise",
+  "country": "法國",
+  "count": 1
+ },
+ "mus_e_picasso_paris": {
+  "en": "Musée Picasso, Paris",
+  "zh": "畢卡索美術館",
+  "city": "Paris",
+  "country": "法國",
+  "count": 4
+ },
+ "daley_plaza_chicago": {
+  "en": "Daley Plaza, Chicago",
+  "zh": "戴利廣場",
+  "city": "Chicago",
+  "country": "美國",
+  "count": 1
+ },
+ "national_gallery_prague_prague": {
+  "en": "National Gallery Prague, Prague",
+  "zh": "布拉格國家美術館",
+  "city": "Prague",
+  "country": "捷克",
+  "count": 3
+ },
+ "peggy_guggenheim_collection_venice": {
+  "en": "Peggy Guggenheim Collection, Venice",
+  "zh": "佩姬·古根漢美術館",
+  "city": "Venice",
+  "country": "義大利",
+  "count": 3
+ },
+ "mart_rovereto": {
+  "en": "MART, Rovereto",
+  "zh": "羅韋雷托現代與當代藝術博物館",
+  "city": "Rovereto",
+  "country": "義大利",
+  "count": 3
+ },
+ "de_bijenkorf_rotterdam": {
+  "en": "De Bijenkorf, Rotterdam",
+  "zh": "比恩科夫百貨公司",
+  "city": "Rotterdam",
+  "country": "荷蘭",
+  "count": 1
+ },
+ "st_thomas_hospital_london": {
+  "en": "St Thomas' Hospital, London",
+  "zh": "聖托馬斯醫院",
+  "city": "London",
+  "country": "英國",
+  "count": 1
+ },
+ "van_abbemuseum_eindhoven": {
+  "en": "Van Abbemuseum, Eindhoven",
+  "zh": "范阿貝博物館",
+  "city": "Eindhoven",
+  "country": "荷蘭",
+  "count": 1
+ },
+ "sprengel_museum_hannover": {
+  "en": "Sprengel Museum, Hannover",
+  "zh": "施普倫格爾博物館",
+  "city": "Hannover",
+  "country": "德國",
+  "count": 2
+ },
+ "harvard_art_museums_cambridge": {
+  "en": "Harvard Art Museums, Cambridge",
+  "zh": "哈佛藝術博物館",
+  "city": "Cambridge",
+  "country": "美國",
+  "count": 1
+ },
+ "muzeum_sztuki_d": {
+  "en": "Muzeum Sztuki, Łódź",
+  "zh": "羅茲藝術博物館",
+  "city": "Łódź",
+  "country": "波蘭",
+  "count": 4
+ },
+ "hatton_gallery_newcastle": {
+  "en": "Hatton Gallery, Newcastle",
+  "zh": "哈頓美術館",
+  "city": "Newcastle",
+  "country": "英國",
+  "count": 1
+ },
+ "mus_e_d_art_et_d_histoire_geneva": {
+  "en": "Musée d'art et d'histoire, Geneva",
+  "zh": "藝術與歷史博物館",
+  "city": "Geneva",
+  "country": "瑞士",
+  "count": 1
+ },
+ "museum_f_r_gestaltung_zurich": {
+  "en": "Museum für Gestaltung, Zurich",
+  "zh": "蘇黎世設計博物館",
+  "city": "Zurich",
+  "country": "瑞士",
+  "count": 1
+ },
+ "fondation_giacometti_paris": {
+  "en": "Fondation Giacometti, Paris",
+  "zh": "賈柯梅蒂基金會",
+  "city": "Paris",
+  "country": "法國",
+  "count": 3
+ },
+ "hirshhorn_museum_and_sculpture_garden_washington_d_c": {
+  "en": "Hirshhorn Museum and Sculpture Garden, Washington, D.C.",
+  "zh": "赫希洪博物館與雕塑公園",
+  "city": "Washington, D.C.",
+  "country": "美國",
+  "count": 4
+ },
+ "dal_theatre_museum_figueres": {
+  "en": "Dalí Theatre-Museum, Figueres",
+  "zh": "達利劇院博物館",
+  "city": "Figueres",
+  "country": "西班牙",
+  "count": 2
+ },
+ "parc_joan_mir_barcelona": {
+  "en": "Parc Joan Miró, Barcelona",
+  "zh": "米羅公園",
+  "city": "Barcelona",
+  "country": "西班牙",
+  "count": 1
+ },
+ "brunswick_plaza_chicago": {
+  "en": "Brunswick Plaza, Chicago",
+  "zh": "布藍斯威克廣場",
+  "city": "Chicago",
+  "country": "美國",
+  "count": 1
+ },
+ "unesco_headquarters_paris": {
+  "en": "UNESCO Headquarters, Paris",
+  "zh": "聯合國教科文組織總部",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "moderna_museet_stockholm": {
+  "en": "Moderna Museet, Stockholm",
+  "zh": "斯德哥爾摩現代美術館",
+  "city": "Stockholm",
+  "country": "瑞典",
+  "count": 4
+ },
+ "waisenhausplatz_bern": {
+  "en": "Waisenhausplatz, Bern",
+  "zh": "孤兒院廣場",
+  "city": "Bern",
+  "country": "瑞士",
+  "count": 1
+ },
+ "140_broadway_new_york": {
+  "en": "140 Broadway, New York",
+  "zh": "百老匯140號",
+  "city": "New York",
+  "country": "美國",
+  "count": 1
+ },
+ "volunteer_park_seattle": {
+  "en": "Volunteer Park, Seattle",
+  "zh": "志願者公園",
+  "city": "Seattle",
+  "country": "美國",
+  "count": 1
+ },
+ "beinecke_library_new_haven": {
+  "en": "Beinecke Library, New Haven",
+  "zh": "貝內克古籍善本圖書館",
+  "city": "New Haven",
+  "country": "美國",
+  "count": 1
+ },
+ "franklin_institute_philadelphia": {
+  "en": "Franklin Institute, Philadelphia",
+  "zh": "富蘭克林研究所",
+  "city": "Philadelphia",
+  "country": "美國",
+  "count": 1
+ },
+ "sapporo": {
+  "en": "Sapporo",
+  "zh": "札幌",
+  "city": "Sapporo",
+  "country": "日本",
+  "count": 1
+ },
+ "montparnasse_cemetery_paris": {
+  "en": "Montparnasse Cemetery, Paris",
+  "zh": "蒙帕那斯公墓",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "t_rgu_jiu": {
+  "en": "Târgu Jiu",
+  "zh": "特爾古日烏",
+  "city": "Târgu Jiu",
+  "country": "羅馬尼亞",
+  "count": 3
+ },
+ "middelheim_open_air_museum_antwerp": {
+  "en": "Middelheim Open Air Museum, Antwerp",
+  "zh": "米德爾海姆露天博物館",
+  "city": "Antwerp",
+  "country": "比利時",
+  "count": 1
+ },
+ "battersea_park_london": {
+  "en": "Battersea Park, London",
+  "zh": "巴特西公園",
+  "city": "London",
+  "country": "英國",
+  "count": 1
+ },
+ "barclay_school_stevenage": {
+  "en": "Barclay School, Stevenage",
+  "zh": "巴克萊學校",
+  "city": "Stevenage",
+  "country": "英國",
+  "count": 1
+ },
+ "st_matthew_s_church_northampton": {
+  "en": "St Matthew's Church, Northampton",
+  "zh": "聖馬太教堂",
+  "city": "Northampton",
+  "country": "英國",
+  "count": 1
+ },
+ "university_of_chicago_chicago": {
+  "en": "University of Chicago, Chicago",
+  "zh": "芝加哥大學",
+  "city": "Chicago",
+  "country": "美國",
+  "count": 1
+ },
+ "college_green_westminster_london": {
+  "en": "College Green, Westminster, London",
+  "zh": "學院草坪（西敏）",
+  "city": "London",
+  "country": "英國",
+  "count": 1
+ },
+ "kensington_gardens_london": {
+  "en": "Kensington Gardens, London",
+  "zh": "肯辛頓花園",
+  "city": "London",
+  "country": "英國",
+  "count": 1
+ },
+ "perry_green_hertfordshire": {
+  "en": "Perry Green, Hertfordshire",
+  "zh": "佩里格林",
+  "city": "Hertfordshire",
+  "country": "英國",
+  "count": 1
+ },
+ "leeds_art_gallery_leeds": {
+  "en": "Leeds Art Gallery, Leeds",
+  "zh": "利茲美術館",
+  "city": "Leeds",
+  "country": "英國",
+  "count": 1
+ },
+ "john_lewis_oxford_street_london": {
+  "en": "John Lewis, Oxford Street, London",
+  "zh": "約翰路易斯百貨（牛津街）",
+  "city": "London",
+  "country": "英國",
+  "count": 1
+ },
+ "united_nations_headquarters_new_york": {
+  "en": "United Nations Headquarters, New York",
+  "zh": "聯合國總部",
+  "city": "New York",
+  "country": "美國",
+  "count": 1
+ },
+ "harlow_town_centre_harlow": {
+  "en": "Harlow Town Centre, Harlow",
+  "zh": "哈洛市中心",
+  "city": "Harlow",
+  "country": "英國",
+  "count": 2
+ },
+ "coventry_cathedral_coventry": {
+  "en": "Coventry Cathedral, Coventry",
+  "zh": "考文垂主教座堂",
+  "city": "Coventry",
+  "country": "英國",
+  "count": 1
+ },
+ "whitworth_art_gallery_manchester": {
+  "en": "Whitworth Art Gallery, Manchester",
+  "zh": "惠特沃斯美術館",
+  "city": "Manchester",
+  "country": "英國",
+  "count": 1
+ },
+ "55_broadway_london": {
+  "en": "55 Broadway, London",
+  "zh": "百老匯55號",
+  "city": "London",
+  "country": "英國",
+  "count": 1
+ },
+ "birmingham_museum_and_art_gallery_birmingham": {
+  "en": "Birmingham Museum and Art Gallery, Birmingham",
+  "zh": "伯明罕博物館與美術館",
+  "city": "Birmingham",
+  "country": "英國",
+  "count": 1
+ },
+ "cavendish_square_london": {
+  "en": "Cavendish Square, London",
+  "zh": "卡文迪許廣場",
+  "city": "London",
+  "country": "英國",
+  "count": 1
+ },
+ "neuberger_museum_of_art_purchase": {
+  "en": "Neuberger Museum of Art, Purchase",
+  "zh": "諾伊貝格爾藝術博物館",
+  "city": "Purchase",
+  "country": "美國",
+  "count": 1
+ },
+ "radio_city_music_hall_new_york": {
+  "en": "Radio City Music Hall, New York",
+  "zh": "無線電城音樂廳",
+  "city": "New York",
+  "country": "美國",
+  "count": 1
+ },
+ "brooklyn_museum_new_york": {
+  "en": "Brooklyn Museum, New York",
+  "zh": "布魯克林博物館",
+  "city": "New York",
+  "country": "美國",
+  "count": 2
+ },
+ "mus_e_d_art_moderne_paris": {
+  "en": "Musée d'art moderne, Paris",
+  "zh": "巴黎市立現代美術館",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "museo_marino_marini_florence": {
+  "en": "Museo Marino Marini, Florence",
+  "zh": "馬里諾·馬里尼博物館",
+  "city": "Florence",
+  "country": "義大利",
+  "count": 1
+ },
+ "bergamo": {
+  "en": "Bergamo",
+  "zh": "貝加莫",
+  "city": "Bergamo",
+  "country": "義大利",
+  "count": 1
+ },
+ "vienna": {
+  "en": "Vienna",
+  "zh": "維也納",
+  "city": "Vienna",
+  "country": "奧地利",
+  "count": 1
+ },
+ "british_library_london": {
+  "en": "British Library, London",
+  "zh": "大英圖書館",
+  "city": "London",
+  "country": "英國",
+  "count": 1
+ },
+ "euston_station_london": {
+  "en": "Euston Station, London",
+  "zh": "尤斯頓車站",
+  "city": "London",
+  "country": "英國",
+  "count": 1
+ },
+ "gyle_centre_edinburgh": {
+  "en": "Gyle Centre, Edinburgh",
+  "zh": "蓋爾購物中心",
+  "city": "Edinburgh",
+  "country": "英國",
+  "count": 1
+ },
+ "new_bond_street_london": {
+  "en": "New Bond Street, London",
+  "zh": "新龐德街",
+  "city": "London",
+  "country": "英國",
+  "count": 1
+ },
+ "salisbury_cathedral_close_salisbury": {
+  "en": "Salisbury Cathedral Close, Salisbury",
+  "zh": "索爾茲伯里主教座堂庭院",
+  "city": "Salisbury",
+  "country": "英國",
+  "count": 1
+ },
+ "dorchester": {
+  "en": "Dorchester",
+  "zh": "多徹斯特",
+  "city": "Dorchester",
+  "country": "英國",
+  "count": 1
+ },
+ "bethnal_green_london": {
+  "en": "Bethnal Green, London",
+  "zh": "貝思納爾格林",
+  "city": "London",
+  "country": "英國",
+  "count": 1
+ },
+ "liverpool_metropolitan_cathedral_liverpool": {
+  "en": "Liverpool Metropolitan Cathedral, Liverpool",
+  "zh": "利物浦都會主教座堂",
+  "city": "Liverpool",
+  "country": "英國",
+  "count": 1
+ },
+ "collodi": {
+  "en": "Collodi",
+  "zh": "科洛迪",
+  "city": "Collodi",
+  "country": "義大利",
+  "count": 1
+ },
+ "fosse_ardeatine_rome": {
+  "en": "Fosse Ardeatine, Rome",
+  "zh": "阿爾德亞蒂內壕溝（大屠殺紀念地）",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 1
+ },
+ "ondarreta_beach_san_sebasti_n": {
+  "en": "Ondarreta beach, San Sebastián",
+  "zh": "翁達雷塔海灘",
+  "city": "San Sebastián",
+  "country": "西班牙",
+  "count": 1
+ },
+ "cimadevilla_hill_gij_n": {
+  "en": "Cimadevilla hill, Gijón",
+  "zh": "西馬德維拉山丘",
+  "city": "Gijón",
+  "country": "西班牙",
+  "count": 1
+ },
+ "parc_de_creueta_del_coll_barcelona": {
+  "en": "Parc de Creueta del Coll, Barcelona",
+  "zh": "克雷烏塔德爾科約公園",
+  "city": "Barcelona",
+  "country": "西班牙",
+  "count": 1
+ },
+ "bundeskanzleramt_berlin": {
+  "en": "Bundeskanzleramt, Berlin",
+  "zh": "聯邦總理府",
+  "city": "Berlin",
+  "country": "德國",
+  "count": 1
+ },
+ "gernika_basque_country": {
+  "en": "Gernika, Basque Country",
+  "zh": "格爾尼卡",
+  "city": "Basque Country",
+  "country": "西班牙",
+  "count": 1
+ },
+ "chillida_leku_hernani": {
+  "en": "Chillida Leku, Hernani",
+  "zh": "奇利達之地",
+  "city": "Hernani",
+  "country": "西班牙",
+  "count": 1
+ },
+ "stedelijk_museum_amsterdam": {
+  "en": "Stedelijk Museum, Amsterdam",
+  "zh": "阿姆斯特丹市立美術館",
+  "city": "Amsterdam",
+  "country": "荷蘭",
+  "count": 2
+ },
+ "museo_nacional_centro_de_arte_reina_sof_a_madrid": {
+  "en": "Museo Nacional Centro de Arte Reina Sofía, Madrid",
+  "zh": "索菲亞王后國家藝術中心博物館",
+  "city": "Madrid",
+  "country": "西班牙",
+  "count": 1
+ },
+ "storm_king_art_center_new_york": {
+  "en": "Storm King Art Center, New York",
+  "zh": "風暴王藝術中心",
+  "city": "New York",
+  "country": "美國",
+  "count": 2
+ },
+ "louise_nevelson_plaza_new_york": {
+  "en": "Louise Nevelson Plaza, New York",
+  "zh": "路易絲·內維爾森廣場",
+  "city": "New York",
+  "country": "美國",
+  "count": 1
+ },
+ "poole_quay_poole": {
+  "en": "Poole Quay, Poole",
+  "zh": "普爾碼頭",
+  "city": "Poole",
+  "country": "英國",
+  "count": 1
+ },
+ "glise_saint_jean_baptiste_bourbourg": {
+  "en": "Église Saint-Jean-Baptiste, Bourbourg",
+  "zh": "聖施洗約翰教堂",
+  "city": "Bourbourg",
+  "country": "法國",
+  "count": 1
+ },
+ "thames_london": {
+  "en": "Thames, London",
+  "zh": "泰晤士河",
+  "city": "London",
+  "country": "英國",
+  "count": 1
+ },
+ "museo_oteiza_alzuza": {
+  "en": "Museo Oteiza, Alzuza",
+  "zh": "奧泰薩博物館",
+  "city": "Alzuza",
+  "country": "西班牙",
+  "count": 1
+ },
+ "basilica_of_ar_nzazu_o_ati": {
+  "en": "Basilica of Aránzazu, Oñati",
+  "zh": "阿蘭薩蘇聖殿",
+  "city": "Oñati",
+  "country": "西班牙",
+  "count": 1
+ },
+ "fundaci_joan_mir_barcelona": {
+  "en": "Fundació Joan Miró, Barcelona",
+  "zh": "米羅基金會",
+  "city": "Barcelona",
+  "country": "西班牙",
+  "count": 1
+ },
+ "vandenberg_plaza_grand_rapids": {
+  "en": "Vandenberg Plaza, Grand Rapids",
+  "zh": "范登堡廣場",
+  "city": "Grand Rapids",
+  "country": "美國",
+  "count": 1
+ },
+ "federal_plaza_chicago": {
+  "en": "Federal Plaza, Chicago",
+  "zh": "聯邦廣場",
+  "city": "Chicago",
+  "country": "美國",
+  "count": 1
+ },
+ "national_gallery_of_art_washington_d_c": {
+  "en": "National Gallery of Art, Washington, D.C.",
+  "zh": "國家藝廊",
+  "city": "Washington, D.C.",
+  "country": "美國",
+  "count": 4
+ },
+ "spoleto_italy": {
+  "en": "Spoleto, Italy",
+  "zh": "斯波萊托",
+  "city": "Spoleto",
+  "country": "義大利",
+  "count": 1
+ },
+ "place_expo_67_montreal": {
+  "en": "Place Expo 67, Montreal",
+  "zh": "1967年世博廣場",
+  "city": "Montreal",
+  "country": "加拿大",
+  "count": 1
+ },
+ "place_igor_stravinsky_paris": {
+  "en": "Place Igor-Stravinsky, Paris",
+  "zh": "史特拉汶斯基廣場",
+  "city": "Paris",
+  "country": "法國",
+  "count": 2
+ },
+ "museum_tinguely_basel": {
+  "en": "Museum Tinguely, Basel",
+  "zh": "丁格利博物館",
+  "city": "Basel",
+  "country": "瑞士",
+  "count": 2
+ },
+ "theaterplatz_basel": {
+  "en": "Theaterplatz, Basel",
+  "zh": "劇院廣場",
+  "city": "Basel",
+  "country": "瑞士",
+  "count": 1
+ },
+ "palais_royal_paris": {
+  "en": "Palais-Royal, Paris",
+  "zh": "皇家宮殿",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "dizengoff_square_tel_aviv": {
+  "en": "Dizengoff Square, Tel Aviv",
+  "zh": "迪岑哥夫廣場",
+  "city": "Tel Aviv",
+  "country": "以色列",
+  "count": 1
+ },
+ "li_ge_belgium": {
+  "en": "Liège, Belgium",
+  "zh": "列日",
+  "city": "Liège",
+  "country": "比利時",
+  "count": 1
+ },
+ "mit_chapel_cambridge": {
+  "en": "MIT Chapel, Cambridge",
+  "zh": "麻省理工學院禮拜堂",
+  "city": "Cambridge",
+  "country": "美國",
+  "count": 1
+ },
+ "new_plymouth_new_zealand": {
+  "en": "New Plymouth, New Zealand",
+  "zh": "新普利茅斯",
+  "city": "New Plymouth",
+  "country": "紐西蘭",
+  "count": 1
+ },
+ "the_chinati_foundation_marfa": {
+  "en": "The Chinati Foundation, Marfa",
+  "zh": "欽納提基金會",
+  "city": "Marfa",
+  "country": "美國",
+  "count": 3
+ },
+ "tate_modern_london": {
+  "en": "Tate Modern, London",
+  "zh": "泰特現代美術館",
+  "city": "London",
+  "country": "英國",
+  "count": 10
+ },
+ "national_gallery_of_canada_ottawa": {
+  "en": "National Gallery of Canada, Ottawa",
+  "zh": "加拿大國家美術館",
+  "city": "Ottawa",
+  "country": "加拿大",
+  "count": 2
+ },
+ "hartford_connecticut": {
+  "en": "Hartford, Connecticut",
+  "zh": "哈特福",
+  "city": "Hartford",
+  "country": "美國",
+  "count": 1
+ },
+ "dia_art_foundation_new_york": {
+  "en": "Dia Art Foundation, New York",
+  "zh": "迪亞藝術基金會",
+  "city": "New York",
+  "country": "美國",
+  "count": 5
+ },
+ "chiesa_rossa_milan": {
+  "en": "Chiesa Rossa, Milan",
+  "zh": "紅色教堂",
+  "city": "Milan",
+  "country": "義大利",
+  "count": 1
+ },
+ "oostelijk_flevoland_netherlands": {
+  "en": "Oostelijk Flevoland, Netherlands",
+  "zh": "東弗萊福蘭",
+  "city": "Oostelijk Flevoland",
+  "country": "荷蘭",
+  "count": 1
+ },
+ "seattle_art_museum_seattle": {
+  "en": "Seattle Art Museum, Seattle",
+  "zh": "西雅圖藝術博物館",
+  "city": "Seattle",
+  "country": "美國",
+  "count": 1
+ },
+ "los_angeles_county_museum_of_art_los_angeles": {
+  "en": "Los Angeles County Museum of Art, Los Angeles",
+  "zh": "洛杉磯郡立藝術博物館",
+  "city": "Los Angeles",
+  "country": "美國",
+  "count": 3
+ },
+ "museum_of_contemporary_art_los_angeles": {
+  "en": "Museum of Contemporary Art, Los Angeles",
+  "zh": "洛杉磯當代藝術博物館",
+  "city": "Los Angeles",
+  "country": "美國",
+  "count": 1
+ },
+ "art_gallery_of_ontario_toronto": {
+  "en": "Art Gallery of Ontario, Toronto",
+  "zh": "安大略美術館",
+  "city": "Toronto",
+  "country": "加拿大",
+  "count": 1
+ },
+ "minneapolis_sculpture_garden_minneapolis": {
+  "en": "Minneapolis Sculpture Garden, Minneapolis",
+  "zh": "明尼阿波利斯雕塑公園",
+  "city": "Minneapolis",
+  "country": "美國",
+  "count": 1
+ },
+ "centre_square_philadelphia": {
+  "en": "Centre Square, Philadelphia",
+  "zh": "中心廣場",
+  "city": "Philadelphia",
+  "country": "美國",
+  "count": 1
+ },
+ "nelson_atkins_museum_of_art_kansas_city": {
+  "en": "Nelson-Atkins Museum of Art, Kansas City",
+  "zh": "納爾遜-阿特金斯藝術博物館",
+  "city": "Kansas City",
+  "country": "美國",
+  "count": 1
+ },
+ "national_gallery_of_art_sculpture_garden_washington_d_c": {
+  "en": "National Gallery of Art Sculpture Garden, Washington, D.C.",
+  "zh": "國家藝廊雕塑花園",
+  "city": "Washington, D.C.",
+  "country": "美國",
+  "count": 1
+ },
+ "walker_art_center_minneapolis": {
+  "en": "Walker Art Center, Minneapolis",
+  "zh": "沃克藝術中心",
+  "city": "Minneapolis",
+  "country": "美國",
+  "count": 1
+ },
+ "albright_knox_art_gallery_buffalo": {
+  "en": "Albright-Knox Art Gallery, Buffalo",
+  "zh": "奧爾布賴特-諾克斯藝廊",
+  "city": "Buffalo",
+  "country": "美國",
+  "count": 1
+ },
+ "christopher_park_new_york": {
+  "en": "Christopher Park, New York",
+  "zh": "克里斯多福公園",
+  "city": "New York",
+  "country": "美國",
+  "count": 1
+ },
+ "lincoln_park_san_francisco": {
+  "en": "Lincoln Park, San Francisco",
+  "zh": "林肯公園",
+  "city": "San Francisco",
+  "country": "美國",
+  "count": 1
+ },
+ "museum_ludwig_cologne": {
+  "en": "Museum Ludwig, Cologne",
+  "zh": "路德維希博物館",
+  "city": "Cologne",
+  "country": "德國",
+  "count": 2
+ },
+ "garavicchio_capalbio": {
+  "en": "Garavicchio, Capalbio",
+  "zh": "加拉維基奧",
+  "city": "Capalbio",
+  "country": "義大利",
+  "count": 1
+ },
+ "andy_warhol_museum_pittsburgh": {
+  "en": "Andy Warhol Museum, Pittsburgh",
+  "zh": "安迪·沃荷博物館",
+  "city": "Pittsburgh",
+  "country": "美國",
+  "count": 1
+ },
+ "fondation_cartier_jouy_en_josas": {
+  "en": "Fondation Cartier, Jouy-en-Josas",
+  "zh": "卡地亞基金會",
+  "city": "Jouy-en-Josas",
+  "country": "法國",
+  "count": 1
+ },
+ "place_michel_debr_paris": {
+  "en": "Place Michel-Debré, Paris",
+  "zh": "米歇爾·德佩廣場",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "art_institute_of_chicago_chicago": {
+  "en": "Art Institute of Chicago, Chicago",
+  "zh": "芝加哥藝術博物館",
+  "city": "Chicago",
+  "country": "美國",
+  "count": 1
+ },
+ "national_gallery_of_australia_canberra": {
+  "en": "National Gallery of Australia, Canberra",
+  "zh": "澳洲國家美術館",
+  "city": "Canberra",
+  "country": "澳洲",
+  "count": 2
+ },
+ "detroit_institute_of_arts_detroit": {
+  "en": "Detroit Institute of Arts, Detroit",
+  "zh": "底特律藝術學院博物館",
+  "city": "Detroit",
+  "country": "美國",
+  "count": 1
+ },
+ "milwaukee_art_museum_milwaukee": {
+  "en": "Milwaukee Art Museum, Milwaukee",
+  "zh": "密爾瓦基藝術博物館",
+  "city": "Milwaukee",
+  "country": "美國",
+  "count": 1
+ },
+ "guggenheim_museum_bilbao_bilbao": {
+  "en": "Guggenheim Museum Bilbao, Bilbao",
+  "zh": "畢爾包古根漢美術館",
+  "city": "Bilbao",
+  "country": "西班牙",
+  "count": 4
+ },
+ "dia_beacon_beacon": {
+  "en": "Dia Beacon, Beacon",
+  "zh": "迪亞比肯",
+  "city": "Beacon",
+  "country": "美國",
+  "count": 1
+ },
+ "grand_palais_paris": {
+  "en": "Grand Palais, Paris",
+  "zh": "巴黎大皇宮",
+  "city": "Paris",
+  "country": "法國",
+  "count": 2
+ },
+ "broadgate_london": {
+  "en": "Broadgate, London",
+  "zh": "布羅德蓋特",
+  "city": "London",
+  "country": "英國",
+  "count": 1
+ },
+ "united_states_holocaust_memorial_museum_washington_d_c": {
+  "en": "United States Holocaust Memorial Museum, Washington, D.C.",
+  "zh": "美國大屠殺紀念博物館",
+  "city": "Washington, D.C.",
+  "country": "美國",
+  "count": 1
+ },
+ "englewood_new_jersey": {
+  "en": "Englewood, New Jersey",
+  "zh": "恩格爾伍德",
+  "city": "Englewood",
+  "country": "美國",
+  "count": 1
+ },
+ "paris_les_halles": {
+  "en": "Paris, Les Halles",
+  "zh": "巴黎中央市場",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "pier_52_new_york": {
+  "en": "Pier 52, New York",
+  "zh": "第52號碼頭",
+  "city": "New York",
+  "country": "美國",
+  "count": 1
+ },
+ "niagara_falls_new_york": {
+  "en": "Niagara Falls, New York",
+  "zh": "尼加拉瀑布",
+  "city": "New York",
+  "country": "美國",
+  "count": 1
+ },
+ "great_salt_lake_utah": {
+  "en": "Great Salt Lake, Utah",
+  "zh": "大鹽湖",
+  "city": "Utah",
+  "country": "美國",
+  "count": 1
+ },
+ "kent_state_university_kent": {
+  "en": "Kent State University, Kent",
+  "zh": "肯特州立大學",
+  "city": "Kent",
+  "country": "美國",
+  "count": 1
+ },
+ "rome_italy": {
+  "en": "Rome, Italy",
+  "zh": "羅馬",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 1
+ },
+ "emmen_netherlands": {
+  "en": "Emmen, Netherlands",
+  "zh": "埃門",
+  "city": "Emmen",
+  "country": "荷蘭",
+  "count": 1
+ },
+ "mormon_mesa_nevada": {
+  "en": "Mormon Mesa, Nevada",
+  "zh": "摩門梅薩",
+  "city": "Nevada",
+  "country": "美國",
+  "count": 1
+ },
+ "garden_valley_nevada": {
+  "en": "Garden Valley, Nevada",
+  "zh": "加登谷",
+  "city": "Nevada",
+  "country": "美國",
+  "count": 1
+ },
+ "quemado_new_mexico": {
+  "en": "Quemado, New Mexico",
+  "zh": "克馬多",
+  "city": "New Mexico",
+  "country": "美國",
+  "count": 1
+ },
+ "kassel_germany": {
+  "en": "Kassel, Germany",
+  "zh": "卡塞爾",
+  "city": "Kassel",
+  "country": "德國",
+  "count": 2
+ },
+ "great_basin_desert_utah": {
+  "en": "Great Basin Desert, Utah",
+  "zh": "大盆地沙漠",
+  "city": "Utah",
+  "country": "美國",
+  "count": 1
+ },
+ "arlington_virginia": {
+  "en": "Arlington, Virginia",
+  "zh": "阿靈頓",
+  "city": "Arlington",
+  "country": "美國",
+  "count": 1
+ },
+ "western_washington_university_bellingham": {
+  "en": "Western Washington University, Bellingham",
+  "zh": "西華盛頓大學",
+  "city": "Bellingham",
+  "country": "美國",
+  "count": 1
+ },
+ "paris_pont_neuf": {
+  "en": "Paris, Pont Neuf",
+  "zh": "新橋",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "berlin_reichstag": {
+  "en": "Berlin, Reichstag",
+  "zh": "國會大廈",
+  "city": "Berlin",
+  "country": "德國",
+  "count": 1
+ },
+ "central_park_new_york": {
+  "en": "Central Park, New York",
+  "zh": "中央公園",
+  "city": "New York",
+  "country": "美國",
+  "count": 1
+ },
+ "rifle_gap_colorado": {
+  "en": "Rifle Gap, Colorado",
+  "zh": "萊富爾峽谷",
+  "city": "Colorado",
+  "country": "美國",
+  "count": 1
+ },
+ "biscayne_bay_miami": {
+  "en": "Biscayne Bay, Miami",
+  "zh": "比斯坎灣",
+  "city": "Miami",
+  "country": "美國",
+  "count": 1
+ },
+ "lake_iseo_italy": {
+  "en": "Lake Iseo, Italy",
+  "zh": "伊塞奧湖",
+  "city": "Lake Iseo",
+  "country": "義大利",
+  "count": 1
+ },
+ "digne_les_bains_france": {
+  "en": "Digne-les-Bains, France",
+  "zh": "迪涅萊班",
+  "city": "Digne-les-Bains",
+  "country": "法國",
+  "count": 1
+ },
+ "presidio_san_francisco": {
+  "en": "Presidio, San Francisco",
+  "zh": "普雷西迪奧",
+  "city": "San Francisco",
+  "country": "美國",
+  "count": 1
+ },
+ "battery_park_landfill_new_york": {
+  "en": "Battery Park Landfill, New York",
+  "zh": "砲台公園填海區",
+  "city": "New York",
+  "country": "美國",
+  "count": 1
+ },
+ "yl_j_rvi_finland": {
+  "en": "Ylöjärvi, Finland",
+  "zh": "于洛耶爾維",
+  "city": "Ylöjärvi",
+  "country": "芬蘭",
+  "count": 1
+ },
+ "park_avenue_new_york": {
+  "en": "Park Avenue, New York",
+  "zh": "公園大道",
+  "city": "New York",
+  "country": "美國",
+  "count": 1
+ },
+ "fort_kent_maine": {
+  "en": "Fort Kent, Maine",
+  "zh": "肯特堡",
+  "city": "Fort Kent",
+  "country": "美國",
+  "count": 1
+ },
+ "painted_desert_arizona": {
+  "en": "Painted Desert, Arizona",
+  "zh": "彩繪沙漠",
+  "city": "Arizona",
+  "country": "美國",
+  "count": 1
+ },
+ "rice_university_houston": {
+  "en": "Rice University, Houston",
+  "zh": "萊斯大學",
+  "city": "Houston",
+  "country": "美國",
+  "count": 1
+ },
+ "moma_ps1_new_york": {
+  "en": "MoMA PS1, New York",
+  "zh": "MoMA PS1",
+  "city": "New York",
+  "country": "美國",
+  "count": 1
+ },
+ "nassau_county_museum_of_art_roslyn_harbor": {
+  "en": "Nassau County Museum of Art, Roslyn Harbor",
+  "zh": "拿騷郡藝術博物館",
+  "city": "Roslyn Harbor",
+  "country": "美國",
+  "count": 1
+ },
+ "iowa_and_mexico": {
+  "en": "Iowa and Mexico",
+  "zh": "愛荷華與墨西哥",
+  "city": "UNKNOWN",
+  "country": "UNKNOWN",
+  "count": 1
+ },
+ "yagul_oaxaca": {
+  "en": "Yagul, Oaxaca",
+  "zh": "亞古爾",
+  "city": "Oaxaca",
+  "country": "墨西哥",
+  "count": 1
+ },
+ "cwm_pennant_wales": {
+  "en": "Cwm Pennant, Wales",
+  "zh": "彭南特谷",
+  "city": "Wales",
+  "country": "英國",
+  "count": 1
+ },
+ "dyfi_river_wales": {
+  "en": "Dyfi river, Wales",
+  "zh": "迪菲河",
+  "city": "Wales",
+  "country": "英國",
+  "count": 1
+ },
+ "l_attico_gallery_rome": {
+  "en": "L'Attico Gallery, Rome",
+  "zh": "閣樓畫廊",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 1
+ },
+ "rome_galleria_la_salita": {
+  "en": "Rome, Galleria La Salita",
+  "zh": "薩利塔畫廊",
+  "city": "Rome",
+  "country": "義大利",
+  "count": 1
+ },
+ "heart_museum_herning": {
+  "en": "HEART Museum, Herning",
+  "zh": "赫寧心臟博物館",
+  "city": "Herning",
+  "country": "丹麥",
+  "count": 1
+ },
+ "kunstmuseum_basel_basel": {
+  "en": "Kunstmuseum Basel, Basel",
+  "zh": "巴塞爾美術館",
+  "city": "Basel",
+  "country": "瑞士",
+  "count": 1
+ },
+ "pinakothek_der_moderne_munich": {
+  "en": "Pinakothek der Moderne, Munich",
+  "zh": "現代美術館",
+  "city": "Munich",
+  "country": "德國",
+  "count": 1
+ },
+ "neues_museum_kassel": {
+  "en": "Neues Museum, Kassel",
+  "zh": "新博物館",
+  "city": "Kassel",
+  "country": "德國",
+  "count": 1
+ },
+ "millennium_park_chicago": {
+  "en": "Millennium Park, Chicago",
+  "zh": "千禧公園",
+  "city": "Chicago",
+  "country": "美國",
+  "count": 1
+ },
+ "queen_elizabeth_olympic_park_london": {
+  "en": "Queen Elizabeth Olympic Park, London",
+  "zh": "伊莉莎白女王奧林匹克公園",
+  "city": "London",
+  "country": "英國",
+  "count": 1
+ },
+ "nottingham_playhouse_nottingham": {
+  "en": "Nottingham Playhouse, Nottingham",
+  "zh": "諾丁漢劇場",
+  "city": "Nottingham",
+  "country": "英國",
+  "count": 1
+ },
+ "judenplatz_vienna": {
+  "en": "Judenplatz, Vienna",
+  "zh": "猶登廣場",
+  "city": "Vienna",
+  "country": "奧地利",
+  "count": 1
+ },
+ "ilfracombe_devon": {
+  "en": "Ilfracombe, Devon",
+  "zh": "伊爾弗勒科姆",
+  "city": "Devon",
+  "country": "英國",
+  "count": 1
+ },
+ "palace_of_justice_bogot": {
+  "en": "Palace of Justice, Bogotá",
+  "zh": "司法宮",
+  "city": "Bogotá",
+  "country": "哥倫比亞",
+  "count": 1
+ },
+ "new_york_harbor_new_york": {
+  "en": "New York Harbor, New York",
+  "zh": "紐約港",
+  "city": "New York",
+  "country": "美國",
+  "count": 1
+ },
+ "aros_aarhus_kunstmuseum_aarhus": {
+  "en": "ARoS Aarhus Kunstmuseum, Aarhus",
+  "zh": "奧胡斯ARoS美術館",
+  "city": "Aarhus",
+  "country": "丹麥",
+  "count": 1
+ },
+ "place_du_panth_on_paris": {
+  "en": "Place du Panthéon, Paris",
+  "zh": "先賢祠廣場",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "benesse_house_naoshima": {
+  "en": "Benesse House, Naoshima",
+  "zh": "倍樂生之家",
+  "city": "Naoshima",
+  "country": "日本",
+  "count": 1
+ },
+ "neue_galerie_ludwig_collection_aachen": {
+  "en": "Neue Galerie, Ludwig Collection, Aachen",
+  "zh": "路德維希收藏新美術館",
+  "city": "Aachen",
+  "country": "德國",
+  "count": 1
+ },
+ "scottish_national_gallery_of_modern_art_edinburgh": {
+  "en": "Scottish National Gallery of Modern Art, Edinburgh",
+  "zh": "蘇格蘭國家現代美術館",
+  "city": "Edinburgh",
+  "country": "英國",
+  "count": 1
+ },
+ "saatchi_collection_london": {
+  "en": "Saatchi Collection, London",
+  "zh": "薩奇收藏",
+  "city": "London",
+  "country": "英國",
+  "count": 1
+ },
+ "venice_biennale_venice": {
+  "en": "Venice Biennale, Venice",
+  "zh": "威尼斯雙年展",
+  "city": "Venice",
+  "country": "義大利",
+  "count": 1
+ },
+ "national_gallery_of_victoria_melbourne": {
+  "en": "National Gallery of Victoria, Melbourne",
+  "zh": "維多利亞國家美術館",
+  "city": "Melbourne",
+  "country": "澳洲",
+  "count": 1
+ },
+ "gateshead_england": {
+  "en": "Gateshead, England",
+  "zh": "蓋茨黑德",
+  "city": "Gateshead",
+  "country": "英國",
+  "count": 1
+ },
+ "crosby_beach_merseyside": {
+  "en": "Crosby Beach, Merseyside",
+  "zh": "克羅斯比海灘",
+  "city": "Merseyside",
+  "country": "英國",
+  "count": 1
+ },
+ "greenwich_peninsula_london": {
+  "en": "Greenwich Peninsula, London",
+  "zh": "格林威治半島",
+  "city": "London",
+  "country": "英國",
+  "count": 1
+ },
+ "punta_della_dogana_venice": {
+  "en": "Punta della Dogana, Venice",
+  "zh": "海關角",
+  "city": "Venice",
+  "country": "義大利",
+  "count": 1
+ },
+ "piazza_affari_milan": {
+  "en": "Piazza Affari, Milan",
+  "zh": "金融廣場",
+  "city": "Milan",
+  "country": "義大利",
+  "count": 1
+ },
+ "castello_di_rivoli_rivoli": {
+  "en": "Castello di Rivoli, Rivoli",
+  "zh": "里沃利城堡",
+  "city": "Rivoli",
+  "country": "義大利",
+  "count": 1
+ },
+ "fourth_plinth_trafalgar_square_london": {
+  "en": "Fourth Plinth, Trafalgar Square, London",
+  "zh": "第四基座（特拉法加廣場）",
+  "city": "London",
+  "country": "英國",
+  "count": 1
+ },
+ "turbine_hall_tate_modern_london": {
+  "en": "Turbine Hall, Tate Modern, London",
+  "zh": "渦輪大廳（泰特現代美術館）",
+  "city": "London",
+  "country": "英國",
+  "count": 1
+ },
+ "petit_palais_paris": {
+  "en": "Petit Palais, Paris",
+  "zh": "小皇宮",
+  "city": "Paris",
+  "country": "法國",
+  "count": 1
+ },
+ "unknown": {
+  "en": "Unknown / not recorded",
+  "zh": "收藏地不詳",
+  "city": "",
+  "country": "",
+  "count": 408
+ },
+ "lost": {
+  "en": "Lost",
+  "zh": "已佚失",
+  "city": "",
+  "country": "",
+  "count": 91
+ }
+}
