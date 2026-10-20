@@ -1,0 +1,1846 @@
+{
+ "file": "works.json",
+ "key": "id",
+ "description": "sculpture_images：為無圖的公有領域作品補圖（Wikidata P18／Commons SDC／Wikipedia pageimage），2026-10-20",
+ "set": {
+  "s0006": {
+   "local": true,
+   "img": "img/800/s0006.webp",
+   "thumb": "img/thumb/s0006.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:National_Archaeological_Museum_of_Naples_-_Tyrannicide_group_-_Harmodius_and_Aristogeiton.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Archaeological%20Museum%20of%20Naples%20-%20Tyrannicide%20group%20-%20Harmodius%20and%20Aristogeiton.jpg?width=1000",
+   "img_note": "圖為後世（多為羅馬時期）複製品，非原作（原作已佚失）",
+   "verif": "圖為後世（多為羅馬時期）複製品，非原作（原作已佚失）。以 Wikidata 配對作品條目 Q3250992（題名相似 1.00、作者相符、年代相符、材質相符），圖取自 P18（Commons 檔案 National Archaeological Museum of Naples - Tyrannicide group - Harmodius and Aristogeiton.jpg，授權 CC BY 2.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q3250992",
+    "via": "P170+題名",
+    "label": "Harmodius and Aristogeiton",
+    "y": [
+     -476
+    ],
+    "mu": []
+   }
+  },
+  "s0024": {
+   "local": true,
+   "img": "img/800/s0024.webp",
+   "thumb": "img/thumb/s0024.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:ACMA_679_Kore_1.JPG",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/ACMA%20679%20Kore%201.JPG?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q492894（題名相似 1.00、年代相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 ACMA 679 Kore 1.JPG，授權 CC BY-SA 2.5），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q492894",
+    "via": "P170+題名",
+    "label": "Peplos Kore",
+    "y": [
+     -540,
+     -530
+    ],
+    "mu": [
+     "Acropolis Museum"
+    ]
+   }
+  },
+  "s0034": {
+   "local": true,
+   "img": "img/800/s0034.webp",
+   "thumb": "img/thumb/s0034.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Phidias,_Athena_Lemnia,_450_BC,_Plaster_cast,_Hostinné,_188274.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Phidias,%20Athena%20Lemnia,%20450%20BC,%20Plaster%20cast,%20Hostinn%C3%A9,%20188274.jpg?width=1000",
+   "img_note": "圖為石膏模型，非原作（原作已佚失）",
+   "verif": "圖為石膏模型，非原作（原作已佚失）。以 Wikidata 配對作品條目 Q950701（題名相似 1.00、作者相符、年代相符），圖取自 SDC P180（Commons 檔案 Phidias, Athena Lemnia, 450 BC, Plaster cast, Hostinné, 188274.jpg，授權 CC BY-SA 4.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q950701",
+    "via": "P170+題名",
+    "label": "Lemnian Athena",
+    "y": [
+     -451
+    ],
+    "mu": []
+   }
+  },
+  "s0039": {
+   "local": true,
+   "img": "img/800/s0039.webp",
+   "thumb": "img/thumb/s0039.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Polykleitos,_Diadoumenos,_420_BC,_Plaster_cast,_Hostinné,_188284.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Polykleitos,%20Diadoumenos,%20420%20BC,%20Plaster%20cast,%20Hostinn%C3%A9,%20188284.jpg?width=1000",
+   "img_note": "圖為石膏模型，非原作（原作已佚失）",
+   "verif": "圖為石膏模型，非原作（原作已佚失）。以 Wikidata 配對作品條目 Q1208140（題名相似 1.00、作者相符、年代相符），圖取自 SDC P180（Commons 檔案 Polykleitos, Diadoumenos, 420 BC, Plaster cast, Hostinné, 188284.jpg，授權 CC BY-SA 4.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q1208140",
+    "via": "P170+題名",
+    "label": "Diadumenos",
+    "y": [
+     -430
+    ],
+    "mu": []
+   }
+  },
+  "s0047": {
+   "local": true,
+   "img": "img/800/s0047.webp",
+   "thumb": "img/thumb/s0047.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Cnidus_Aphrodite_Altemps_Inv8619.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Cnidus%20Aphrodite%20Altemps%20Inv8619.jpg?width=1000",
+   "img_note": "圖為後世（多為羅馬時期）複製品，非原作（原作已佚失）",
+   "verif": "圖為後世（多為羅馬時期）複製品，非原作（原作已佚失）。以 Wikidata 配對作品條目 Q618535（題名相似 1.00、作者相符、年代相符、材質相符），圖取自 P18（Commons 檔案 Cnidus Aphrodite Altemps Inv8619.jpg，授權 Public domain），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q618535",
+    "via": "P170+題名",
+    "label": "Aphrodite of Knidos",
+    "y": [
+     -300
+    ],
+    "mu": []
+   }
+  },
+  "s0058": {
+   "local": true,
+   "img": "img/800/s0058.webp",
+   "thumb": "img/thumb/s0058.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Apoxyomenos_Pio-Clementino_Inv1185.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Apoxyomenos%20Pio-Clementino%20Inv1185.jpg?width=1000",
+   "img_note": "圖為後世（多為羅馬時期）複製品，非原作（原作已佚失）",
+   "verif": "圖為後世（多為羅馬時期）複製品，非原作（原作已佚失）。以 Wikidata 配對作品條目 Q431029（題名相似 1.00、作者相符、年代相符），圖取自 P18（Commons 檔案 Apoxyomenos Pio-Clementino Inv1185.jpg，授權 Public domain），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q431029",
+    "via": "P170+題名",
+    "label": "Apoxyomenos",
+    "y": [
+     -330
+    ],
+    "mu": []
+   }
+  },
+  "s0069": {
+   "local": true,
+   "img": "img/800/s0069.webp",
+   "thumb": "img/thumb/s0069.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Athens_Acropolis_Museum_Marble_Statue_of_Prokne_and_Itys,_by_Sculptor_Alkamenes,_430-420_BC_(28409431716).jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Athens%20Acropolis%20Museum%20Marble%20Statue%20of%20Prokne%20and%20Itys,%20by%20Sculptor%20Alkamenes,%20430-420%20BC%20(28409431716).jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q124031959（題名相似 1.00、作者相符、館藏相符），圖取自 P18（Commons 檔案 Athens Acropolis Museum Marble Statue of Prokne and Itys, by Sculptor Alkamenes, 430-420 BC (28409431716).jpg，授權 CC0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q124031959",
+    "via": "P170+題名",
+    "label": "Procne and Itys",
+    "y": [],
+    "mu": [
+     "Acropolis Museum"
+    ]
+   }
+  },
+  "s0104": {
+   "local": true,
+   "img": "img/800/s0104.webp",
+   "thumb": "img/thumb/s0104.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Colosse_de_Rhodes_(Barclay).jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Colosse%20de%20Rhodes%20(Barclay).jpg?width=1000",
+   "img_note": "圖為歷史版畫／素描，非原作（原作已佚失）",
+   "verif": "圖為歷史版畫／素描，非原作（原作已佚失）。以 Wikidata 配對作品條目 Q41553（題名相似 1.00、作者相符、年代相符、材質相符），圖取自 P18（Commons 檔案 Colosse de Rhodes (Barclay).jpg，授權 Public domain），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q41553",
+    "via": "P170+題名",
+    "label": "Colossus of Rhodes",
+    "y": [
+     -284
+    ],
+    "mu": []
+   }
+  },
+  "s0111": {
+   "local": true,
+   "img": "img/800/s0111.webp",
+   "thumb": "img/thumb/s0111.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Victoire_de_Samothrace_-_Musee_du_Louvre_-_20190812.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20de%20Samothrace%20-%20Musee%20du%20Louvre%20-%2020190812.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q216402（題名相似 1.00、作者相符、年代相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Victoire de Samothrace - Musee du Louvre - 20190812.jpg，授權 CC0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q216402",
+    "via": "P170+題名",
+    "label": "Winged Victory of Samothrace",
+    "y": [
+     -175
+    ],
+    "mu": [
+     "Department of Greek, Etruscan, and Roman Antiquities of the Louvre"
+    ]
+   }
+  },
+  "s0125": {
+   "local": true,
+   "img": "img/800/s0125.webp",
+   "thumb": "img/thumb/s0125.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Capitoline_Brutus_Musei_Capitolini_MC1183_04.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Capitoline%20Brutus%20Musei%20Capitolini%20MC1183%2004.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q1403024（題名相似 1.00、年代相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Capitoline Brutus Musei Capitolini MC1183 04.jpg，授權 Public domain），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q1403024",
+    "via": "P170+題名",
+    "label": "Capitoline Brutus",
+    "y": [
+     -275
+    ],
+    "mu": [
+     "Capitoline Museums"
+    ]
+   }
+  },
+  "s0168": {
+   "local": true,
+   "img": "img/800/s0168.webp",
+   "thumb": "img/thumb/s0168.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Byzantine_ivory_801.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Byzantine%20ivory%20801.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q4785573（題名相似 1.00、館藏相符、材質相符），圖取自 P18（Commons 檔案 Byzantine ivory 801.jpg，授權 CC BY-SA 3.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q4785573",
+    "via": "P170+題名",
+    "label": "Archangel ivory",
+    "y": [
+     520
+    ],
+    "mu": [
+     "British Museum"
+    ]
+   }
+  },
+  "s0213": {
+   "local": true,
+   "img": "img/800/s0213.webp",
+   "thumb": "img/thumb/s0213.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Giovanni_pisano,_pulpito_di_sant'andrea,_1298-1301,_05.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20pisano,%20pulpito%20di%20sant'andrea,%201298-1301,%2005.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q3925522（題名相似 0.98、作者相符、年代相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Giovanni pisano, pulpito di sant'andrea, 1298-1301, 05.jpg，授權 CC BY 3.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q3925522",
+    "via": "P170+題名",
+    "label": "Pulpit of Sant' Andrea, Pistoia",
+    "y": [
+     1298,
+     1301
+    ],
+    "mu": []
+   }
+  },
+  "s0218": {
+   "local": true,
+   "img": "img/800/s0218.webp",
+   "thumb": "img/thumb/s0218.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Monumento_sepolcrale_del_cardinale_de_braye,_02.JPG",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Monumento%20sepolcrale%20del%20cardinale%20de%20braye,%2002.JPG?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q3852976（題名相似 0.76、作者相符、年代相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Monumento sepolcrale del cardinale de braye, 02.JPG，授權 CC BY-SA 3.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q3852976",
+    "via": "P170+題名",
+    "label": "Monument to cardinal De Braye",
+    "y": [
+     1282,
+     1285
+    ],
+    "mu": [
+     "San Domenico, Orvieto"
+    ]
+   }
+  },
+  "s0219": {
+   "local": true,
+   "img": "img/800/s0219.webp",
+   "thumb": "img/thumb/s0219.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Arnolfo_di_Cambio_Capitolinos_musems.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Arnolfo%20di%20Cambio%20Capitolinos%20musems.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q3937486（題名相似 0.81、作者相符、年代相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Arnolfo di Cambio Capitolinos musems.jpg，授權 CC0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q3937486",
+    "via": "P170+題名",
+    "label": "Monument to Charles I of Anjou",
+    "y": [
+     1277
+    ],
+    "mu": [
+     "Capitoline Museums"
+    ]
+   }
+  },
+  "s0223": {
+   "local": true,
+   "img": "img/800/s0223.webp",
+   "thumb": "img/thumb/s0223.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Rome_basilica_st_peter_011c.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Rome%20basilica%20st%20peter%20011c.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q775562（題名相似 0.85、作者相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Rome basilica st peter 011c.jpg，授權 Public domain），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q775562",
+    "via": "P170+題名",
+    "label": "Saint Peter",
+    "y": [
+     1290
+    ],
+    "mu": [
+     "St. Peter's Basilica"
+    ]
+   }
+  },
+  "s0242": {
+   "local": true,
+   "img": "img/800/s0242.webp",
+   "thumb": "img/thumb/s0242.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Pomnik_Kazimierza_Jagiellończyka_w_katedrze_krak.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Pomnik%20Kazimierza%20Jagiello%C5%84czyka%20w%20katedrze%20krak.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q11789053（題名相似 1.00、作者相符、館藏相符），圖取自 P18（Commons 檔案 Pomnik Kazimierza Jagiellończyka w katedrze krak.jpg，授權 CC0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q11789053",
+    "via": "P170+題名",
+    "label": "Tomb of Casimir IV Jagiellon",
+    "y": [],
+    "mu": []
+   }
+  },
+  "s0247": {
+   "local": true,
+   "img": "img/800/s0247.webp",
+   "thumb": "img/thumb/s0247.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Nicolas_de_Leyde-Crucifix_de_Baden-Baden_(4).jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20de%20Leyde-Crucifix%20de%20Baden-Baden%20(4).jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q111886729（題名相似 1.00、作者相符、年代相符、館藏相符），圖取自 P18（Commons 檔案 Nicolas de Leyde-Crucifix de Baden-Baden (4).jpg，授權 CC BY-SA 3.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q111886729",
+    "via": "P170+題名",
+    "label": "Crucifix de Baden-Baden",
+    "y": [
+     1467
+    ],
+    "mu": []
+   }
+  },
+  "s0248": {
+   "local": true,
+   "img": "img/800/s0248.webp",
+   "thumb": "img/thumb/s0248.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Stephansdom_Friedrichsgrab_2.JPG",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Stephansdom%20Friedrichsgrab%202.JPG?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q33701（題名相似 0.91、作者相符、館藏相符），圖取自 P18（Commons 檔案 Stephansdom Friedrichsgrab 2.JPG，授權 CC BY-SA 3.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q33701",
+    "via": "P170+題名",
+    "label": "Grabmal Kaiser Friedrichs III",
+    "y": [],
+    "mu": []
+   }
+  },
+  "s0262": {
+   "local": true,
+   "img": "img/800/s0262.webp",
+   "thumb": "img/thumb/s0262.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Clevelandart_1958.67.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Clevelandart%201958.67.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q60757403（題名相似 1.00、作者相符、年代相符、館藏相符），圖取自 P18（Commons 檔案 Clevelandart 1958.67.jpg，授權 CC0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q60757403",
+    "via": "P170+題名",
+    "label": "Mourner from the Tomb of Philip the Bold, Duke of Burgundy (1364–1404)",
+    "y": [
+     1404,
+     1404
+    ],
+    "mu": [
+     "Cleveland Museum of Art"
+    ]
+   }
+  },
+  "s0264": {
+   "local": true,
+   "img": "img/800/s0264.webp",
+   "thumb": "img/thumb/s0264.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Dijon_(Côte-d'Or)_-_Musée_des_Beaux-Arts_-_Tombeaux_des_ducs_de_Bourgogne_(cénotaphe_de_Philippe-le-Hardi)_(14773660169).jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Dijon%20(C%C3%B4te-d'Or)%20-%20Mus%C3%A9e%20des%20Beaux-Arts%20-%20Tombeaux%20des%20ducs%20de%20Bourgogne%20(c%C3%A9notaphe%20de%20Philippe-le-Hardi)%20(14773660169).jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q42196574（題名相似 1.00、作者相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Dijon (Côte-d'Or) - Musée des Beaux-Arts - Tombeaux des ducs de Bourgogne (cénotaphe de Philippe-le-Hardi) (14773660169).jpg，授權 CC BY-SA 2.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q42196574",
+    "via": "P170+題名",
+    "label": "tomb of Philip II the Bold",
+    "y": [
+     1410
+    ],
+    "mu": [
+     "Musée des Beaux-Arts de Dijon"
+    ]
+   }
+  },
+  "s0270": {
+   "local": true,
+   "img": "img/800/s0270.webp",
+   "thumb": "img/thumb/s0270.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:ItaliaSienaFontanaPiazzaCampo.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/ItaliaSienaFontanaPiazzaCampo.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q536048（題名相似 1.00、作者相符、館藏相符），圖取自 P18（Commons 檔案 ItaliaSienaFontanaPiazzaCampo.jpg，授權 Public domain），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q536048",
+    "via": "P170+題名",
+    "label": "Fonte Gaia",
+    "y": [
+     1414
+    ],
+    "mu": []
+   }
+  },
+  "s0271": {
+   "local": true,
+   "img": "img/800/s0271.webp",
+   "thumb": "img/thumb/s0271.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Jacopo_della_quercia,_monumento_funebre_a_ilaria_del_carretto,_1406-1408_circa,_02.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20della%20quercia,%20monumento%20funebre%20a%20ilaria%20del%20carretto,%201406-1408%20circa,%2002.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q3862681（題名相似 1.00、作者相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Jacopo della quercia, monumento funebre a ilaria del carretto, 1406-1408 circa, 02.jpg，授權 CC BY-SA 4.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q3862681",
+    "via": "P170+題名",
+    "label": "Tomb of Ilaria del Carretto",
+    "y": [
+     1400
+    ],
+    "mu": []
+   }
+  },
+  "s0277": {
+   "local": true,
+   "img": "img/800/s0277.webp",
+   "thumb": "img/thumb/s0277.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:San_luca_di_nanni_di_banco_01.JPG",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/San%20luca%20di%20nanni%20di%20banco%2001.JPG?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q3947506（題名相似 1.00、作者相符、年代相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 San luca di nanni di banco 01.JPG，授權 CC BY 2.5），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q3947506",
+    "via": "P170+題名",
+    "label": "Saint Luke",
+    "y": [
+     1408,
+     1500
+    ],
+    "mu": [
+     "Museo dell'Opera del Duomo"
+    ]
+   }
+  },
+  "s0278": {
+   "local": true,
+   "img": "img/800/s0278.webp",
+   "thumb": "img/thumb/s0278.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Museo_di_orsanmichele,_nanni_di_banco,_sant'eligio_01.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Museo%20di%20orsanmichele,%20nanni%20di%20banco,%20sant'eligio%2001.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q3948822（題名相似 1.00、作者相符、年代相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Museo di orsanmichele, nanni di banco, sant'eligio 01.jpg，授權 CC BY-SA 3.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q3948822",
+    "via": "P170+題名",
+    "label": "Saint Eligius",
+    "y": [
+     1417,
+     1500,
+     1500
+    ],
+    "mu": [
+     "Museum of Orsanmichele"
+    ]
+   }
+  },
+  "s0279": {
+   "local": true,
+   "img": "img/800/s0279.webp",
+   "thumb": "img/thumb/s0279.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Smf,_statua_in_nicchione_04_isaia_by_nanni_di_banco.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Smf,%20statua%20in%20nicchione%2004%20isaia%20by%20nanni%20di%20banco.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q116441069（題名相似 1.00、作者相符、年代相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Smf, statua in nicchione 04 isaia by nanni di banco.jpg，授權 CC BY 2.5），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q116441069",
+    "via": "P170+題名",
+    "label": "Isaiah",
+    "y": [
+     1408
+    ],
+    "mu": [
+     "Florence Cathedral"
+    ]
+   }
+  },
+  "s0297": {
+   "local": true,
+   "img": "img/800/s0297.webp",
+   "thumb": "img/thumb/s0297.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Lorenzo_Ghiberti,_The_Sacrifice_of_Isaac,1401-2,_Florence,_Bargello.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Lorenzo%20Ghiberti,%20The%20Sacrifice%20of%20Isaac,1401-2,%20Florence,%20Bargello.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q3944653（題名相似 0.85、作者相符、年代相符），圖取自 P18（Commons 檔案 Lorenzo Ghiberti, The Sacrifice of Isaac,1401-2, Florence, Bargello.jpg，授權 CC BY-SA 4.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q3944653",
+    "via": "P170+題名",
+    "label": "The Sacrifice of Isaac",
+    "y": [
+     1401
+    ],
+    "mu": [
+     "Bargello National Museum"
+    ]
+   }
+  },
+  "s0300": {
+   "local": true,
+   "img": "img/800/s0300.webp",
+   "thumb": "img/thumb/s0300.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Cantoria_of_Luca_della_Robbia_2009.JPG",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Cantoria%20of%20Luca%20della%20Robbia%202009.JPG?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q2936878（題名相似 1.00、作者相符、年代相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Cantoria of Luca della Robbia 2009.JPG，授權 CC BY-SA 3.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q2936878",
+    "via": "P170+題名",
+    "label": "Cantoria by Luca della Robbia",
+    "y": [
+     1431,
+     1430
+    ],
+    "mu": []
+   }
+  },
+  "s0302": {
+   "local": true,
+   "img": "img/800/s0302.webp",
+   "thumb": "img/thumb/s0302.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Luca_della_Robbia,_Madonna_and_Child,_c._1475,_NGA_1280.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Luca%20della%20Robbia,%20Madonna%20and%20Child,%20c.%201475,%20NGA%201280.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q63809802（題名相似 1.00、作者相符、材質相符），圖取自 P18（Commons 檔案 Luca della Robbia, Madonna and Child, c. 1475, NGA 1280.jpg，授權 CC0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q63809802",
+    "via": "P170+題名",
+    "label": "Madonna and Child",
+    "y": [
+     1475
+    ],
+    "mu": [
+     "Sculptures in the National Gallery of Art",
+     "Widener Collection"
+    ]
+   }
+  },
+  "s0305": {
+   "local": true,
+   "img": "img/800/s0305.webp",
+   "thumb": "img/thumb/s0305.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:David,_Andrea_del_Verrocchio,_ca._1466-69,_Bargello_Florenz-01.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/David,%20Andrea%20del%20Verrocchio,%20ca.%201466-69,%20Bargello%20Florenz-01.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q2415504（題名相似 1.00、作者相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 David, Andrea del Verrocchio, ca. 1466-69, Bargello Florenz-01.jpg，授權 CC BY-SA 3.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q2415504",
+    "via": "P170+題名",
+    "label": "David with the head of Goliath",
+    "y": [
+     1460
+    ],
+    "mu": [
+     "Uffizi Gallery",
+     "Bargello National Museum",
+     "Palazzo Vecchio"
+    ]
+   }
+  },
+  "s0306": {
+   "local": true,
+   "img": "img/800/s0306.webp",
+   "thumb": "img/thumb/s0306.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Bartolomeo_Colleoni_by_Andrea_del_Verrocchio.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Bartolomeo%20Colleoni%20by%20Andrea%20del%20Verrocchio.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q473237（題名相似 0.87、作者相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Bartolomeo Colleoni by Andrea del Verrocchio.jpg，授權 CC BY-SA 4.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q473237",
+    "via": "P170+題名",
+    "label": "Statue of Bartolomeo Colleoni",
+    "y": [
+     1488
+    ],
+    "mu": []
+   }
+  },
+  "s0307": {
+   "local": true,
+   "img": "img/800/s0307.webp",
+   "thumb": "img/thumb/s0307.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Incredulità_di_san_Tommaso_di_Andrea_di_Cione_detto_il_Verrocchio,1.JPG",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Incredulit%C3%A0%20di%20san%20Tommaso%20di%20Andrea%20di%20Cione%20detto%20il%20Verrocchio,1.JPG?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q2902596（題名相似 1.00、作者相符、年代相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Incredulità di san Tommaso di Andrea di Cione detto il Verrocchio,1.JPG，授權 CC BY-SA 3.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q2902596",
+    "via": "P170+題名",
+    "label": "Christ and Saint Thomas",
+    "y": [
+     1467
+    ],
+    "mu": [
+     "Orsanmichele"
+    ]
+   }
+  },
+  "s0308": {
+   "local": true,
+   "img": "img/800/s0308.webp",
+   "thumb": "img/thumb/s0308.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Putto_col_delfino_di_verrocchio_02.JPG",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Putto%20col%20delfino%20di%20verrocchio%2002.JPG?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q501204（題名相似 1.00、作者相符、年代相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Putto col delfino di verrocchio 02.JPG，授權 CC BY-SA 3.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q501204",
+    "via": "P170+題名",
+    "label": "Putto with a Dolphin",
+    "y": [
+     1470
+    ],
+    "mu": []
+   }
+  },
+  "s0313": {
+   "local": true,
+   "img": "img/800/s0313.webp",
+   "thumb": "img/thumb/s0313.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Monument_to_Innocentius_VIII_in_Saint_Peter's_Basilica.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Monument%20to%20Innocentius%20VIII%20in%20Saint%20Peter's%20Basilica.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q10386013（題名相似 0.82、作者相符、館藏相符），圖取自 P18（Commons 檔案 Monument to Innocentius VIII in Saint Peter's Basilica.jpg，授權 CC BY 2.5），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q10386013",
+    "via": "P170+題名",
+    "label": "Tomb of Innocentius VIII",
+    "y": [
+     1498
+    ],
+    "mu": []
+   }
+  },
+  "s0318": {
+   "local": true,
+   "img": "img/800/s0318.webp",
+   "thumb": "img/thumb/s0318.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Bargello_-_Fiesole_Medici.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Bargello%20-%20Fiesole%20Medici.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q61989787（題名相似 1.00、作者相符、年代相符、材質相符），圖取自 P18（Commons 檔案 Bargello - Fiesole Medici.jpg，授權 Public domain），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q61989787",
+    "via": "P170+題名",
+    "label": "Bust of Piero de' Medici",
+    "y": [
+     1453,
+     1450
+    ],
+    "mu": [
+     "Bargello National Museum"
+    ]
+   }
+  },
+  "s0321": {
+   "local": true,
+   "img": "img/800/s0321.webp",
+   "thumb": "img/thumb/s0321.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Mino_da_fiesole,_ritratto_di_niccolò_strozzi,_1454.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Mino%20da%20fiesole,%20ritratto%20di%20niccol%C3%B2%20strozzi,%201454.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q61985029（題名相似 1.00、作者相符、年代相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Mino da fiesole, ritratto di niccolò strozzi, 1454.jpg，授權 CC BY 3.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q61985029",
+    "via": "P170+題名",
+    "label": "Portrait of Niccolò Strozzi",
+    "y": [
+     1454
+    ],
+    "mu": [
+     "Bode Museum"
+    ]
+   }
+  },
+  "s0323": {
+   "local": true,
+   "img": "img/800/s0323.webp",
+   "thumb": "img/thumb/s0323.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Santa_Maria_Novella_5_Villana.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Maria%20Novella%205%20Villana.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q117848333（題名相似 1.00、作者相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Santa Maria Novella 5 Villana.jpg，授權 CC BY-SA 3.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q117848333",
+    "via": "P170+題名",
+    "label": "Tomb of Beata Villana",
+    "y": [],
+    "mu": []
+   }
+  },
+  "s0327": {
+   "local": true,
+   "img": "img/800/s0327.webp",
+   "thumb": "img/thumb/s0327.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Cappella_piccolomini_di_monteoliveto_(na),_altare_con_adorazione_dei_pastori_di_antonio_rossellino_(1475_ca.)_01.JPG",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Cappella%20piccolomini%20di%20monteoliveto%20(na),%20altare%20con%20adorazione%20dei%20pastori%20di%20antonio%20rossellino%20(1475%20ca.)%2001.JPG?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q117835551（題名相似 0.88、作者相符、館藏相符），圖取自 P18（Commons 檔案 Cappella piccolomini di monteoliveto (na), altare con adorazione dei pastori di antonio rossellino (1475 ca.) 01.JPG，授權 CC BY-SA 3.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q117835551",
+    "via": "P170+題名",
+    "label": "Nativity of Jesus",
+    "y": [],
+    "mu": []
+   }
+  },
+  "s0333": {
+   "local": true,
+   "img": "img/800/s0333.webp",
+   "thumb": "img/thumb/s0333.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Cappella_piccolomini_di_monteoliveto_(na),_tomba_di_maria_d'aragona_di_antonio_rossellino_e_bendetto_da_maiano,_01.JPG",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Cappella%20piccolomini%20di%20monteoliveto%20(na),%20tomba%20di%20maria%20d'aragona%20di%20antonio%20rossellino%20e%20bendetto%20da%20maiano,%2001.JPG?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q117835494（題名相似 0.91、作者相符、館藏相符），圖取自 P18（Commons 檔案 Cappella piccolomini di monteoliveto (na), tomba di maria d'aragona di antonio rossellino e bendetto da maiano, 01.JPG，授權 CC BY-SA 3.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q117835494",
+    "via": "P170+題名",
+    "label": "Tomb of Maria of Aragon",
+    "y": [],
+    "mu": []
+   }
+  },
+  "s0355": {
+   "local": true,
+   "img": "img/800/s0355.webp",
+   "thumb": "img/thumb/s0355.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Baptism_Christ_Sansovino_OPA_Florence.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Baptism%20Christ%20Sansovino%20OPA%20Florence.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q115923350（題名相似 1.00、作者相符、年代相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Baptism Christ Sansovino OPA Florence.jpg，授權 Public domain），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q115923350",
+    "via": "P170+題名",
+    "label": "Baptism of Christ",
+    "y": [
+     1500
+    ],
+    "mu": [
+     "Museo dell'Opera del Duomo"
+    ]
+   }
+  },
+  "s0364": {
+   "local": true,
+   "img": "img/800/s0364.webp",
+   "thumb": "img/thumb/s0364.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Adam_MET_DP335144.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Adam%20MET%20DP335144.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q18471918（題名相似 1.00、作者相符、年代相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Adam MET DP335144.jpg，授權 CC0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q18471918",
+    "via": "P170+題名",
+    "label": "Adam",
+    "y": [
+     1493
+    ],
+    "mu": [
+     "Metropolitan Museum of Art"
+    ]
+   }
+  },
+  "s0365": {
+   "local": true,
+   "img": "img/800/s0365.webp",
+   "thumb": "img/thumb/s0365.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Monument_to_doge_Andrea_Vendramin.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Monument%20to%20doge%20Andrea%20Vendramin.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q3862686（題名相似 0.98、作者相符、年代相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Monument to doge Andrea Vendramin.jpg，授權 CC BY-SA 4.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q3862686",
+    "via": "P170+題名",
+    "label": "Tomb of the Dodge Andrea Vendramin",
+    "y": [
+     1493
+    ],
+    "mu": []
+   }
+  },
+  "s0366": {
+   "local": true,
+   "img": "img/800/s0366.webp",
+   "thumb": "img/thumb/s0366.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Kunsthistorisches_Museum_09_04_2013_Young_Couple_Tullio_Lombardo.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Kunsthistorisches%20Museum%2009%2004%202013%20Young%20Couple%20Tullio%20Lombardo.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q3632508（題名相似 1.00、作者相符、年代相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Kunsthistorisches Museum 09 04 2013 Young Couple Tullio Lombardo.jpg，授權 CC0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q3632508",
+    "via": "P170+題名",
+    "label": "Young Couple",
+    "y": [
+     1505
+    ],
+    "mu": [
+     "Kunsthistorisches Museum"
+    ]
+   }
+  },
+  "s0377": {
+   "local": true,
+   "img": "img/800/s0377.webp",
+   "thumb": "img/thumb/s0377.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Capella_Chigi_Bernini_Jonas.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Capella%20Chigi%20Bernini%20Jonas.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q30667992（題名相似 1.00、作者相符、年代相符、館藏相符），圖取自 P18（Commons 檔案 Capella Chigi Bernini Jonas.jpg，授權 CC BY-SA 3.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q30667992",
+    "via": "P170+題名",
+    "label": "Jonah",
+    "y": [
+     1520
+    ],
+    "mu": []
+   }
+  },
+  "s0379": {
+   "local": true,
+   "img": "img/800/s0379.webp",
+   "thumb": "img/thumb/s0379.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Giovan_francesco_rustici,_gruppo_della_predica_del_battista,_1506-1511,_dal_battisteroi_di_firenze,_01.JPG",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Giovan%20francesco%20rustici,%20gruppo%20della%20predica%20del%20battista,%201506-1511,%20dal%20battisteroi%20di%20firenze,%2001.JPG?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q115921857（題名相似 1.00、作者相符、年代不符(1600)、館藏相符、材質相符），圖取自 P18（Commons 檔案 Giovan francesco rustici, gruppo della predica del battista, 1506-1511, dal battisteroi di firenze, 01.JPG，授權 CC BY 3.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q115921857",
+    "via": "P170+題名",
+    "label": "preaching of Saint John the Baptist",
+    "y": [
+     1600
+    ],
+    "mu": [
+     "Museo dell'Opera del Duomo"
+    ]
+   }
+  },
+  "s0381": {
+   "local": true,
+   "img": "img/800/s0381.webp",
+   "thumb": "img/thumb/s0381.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Shouting_horseman.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Shouting%20horseman.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q7502821（題名相似 1.00、作者相符），圖取自 P18（Commons 檔案 Shouting horseman.jpg，授權 CC BY-SA 3.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q7502821",
+    "via": "P170+題名",
+    "label": "Shouting Horseman",
+    "y": [],
+    "mu": []
+   }
+  },
+  "s0386": {
+   "local": true,
+   "img": "img/800/s0386.webp",
+   "thumb": "img/thumb/s0386.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Benedetto_da_Rovezzano,_tomba_di_pier_soderini,_1512-13,_01.JPG",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Benedetto%20da%20Rovezzano,%20tomba%20di%20pier%20soderini,%201512-13,%2001.JPG?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q126727164（題名相似 0.97、作者相符、館藏相符），圖取自 P18（Commons 檔案 Benedetto da Rovezzano, tomba di pier soderini, 1512-13, 01.JPG，授權 CC BY 3.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q126727164",
+    "via": "P170+題名",
+    "label": "Tomb of Pier Soderini",
+    "y": [],
+    "mu": []
+   }
+  },
+  "s0395": {
+   "local": true,
+   "img": "img/800/s0395.webp",
+   "thumb": "img/thumb/s0395.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:(Bologna)_-_Fontana_del_Nettuno.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/(Bologna)%20-%20Fontana%20del%20Nettuno.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q994471（題名相似 1.00、作者相符），圖取自 P18（Commons 檔案 (Bologna) - Fontana del Nettuno.jpg，授權 CC BY-SA 4.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q994471",
+    "via": "P170+題名",
+    "label": "Fountain of Neptune, Bologna",
+    "y": [
+     1550
+    ],
+    "mu": []
+   }
+  },
+  "s0401": {
+   "local": true,
+   "img": "img/800/s0401.webp",
+   "thumb": "img/thumb/s0401.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Benvenuto_Cellini's_Salt_Cellar_(44278033944).jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Benvenuto%20Cellini's%20Salt%20Cellar%20(44278033944).jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q697208（題名相似 1.00、作者相符、年代相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Benvenuto Cellini's Salt Cellar (44278033944).jpg，授權 CC BY-SA 2.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q697208",
+    "via": "P170+題名",
+    "label": "Cellini Salt Cellar",
+    "y": [
+     1543,
+     1540
+    ],
+    "mu": [
+     "Kunsthistorisches Museum"
+    ]
+   }
+  },
+  "s0426": {
+   "local": true,
+   "img": "img/800/s0426.webp",
+   "thumb": "img/thumb/s0426.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Young_river_god_Da_Vinci_Louvre_RF1623.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Young%20river%20god%20Da%20Vinci%20Louvre%20RF1623.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q108101427（題名相似 0.85、作者相符、年代相符、材質相符），圖取自 P18（Commons 檔案 Young river god Da Vinci Louvre RF1623.jpg，授權 Public domain），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q108101427",
+    "via": "P170+題名",
+    "label": "Young River God with Three Putti",
+    "y": [
+     1547
+    ],
+    "mu": [
+     "Department of Sculptures of the Louvre"
+    ]
+   }
+  },
+  "s0454": {
+   "local": true,
+   "img": "img/800/s0454.webp",
+   "thumb": "img/thumb/s0454.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Kaiser_Rudolf_II._(de_Vries_1603).jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Kaiser%20Rudolf%20II.%20(de%20Vries%201603).jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q20091394（題名相似 0.77、作者相符、館藏相符），圖取自 P18（Commons 檔案 Kaiser Rudolf II. (de Vries 1603).jpg，授權 CC BY-SA 3.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q20091394",
+    "via": "P170+題名",
+    "label": "Büste Kaiser Rudolf II",
+    "y": [],
+    "mu": [
+     "Kunsthistorisches Museum"
+    ]
+   }
+  },
+  "s0482": {
+   "local": true,
+   "img": "img/800/s0482.webp",
+   "thumb": "img/thumb/s0482.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Innocent_X_Algardi_Musei_Capitolini_MC1199.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Innocent%20X%20Algardi%20Musei%20Capitolini%20MC1199.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q110383028（題名相似 0.76、作者相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Innocent X Algardi Musei Capitolini MC1199.jpg，授權 Public domain），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q110383028",
+    "via": "P170+題名",
+    "label": "Statue of Innocent X",
+    "y": [
+     1640
+    ],
+    "mu": []
+   }
+  },
+  "s0485": {
+   "local": true,
+   "img": "img/800/s0485.webp",
+   "thumb": "img/thumb/s0485.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:F_Duquesnoy_Santa_Susana_1629_Loreto.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/F%20Duquesnoy%20Santa%20Susana%201629%20Loreto.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q42195908（題名相似 1.00、作者相符、年代相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 F Duquesnoy Santa Susana 1629 Loreto.jpg，授權 Public domain），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q42195908",
+    "via": "P170+題名",
+    "label": "Saint Susanna",
+    "y": [
+     1630
+    ],
+    "mu": []
+   }
+  },
+  "s0495": {
+   "local": true,
+   "img": "img/800/s0495.webp",
+   "thumb": "img/thumb/s0495.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Sant'Agnese_in_Agone_–_Sant'Agnese.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Sant'Agnese%20in%20Agone%20%E2%80%93%20Sant'Agnese.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q123784819（題名相似 1.00、作者相符、年代相符、館藏相符），圖取自 P18（Commons 檔案 Sant'Agnese in Agone – Sant'Agnese.jpg，授權 CC BY 2.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q123784819",
+    "via": "P170+題名",
+    "label": "Saint Agnes on the Pyre",
+    "y": [
+     1660
+    ],
+    "mu": []
+   }
+  },
+  "s0510": {
+   "local": true,
+   "img": "img/800/s0510.webp",
+   "thumb": "img/thumb/s0510.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Nuestro_Padre_Jesús_de_la_Pasión_acompañado_por_el_Cirineo_Grabado_del_XIX.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Nuestro%20Padre%20Jes%C3%BAs%20de%20la%20Pasi%C3%B3n%20acompa%C3%B1ado%20por%20el%20Cirineo%20Grabado%20del%20XIX.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q50602119（題名相似 1.00、作者相符、年代相符、館藏相符），圖取自 P18（Commons 檔案 Nuestro Padre Jesús de la Pasión acompañado por el Cirineo Grabado del XIX.jpg，授權 Public domain），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q50602119",
+    "via": "P170+題名",
+    "label": "Jesús de la Pasión",
+    "y": [
+     1615
+    ],
+    "mu": []
+   }
+  },
+  "s0534": {
+   "local": true,
+   "img": "img/800/s0534.webp",
+   "thumb": "img/thumb/s0534.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Grand_Conde_Louvre_MR3343.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Conde%20Louvre%20MR3343.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q19606900（題名相似 0.85、作者相符、年代相符、材質相符），圖取自 P18（Commons 檔案 Grand Conde Louvre MR3343.jpg，授權 Public domain），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q19606900",
+    "via": "P170+題名",
+    "label": "Louis II de Bourbon, dit le Grand Condé",
+    "y": [
+     1688
+    ],
+    "mu": [
+     "Department of Sculptures of the Louvre"
+    ]
+   }
+  },
+  "s0568": {
+   "local": true,
+   "img": "img/800/s0568.webp",
+   "thumb": "img/thumb/s0568.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Voltaire_nu_2.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Voltaire%20nu%202.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q15731486（題名相似 0.92、作者相符、年代相符、材質相符），圖取自 P18（Commons 檔案 Voltaire nu 2.jpg，授權 CC BY-SA 3.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q15731486",
+    "via": "P170+題名",
+    "label": "Voltaire Naked",
+    "y": [
+     1776
+    ],
+    "mu": [
+     "Institut de France",
+     "Department of Sculptures of the Louvre"
+    ]
+   }
+  },
+  "s0608": {
+   "local": true,
+   "img": "img/800/s0608.webp",
+   "thumb": "img/thumb/s0608.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Escalier_nord_de_la_Grande_galerie_de_l'Évolution_dans_le_Jardin_des_Plantes_à_Paris_le_22_février_2018_-_14.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Escalier%20nord%20de%20la%20Grande%20galerie%20de%20l'%C3%89volution%20dans%20le%20Jardin%20des%20Plantes%20%C3%A0%20Paris%20le%2022%20f%C3%A9vrier%202018%20-%2014.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q29210928（題名相似 0.85、作者相符、年代相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Escalier nord de la Grande galerie de l'Évolution dans le Jardin des Plantes à Paris le 22 février 2018 - 14.jpg，授權 CC BY-SA 3.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q29210928",
+    "via": "P170+題名",
+    "label": "Georges Louis Leclerc, comte de Buffon",
+    "y": [
+     1776
+    ],
+    "mu": [
+     "Muséum national d'histoire naturelle"
+    ]
+   }
+  },
+  "s0617": {
+   "local": true,
+   "img": "img/800/s0617.webp",
+   "thumb": "img/thumb/s0617.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Canova_ErcoleLica_1.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Canova%20ErcoleLica%201.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q3731231（題名相似 0.95、作者相符、年代相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Canova ErcoleLica 1.jpg，授權 Public domain），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q3731231",
+    "via": "P170+題名",
+    "label": "Hercules and Lychas",
+    "y": [
+     1795
+    ],
+    "mu": [
+     "Galleria Nazionale d'Arte Moderna e Contemporanea di Roma"
+    ]
+   }
+  },
+  "s0646": {
+   "local": true,
+   "img": "img/800/s0646.webp",
+   "thumb": "img/thumb/s0646.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Johan_Tobias_Sergel_(1740–1814)-_Cupid_and_Psyche_-_Amor_ja_Psykhe_-_Amor_och_Psyche_(29359005912).jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Tobias%20Sergel%20(1740%E2%80%931814)-%20Cupid%20and%20Psyche%20-%20Amor%20ja%20Psykhe%20-%20Amor%20och%20Psyche%20(29359005912).jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q28056825（題名相似 1.00、作者相符、年代相符、材質相符），圖取自 P18（Commons 檔案 Johan Tobias Sergel (1740–1814)- Cupid and Psyche - Amor ja Psykhe - Amor och Psyche (29359005912).jpg，授權 CC0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q28056825",
+    "via": "P170+題名",
+    "label": "Cupid and Psyche",
+    "y": [
+     1789
+    ],
+    "mu": [
+     "Finnish National Gallery"
+    ]
+   }
+  },
+  "s0647": {
+   "local": true,
+   "img": "img/800/s0647.webp",
+   "thumb": "img/thumb/s0647.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Monument_to_King_Gustav_III_of_Sweden_(Stockholm).jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Monument%20to%20King%20Gustav%20III%20of%20Sweden%20(Stockholm).jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q10511146（題名相似 1.00、作者相符、材質相符），圖取自 P18（Commons 檔案 Monument to King Gustav III of Sweden (Stockholm).jpg，授權 Public domain），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q10511146",
+    "via": "P170+題名",
+    "label": "Statue for Gustav III",
+    "y": [
+     1808
+    ],
+    "mu": []
+   }
+  },
+  "s0699": {
+   "local": true,
+   "img": "img/800/s0699.webp",
+   "thumb": "img/thumb/s0699.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Pradier_satyre_et_bacchante.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Pradier%20satyre%20et%20bacchante.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q19120310（題名相似 0.84、作者相符、年代相符、材質相符），圖取自 P18（Commons 檔案 Pradier satyre et bacchante.jpg，授權 CC BY-SA 4.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q19120310",
+    "via": "P170+題名",
+    "label": "Satyre et bacchante",
+    "y": [
+     1834
+    ],
+    "mu": [
+     "Department of Sculptures of the Louvre"
+    ]
+   }
+  },
+  "s0700": {
+   "local": true,
+   "img": "img/800/s0700.webp",
+   "thumb": "img/thumb/s0700.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Phryne-MG_1432-IMG_0966-gradient.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Phryne-MG%201432-IMG%200966-gradient.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q57078577（題名相似 1.00、作者相符、年代相符、材質相符），圖取自 P18（Commons 檔案 Phryne-MG 1432-IMG 0966-gradient.jpg，授權 CC BY-SA 3.0 fr），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q57078577",
+    "via": "P170+題名",
+    "label": "Phryne-MG 1432",
+    "y": [
+     1845
+    ],
+    "mu": [
+     "Museum of Grenoble"
+    ]
+   }
+  },
+  "s0714": {
+   "local": true,
+   "img": "img/800/s0714.webp",
+   "thumb": "img/thumb/s0714.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Alexandre_Falguière_-_Le_Vainqueur_au_combat_de_coqs_-_Musée_des_Augustins_-_RA_1146.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexandre%20Falgui%C3%A8re%20-%20Le%20Vainqueur%20au%20combat%20de%20coqs%20-%20Mus%C3%A9e%20des%20Augustins%20-%20RA%201146.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q21406298（題名相似 0.97、作者相符、年代相符、材質相符），圖取自 P18（Commons 檔案 Alexandre Falguière - Le Vainqueur au combat de coqs - Musée des Augustins - RA 1146.jpg，授權 Public domain），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q21406298",
+    "via": "P170+題名",
+    "label": "The Winner of the Cockfight",
+    "y": [
+     1864
+    ],
+    "mu": [
+     "Musée des Augustins"
+    ]
+   }
+  },
+  "s0717": {
+   "local": true,
+   "img": "img/800/s0717.webp",
+   "thumb": "img/thumb/s0717.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Gloria_Victis_-_Anthonin_Mercié.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Gloria%20Victis%20-%20Anthonin%20Merci%C3%A9.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q16969091（題名相似 1.00、作者相符、年代相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Gloria Victis - Anthonin Mercié.jpg，授權 CC BY-SA 4.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q16969091",
+    "via": "P170+題名",
+    "label": "Gloria Victis",
+    "y": [
+     1874,
+     1875
+    ],
+    "mu": [
+     "Musée des Beaux-Arts de la ville de Paris"
+    ]
+   }
+  },
+  "s0720": {
+   "local": true,
+   "img": "img/800/s0720.webp",
+   "thumb": "img/thumb/s0720.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Paul_Dubois_Saint_Jean-Baptiste.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Dubois%20Saint%20Jean-Baptiste.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q138378994（題名相似 1.00、作者相符、年代相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Paul Dubois Saint Jean-Baptiste.jpg，授權 CC BY-SA 4.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q138378994",
+    "via": "P170+題名",
+    "label": "Saint John the Baptist as a Child",
+    "y": [
+     1861
+    ],
+    "mu": [
+     "Musée d'Orsay"
+    ]
+   }
+  },
+  "s0723": {
+   "local": true,
+   "img": "img/800/s0723.webp",
+   "thumb": "img/thumb/s0723.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Paris_-_Musée_d'Orsay_8577.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Paris%20-%20Mus%C3%A9e%20d'Orsay%208577.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q138500918（題名相似 1.00、作者相符、年代相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Paris - Musée d'Orsay 8577.jpg，授權 Public domain），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q138500918",
+    "via": "P170+題名",
+    "label": "Desperation",
+    "y": [
+     1869
+    ],
+    "mu": [
+     "Musée d'Orsay"
+    ]
+   }
+  },
+  "s0724": {
+   "local": true,
+   "img": "img/800/s0724.webp",
+   "thumb": "img/thumb/s0724.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Fonds_Ganne_-_Jeanne_d'Arc,_Luxembourg,_Paris_(g0898).jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Fonds%20Ganne%20-%20Jeanne%20d'Arc,%20Luxembourg,%20Paris%20(g0898).jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q76465029（題名相似 0.79、作者相符、年代相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Fonds Ganne - Jeanne d'Arc, Luxembourg, Paris (g0898).jpg，授權 Public domain），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q76465029",
+    "via": "P170+題名",
+    "label": "Jeanne d'Arc à Domrémy",
+    "y": [
+     1872
+    ],
+    "mu": [
+     "Musée d'Orsay"
+    ]
+   }
+  },
+  "s0745": {
+   "local": true,
+   "img": "img/800/s0745.webp",
+   "thumb": "img/thumb/s0745.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Thornycroft_-_A_sower_40895.JPG",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Thornycroft%20-%20A%20sower%2040895.JPG?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q27082922（題名相似 0.80、作者相符、年代相符），圖取自 P18（Commons 檔案 Thornycroft - A sower 40895.JPG，授權 CC BY-SA 3.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q27082922",
+    "via": "P170+題名",
+    "label": "The Sower",
+    "y": [
+     1886
+    ],
+    "mu": []
+   }
+  },
+  "s0752": {
+   "local": true,
+   "img": "img/800/s0752.webp",
+   "thumb": "img/thumb/s0752.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Puck-saam_1918.3.5.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Puck-saam%201918.3.5.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q113454502（題名相似 1.00、作者相符、年代相符、材質相符），圖取自 P18（Commons 檔案 Puck-saam 1918.3.5.jpg，授權 CC0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q113454502",
+    "via": "P170+題名",
+    "label": "Puck",
+    "y": [
+     1854,
+     1856
+    ],
+    "mu": []
+   }
+  },
+  "s0766": {
+   "local": true,
+   "img": "img/800/s0766.webp",
+   "thumb": "img/thumb/s0766.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Náhrobek_Victora_Noira,_1870,_hřbitov_Pere_Lachaise,_Paříž.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/N%C3%A1hrobek%20Victora%20Noira,%201870,%20h%C5%99bitov%20Pere%20Lachaise,%20Pa%C5%99%C3%AD%C5%BE.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q106153211（題名相似 0.97、作者相符、年代相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Náhrobek Victora Noira, 1870, hřbitov Pere Lachaise, Paříž.jpg，授權 CC BY-SA 4.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q106153211",
+    "via": "P170+題名",
+    "label": "Grave of Victor Noir",
+    "y": [
+     1890
+    ],
+    "mu": []
+   }
+  },
+  "s0772": {
+   "local": true,
+   "img": "img/800/s0772.webp",
+   "thumb": "img/thumb/s0772.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Pescatore_Gemito_Castel_Nuovo_Napoli_n01.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Pescatore%20Gemito%20Castel%20Nuovo%20Napoli%20n01.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q137711168（題名相似 1.00、作者相符、年代相符、材質相符），圖取自 P18（Commons 檔案 Pescatore Gemito Castel Nuovo Napoli n01.jpg，授權 CC BY 2.5），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q137711168",
+    "via": "P170+題名",
+    "label": "Neapolitan fisherboy",
+    "y": [
+     1877
+    ],
+    "mu": [
+     "Civic Museum of Castel Nuovo"
+    ]
+   }
+  },
+  "s0782": {
+   "local": true,
+   "img": "img/800/s0782.webp",
+   "thumb": "img/thumb/s0782.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Chopin_Grave_Grab_Pere_Lachaise.JPG",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Chopin%20Grave%20Grab%20Pere%20Lachaise.JPG?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q392352（題名相似 0.98、作者相符、年代相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Chopin Grave Grab Pere Lachaise.JPG，授權 CC BY 2.5），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q392352",
+    "via": "P170+題名",
+    "label": "Frédéric Chopin's tomb",
+    "y": [
+     1850
+    ],
+    "mu": []
+   }
+  },
+  "s0792": {
+   "local": true,
+   "img": "img/800/s0792.webp",
+   "thumb": "img/thumb/s0792.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Balzac_door_Auguste_Rodin.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Balzac%20door%20Auguste%20Rodin.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q2770535（題名相似 1.00、作者相符、年代相符、材質相符），圖取自 P18（Commons 檔案 Balzac door Auguste Rodin.jpg，授權 CC BY-SA 4.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q2770535",
+    "via": "P170+題名",
+    "label": "Monument to Balzac",
+    "y": [
+     1890,
+     1895
+    ],
+    "mu": [
+     "Museum of Modern Art",
+     "Musée Rodin",
+     "Ackland Art Museum",
+     "Middelheim Museum",
+     "Norton Simon Museum",
+     "National Museum of Western Art",
+     "Rodin Museum",
+     "Hirshhorn Museum and Sculpture Garden",
+     "Smithsonian Institution",
+     "Metropolitan Museum of Art",
+     "National Gallery of Victoria",
+     "Ashmolean Museum"
+    ]
+   }
+  },
+  "s0796": {
+   "local": true,
+   "img": "img/800/s0796.webp",
+   "thumb": "img/thumb/s0796.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:85_La_catedral.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/85%20La%20catedral.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q26834197（題名相似 1.00、作者相符、年代相符、館藏相符），圖取自 P18（Commons 檔案 85 La catedral.jpg，授權 Public domain），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q26834197",
+    "via": "P170+題名",
+    "label": "The cathedral",
+    "y": [
+     1908
+    ],
+    "mu": [
+     "Museo Soumaya",
+     "Musée Rodin"
+    ]
+   }
+  },
+  "s0802": {
+   "local": true,
+   "img": "img/800/s0802.webp",
+   "thumb": "img/thumb/s0802.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Vertumnus_and_Pomona_by_Camille_Claudel.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Vertumnus%20and%20Pomona%20by%20Camille%20Claudel.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q31842466（題名相似 1.00、作者相符、年代相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Vertumnus and Pomona by Camille Claudel.jpg，授權 Public domain），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q31842466",
+    "via": "P170+題名",
+    "label": "Sakuntala (Claudel)",
+    "y": [
+     1888
+    ],
+    "mu": [
+     "Musée Rodin"
+    ]
+   }
+  },
+  "s0860": {
+   "local": true,
+   "img": "img/800/s0860.webp",
+   "thumb": "img/thumb/s0860.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Isis_-_G._Lacombe_-_RF_3627.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Isis%20-%20G.%20Lacombe%20-%20RF%203627.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q59491842（題名相似 1.00、作者相符、年代相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Isis - G. Lacombe - RF 3627.jpg，授權 CC BY-SA 4.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q59491842",
+    "via": "P170+題名",
+    "label": "Isis by Georges Lacombe - RF 3627",
+    "y": [
+     1895
+    ],
+    "mu": [
+     "Musée d'Orsay"
+    ]
+   }
+  },
+  "s0866": {
+   "local": true,
+   "img": "img/800/s0866.webp",
+   "thumb": "img/thumb/s0866.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Aristide_Maillol_-_Action_enchaînée_-_Bronze_-_1908_-_013.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Aristide%20Maillol%20-%20Action%20encha%C3%AEn%C3%A9e%20-%20Bronze%20-%201908%20-%20013.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q521447（題名相似 0.81、作者相符、年代相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Aristide Maillol - Action enchaînée - Bronze - 1908 - 013.jpg，授權 CC BY-SA 4.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q521447",
+    "via": "P170+題名",
+    "label": "Action Enchained",
+    "y": [
+     1905
+    ],
+    "mu": []
+   }
+  },
+  "s0867": {
+   "local": true,
+   "img": "img/800/s0867.webp",
+   "thumb": "img/thumb/s0867.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:La_Nuit_-_Aristide_Maillol_-_Musée_du_Louvre_Sculptures_des_jardins_FNAC_9487.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Nuit%20-%20Aristide%20Maillol%20-%20Mus%C3%A9e%20du%20Louvre%20Sculptures%20des%20jardins%20FNAC%209487.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q3211175（題名相似 1.00、作者相符、材質相符），圖取自 P18（Commons 檔案 La Nuit - Aristide Maillol - Musée du Louvre Sculptures des jardins FNAC 9487.jpg，授權 CC0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q3211175",
+    "via": "P170+題名",
+    "label": "La Nuit",
+    "y": [
+     1909
+    ],
+    "mu": [
+     "Sculptures from the gardens of the Louvre Museum",
+     "Fonds national d'art contemporain"
+    ]
+   }
+  },
+  "s0870": {
+   "local": true,
+   "img": "img/800/s0870.webp",
+   "thumb": "img/thumb/s0870.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Monument_à_Cézanne,_Tuileries,_Paris_novembre_2010.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Monument%20%C3%A0%20C%C3%A9zanne,%20Tuileries,%20Paris%20novembre%202010.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q3203574（題名相似 0.85、作者相符、年代相符、館藏相符），圖取自 P18（Commons 檔案 Monument à Cézanne, Tuileries, Paris novembre 2010.jpg，授權 CC BY 2.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q3203574",
+    "via": "P170+題名",
+    "label": "L'Hommage à Cézanne",
+    "y": [
+     1912
+    ],
+    "mu": []
+   }
+  },
+  "s0877": {
+   "local": true,
+   "img": "img/800/s0877.webp",
+   "thumb": "img/thumb/s0877.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Charles_Despiau,_Assia,_1937.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Despiau,%20Assia,%201937.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q27615644（題名相似 1.00、作者相符、年代相符、館藏不同），圖取自 P18（Commons 檔案 Charles Despiau, Assia, 1937.jpg，授權 CC BY-SA 4.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q27615644",
+    "via": "P170+題名",
+    "label": "Assia",
+    "y": [
+     1937
+    ],
+    "mu": [
+     "Middelheim Museum",
+     "Middelheim Museum"
+    ]
+   }
+  },
+  "s0896": {
+   "local": true,
+   "img": "img/800/s0896.webp",
+   "thumb": "img/thumb/s0896.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Gaston_lachaise_floating_figure.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Gaston%20lachaise%20floating%20figure.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q114451976（題名相似 1.00、作者相符、年代相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Gaston lachaise floating figure.jpg，授權 CC BY-SA 3.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q114451976",
+    "via": "P170+題名",
+    "label": "Floating Figure",
+    "y": [
+     1927
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   }
+  },
+  "s0920": {
+   "local": true,
+   "img": "img/800/s0920.webp",
+   "thumb": "img/thumb/s0920.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Eric_gill,_estasi,_1910-11.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Eric%20gill,%20estasi,%201910-11.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q18160018（題名相似 1.00、作者相符、年代相符、館藏相符），圖取自 P18（Commons 檔案 Eric gill, estasi, 1910-11.jpg，授權 CC BY 3.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q18160018",
+    "via": "P170+題名",
+    "label": "Ecstasy",
+    "y": [
+     1910
+    ],
+    "mu": [
+     "Tate"
+    ]
+   }
+  },
+  "s0938": {
+   "local": true,
+   "img": "img/800/s0938.webp",
+   "thumb": "img/thumb/s0938.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Ernst_Barlach_Der_Fries_der_Lauschenden_1930-35_Eichenholz-1.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Ernst%20Barlach%20Der%20Fries%20der%20Lauschenden%201930-35%20Eichenholz-1.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q125916736（題名相似 1.00、作者相符、年代相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 Ernst Barlach Der Fries der Lauschenden 1930-35 Eichenholz-1.jpg，授權 CC BY-SA 3.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q125916736",
+    "via": "P170+題名",
+    "label": "Frieze of the Listeners",
+    "y": [
+     1930
+    ],
+    "mu": [
+     "Ernst Barlach House"
+    ]
+   }
+  },
+  "s1017": {
+   "local": true,
+   "img": "img/800/s1017.webp",
+   "thumb": "img/thumb/s1017.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Henri_Laurens_01.JPG",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Laurens%2001.JPG?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q20888395（題名相似 1.00、作者相符、年代相符、材質相符），圖取自 P18（Commons 檔案 Henri Laurens 01.JPG，授權 Public domain），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q20888395",
+    "via": "P170+題名",
+    "label": "The Great Musician",
+    "y": [
+     1938
+    ],
+    "mu": [
+     "International Sculpture Collection"
+    ]
+   }
+  },
+  "s1019": {
+   "local": true,
+   "img": "img/800/s1019.webp",
+   "thumb": "img/thumb/s1019.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:UCV_2015-040a_Henri_Laurens_1953,_Amphion.JPG",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/UCV%202015-040a%20Henri%20Laurens%201953,%20Amphion.JPG?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q69364836（題名相似 0.93、作者相符、年代相符、材質相符），圖取自 P18（Commons 檔案 UCV 2015-040a Henri Laurens 1953, Amphion.JPG，授權 CC BY-SA 4.0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q69364836",
+    "via": "P170+題名",
+    "label": "L'Amphion",
+    "y": [
+     1953
+    ],
+    "mu": []
+   }
+  },
+  "s1052": {
+   "local": true,
+   "img": "img/800/s1052.webp",
+   "thumb": "img/thumb/s1052.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:'Development_of_a_Bottle_in_Space',_bronze_sculpture_by_Umberto_Boccioni,_1913,_Metropolitan_Museum_of_Art.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/'Development%20of%20a%20Bottle%20in%20Space',%20bronze%20sculpture%20by%20Umberto%20Boccioni,%201913,%20Metropolitan%20Museum%20of%20Art.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q3978536（題名相似 1.00、作者相符、年代相符、館藏相符、材質相符），圖取自 P18（Commons 檔案 'Development of a Bottle in Space', bronze sculpture by Umberto Boccioni, 1913, Metropolitan Museum of Art.jpg，授權 Public domain），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q3978536",
+    "via": "P170+題名",
+    "label": "Development of a Bottle in Space",
+    "y": [
+     1913,
+     1912
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   }
+  },
+  "s1087": {
+   "local": true,
+   "img": "img/800/s1087.webp",
+   "thumb": "img/thumb/s1087.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Color_Construction_No._7_(Konstantin_Medunetsky,_1921).jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Color%20Construction%20No.%207%20(Konstantin%20Medunetsky,%201921).jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q130467652（題名相似 0.81、作者相符、年代相符），圖取自 P18（Commons 檔案 Color Construction No. 7 (Konstantin Medunetsky, 1921).jpg，授權 Public domain），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q130467652",
+    "via": "P170+題名",
+    "label": "Color Construction No. 7",
+    "y": [
+     1921
+    ],
+    "mu": [
+     "Kovalenko Krasnodar Regional Art Museum",
+     "Museum of Painterly Culture"
+    ]
+   }
+  },
+  "s1088": {
+   "local": true,
+   "img": "img/800/s1088.webp",
+   "thumb": "img/thumb/s1088.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Color_Construction_No._7_(Konstantin_Medunetsky,_1921).jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Color%20Construction%20No.%207%20(Konstantin%20Medunetsky,%201921).jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q130467652（題名相似 0.75、作者相符、年代相符），圖取自 P18（Commons 檔案 Color Construction No. 7 (Konstantin Medunetsky, 1921).jpg，授權 Public domain），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q130467652",
+    "via": "P170+題名",
+    "label": "Color Construction No. 7",
+    "y": [
+     1921
+    ],
+    "mu": [
+     "Kovalenko Krasnodar Regional Art Museum",
+     "Museum of Painterly Culture"
+    ]
+   }
+  },
+  "s1122": {
+   "local": true,
+   "img": "img/800/s1122.webp",
+   "thumb": "img/thumb/s1122.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:Kurt_Schwitters_1927.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Kurt%20Schwitters%201927.jpg?width=1000",
+   "img_note": "圖為後世（多為羅馬時期）複製品，非原作（原作已佚失）",
+   "verif": "圖為後世（多為羅馬時期）複製品，非原作（原作已佚失）。以 Wikidata 配對作品條目 Q1922245（題名相似 1.00、作者相符），圖取自 en.wikipedia pageimage（Commons 檔案 Kurt Schwitters 1927.jpg，授權 Public domain），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q1922245",
+    "via": "P170+題名",
+    "label": "Merzbau",
+    "y": [
+     1933
+    ],
+    "mu": [
+     "Sprengel Museum"
+    ]
+   }
+  },
+  "s1127": {
+   "local": true,
+   "img": "img/800/s1127.webp",
+   "thumb": "img/thumb/s1127.webp",
+   "src": "Commons",
+   "src_url": "https://commons.wikimedia.org/wiki/File:\"God\"_by_Baroness_Elsa_von_Freytag-Loringhoven_and_Morton_Schamberg_MET_DP137411.jpg",
+   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/%22God%22%20by%20Baroness%20Elsa%20von%20Freytag-Loringhoven%20and%20Morton%20Schamberg%20MET%20DP137411.jpg?width=1000",
+   "verif": "以 Wikidata 配對作品條目 Q5575809（題名相似 1.00、作者相符），圖取自 P18（Commons 檔案 \"God\" by Baroness Elsa von Freytag-Loringhoven and Morton Schamberg MET DP137411.jpg，授權 CC0），2026-10-20 下載轉檔",
+   "wd": {
+    "q": "Q5575809",
+    "via": "P170+題名",
+    "label": "God",
+    "y": [],
+    "mu": []
+   }
+  }
+ },
+ "evidence": {
+  "s0006": "https://www.wikidata.org/wiki/Q3250992 ; https://commons.wikimedia.org/wiki/File:National_Archaeological_Museum_of_Naples_-_Tyrannicide_group_-_Harmodius_and_Aristogeiton.jpg",
+  "s0024": "https://www.wikidata.org/wiki/Q492894 ; https://commons.wikimedia.org/wiki/File:ACMA_679_Kore_1.JPG",
+  "s0034": "https://www.wikidata.org/wiki/Q950701 ; https://commons.wikimedia.org/wiki/File:Phidias,_Athena_Lemnia,_450_BC,_Plaster_cast,_Hostinné,_188274.jpg",
+  "s0039": "https://www.wikidata.org/wiki/Q1208140 ; https://commons.wikimedia.org/wiki/File:Polykleitos,_Diadoumenos,_420_BC,_Plaster_cast,_Hostinné,_188284.jpg",
+  "s0047": "https://www.wikidata.org/wiki/Q618535 ; https://commons.wikimedia.org/wiki/File:Cnidus_Aphrodite_Altemps_Inv8619.jpg",
+  "s0058": "https://www.wikidata.org/wiki/Q431029 ; https://commons.wikimedia.org/wiki/File:Apoxyomenos_Pio-Clementino_Inv1185.jpg",
+  "s0069": "https://www.wikidata.org/wiki/Q124031959 ; https://commons.wikimedia.org/wiki/File:Athens_Acropolis_Museum_Marble_Statue_of_Prokne_and_Itys,_by_Sculptor_Alkamenes,_430-420_BC_(28409431716).jpg",
+  "s0104": "https://www.wikidata.org/wiki/Q41553 ; https://commons.wikimedia.org/wiki/File:Colosse_de_Rhodes_(Barclay).jpg",
+  "s0111": "https://www.wikidata.org/wiki/Q216402 ; https://commons.wikimedia.org/wiki/File:Victoire_de_Samothrace_-_Musee_du_Louvre_-_20190812.jpg",
+  "s0125": "https://www.wikidata.org/wiki/Q1403024 ; https://commons.wikimedia.org/wiki/File:Capitoline_Brutus_Musei_Capitolini_MC1183_04.jpg",
+  "s0168": "https://www.wikidata.org/wiki/Q4785573 ; https://commons.wikimedia.org/wiki/File:Byzantine_ivory_801.jpg",
+  "s0213": "https://www.wikidata.org/wiki/Q3925522 ; https://commons.wikimedia.org/wiki/File:Giovanni_pisano,_pulpito_di_sant'andrea,_1298-1301,_05.jpg",
+  "s0218": "https://www.wikidata.org/wiki/Q3852976 ; https://commons.wikimedia.org/wiki/File:Monumento_sepolcrale_del_cardinale_de_braye,_02.JPG",
+  "s0219": "https://www.wikidata.org/wiki/Q3937486 ; https://commons.wikimedia.org/wiki/File:Arnolfo_di_Cambio_Capitolinos_musems.jpg",
+  "s0223": "https://www.wikidata.org/wiki/Q775562 ; https://commons.wikimedia.org/wiki/File:Rome_basilica_st_peter_011c.jpg",
+  "s0242": "https://www.wikidata.org/wiki/Q11789053 ; https://commons.wikimedia.org/wiki/File:Pomnik_Kazimierza_Jagiellończyka_w_katedrze_krak.jpg",
+  "s0247": "https://www.wikidata.org/wiki/Q111886729 ; https://commons.wikimedia.org/wiki/File:Nicolas_de_Leyde-Crucifix_de_Baden-Baden_(4).jpg",
+  "s0248": "https://www.wikidata.org/wiki/Q33701 ; https://commons.wikimedia.org/wiki/File:Stephansdom_Friedrichsgrab_2.JPG",
+  "s0262": "https://www.wikidata.org/wiki/Q60757403 ; https://commons.wikimedia.org/wiki/File:Clevelandart_1958.67.jpg",
+  "s0264": "https://www.wikidata.org/wiki/Q42196574 ; https://commons.wikimedia.org/wiki/File:Dijon_(Côte-d'Or)_-_Musée_des_Beaux-Arts_-_Tombeaux_des_ducs_de_Bourgogne_(cénotaphe_de_Philippe-le-Hardi)_(14773660169).jpg",
+  "s0270": "https://www.wikidata.org/wiki/Q536048 ; https://commons.wikimedia.org/wiki/File:ItaliaSienaFontanaPiazzaCampo.jpg",
+  "s0271": "https://www.wikidata.org/wiki/Q3862681 ; https://commons.wikimedia.org/wiki/File:Jacopo_della_quercia,_monumento_funebre_a_ilaria_del_carretto,_1406-1408_circa,_02.jpg",
+  "s0277": "https://www.wikidata.org/wiki/Q3947506 ; https://commons.wikimedia.org/wiki/File:San_luca_di_nanni_di_banco_01.JPG",
+  "s0278": "https://www.wikidata.org/wiki/Q3948822 ; https://commons.wikimedia.org/wiki/File:Museo_di_orsanmichele,_nanni_di_banco,_sant'eligio_01.jpg",
+  "s0279": "https://www.wikidata.org/wiki/Q116441069 ; https://commons.wikimedia.org/wiki/File:Smf,_statua_in_nicchione_04_isaia_by_nanni_di_banco.jpg",
+  "s0297": "https://www.wikidata.org/wiki/Q3944653 ; https://commons.wikimedia.org/wiki/File:Lorenzo_Ghiberti,_The_Sacrifice_of_Isaac,1401-2,_Florence,_Bargello.jpg",
+  "s0300": "https://www.wikidata.org/wiki/Q2936878 ; https://commons.wikimedia.org/wiki/File:Cantoria_of_Luca_della_Robbia_2009.JPG",
+  "s0302": "https://www.wikidata.org/wiki/Q63809802 ; https://commons.wikimedia.org/wiki/File:Luca_della_Robbia,_Madonna_and_Child,_c._1475,_NGA_1280.jpg",
+  "s0305": "https://www.wikidata.org/wiki/Q2415504 ; https://commons.wikimedia.org/wiki/File:David,_Andrea_del_Verrocchio,_ca._1466-69,_Bargello_Florenz-01.jpg",
+  "s0306": "https://www.wikidata.org/wiki/Q473237 ; https://commons.wikimedia.org/wiki/File:Bartolomeo_Colleoni_by_Andrea_del_Verrocchio.jpg",
+  "s0307": "https://www.wikidata.org/wiki/Q2902596 ; https://commons.wikimedia.org/wiki/File:Incredulità_di_san_Tommaso_di_Andrea_di_Cione_detto_il_Verrocchio,1.JPG",
+  "s0308": "https://www.wikidata.org/wiki/Q501204 ; https://commons.wikimedia.org/wiki/File:Putto_col_delfino_di_verrocchio_02.JPG",
+  "s0313": "https://www.wikidata.org/wiki/Q10386013 ; https://commons.wikimedia.org/wiki/File:Monument_to_Innocentius_VIII_in_Saint_Peter's_Basilica.jpg",
+  "s0318": "https://www.wikidata.org/wiki/Q61989787 ; https://commons.wikimedia.org/wiki/File:Bargello_-_Fiesole_Medici.jpg",
+  "s0321": "https://www.wikidata.org/wiki/Q61985029 ; https://commons.wikimedia.org/wiki/File:Mino_da_fiesole,_ritratto_di_niccolò_strozzi,_1454.jpg",
+  "s0323": "https://www.wikidata.org/wiki/Q117848333 ; https://commons.wikimedia.org/wiki/File:Santa_Maria_Novella_5_Villana.jpg",
+  "s0327": "https://www.wikidata.org/wiki/Q117835551 ; https://commons.wikimedia.org/wiki/File:Cappella_piccolomini_di_monteoliveto_(na),_altare_con_adorazione_dei_pastori_di_antonio_rossellino_(1475_ca.)_01.JPG",
+  "s0333": "https://www.wikidata.org/wiki/Q117835494 ; https://commons.wikimedia.org/wiki/File:Cappella_piccolomini_di_monteoliveto_(na),_tomba_di_maria_d'aragona_di_antonio_rossellino_e_bendetto_da_maiano,_01.JPG",
+  "s0355": "https://www.wikidata.org/wiki/Q115923350 ; https://commons.wikimedia.org/wiki/File:Baptism_Christ_Sansovino_OPA_Florence.jpg",
+  "s0364": "https://www.wikidata.org/wiki/Q18471918 ; https://commons.wikimedia.org/wiki/File:Adam_MET_DP335144.jpg",
+  "s0365": "https://www.wikidata.org/wiki/Q3862686 ; https://commons.wikimedia.org/wiki/File:Monument_to_doge_Andrea_Vendramin.jpg",
+  "s0366": "https://www.wikidata.org/wiki/Q3632508 ; https://commons.wikimedia.org/wiki/File:Kunsthistorisches_Museum_09_04_2013_Young_Couple_Tullio_Lombardo.jpg",
+  "s0377": "https://www.wikidata.org/wiki/Q30667992 ; https://commons.wikimedia.org/wiki/File:Capella_Chigi_Bernini_Jonas.jpg",
+  "s0379": "https://www.wikidata.org/wiki/Q115921857 ; https://commons.wikimedia.org/wiki/File:Giovan_francesco_rustici,_gruppo_della_predica_del_battista,_1506-1511,_dal_battisteroi_di_firenze,_01.JPG",
+  "s0381": "https://www.wikidata.org/wiki/Q7502821 ; https://commons.wikimedia.org/wiki/File:Shouting_horseman.jpg",
+  "s0386": "https://www.wikidata.org/wiki/Q126727164 ; https://commons.wikimedia.org/wiki/File:Benedetto_da_Rovezzano,_tomba_di_pier_soderini,_1512-13,_01.JPG",
+  "s0395": "https://www.wikidata.org/wiki/Q994471 ; https://commons.wikimedia.org/wiki/File:(Bologna)_-_Fontana_del_Nettuno.jpg",
+  "s0401": "https://www.wikidata.org/wiki/Q697208 ; https://commons.wikimedia.org/wiki/File:Benvenuto_Cellini's_Salt_Cellar_(44278033944).jpg",
+  "s0426": "https://www.wikidata.org/wiki/Q108101427 ; https://commons.wikimedia.org/wiki/File:Young_river_god_Da_Vinci_Louvre_RF1623.jpg",
+  "s0454": "https://www.wikidata.org/wiki/Q20091394 ; https://commons.wikimedia.org/wiki/File:Kaiser_Rudolf_II._(de_Vries_1603).jpg",
+  "s0482": "https://www.wikidata.org/wiki/Q110383028 ; https://commons.wikimedia.org/wiki/File:Innocent_X_Algardi_Musei_Capitolini_MC1199.jpg",
+  "s0485": "https://www.wikidata.org/wiki/Q42195908 ; https://commons.wikimedia.org/wiki/File:F_Duquesnoy_Santa_Susana_1629_Loreto.jpg",
+  "s0495": "https://www.wikidata.org/wiki/Q123784819 ; https://commons.wikimedia.org/wiki/File:Sant'Agnese_in_Agone_–_Sant'Agnese.jpg",
+  "s0510": "https://www.wikidata.org/wiki/Q50602119 ; https://commons.wikimedia.org/wiki/File:Nuestro_Padre_Jesús_de_la_Pasión_acompañado_por_el_Cirineo_Grabado_del_XIX.jpg",
+  "s0534": "https://www.wikidata.org/wiki/Q19606900 ; https://commons.wikimedia.org/wiki/File:Grand_Conde_Louvre_MR3343.jpg",
+  "s0568": "https://www.wikidata.org/wiki/Q15731486 ; https://commons.wikimedia.org/wiki/File:Voltaire_nu_2.jpg",
+  "s0608": "https://www.wikidata.org/wiki/Q29210928 ; https://commons.wikimedia.org/wiki/File:Escalier_nord_de_la_Grande_galerie_de_l'Évolution_dans_le_Jardin_des_Plantes_à_Paris_le_22_février_2018_-_14.jpg",
+  "s0617": "https://www.wikidata.org/wiki/Q3731231 ; https://commons.wikimedia.org/wiki/File:Canova_ErcoleLica_1.jpg",
+  "s0646": "https://www.wikidata.org/wiki/Q28056825 ; https://commons.wikimedia.org/wiki/File:Johan_Tobias_Sergel_(1740–1814)-_Cupid_and_Psyche_-_Amor_ja_Psykhe_-_Amor_och_Psyche_(29359005912).jpg",
+  "s0647": "https://www.wikidata.org/wiki/Q10511146 ; https://commons.wikimedia.org/wiki/File:Monument_to_King_Gustav_III_of_Sweden_(Stockholm).jpg",
+  "s0699": "https://www.wikidata.org/wiki/Q19120310 ; https://commons.wikimedia.org/wiki/File:Pradier_satyre_et_bacchante.jpg",
+  "s0700": "https://www.wikidata.org/wiki/Q57078577 ; https://commons.wikimedia.org/wiki/File:Phryne-MG_1432-IMG_0966-gradient.jpg",
+  "s0714": "https://www.wikidata.org/wiki/Q21406298 ; https://commons.wikimedia.org/wiki/File:Alexandre_Falguière_-_Le_Vainqueur_au_combat_de_coqs_-_Musée_des_Augustins_-_RA_1146.jpg",
+  "s0717": "https://www.wikidata.org/wiki/Q16969091 ; https://commons.wikimedia.org/wiki/File:Gloria_Victis_-_Anthonin_Mercié.jpg",
+  "s0720": "https://www.wikidata.org/wiki/Q138378994 ; https://commons.wikimedia.org/wiki/File:Paul_Dubois_Saint_Jean-Baptiste.jpg",
+  "s0723": "https://www.wikidata.org/wiki/Q138500918 ; https://commons.wikimedia.org/wiki/File:Paris_-_Musée_d'Orsay_8577.jpg",
+  "s0724": "https://www.wikidata.org/wiki/Q76465029 ; https://commons.wikimedia.org/wiki/File:Fonds_Ganne_-_Jeanne_d'Arc,_Luxembourg,_Paris_(g0898).jpg",
+  "s0745": "https://www.wikidata.org/wiki/Q27082922 ; https://commons.wikimedia.org/wiki/File:Thornycroft_-_A_sower_40895.JPG",
+  "s0752": "https://www.wikidata.org/wiki/Q113454502 ; https://commons.wikimedia.org/wiki/File:Puck-saam_1918.3.5.jpg",
+  "s0766": "https://www.wikidata.org/wiki/Q106153211 ; https://commons.wikimedia.org/wiki/File:Náhrobek_Victora_Noira,_1870,_hřbitov_Pere_Lachaise,_Paříž.jpg",
+  "s0772": "https://www.wikidata.org/wiki/Q137711168 ; https://commons.wikimedia.org/wiki/File:Pescatore_Gemito_Castel_Nuovo_Napoli_n01.jpg",
+  "s0782": "https://www.wikidata.org/wiki/Q392352 ; https://commons.wikimedia.org/wiki/File:Chopin_Grave_Grab_Pere_Lachaise.JPG",
+  "s0792": "https://www.wikidata.org/wiki/Q2770535 ; https://commons.wikimedia.org/wiki/File:Balzac_door_Auguste_Rodin.jpg",
+  "s0796": "https://www.wikidata.org/wiki/Q26834197 ; https://commons.wikimedia.org/wiki/File:85_La_catedral.jpg",
+  "s0802": "https://www.wikidata.org/wiki/Q31842466 ; https://commons.wikimedia.org/wiki/File:Vertumnus_and_Pomona_by_Camille_Claudel.jpg",
+  "s0860": "https://www.wikidata.org/wiki/Q59491842 ; https://commons.wikimedia.org/wiki/File:Isis_-_G._Lacombe_-_RF_3627.jpg",
+  "s0866": "https://www.wikidata.org/wiki/Q521447 ; https://commons.wikimedia.org/wiki/File:Aristide_Maillol_-_Action_enchaînée_-_Bronze_-_1908_-_013.jpg",
+  "s0867": "https://www.wikidata.org/wiki/Q3211175 ; https://commons.wikimedia.org/wiki/File:La_Nuit_-_Aristide_Maillol_-_Musée_du_Louvre_Sculptures_des_jardins_FNAC_9487.jpg",
+  "s0870": "https://www.wikidata.org/wiki/Q3203574 ; https://commons.wikimedia.org/wiki/File:Monument_à_Cézanne,_Tuileries,_Paris_novembre_2010.jpg",
+  "s0877": "https://www.wikidata.org/wiki/Q27615644 ; https://commons.wikimedia.org/wiki/File:Charles_Despiau,_Assia,_1937.jpg",
+  "s0896": "https://www.wikidata.org/wiki/Q114451976 ; https://commons.wikimedia.org/wiki/File:Gaston_lachaise_floating_figure.jpg",
+  "s0920": "https://www.wikidata.org/wiki/Q18160018 ; https://commons.wikimedia.org/wiki/File:Eric_gill,_estasi,_1910-11.jpg",
+  "s0938": "https://www.wikidata.org/wiki/Q125916736 ; https://commons.wikimedia.org/wiki/File:Ernst_Barlach_Der_Fries_der_Lauschenden_1930-35_Eichenholz-1.jpg",
+  "s1017": "https://www.wikidata.org/wiki/Q20888395 ; https://commons.wikimedia.org/wiki/File:Henri_Laurens_01.JPG",
+  "s1019": "https://www.wikidata.org/wiki/Q69364836 ; https://commons.wikimedia.org/wiki/File:UCV_2015-040a_Henri_Laurens_1953,_Amphion.JPG",
+  "s1052": "https://www.wikidata.org/wiki/Q3978536 ; https://commons.wikimedia.org/wiki/File:'Development_of_a_Bottle_in_Space',_bronze_sculpture_by_Umberto_Boccioni,_1913,_Metropolitan_Museum_of_Art.jpg",
+  "s1087": "https://www.wikidata.org/wiki/Q130467652 ; https://commons.wikimedia.org/wiki/File:Color_Construction_No._7_(Konstantin_Medunetsky,_1921).jpg",
+  "s1088": "https://www.wikidata.org/wiki/Q130467652 ; https://commons.wikimedia.org/wiki/File:Color_Construction_No._7_(Konstantin_Medunetsky,_1921).jpg",
+  "s1122": "https://www.wikidata.org/wiki/Q1922245 ; https://commons.wikimedia.org/wiki/File:Kurt_Schwitters_1927.jpg",
+  "s1127": "https://www.wikidata.org/wiki/Q5575809 ; https://commons.wikimedia.org/wiki/File:\"God\"_by_Baroness_Elsa_von_Freytag-Loringhoven_and_Morton_Schamberg_MET_DP137411.jpg"
+ }
+}

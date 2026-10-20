@@ -1,0 +1,13 @@
+{
+ "file": "works.json",
+ "key": "id",
+ "description": "220_sculpture_text_fix: 修正雕塑作品題名未翻譯者",
+ "set": {
+  "s2820": {
+   "z": "特魯姆-特魯姆（Troom troom）"
+  }
+ },
+ "evidence": {
+  "s2820": "Marcel Duchamp 現代現成物與雕塑作品名稱音譯"
+ }
+}

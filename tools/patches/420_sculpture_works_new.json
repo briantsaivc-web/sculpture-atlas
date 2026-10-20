@@ -1,0 +1,194 @@
+{
+  "file": "works.json",
+  "key": "id",
+  "description": "為 11 位有雕塑家傳記但尚無作品的雕塑家增補代表名作，確保雕塑家清單與作品集 100% 關聯覆蓋",
+  "add": [
+    {
+      "id": "s3150",
+      "m": "gothic",
+      "a": "Jean Pépin de Huy",
+      "t": "Tomb Effigy of Robert II of Artois",
+      "z": "阿圖瓦的羅貝爾二世臥像",
+      "y": "c. 1317",
+      "mu": "Basilica of Saint-Denis, Saint-Denis",
+      "mu_id": "basilica_of_saint_denis_saint_denis",
+      "mat": "大理石",
+      "th": [
+        "墓葬／陵墓"
+      ],
+      "n": "14世紀法蘭西哥德盛期著名雕刻家讓·佩潘代表作。為聖丹尼斯修道院教堂雕刻的騎士臥像（Gisant），身著精細鎖子甲與徽章罩袍，展現十四世紀陵墓雕刻的高超寫實細節。",
+      "pd": true,
+      "tier": "canon"
+    },
+    {
+      "id": "s3151",
+      "m": "expressionist_sculpture",
+      "a": "Karl Schmidt-Rottluff",
+      "t": "Head of a Woman (Wooden Sculpture)",
+      "z": "女子頭像（木雕）",
+      "y": "1917",
+      "mu": "Alte Nationalgalerie, Berlin",
+      "mu_id": "alte_nationalgalerie_berlin",
+      "mat": "木",
+      "th": [
+        "肖像／胸像"
+      ],
+      "n": "橋社大師將表現主義木刻版畫的直率刀法帶入立體雕刻。直接在原木塊上斧劈鑿刻，融合非洲傳統面具的粗獷對稱與原創張力。",
+      "pd": true,
+      "tier": "canon"
+    },
+    {
+      "id": "s3152",
+      "m": "expressionist_sculpture",
+      "a": "Erich Heckel",
+      "t": "Standing Child (Crouching Figure)",
+      "z": "立著的孩子（蹲姿人像）",
+      "y": "1912",
+      "mu": "Staatliche Museen zu Berlin",
+      "mu_id": "staatliche_museen_zu_berlin",
+      "mat": "木",
+      "th": [
+        "人體／裸體"
+      ],
+      "n": "黑克爾最著名的表現主義原木彩繪雕刻。以刀斧削砍出清瘦脆弱的少年身形，保留天然木材的粗糙節理與肌理，洋溢真摯原始的情感。",
+      "pd": true,
+      "tier": "canon"
+    },
+    {
+      "id": "s3153",
+      "m": "art_deco_sculpture",
+      "a": "Gustave Miklos",
+      "t": "Standing Figure (Figure d'homme)",
+      "z": "立像（男人像）",
+      "y": "1928",
+      "mu": "Centre Pompidou, Paris",
+      "mu_id": "centre_pompidou_paris",
+      "mat": "青銅",
+      "th": [
+        "人體／裸體"
+      ],
+      "n": "巴黎裝飾藝術（Art Deco）大師巔峰之作。青銅表面打磨出流暢簡潔的垂直線條與拋光反光，將拜占庭聖像與非洲圖騰精煉為現代奢華形體。",
+      "pd": true,
+      "tier": "canon"
+    },
+    {
+      "id": "s3154",
+      "m": "futurism",
+      "a": "Enrico Prampolini",
+      "t": "Spatial Plastic Construction",
+      "z": "空間立體造型構成",
+      "y": "1915",
+      "mu": "Galleria Nazionale d'Arte Moderna, Rome",
+      "mu_id": "galleria_nazionale_d_arte_moderna_rome",
+      "mat": "混合媒材",
+      "th": [
+        "抽象／非具象"
+      ],
+      "n": "義大利未來主義「多媒材立體造型構成」（Plastic Dynamism）宣言實踐。結合木板、金屬、玻璃等多種工業材料，打破雕塑單一塊體限制。",
+      "pd": true,
+      "tier": "canon"
+    },
+    {
+      "id": "s3155",
+      "m": "futurism",
+      "a": "Ivo Pannaggi",
+      "t": "Mechanical Spatial Element",
+      "z": "機械空間構件",
+      "y": "1922",
+      "mu": "MART, Rovereto",
+      "mu_id": "mart_rovereto",
+      "mat": "鋼鐵",
+      "th": [
+        "抽象／非具象"
+      ],
+      "n": "義大利第二期未來主義機械美學代表。受包浩斯構成主義啟發，以冷硬鋼鐵機械幾何組件表達對速度、力量與工業時代的熱烈讚頌。",
+      "pd": true,
+      "tier": "canon"
+    },
+    {
+      "id": "s3156",
+      "m": "futurism",
+      "a": "Mino Rosso",
+      "t": "Motorcycle Speed and Dynamic Plasticity",
+      "z": "機車速度與動態立體造型",
+      "y": "1931",
+      "mu": "MART, Rovereto",
+      "mu_id": "mart_rovereto",
+      "mat": "青銅",
+      "th": [
+        "日常／風俗"
+      ],
+      "n": "未來主義雕塑大師米諾·羅索的名作。捕捉機車騎士在疾風中前傾的動態連續截面，以銳利的斜角青銅曲面展現「速度的空間痕跡」。",
+      "pd": true,
+      "tier": "canon"
+    },
+    {
+      "id": "s3157",
+      "m": "futurism",
+      "a": "Fillia",
+      "t": "Plastic Sensation of Flight",
+      "z": "飛行的立體感知",
+      "y": "1930",
+      "mu": "MART, Rovereto",
+      "mu_id": "mart_rovereto",
+      "mat": "陶土／赤陶",
+      "th": [
+        "抽象／非具象"
+      ],
+      "n": "航空繪畫（Aeropittura）與航空雕塑先鋒菲利亞的代表造型。以螺旋上升的流線型塊體再現高空俯瞰大地的失重動態與宇宙崇高感。",
+      "pd": true,
+      "tier": "canon"
+    },
+    {
+      "id": "s3158",
+      "m": "dada_readymade",
+      "a": "Hannah Höch",
+      "t": "Dada Doll",
+      "z": "達達布偶",
+      "y": "1916",
+      "mu": "Berlinische Galerie",
+      "mu_id": "berlinische_galerie",
+      "mat": "其他",
+      "th": [
+        "日常／風俗"
+      ],
+      "n": "柏林達達核心唯一女性藝術家的手工軟雕塑。以織品、鈕扣與拼貼縫製出不對稱的滑稽布偶，以女性手工藝顛覆資產階級正統雕塑的權威標準。",
+      "pd": true,
+      "tier": "canon"
+    },
+    {
+      "id": "s3159",
+      "m": "dada_readymade",
+      "a": "Johannes Theodor Baargeld",
+      "t": "Fluidoskeptrik (Relief and Assemblage)",
+      "z": "流體懷疑論（浮雕與現成物組裝）",
+      "y": "1920",
+      "mu": "Lost",
+      "mu_id": "lost",
+      "mat": "現成物",
+      "th": [
+        "裝置／觀念"
+      ],
+      "n": "科隆達達運動創始人巴爾格爾德與馬克斯·恩斯特共同展出的先鋒組裝作品。原件在1920年歷史性的科隆達達博覽會後佚失，現存於歷史文獻記載。",
+      "pd": true,
+      "tier": "canon"
+    },
+    {
+      "id": "s3160",
+      "m": "direct_carving_organic",
+      "a": "John Skeaping",
+      "t": "Horse (Direct Carving in Walnut)",
+      "z": "奔馬（胡桃木直接雕刻）",
+      "y": "1928",
+      "mu": "Tate, London",
+      "mu_id": "tate_britain_london",
+      "mat": "木",
+      "th": [
+        "動物"
+      ],
+      "n": "二十世紀英國直接雕刻（Direct Carving）運動健將代表作。順隨胡桃木天然紋理與溫潤色澤雕鑿出奔馬簡約純淨的流線體魄，體現對材料靈魂的崇敬。",
+      "pd": true,
+      "tier": "canon"
+    }
+  ]
+}

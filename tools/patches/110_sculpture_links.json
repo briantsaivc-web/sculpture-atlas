@@ -1,0 +1,3000 @@
+{
+ "file": "works.json",
+ "key": "id",
+ "description": "sculpture_images：未進公有領域作品的 src_url 由 Wikipedia 搜尋改為官方頁／條目，並補 wd.q，2026-10-20",
+ "set": {
+  "s0828": {
+   "src_url": "https://en.wikipedia.org/wiki/The_Bowman_and_The_Spearman",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q7719555",
+    "via": "P170+題名",
+    "label": "The Bowman and The Spearman",
+    "y": [
+     1928
+    ],
+    "mu": []
+   }
+  },
+  "s0835": {
+   "src_url": "https://www.clevelandart.org/art/1943.384",
+   "src": "Museum",
+   "wd": {
+    "q": "Q60781306",
+    "via": "P170+題名",
+    "label": "Bacchanale",
+    "y": [
+     1917
+    ],
+    "mu": [
+     "Cleveland Museum of Art"
+    ]
+   }
+  },
+  "s0888": {
+   "src_url": "https://en.wikipedia.org/wiki/Bremen_Town_Musicians_(sculpture)",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q4960543",
+    "via": "P170+題名",
+    "label": "Bremen Town Musicians",
+    "y": [
+     1951
+    ],
+    "mu": []
+   }
+  },
+  "s0889": {
+   "src_url": "https://nrw-skulptur.net/skulptur/freya/",
+   "src": "Museum",
+   "wd": {
+    "q": "Q127587112",
+    "via": "P170+題名",
+    "label": "Freya",
+    "y": [
+     1950
+    ],
+    "mu": []
+   }
+  },
+  "s0891": {
+   "src_url": "https://www.kulturelles-erbe-koeln.de/documents/obj/40010380",
+   "src": "Museum",
+   "wd": {
+    "q": "Q56273669",
+    "via": "P170+題名",
+    "label": "Albertus Magnus Skulptur",
+    "y": [
+     1956
+    ],
+    "mu": [
+     "Cologne"
+    ]
+   }
+  },
+  "s0910": {
+   "src_url": "https://en.wikipedia.org/wiki/Prometheus_(Manship)",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q17182277",
+    "via": "P170+題名",
+    "label": "Prometheus",
+    "y": [
+     1934
+    ],
+    "mu": []
+   }
+  },
+  "s0911": {
+   "src_url": "https://en.wikipedia.org/wiki/Rainey_Memorial_Gates",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q7284860",
+    "via": "P170+題名",
+    "label": "Rainey Memorial Gates",
+    "y": [
+     1934
+    ],
+    "mu": []
+   }
+  },
+  "s0915": {
+   "src_url": "https://en.wikipedia.org/wiki/Duck_Girl_(Manship)",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q5311447",
+    "via": "P170+題名",
+    "label": "Duck Girl",
+    "y": [
+     1911
+    ],
+    "mu": []
+   }
+  },
+  "s0926": {
+   "src_url": "https://www.kunstforum.net/werke/grosse-daphne",
+   "src": "Museum",
+   "wd": {
+    "q": "Q126717760",
+    "via": "P170+題名",
+    "label": "Big Daphne",
+    "y": [
+     1930,
+     1991
+    ],
+    "mu": [
+     "Kunstforum Ostdeutsche Galerie"
+    ]
+   }
+  },
+  "s0927": {
+   "src_url": "https://www.wikidata.org/wiki/Q117837922",
+   "src": "Wikidata",
+   "wd": {
+    "q": "Q117837922",
+    "via": "P170+題名",
+    "label": "Grazing foal",
+    "y": [
+     1929
+    ],
+    "mu": []
+   }
+  },
+  "s0956": {
+   "src_url": "https://www.lenbachhaus.de/digital/sammlung-online/detail/skulptur-23-30012515",
+   "src": "Museum",
+   "wd": {
+    "q": "Q130375111",
+    "via": "P170+題名",
+    "label": "Sculpture 23",
+    "y": [
+     1923
+    ],
+    "mu": [
+     "Lenbachhaus"
+    ]
+   }
+  },
+  "s0966": {
+   "src_url": "https://en.wikipedia.org/wiki/Atlas_(statue)",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q2869431",
+    "via": "P170+題名",
+    "label": "Atlas",
+    "y": [
+     1937
+    ],
+    "mu": []
+   }
+  },
+  "s0968": {
+   "src_url": "https://www.wikidata.org/wiki/Q125750141",
+   "src": "Wikidata",
+   "wd": {
+    "q": "Q125750141",
+    "via": "P170+題名",
+    "label": "The Sower",
+    "y": [
+     1930
+    ],
+    "mu": []
+   }
+  },
+  "s0991": {
+   "src_url": "https://fr.wikipedia.org/wiki/Façade_du_palais_de_la_Porte-Dorée",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q3067736",
+    "via": "P170+題名",
+    "label": "façade of the Palais de la Porte Dorée",
+    "y": [
+     1929
+    ],
+    "mu": []
+   }
+  },
+  "s0993": {
+   "src_url": "https://vocab.getty.edu/page/cona/700009442",
+   "src": "Museum",
+   "wd": {
+    "q": "Q79961",
+    "via": "P170+題名",
+    "label": "Christ the Redeemer",
+    "y": [
+     1920
+    ],
+    "mu": []
+   }
+  },
+  "s0995": {
+   "src_url": "https://collections.louvre.fr/ark:/53355/cl010095689",
+   "src": "Museum",
+   "wd": {
+    "q": "Q18147657",
+    "via": "P170+題名",
+    "label": "Cain's Sons",
+    "y": [
+     1906
+    ],
+    "mu": [
+     "Centre national des arts plastiques",
+     "Sculptures from the gardens of the Louvre Museum"
+    ]
+   }
+  },
+  "s0997": {
+   "src_url": "https://siris-artinventories.si.edu/ipac20/ipac.jsp?&menu=search&index=.NW&term=IAS 08850006",
+   "src": "Museum",
+   "wd": {
+    "q": "Q139002025",
+    "via": "P170+題名",
+    "label": "Spirit of Justice",
+    "y": [
+     1964
+    ],
+    "mu": []
+   }
+  },
+  "s1001": {
+   "src_url": "https://www.guggenheim.org/artwork/246",
+   "src": "Museum",
+   "wd": {
+    "q": "Q134884668",
+    "via": "P170+題名",
+    "label": "Médrano II",
+    "y": [],
+    "mu": []
+   }
+  },
+  "s1002": {
+   "src_url": "https://www.imj.org.il/en/collections/192218",
+   "src": "Museum",
+   "wd": {
+    "q": "Q6591122",
+    "via": "P170+題名",
+    "label": "Woman Combing Her Hair",
+    "y": [
+     1914
+    ],
+    "mu": [
+     "Israel Museum"
+    ]
+   }
+  },
+  "s1005": {
+   "src_url": "https://www.guggenheim.org/artwork/245",
+   "src": "Museum",
+   "wd": {
+    "q": "Q134889081",
+    "via": "P170+題名",
+    "label": "Carrousel Pierrot",
+    "y": [],
+    "mu": []
+   }
+  },
+  "s1007": {
+   "src_url": "https://www.metmuseum.org/art/collection/search/489338",
+   "src": "Museum",
+   "wd": {
+    "q": "Q20198891",
+    "via": "P170+題名",
+    "label": "The Gondolier",
+    "y": [
+     1914
+    ],
+    "mu": [
+     "Metropolitan Museum of Art"
+    ]
+   }
+  },
+  "s1011": {
+   "src_url": "http://www.museumsinisrael.gov.il/en/items/Pages/ItemCard.aspx?IdItem=ICMS_IMJ_194502",
+   "src": "Museum",
+   "wd": {
+    "q": "Q76626706",
+    "via": "P170+題名",
+    "label": "Joy of Life (also known as La Joie de vivre)",
+    "y": [
+     1927
+    ],
+    "mu": [
+     "Israel Museum"
+    ]
+   }
+  },
+  "s1027": {
+   "src_url": "https://en.wikipedia.org/wiki/The_Destroyed_City",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q1219934",
+    "via": "P170+題名",
+    "label": "The Destroyed City",
+    "y": [
+     1953,
+     1947
+    ],
+    "mu": [
+     "International Sculpture Collection"
+    ]
+   }
+  },
+  "s1035": {
+   "src_url": "https://www.navigart.fr/picassoparis/#/artwork/160000000000957",
+   "src": "Museum",
+   "wd": {
+    "q": "Q4996526",
+    "via": "P170+題名",
+    "label": "Bull's Head",
+    "y": [
+     1942
+    ],
+    "mu": [
+     "Musée Picasso"
+    ]
+   }
+  },
+  "s1037": {
+   "src_url": "https://www.moma.org/collection/works/81119",
+   "src": "Museum",
+   "wd": {
+    "q": "Q16949887",
+    "via": "P170+題名",
+    "label": "Baboon and Young",
+    "y": [],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   }
+  },
+  "s1039": {
+   "src_url": "https://en.wikipedia.org/wiki/Chicago_Picasso",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q5095736",
+    "via": "P170+題名",
+    "label": "Chicago Picasso",
+    "y": [
+     1967
+    ],
+    "mu": []
+   }
+  },
+  "s1063": {
+   "src_url": "https://www.wikidata.org/wiki/Q117341490",
+   "src": "Wikidata",
+   "wd": {
+    "q": "Q117341490",
+    "via": "P170+題名",
+    "label": "Profilo continuo del Duce",
+    "y": [
+     1933
+    ],
+    "mu": []
+   }
+  },
+  "s1067": {
+   "src_url": "https://it.wikipedia.org/wiki/Abitacolo_(Munari)",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q48807640",
+    "via": "P170+題名",
+    "label": "Abitacolo",
+    "y": [],
+    "mu": []
+   }
+  },
+  "s1077": {
+   "src_url": "https://artuk.org/discover/artworks/revolving-torsion-fountain-271734",
+   "src": "Museum",
+   "wd": {
+    "q": "Q22117471",
+    "via": "P170+題名",
+    "label": "Revolving Torsion",
+    "y": [
+     1972
+    ],
+    "mu": []
+   }
+  },
+  "s1081": {
+   "src_url": "https://www.moma.org/collection/works/81043?locale=en",
+   "src": "Museum",
+   "wd": {
+    "q": "Q61793463",
+    "via": "P170+題名",
+    "label": "Spatial Construction no. 12",
+    "y": [
+     1920
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   }
+  },
+  "s1083": {
+   "src_url": "https://www.moma.org/collection/works/81043?locale=en",
+   "src": "Museum",
+   "wd": {
+    "q": "Q61793463",
+    "via": "P170+題名",
+    "label": "Spatial Construction no. 12",
+    "y": [
+     1920
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   }
+  },
+  "s1108": {
+   "src_url": "http://www.museumsinisrael.gov.il/en/items/Pages/ItemCard.aspx?IdItem=ICMS_IMJ_191481",
+   "src": "Museum",
+   "wd": {
+    "q": "Q80182520",
+    "via": "P170+題名",
+    "label": "Comb",
+    "y": [
+     1916
+    ],
+    "mu": [
+     "Israel Museum"
+    ]
+   }
+  },
+  "s1111": {
+   "src_url": "https://www.philamuseum.org/objects/54149",
+   "src": "Museum",
+   "wd": {
+    "q": "Q2915336",
+    "via": "P170+題名",
+    "label": "The Bride Stripped Bare By Her Bachelors, Even",
+    "y": [
+     1915,
+     1915
+    ],
+    "mu": [
+     "Philadelphia Museum of Art"
+    ]
+   }
+  },
+  "s1112": {
+   "src_url": "https://www.philamuseum.org/objects/65633",
+   "src": "Museum",
+   "wd": {
+    "q": "Q1750656",
+    "via": "P170+題名",
+    "label": "Étant donnés",
+    "y": [
+     1966
+    ],
+    "mu": [
+     "Philadelphia Museum of Art"
+    ]
+   }
+  },
+  "s1113": {
+   "src_url": "https://museums.gov.il/he/items/Pages/ItemCard.aspx?IdItem=ICMS_IMJ_199796",
+   "src": "Museum",
+   "wd": {
+    "q": "Q2720294",
+    "via": "P170+題名",
+    "label": "L.H.O.O.Q.",
+    "y": [
+     1919
+    ],
+    "mu": [
+     "Israel Museum"
+    ]
+   }
+  },
+  "s1114": {
+   "src_url": "https://museums.gov.il/he/items/Pages/ItemCard.aspx?IdItem=ICMS_IMJ_194402",
+   "src": "Museum",
+   "wd": {
+    "q": "Q91929185",
+    "via": "P170+題名",
+    "label": "Gift (Cadeau)",
+    "y": [
+     1921
+    ],
+    "mu": [
+     "Israel Museum"
+    ]
+   }
+  },
+  "s1116": {
+   "src_url": "http://www.museumsinisrael.gov.il/en/items/Pages/ItemCard.aspx?IdItem=ICMS_IMJ_194569",
+   "src": "Museum",
+   "wd": {
+    "q": "Q80174269",
+    "via": "P170+題名",
+    "label": "Obstruction",
+    "y": [
+     1920
+    ],
+    "mu": [
+     "Israel Museum"
+    ]
+   }
+  },
+  "s1118": {
+   "src_url": "http://www.museumsinisrael.gov.il/en/items/Pages/ItemCard.aspx?IdItem=ICMS_IMJ_192805",
+   "src": "Museum",
+   "wd": {
+    "q": "Q80183864",
+    "via": "P170+題名",
+    "label": "Venus Restored",
+    "y": [
+     1936
+    ],
+    "mu": [
+     "Israel Museum"
+    ]
+   }
+  },
+  "s1141": {
+   "src_url": "https://en.wikipedia.org/wiki/Berger_des_Nuages",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q90602935",
+    "via": "P170+題名",
+    "label": "Berger des Nuages",
+    "y": [
+     1954
+    ],
+    "mu": []
+   }
+  },
+  "s1142": {
+   "src_url": "https://www.nga.gov/content/ngaweb/Collection/art-object-page.56344.html",
+   "src": "Museum",
+   "wd": {
+    "q": "Q63854304",
+    "via": "P170+題名",
+    "label": "Walking Man II",
+    "y": [
+     1960
+    ],
+    "mu": [
+     "Sculptures in the National Gallery of Art"
+    ]
+   }
+  },
+  "s1144": {
+   "src_url": "https://www.nga.gov/content/ngaweb/Collection/art-object-page.56340.html",
+   "src": "Museum",
+   "wd": {
+    "q": "Q63854300",
+    "via": "P170+題名",
+    "label": "The City Square",
+    "y": [
+     1948
+    ],
+    "mu": [
+     "Sculptures in the National Gallery of Art"
+    ]
+   }
+  },
+  "s1145": {
+   "src_url": "http://jmapps.ne.jp/osytrmds/det.html?data_id=1360",
+   "src": "Museum",
+   "wd": {
+    "q": "Q124734204",
+    "via": "P170+題名",
+    "label": "The Nose",
+    "y": [
+     1948
+    ],
+    "mu": []
+   }
+  },
+  "s1148": {
+   "src_url": "https://www.moma.org/collection/works/80928",
+   "src": "Museum",
+   "wd": {
+    "q": "Q7755929",
+    "via": "P170+題名",
+    "label": "The Palace at 4 a.m.",
+    "y": [
+     1932
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   }
+  },
+  "s1150": {
+   "src_url": "https://www.nga.gov/content/ngaweb/Collection/art-object-page.56339.html",
+   "src": "Museum",
+   "wd": {
+    "q": "Q63854299",
+    "via": "P170+題名",
+    "label": "The Chariot",
+    "y": [
+     1950
+    ],
+    "mu": [
+     "Sculptures in the National Gallery of Art"
+    ]
+   }
+  },
+  "s1158": {
+   "src_url": "https://www.wikidata.org/wiki/Q128312580",
+   "src": "Wikidata",
+   "wd": {
+    "q": "Q128312580",
+    "via": "P170+題名",
+    "label": "Moonmad",
+    "y": [
+     1944,
+     1956
+    ],
+    "mu": [
+     "Beyeler Foundation"
+    ]
+   }
+  },
+  "s1159": {
+   "src_url": "http://www.museumsinisrael.gov.il/en/items/Pages/ItemCard.aspx?IdItem=ICMS_IMJ_192808",
+   "src": "Museum",
+   "wd": {
+    "q": "Q28218656",
+    "via": "P170+題名",
+    "label": "The King Playing with the Queen",
+    "y": [
+     1944
+    ],
+    "mu": [
+     "Museum of Modern Art",
+     "Israel Museum"
+    ]
+   }
+  },
+  "s1161": {
+   "src_url": "http://collectie.boijmans.nl/en/collection/v-2280-(kn-v)",
+   "src": "Museum",
+   "wd": {
+    "q": "Q17986845",
+    "via": "P170+題名",
+    "label": "Mae West Lips Sofa",
+    "y": [
+     1938
+    ],
+    "mu": [
+     "Museum Boijmans Van Beuningen",
+     "Victoria and Albert Museum"
+    ]
+   }
+  },
+  "s1163": {
+   "src_url": "https://www.artic.edu/artworks/185184",
+   "src": "Museum",
+   "wd": {
+    "q": "Q137669110",
+    "via": "P170+題名",
+    "label": "Venus de Milo with Drawers",
+    "y": [
+     1936
+    ],
+    "mu": [
+     "Art Institute of Chicago"
+    ]
+   }
+  },
+  "s1164": {
+   "src_url": "https://en.wikipedia.org/wiki/Rainy_Taxi",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q195159",
+    "via": "P170+題名",
+    "label": "Rainy Taxi",
+    "y": [
+     1938
+    ],
+    "mu": [
+     "Dalí Theatre and Museum"
+    ]
+   }
+  },
+  "s1166": {
+   "src_url": "http://w10.bcn.es/APPS/gmocataleg_monum/FitxaMonumentAc.do?idioma=CA&codiMonumIntern=357",
+   "src": "Museum",
+   "wd": {
+    "q": "Q593202",
+    "via": "P170+題名",
+    "label": "Dona i Ocell",
+    "y": [
+     1983
+    ],
+    "mu": []
+   }
+  },
+  "s1167": {
+   "src_url": "https://siris-artinventories.si.edu/ipac20/ipac.jsp?&menu=search&index=.NW&term=IAS 87580018",
+   "src": "Museum",
+   "wd": {
+    "q": "Q3054192",
+    "via": "P170+題名",
+    "label": "Miró's Chicago",
+    "y": [
+     1981
+    ],
+    "mu": [
+     "Chicago"
+    ]
+   }
+  },
+  "s1168": {
+   "src_url": "https://www.moma.org/collection/works/81717",
+   "src": "Museum",
+   "wd": {
+    "q": "Q23459543",
+    "via": "P170+題名",
+    "label": "Moonbird",
+    "y": [
+     1966
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   }
+  },
+  "s1170": {
+   "src_url": "https://www.moma.org/collection/works/80997",
+   "src": "Museum",
+   "wd": {
+    "q": "Q2919779",
+    "via": "P170+題名",
+    "label": "Object",
+    "y": [
+     1936
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   }
+  },
+  "s1173": {
+   "src_url": "http://www.museumsinisrael.gov.il/en/items/Pages/ItemCard.aspx?IdItem=ICMS_IMJ_194429",
+   "src": "Museum",
+   "wd": {
+    "q": "Q80183811",
+    "via": "P170+題名",
+    "label": "The Squirrel",
+    "y": [
+     1960
+    ],
+    "mu": [
+     "Israel Museum"
+    ]
+   }
+  },
+  "s1174": {
+   "src_url": "https://de.wikipedia.org/wiki/Meret-Oppenheim-Brunnen",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q2027080",
+    "via": "P170+題名",
+    "label": "Meret Oppenheim fountain",
+    "y": [
+     1983
+    ],
+    "mu": []
+   }
+  },
+  "s1175": {
+   "src_url": "https://art.rmngp.fr/en/library/artworks/hans-bellmer_la-poupee_peint",
+   "src": "Museum",
+   "wd": {
+    "q": "Q60173948",
+    "via": "P170+題名",
+    "label": "La Poupée",
+    "y": [
+     1935,
+     1936
+    ],
+    "mu": [
+     "Musée National d'Art Moderne"
+    ]
+   }
+  },
+  "s1179": {
+   "src_url": "https://www.metmuseum.org/art/collection/search/488755",
+   "src": "Museum",
+   "wd": {
+    "q": "Q20190159",
+    "via": "P170+題名",
+    "label": "Kouros",
+    "y": [
+     1945
+    ],
+    "mu": [
+     "Metropolitan Museum of Art"
+    ]
+   }
+  },
+  "s1181": {
+   "src_url": "https://en.wikipedia.org/wiki/Black_Sun_(sculpture)",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q4921944",
+    "via": "P170+題名",
+    "label": "Black Sun",
+    "y": [],
+    "mu": []
+   }
+  },
+  "s1184": {
+   "src_url": "https://en.wikipedia.org/wiki/Akari_(lamp)",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q136813057",
+    "via": "P170+題名",
+    "label": "Akari",
+    "y": [
+     1950
+    ],
+    "mu": [
+     "Japanese Lamp and Lighting Museum",
+     "M+",
+     "Metropolitan Museum of Art",
+     "Musée des Arts Décoratifs",
+     "Museum of Modern Art",
+     "Noguchi Museum",
+     "The National Museum of Modern Art",
+     "Victoria and Albert Museum"
+    ]
+   }
+  },
+  "s1187": {
+   "src_url": "https://hepworthwakefield.org/our-art-artists/the-sherwin-family-collection/eileen-agar-1899-1991/",
+   "src": "Museum",
+   "wd": {
+    "q": "Q124359275",
+    "via": "P170+題名",
+    "label": "Angel of Mercy",
+    "y": [
+     1934
+    ],
+    "mu": []
+   }
+  },
+  "s1189": {
+   "src_url": "https://en.wikipedia.org/wiki/The_Kiss_(Brâncuși_sculpture)",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q3220192",
+    "via": "P170+題名",
+    "label": "The Kiss",
+    "y": [
+     1909,
+     1907
+    ],
+    "mu": []
+   }
+  },
+  "s1190": {
+   "src_url": "https://en.wikipedia.org/wiki/Sleeping_Muse",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q17035475",
+    "via": "P170+題名",
+    "label": "Sleeping Muse",
+    "y": [
+     1910
+    ],
+    "mu": []
+   }
+  },
+  "s1191": {
+   "src_url": "https://fr.wikipedia.org/wiki/Mademoiselle_Pogany",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q9076685",
+    "via": "P170+題名",
+    "label": "Mademoiselle Pogany",
+    "y": [
+     1913
+    ],
+    "mu": []
+   }
+  },
+  "s1194": {
+   "src_url": "https://www.moma.org/collection/works/81503",
+   "src": "Museum",
+   "wd": {
+    "q": "Q2381632",
+    "via": "P170+題名",
+    "label": "Bird in Space",
+    "y": [
+     1923
+    ],
+    "mu": [
+     "Museum of Modern Art",
+     "Metropolitan Museum of Art"
+    ]
+   }
+  },
+  "s1196": {
+   "src_url": "https://www.moma.org/collection/works/57665",
+   "src": "Museum",
+   "wd": {
+    "q": "Q2628659",
+    "via": "P170+題名",
+    "label": "The Endless Column",
+    "y": [
+     1938
+    ],
+    "mu": []
+   }
+  },
+  "s1197": {
+   "src_url": "https://de.wikipedia.org/wiki/Tor_des_Kusses",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q2443657",
+    "via": "P170+題名",
+    "label": "Gate of the Kiss",
+    "y": [
+     1938
+    ],
+    "mu": []
+   }
+  },
+  "s1198": {
+   "src_url": "https://de.wikipedia.org/wiki/Der_Tisch_des_Schweigens",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q9031865",
+    "via": "P170+題名",
+    "label": "Table of Silence",
+    "y": [
+     1937
+    ],
+    "mu": []
+   }
+  },
+  "s1200": {
+   "src_url": "https://www.wikidata.org/wiki/Q84557208",
+   "src": "Wikidata",
+   "wd": {
+    "q": "Q84557208",
+    "via": "P170+題名",
+    "label": "Beginning of the World",
+    "y": [],
+    "mu": []
+   }
+  },
+  "s1201": {
+   "src_url": "https://en.wikipedia.org/wiki/Torso_of_a_Young_Man",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q24962902",
+    "via": "P170+題名",
+    "label": "Torso of a Young Man",
+    "y": [],
+    "mu": [
+     "Philadelphia Museum of Art"
+    ]
+   }
+  },
+  "s1202": {
+   "src_url": "http://www.henry-moore.org/works-in-public/world/uk/london/charing-cross-hospital/working-model-for-reclining-figure-lincoln-center",
+   "src": "Museum",
+   "wd": {
+    "q": "Q19759592",
+    "via": "P170+題名",
+    "label": "Working Model for Reclining Figure (Lincoln Center)",
+    "y": [
+     1963
+    ],
+    "mu": [
+     "Tate"
+    ]
+   }
+  },
+  "s1204": {
+   "src_url": "http://www.middelheimmuseum.be/Museum_Middelheim_EN/MiddelheimEN/The-collection/Highlights/02-King-and-Queen.html",
+   "src": "Museum",
+   "wd": {
+    "q": "Q19759058",
+    "via": "P170+題名",
+    "label": "King and Queen",
+    "y": [
+     1952
+    ],
+    "mu": [
+     "Middelheim Museum"
+    ]
+   }
+  },
+  "s1205": {
+   "src_url": "http://www.henry-moore.org/works-in-public/world/uk/london/battersea-park/three-standing-figures-1947-lh-268",
+   "src": "Museum",
+   "wd": {
+    "q": "Q19691893",
+    "via": "P170+題名",
+    "label": "Three Standing Figures",
+    "y": [
+     1948
+    ],
+    "mu": []
+   }
+  },
+  "s1206": {
+   "src_url": "http://www.henry-moore.org/works-in-public/world/uk/stevenage/the-barclay-school/family-group-1948-49-lh-269",
+   "src": "Museum",
+   "wd": {
+    "q": "Q19758963",
+    "via": "P170+題名",
+    "label": "Family Group",
+    "y": [
+     1950
+    ],
+    "mu": []
+   }
+  },
+  "s1207": {
+   "src_url": "http://www.henry-moore.org/works-in-public/world/uk/northampton/parish-church-of-st-matthew/madonna-and-child-1943-44-lh-226",
+   "src": "Museum",
+   "wd": {
+    "q": "Q19759134",
+    "via": "P170+題名",
+    "label": "Madonna and Child",
+    "y": [
+     1943
+    ],
+    "mu": []
+   }
+  },
+  "s1208": {
+   "src_url": "http://www.henry-moore.org/works-in-public/world/united-states-of-america/chicago/university-of-chicago/nuclear-energy-1964-66-lh-526",
+   "src": "Museum",
+   "wd": {
+    "q": "Q4355111",
+    "via": "P170+題名",
+    "label": "Nuclear Energy",
+    "y": [
+     1967
+    ],
+    "mu": [
+     "Kykuit"
+    ]
+   }
+  },
+  "s1209": {
+   "src_url": "http://www.henry-moore.org/works-in-public/world/uk/london/parliament-square/knife-edge-two-piece-1962-65-lh-516",
+   "src": "Museum",
+   "wd": {
+    "q": "Q19759062",
+    "via": "P170+題名",
+    "label": "Knife Edge Two Piece",
+    "y": [
+     1962
+    ],
+    "mu": [
+     "Henry Moore Sculpture Perry Green"
+    ]
+   }
+  },
+  "s1212": {
+   "src_url": "http://www.henry-moore-fdn.co.uk/pg/interactive-tours/virtual-perry-green/sculpture/16",
+   "src": "Museum",
+   "wd": {
+    "q": "Q19759380",
+    "via": "P170+題名",
+    "label": "Sheep Piece",
+    "y": [
+     1971
+    ],
+    "mu": [
+     "Henry Moore Sculpture Perry Green",
+     "The Nelson-Atkins Museum of Art"
+    ]
+   }
+  },
+  "s1215": {
+   "src_url": "http://www.henry-moore.org/works-in-public/world/uk/leeds/leeds-art-gallery/reclining-figure-1929-lh-59",
+   "src": "Museum",
+   "wd": {
+    "q": "Q19759281",
+    "via": "P170+題名",
+    "label": "Reclining Figure",
+    "y": [
+     1929
+    ],
+    "mu": [
+     "Leeds Art Gallery"
+    ]
+   }
+  },
+  "s1216": {
+   "src_url": "https://en.wikipedia.org/wiki/Pelagos_(Hepworth)",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q60575489",
+    "via": "P170+題名",
+    "label": "Pelagos (Hepworth)",
+    "y": [
+     1946
+    ],
+    "mu": [
+     "Tate"
+    ]
+   }
+  },
+  "s1217": {
+   "src_url": "https://en.wikipedia.org/wiki/Winged_Figure",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q16903550",
+    "via": "P170+題名",
+    "label": "Winged Figure",
+    "y": [
+     1963
+    ],
+    "mu": []
+   }
+  },
+  "s1219": {
+   "src_url": "https://www.nortonsimon.org/art/detail/M.1969.15.S",
+   "src": "Museum",
+   "wd": {
+    "q": "Q140517680",
+    "via": "P170+題名",
+    "label": "Four-Square (Walk Through)",
+    "y": [
+     1966
+    ],
+    "mu": [
+     "Norton Simon Museum"
+    ]
+   }
+  },
+  "s1224": {
+   "src_url": "https://www.wikidata.org/wiki/Q26525156",
+   "src": "Wikidata",
+   "wd": {
+    "q": "Q26525156",
+    "via": "P170+題名",
+    "label": "W. H. Hudson Memorial",
+    "y": [
+     1925
+    ],
+    "mu": []
+   }
+  },
+  "s1225": {
+   "src_url": "https://artuk.org/discover/artworks/saint-michael-and-the-devil-300598",
+   "src": "Museum",
+   "wd": {
+    "q": "Q27436668",
+    "via": "P170+題名",
+    "label": "Saint Michael's Victory over the Devil",
+    "y": [],
+    "mu": []
+   }
+  },
+  "s1231": {
+   "src_url": "https://en.wikipedia.org/wiki/Oscar_Wilde's_tomb",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q12432989",
+    "via": "P170+題名",
+    "label": "Oscar Wilde's tomb",
+    "y": [
+     1914
+    ],
+    "mu": []
+   }
+  },
+  "s1241": {
+   "src_url": "https://americanart.si.edu/collections/search/artwork/?id=28775",
+   "src": "Museum",
+   "wd": {
+    "q": "Q120966619",
+    "via": "P170+題名",
+    "label": "Floating Figure",
+    "y": [
+     1922
+    ],
+    "mu": [
+     "Smithsonian American Art Museum"
+    ]
+   }
+  },
+  "s1250": {
+   "src_url": "https://fr.wikipedia.org/wiki/Maternité_(Chana_Orloff)",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q140479203",
+    "via": "P170+題名",
+    "label": "Maternité",
+    "y": [
+     1914
+    ],
+    "mu": []
+   }
+  },
+  "s1260": {
+   "src_url": "https://en.wikipedia.org/wiki/Horse_and_Rider_(Marini)",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q5905578",
+    "via": "P170+題名",
+    "label": "Horse and Rider",
+    "y": [
+     1952
+    ],
+    "mu": []
+   }
+  },
+  "s1261": {
+   "src_url": "https://de.wikipedia.org/wiki/L’Angelo_della_Città",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q1880574",
+    "via": "P170+題名",
+    "label": "Angel of the City",
+    "y": [
+     1948
+    ],
+    "mu": []
+   }
+  },
+  "s1263": {
+   "src_url": "https://www.uffizi.it/en/artworks/pomona",
+   "src": "Museum",
+   "wd": {
+    "q": "Q104959660",
+    "via": "P170+題名",
+    "label": "Pomona",
+    "y": [],
+    "mu": [
+     "Uffizi Gallery"
+    ]
+   }
+  },
+  "s1267": {
+   "src_url": "https://dams.antwerpen.be/asset/ZMgD5fmWDVeKNcVFgLsUe4v9",
+   "src": "Museum",
+   "wd": {
+    "q": "Q27615820",
+    "via": "P170+題名",
+    "label": "The Cardinal",
+    "y": [
+     1952
+    ],
+    "mu": [
+     "Middelheim Museum",
+     "Middelheim Museum"
+    ]
+   }
+  },
+  "s1287": {
+   "src_url": "https://en.wikipedia.org/wiki/Newton_(Paolozzi)",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q25291883",
+    "via": "P170+題名",
+    "label": "Newton",
+    "y": [
+     1995
+    ],
+    "mu": []
+   }
+  },
+  "s1288": {
+   "src_url": "https://artuk.org/discover/artworks/piscator-309797",
+   "src": "Museum",
+   "wd": {
+    "q": "Q27924409",
+    "via": "P170+題名",
+    "label": "Piscator",
+    "y": [
+     1980
+    ],
+    "mu": []
+   }
+  },
+  "s1293": {
+   "src_url": "https://de.wikipedia.org/wiki/Walking_Madonna",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q97512010",
+    "via": "P170+題名",
+    "label": "Walking Madonna",
+    "y": [
+     1981
+    ],
+    "mu": []
+   }
+  },
+  "s1295": {
+   "src_url": "https://artuk.org/discover/artworks/blind-beggar-and-his-dog-313473",
+   "src": "Museum",
+   "wd": {
+    "q": "Q17531634",
+    "via": "P170+題名",
+    "label": "Blind Beggar and His Dog",
+    "y": [
+     1958
+    ],
+    "mu": []
+   }
+  },
+  "s1313": {
+   "src_url": "https://es.wikipedia.org/wiki/Berlín_(escultura)",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q67080041",
+    "via": "P170+題名",
+    "label": "Berlin",
+    "y": [
+     2000
+    ],
+    "mu": []
+   }
+  },
+  "s1330": {
+   "src_url": "https://www.nga.gov/content/ngaweb/Collection/art-object-page.56395.html",
+   "src": "Museum",
+   "wd": {
+    "q": "Q63854661",
+    "via": "P170+題名",
+    "label": "Homage to Piranesi V",
+    "y": [
+     1965
+    ],
+    "mu": [
+     "Sculptures in the National Gallery of Art"
+    ]
+   }
+  },
+  "s1350": {
+   "src_url": "https://en.wikipedia.org/wiki/Are_Years_What?_(for_Marianne_Moore)",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q4788380",
+    "via": "P170+題名",
+    "label": "Are Years What?",
+    "y": [
+     1967
+    ],
+    "mu": [
+     "Hirshhorn Museum and Sculpture Garden"
+    ]
+   }
+  },
+  "s1356": {
+   "src_url": "https://www.metmuseum.org/art/collection/search/484216",
+   "src": "Museum",
+   "wd": {
+    "q": "Q20198982",
+    "via": "P170+題名",
+    "label": "Mrs. N's Palace",
+    "y": [
+     1952
+    ],
+    "mu": [
+     "Metropolitan Museum of Art"
+    ]
+   }
+  },
+  "s1358": {
+   "src_url": "https://artuk.org/discover/artworks/early-one-morning-290004",
+   "src": "Museum",
+   "wd": {
+    "q": "Q58207638",
+    "via": "P170+題名",
+    "label": "Early One Morning",
+    "y": [
+     1962
+    ],
+    "mu": [
+     "Tate"
+    ]
+   }
+  },
+  "s1360": {
+   "src_url": "https://www.wikidata.org/wiki/Q133877771",
+   "src": "Wikidata",
+   "wd": {
+    "q": "Q133877771",
+    "via": "P170+題名",
+    "label": "Sea Music",
+    "y": [],
+    "mu": []
+   }
+  },
+  "s1365": {
+   "src_url": "https://es.wikipedia.org/wiki/Fuente_de_Mercurio",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q1586452",
+    "via": "P170+題名",
+    "label": "Mercury Fountain",
+    "y": [
+     1937
+    ],
+    "mu": [
+     "Fundació Joan Miró",
+     "Exposition Internationale des Arts et Techniques dans la Vie Moderne (1937)"
+    ]
+   }
+  },
+  "s1366": {
+   "src_url": "https://www.moma.org/collection/works/81621",
+   "src": "Museum",
+   "wd": {
+    "q": "Q6663853",
+    "via": "P170+題名",
+    "label": "Lobster Trap and Fish Tail",
+    "y": [
+     1939
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   }
+  },
+  "s1367": {
+   "src_url": "https://en.wikipedia.org/wiki/La_Grande_Vitesse",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q6462864",
+    "via": "P170+題名",
+    "label": "La Grande Vitesse",
+    "y": [
+     1969
+    ],
+    "mu": [
+     "Grand Rapids"
+    ]
+   }
+  },
+  "s1368": {
+   "src_url": "https://siris-artinventories.si.edu/ipac20/ipac.jsp?&menu=search&index=.NW&term=IAS 75002791",
+   "src": "Museum",
+   "wd": {
+    "q": "Q3073296",
+    "via": "P170+題名",
+    "label": "Flamingo",
+    "y": [
+     1973
+    ],
+    "mu": []
+   }
+  },
+  "s1369": {
+   "src_url": "https://www.nga.gov/content/ngaweb/Collection/art-object-page.56517.html",
+   "src": "Museum",
+   "wd": {
+    "q": "Q63854311",
+    "via": "P170+題名",
+    "label": "Untitled",
+    "y": [
+     1976
+    ],
+    "mu": [
+     "Sculptures in the National Gallery of Art"
+    ]
+   }
+  },
+  "s1370": {
+   "src_url": "https://en.wikipedia.org/wiki/Cirque_Calder",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q2974254",
+    "via": "P170+題名",
+    "label": "Cirque Calder",
+    "y": [
+     1926,
+     1931
+    ],
+    "mu": [
+     "Whitney Museum of American Art"
+    ]
+   }
+  },
+  "s1371": {
+   "src_url": "https://www.moma.org/collection/works/81433",
+   "src": "Museum",
+   "wd": {
+    "q": "Q3983835",
+    "via": "P170+題名",
+    "label": "Teodelapio",
+    "y": [
+     1962
+    ],
+    "mu": []
+   }
+  },
+  "s1372": {
+   "src_url": "https://fr.wikipedia.org/wiki/Trois_Disques_ou_l'Homme_(Calder)",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q16303783",
+    "via": "P170+題名",
+    "label": "Man, Three Disks",
+    "y": [
+     1967
+    ],
+    "mu": []
+   }
+  },
+  "s1375": {
+   "src_url": "https://h2o.do/Q281309",
+   "src": "Museum",
+   "wd": {
+    "q": "Q281309",
+    "via": "P170+題名",
+    "label": "Stravinsky Fountain",
+    "y": [
+     1983
+    ],
+    "mu": []
+   }
+  },
+  "s1376": {
+   "src_url": "https://en.wikipedia.org/wiki/Chaos_I",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q5072789",
+    "via": "P170+題名",
+    "label": "Chaos I",
+    "y": [
+     1974
+    ],
+    "mu": []
+   }
+  },
+  "s1377": {
+   "src_url": "https://fr.wikipedia.org/wiki/Fontaine_du_carnaval",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q683514",
+    "via": "P170+題名",
+    "label": "Carnival Fountain",
+    "y": [],
+    "mu": []
+   }
+  },
+  "s1388": {
+   "src_url": "https://www.wikidata.org/wiki/Q18156039",
+   "src": "Wikidata",
+   "wd": {
+    "q": "Q18156039",
+    "via": "P170+題名",
+    "label": "Fontaines à boules",
+    "y": [],
+    "mu": []
+   }
+  },
+  "s1391": {
+   "src_url": "https://www.wikidata.org/wiki/Q19362949",
+   "src": "Wikidata",
+   "wd": {
+    "q": "Q19362949",
+    "via": "P170+題名",
+    "label": "Penetrable",
+    "y": [],
+    "mu": []
+   }
+  },
+  "s1394": {
+   "src_url": "http://museum.imj.org.il/artcenter/includes/item.asp?id=282901",
+   "src": "Museum",
+   "wd": {
+    "q": "Q5451545",
+    "via": "P170+題名",
+    "label": "Fire and Water Fountain",
+    "y": [
+     1986,
+     1986
+    ],
+    "mu": []
+   }
+  },
+  "s1404": {
+   "src_url": "https://en.wikipedia.org/wiki/Wind_Wand",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q4178639",
+    "via": "P170+題名",
+    "label": "Wind Wand",
+    "y": [
+     1997
+    ],
+    "mu": []
+   }
+  },
+  "s1418": {
+   "src_url": "https://en.wikipedia.org/wiki/Equivalent_VIII",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q5384716",
+    "via": "P170+題名",
+    "label": "Equivalent VIII",
+    "y": [
+     1966
+    ],
+    "mu": []
+   }
+  },
+  "s1428": {
+   "src_url": "https://www.nga.gov/content/ngaweb/Collection/art-object-page.56124.html",
+   "src": "Museum",
+   "wd": {
+    "q": "Q65567394",
+    "via": "P170+題名",
+    "label": "Untitled",
+    "y": [
+     1973
+    ],
+    "mu": [
+     "Prints in the National Gallery of Art"
+    ]
+   }
+  },
+  "s1429": {
+   "src_url": "https://www.nga.gov/content/ngaweb/Collection/art-object-page.56124.html",
+   "src": "Museum",
+   "wd": {
+    "q": "Q65567394",
+    "via": "P170+題名",
+    "label": "Untitled",
+    "y": [
+     1973
+    ],
+    "mu": [
+     "Prints in the National Gallery of Art"
+    ]
+   }
+  },
+  "s1434": {
+   "src_url": "https://nl.wikipedia.org/wiki/Observatorium_(Robert_Morris)",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q5111614",
+    "via": "P170+題名",
+    "label": "Observatory",
+    "y": [
+     1977
+    ],
+    "mu": []
+   }
+  },
+  "s1445": {
+   "src_url": "https://www.nga.gov/content/ngaweb/Collection/art-object-page.150862.html",
+   "src": "Museum",
+   "wd": {
+    "q": "Q63864121",
+    "via": "P170+題名",
+    "label": "Black Plank",
+    "y": [
+     1967
+    ],
+    "mu": [
+     "Sculptures in the National Gallery of Art"
+    ]
+   }
+  },
+  "s1447": {
+   "src_url": "https://americanart.si.edu/collections/search/artwork/?id=1750",
+   "src": "Museum",
+   "wd": {
+    "q": "Q122933492",
+    "via": "P170+題名",
+    "label": "Untitled",
+    "y": [
+     1965
+    ],
+    "mu": [
+     "Smithsonian American Art Museum"
+    ]
+   }
+  },
+  "s1449": {
+   "src_url": "https://www.albrightknox.org/artworks/198910-untitled",
+   "src": "Museum",
+   "wd": {
+    "q": "Q77540047",
+    "via": "P170+題名",
+    "label": "Untitled",
+    "y": [
+     1989
+    ],
+    "mu": [
+     "Buffalo AKG Art Museum"
+    ]
+   }
+  },
+  "s1452": {
+   "src_url": "https://www.wikidata.org/wiki/Q97378884",
+   "src": "Wikidata",
+   "wd": {
+    "q": "Q97378884",
+    "via": "P170+題名",
+    "label": "Floor Burger (Giant Hamburger)",
+    "y": [
+     1962
+    ],
+    "mu": []
+   }
+  },
+  "s1454": {
+   "src_url": "https://en.wikipedia.org/wiki/Clothespin_(Oldenburg)",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q5135560",
+    "via": "P170+題名",
+    "label": "Clothespin",
+    "y": [
+     1976
+    ],
+    "mu": []
+   }
+  },
+  "s1455": {
+   "src_url": "https://en.wikipedia.org/wiki/Lipstick_(Ascending)_on_Caterpillar_Tracks",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q6557071",
+    "via": "P170+題名",
+    "label": "Lipstick (Ascending) on Caterpillar Tracks",
+    "y": [
+     1969
+    ],
+    "mu": []
+   }
+  },
+  "s1457": {
+   "src_url": "https://www.wikidata.org/wiki/Q18084731",
+   "src": "Wikidata",
+   "wd": {
+    "q": "Q18084731",
+    "via": "P170+題名",
+    "label": "Shuttlecocks",
+    "y": [
+     1994
+    ],
+    "mu": []
+   }
+  },
+  "s1458": {
+   "src_url": "https://www.nga.gov/content/ngaweb/Collection/art-object-page.107762.html",
+   "src": "Museum",
+   "wd": {
+    "q": "Q7860970",
+    "via": "P170+題名",
+    "label": "Typewriter Eraser, Scale X",
+    "y": [
+     1999
+    ],
+    "mu": [
+     "National Gallery of Art Sculpture Garden",
+     "Sculptures in the National Gallery of Art"
+    ]
+   }
+  },
+  "s1462": {
+   "src_url": "https://en.wikipedia.org/wiki/Gay_Liberation_Monument",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q16270988",
+    "via": "P170+題名",
+    "label": "Gay Liberation Monument",
+    "y": [
+     1992
+    ],
+    "mu": []
+   }
+  },
+  "s1465": {
+   "src_url": "https://en.wikipedia.org/wiki/The_Beanery",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q17089609",
+    "via": "P170+題名",
+    "label": "The Beanery",
+    "y": [
+     1965
+    ],
+    "mu": [
+     "Stedelijk Museum Amsterdam"
+    ]
+   }
+  },
+  "s1467": {
+   "src_url": "https://en.wikipedia.org/wiki/The_Illegal_Operation_(sculpture)",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q118901126",
+    "via": "P170+題名",
+    "label": "The Illegal Operation",
+    "y": [],
+    "mu": []
+   }
+  },
+  "s1471": {
+   "src_url": "https://h2o.do/Q281309",
+   "src": "Museum",
+   "wd": {
+    "q": "Q281309",
+    "via": "P170+題名",
+    "label": "Stravinsky Fountain",
+    "y": [
+     1983
+    ],
+    "mu": []
+   }
+  },
+  "s1472": {
+   "src_url": "https://historia-arte.com/obras/jardin-del-tarot",
+   "src": "Museum",
+   "wd": {
+    "q": "Q949846",
+    "via": "P170+題名",
+    "label": "Tarot Garden",
+    "y": [
+     1979
+    ],
+    "mu": []
+   }
+  },
+  "s1473": {
+   "src_url": "https://fr.wikipedia.org/wiki/Nana_(Niki_de_Saint_Phalle)",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q439104",
+    "via": "P170+題名",
+    "label": "nanas",
+    "y": [],
+    "mu": []
+   }
+  },
+  "s1486": {
+   "src_url": "https://fr.wikipedia.org/wiki/Le_Pouce_(César)",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q56717881",
+    "via": "P170+題名",
+    "label": "Le Pouce",
+    "y": [
+     1965
+    ],
+    "mu": []
+   }
+  },
+  "s1487": {
+   "src_url": "https://collection.centrepompidou.fr/#/artwork/150000000019307",
+   "src": "Museum",
+   "wd": {
+    "q": "Q60189668",
+    "via": "P170+題名",
+    "label": "Compression « Ricard »",
+    "y": [
+     1962
+    ],
+    "mu": [
+     "Musée National d'Art Moderne"
+    ]
+   }
+  },
+  "s1488": {
+   "src_url": "https://fr.wikipedia.org/wiki/Le_Centaure_(César)",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q2377453",
+    "via": "P170+題名",
+    "label": "The Centaur",
+    "y": [
+     1983
+    ],
+    "mu": []
+   }
+  },
+  "s1489": {
+   "src_url": "https://en.wikipedia.org/wiki/Monogram_(artwork)",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q6901603",
+    "via": "P170+題名",
+    "label": "Monogram",
+    "y": [
+     1955
+    ],
+    "mu": []
+   }
+  },
+  "s1490": {
+   "src_url": "https://www.moma.org/collection/works/165011",
+   "src": "Museum",
+   "wd": {
+    "q": "Q19887473",
+    "via": "P170+題名",
+    "label": "Canyon",
+    "y": [
+     1959
+    ],
+    "mu": [
+     "Museum of Modern Art"
+    ]
+   }
+  },
+  "s1491": {
+   "src_url": "https://www.wikidata.org/wiki/Q61641547",
+   "src": "Wikidata",
+   "wd": {
+    "q": "Q61641547",
+    "via": "P170+題名",
+    "label": "Coca Cola Plan",
+    "y": [
+     1958
+    ],
+    "mu": []
+   }
+  },
+  "s1495": {
+   "src_url": "https://americanart.si.edu/collections/search/artwork/?id=86744",
+   "src": "Museum",
+   "wd": {
+    "q": "Q62470192",
+    "via": "P170+題名",
+    "label": "Pinocchio",
+    "y": [
+     1997
+    ],
+    "mu": [
+     "Smithsonian American Art Museum"
+    ]
+   }
+  },
+  "s1496": {
+   "src_url": "https://www.metmuseum.org/art/collection/search/484350",
+   "src": "Museum",
+   "wd": {
+    "q": "Q19921134",
+    "via": "P170+題名",
+    "label": "The Heart",
+    "y": [
+     1981
+    ],
+    "mu": [
+     "Metropolitan Museum of Art"
+    ]
+   }
+  },
+  "s1500": {
+   "src_url": "https://dia.org/collection/accession-ii-47951",
+   "src": "Museum",
+   "wd": {
+    "q": "Q124212395",
+    "via": "P170+題名",
+    "label": "Accession II",
+    "y": [
+     1969
+    ],
+    "mu": [
+     "Detroit Institute of Arts"
+    ]
+   }
+  },
+  "s1503": {
+   "src_url": "https://en.wikipedia.org/wiki/The_Matter_of_Time",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q2840147",
+    "via": "P170+題名",
+    "label": "The Matter of Time",
+    "y": [
+     2005
+    ],
+    "mu": [
+     "Guggenheim Museum Bilbao"
+    ]
+   }
+  },
+  "s1505": {
+   "src_url": "https://nrw-skulptur.net/skulptur/inverted-house-of-cards/",
+   "src": "Museum",
+   "wd": {
+    "q": "Q127586792",
+    "via": "P170+題名",
+    "label": "Inverted House of Cards",
+    "y": [
+     1969
+    ],
+    "mu": []
+   }
+  },
+  "s1508": {
+   "src_url": "https://www.wikidata.org/wiki/Q24038427",
+   "src": "Wikidata",
+   "wd": {
+    "q": "Q24038427",
+    "via": "P170+題名",
+    "label": "Promenade",
+    "y": [
+     2008
+    ],
+    "mu": []
+   }
+  },
+  "s1509": {
+   "src_url": "https://en.wikipedia.org/wiki/Fulcrum_(sculpture)",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q22712390",
+    "via": "P170+題名",
+    "label": "Fulcrum",
+    "y": [
+     1987
+    ],
+    "mu": []
+   }
+  },
+  "s1517": {
+   "src_url": "https://www.albrightknox.org/artworks/19922-fallen-painting",
+   "src": "Museum",
+   "wd": {
+    "q": "Q77541185",
+    "via": "P170+題名",
+    "label": "Fallen Painting",
+    "y": [
+     1968
+    ],
+    "mu": [
+     "Buffalo AKG Art Museum"
+    ]
+   }
+  },
+  "s1531": {
+   "src_url": "https://www.nga.gov/content/ngaweb/Collection/art-object-page.79007.html",
+   "src": "Museum",
+   "wd": {
+    "q": "Q63860607",
+    "via": "P170+題名",
+    "label": "Untitled",
+    "y": [
+     1975
+    ],
+    "mu": [
+     "Sculptures in the National Gallery of Art"
+    ]
+   }
+  },
+  "s1540": {
+   "src_url": "https://en.wikipedia.org/wiki/Double_Negative_(artwork)",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q3037476",
+    "via": "P170+題名",
+    "label": "Double Negative",
+    "y": [
+     1969
+    ],
+    "mu": []
+   }
+  },
+  "s1541": {
+   "src_url": "https://en.wikipedia.org/wiki/City_(artwork)",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q5123007",
+    "via": "P170+題名",
+    "label": "City",
+    "y": [
+     1972
+    ],
+    "mu": []
+   }
+  },
+  "s1542": {
+   "src_url": "https://en.wikipedia.org/wiki/Levitated_Mass",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q3237234",
+    "via": "P170+題名",
+    "label": "Levitated Mass",
+    "y": [
+     2012
+    ],
+    "mu": [
+     "Los Angeles County Museum of Art"
+    ]
+   }
+  },
+  "s1544": {
+   "src_url": "https://en.wikipedia.org/wiki/The_Lightning_Field",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q3330442",
+    "via": "P170+題名",
+    "label": "The Lightning Field",
+    "y": [
+     1977
+    ],
+    "mu": []
+   }
+  },
+  "s1545": {
+   "src_url": "https://en.wikipedia.org/wiki/The_New_York_Earth_Room",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q3522014",
+    "via": "P170+題名",
+    "label": "The New York Earth Room",
+    "y": [
+     1977
+    ],
+    "mu": []
+   }
+  },
+  "s1546": {
+   "src_url": "https://en.wikipedia.org/wiki/The_Broken_Kilometer",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q3520125",
+    "via": "P170+題名",
+    "label": "The Broken Kilometer",
+    "y": [
+     1979
+    ],
+    "mu": []
+   }
+  },
+  "s1547": {
+   "src_url": "https://en.wikipedia.org/wiki/The_Vertical_Earth_Kilometer",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q3523204",
+    "via": "P170+題名",
+    "label": "The Vertical Earth Kilometer",
+    "y": [
+     1977
+    ],
+    "mu": []
+   }
+  },
+  "s1548": {
+   "src_url": "https://fr.wikipedia.org/wiki/Sun_Tunnels",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q3503766",
+    "via": "P170+題名",
+    "label": "Sun Tunnels",
+    "y": [
+     1976
+    ],
+    "mu": [
+     "Dia Art Foundation"
+    ]
+   }
+  },
+  "s1551": {
+   "src_url": "https://en.wikipedia.org/wiki/A_Line_Made_by_Walking",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q85739187",
+    "via": "P170+題名",
+    "label": "A Line Made by Walking",
+    "y": [],
+    "mu": []
+   }
+  },
+  "s1555": {
+   "src_url": "http://christojeanneclaude.net/projects/wrapped-reichstag",
+   "src": "Museum",
+   "wd": {
+    "q": "Q17354234",
+    "via": "P170+題名",
+    "label": "Wrapped Reichstag",
+    "y": [
+     1995
+    ],
+    "mu": []
+   }
+  },
+  "s1560": {
+   "src_url": "https://collections.stormking.org/Detail/objects/401",
+   "src": "Museum",
+   "wd": {
+    "q": "Q56877287",
+    "via": "P170+題名",
+    "label": "Storm King Wall",
+    "y": [
+     1997
+    ],
+    "mu": [
+     "Storm King Art Center"
+    ]
+   }
+  },
+  "s1578": {
+   "src_url": "http://www.tate.org.uk/art/artworks/kounellis-untitled-ar00497",
+   "src": "Museum",
+   "wd": {
+    "q": "Q18543210",
+    "via": "P170+題名",
+    "label": "Untitled",
+    "y": [
+     1971
+    ],
+    "mu": [
+     "Tate",
+     "National Galleries Scotland"
+    ]
+   }
+  },
+  "s1580": {
+   "src_url": "http://www.tate.org.uk/art/artworks/kounellis-untitled-ar00497",
+   "src": "Museum",
+   "wd": {
+    "q": "Q18543210",
+    "via": "P170+題名",
+    "label": "Untitled",
+    "y": [
+     1971
+    ],
+    "mu": [
+     "Tate",
+     "National Galleries Scotland"
+    ]
+   }
+  },
+  "s1594": {
+   "src_url": "https://it.wikipedia.org/wiki/Mappa_(Boetti)",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q3845200",
+    "via": "P170+題名",
+    "label": "Map",
+    "y": [],
+    "mu": [
+     "Museo d'arte contemporanea del castello di Rivoli"
+    ]
+   }
+  },
+  "s1605": {
+   "src_url": "https://en.wikipedia.org/wiki/Artist's_Shit",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q1757822",
+    "via": "P170+題名",
+    "label": "Artist's Shit",
+    "y": [
+     1961
+    ],
+    "mu": [
+     "Museo del Novecento",
+     "Museo - Fondazione Calderara",
+     "Moderna Museet",
+     "Herning Museum of Contemporary Art",
+     "Centre Georges Pompidou",
+     "Randers Museum of Art",
+     "Neues Museum",
+     "Museum of Modern Art",
+     "Staatsgalerie Stuttgart",
+     "Tate Modern"
+    ]
+   }
+  },
+  "s1610": {
+   "src_url": "https://en.wikipedia.org/wiki/7000_Oaks",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q261274",
+    "via": "P170+題名",
+    "label": "7000 Oaks",
+    "y": [
+     1982
+    ],
+    "mu": []
+   }
+  },
+  "s1612": {
+   "src_url": "https://www.sammlung.pinakothek.de/de/artwork/Qm45RrXxNo",
+   "src": "Museum",
+   "wd": {
+    "q": "Q122983529",
+    "via": "P170+題名",
+    "label": "The End of the 20th Century",
+    "y": [
+     1983
+    ],
+    "mu": [
+     "Bavarian State Painting Collections"
+    ]
+   }
+  },
+  "s1613": {
+   "src_url": "https://collection.centrepompidou.fr/#/artwork/150000000018481",
+   "src": "Museum",
+   "wd": {
+    "q": "Q2099501",
+    "via": "P170+題名",
+    "label": "Plight",
+    "y": [
+     1985
+    ],
+    "mu": [
+     "Musée National d'Art Moderne"
+    ]
+   }
+  },
+  "s1615": {
+   "src_url": "https://en.wikipedia.org/wiki/How_to_Explain_Pictures_to_a_Dead_Hare",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q2568137",
+    "via": "P170+題名",
+    "label": "How to Explain Pictures to a Dead Hare",
+    "y": [
+     1965
+    ],
+    "mu": []
+   }
+  },
+  "s1616": {
+   "src_url": "https://de.wikipedia.org/wiki/The_pack_(das_Rudel)",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q2415523",
+    "via": "P170+題名",
+    "label": "The Pack (Das Rudel)",
+    "y": [
+     1969
+    ],
+    "mu": [
+     "Hessen Kassel Heritage"
+    ]
+   }
+  },
+  "s1617": {
+   "src_url": "https://en.wikipedia.org/wiki/Cloud_Gate",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q589099",
+    "via": "P170+題名",
+    "label": "Cloud Gate",
+    "y": [
+     2004
+    ],
+    "mu": []
+   }
+  },
+  "s1619": {
+   "src_url": "https://en.wikipedia.org/wiki/ArcelorMittal_Orbit",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q631871",
+    "via": "P170+題名",
+    "label": "ArcelorMittal Orbit",
+    "y": [
+     2012
+    ],
+    "mu": []
+   }
+  },
+  "s1630": {
+   "src_url": "https://www.moma.org/collection/works/146656",
+   "src": "Museum",
+   "wd": {
+    "q": "Q17146854",
+    "via": "P170+題名",
+    "label": "House",
+    "y": [
+     1993
+    ],
+    "mu": []
+   }
+  },
+  "s1631": {
+   "src_url": "https://en.wikipedia.org/wiki/Judenplatz_Holocaust_Memorial",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q869983",
+    "via": "P170+題名",
+    "label": "Judenplatz Holocaust Memorial",
+    "y": [
+     2000
+    ],
+    "mu": []
+   }
+  },
+  "s1636": {
+   "src_url": "https://en.wikipedia.org/wiki/The_Physical_Impossibility_of_Death_in_the_Mind_of_Someone_Living",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q38973",
+    "via": "P170+題名",
+    "label": "The Physical Impossibility of Death in the Mind of Someone Living",
+    "y": [
+     1991
+    ],
+    "mu": []
+   }
+  },
+  "s1637": {
+   "src_url": "https://en.wikipedia.org/wiki/For_the_Love_of_God",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q6400207",
+    "via": "P170+題名",
+    "label": "For the Love of God",
+    "y": [
+     2007
+    ],
+    "mu": [
+     "White Cube"
+    ]
+   }
+  },
+  "s1638": {
+   "src_url": "https://www.tate.org.uk/art/artworks/hirst-mother-and-child-divided-t12751",
+   "src": "Museum",
+   "wd": {
+    "q": "Q96622245",
+    "via": "P170+題名",
+    "label": "Mother and Child (Divided)",
+    "y": [
+     1993
+    ],
+    "mu": [
+     "Tate"
+    ]
+   }
+  },
+  "s1639": {
+   "src_url": "https://en.wikipedia.org/wiki/Verity_(statue)",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q1428547",
+    "via": "P170+題名",
+    "label": "Verity",
+    "y": [
+     2012
+    ],
+    "mu": []
+   }
+  },
+  "s1641": {
+   "src_url": "https://www.tate.org.uk/art/artworks/ai-sunflower-seeds-t13408",
+   "src": "Museum",
+   "wd": {
+    "q": "Q10683893",
+    "via": "P170+題名",
+    "label": "Sunflower Seeds",
+    "y": [
+     2010
+    ],
+    "mu": [
+     "Tate"
+    ]
+   }
+  },
+  "s1642": {
+   "src_url": "https://www.ngv.vic.gov.au/explore/collection/work/120793/",
+   "src": "Museum",
+   "wd": {
+    "q": "Q50385648",
+    "via": "P170+題名",
+    "label": "Dropping a Han Dynasty urn",
+    "y": [],
+    "mu": [
+     "National Gallery of Victoria"
+    ]
+   }
+  },
+  "s1644": {
+   "src_url": "https://en.wikipedia.org/wiki/Circle_of_Animals/Zodiac_Heads",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q5121456",
+    "via": "P170+題名",
+    "label": "Circle of Animals/Zodiac Heads",
+    "y": [],
+    "mu": []
+   }
+  },
+  "s1648": {
+   "src_url": "https://www.wikidata.org/wiki/Q24038428",
+   "src": "Wikidata",
+   "wd": {
+    "q": "Q24038428",
+    "via": "P170+題名",
+    "label": "Personnes",
+    "y": [],
+    "mu": []
+   }
+  },
+  "s1649": {
+   "src_url": "https://en.wikipedia.org/wiki/Shibboleth_(artwork)",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q7496041",
+    "via": "P170+題名",
+    "label": "Shibboleth",
+    "y": [
+     2007
+    ],
+    "mu": []
+   }
+  },
+  "s1654": {
+   "src_url": "http://www.tate.org.uk/whats-on/tate-modern/exhibition/unilever-series-olafur-eliasson-weather-project",
+   "src": "Museum",
+   "wd": {
+    "q": "Q22672619",
+    "via": "P170+題名",
+    "label": "The Weather Project",
+    "y": [
+     2003
+    ],
+    "mu": []
+   }
+  },
+  "s1655": {
+   "src_url": "https://en.wikipedia.org/wiki/New_York_City_Waterfalls",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q2476049",
+    "via": "P170+題名",
+    "label": "New York City Waterfalls",
+    "y": [
+     2008
+    ],
+    "mu": []
+   }
+  },
+  "s1659": {
+   "src_url": "http://collectie.boijmans.nl/en/collection/bek-1859-a-y-(mk)",
+   "src": "Museum",
+   "wd": {
+    "q": "Q20890871",
+    "via": "P170+題名",
+    "label": "Infinity Mirror Room - Phalli's Field (Floor Show)",
+    "y": [
+     1965
+    ],
+    "mu": [
+     "Museum Boijmans Van Beuningen"
+    ]
+   }
+  },
+  "s1670": {
+   "src_url": "https://de.wikipedia.org/wiki/Dead_Dad",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q1180793",
+    "via": "P170+題名",
+    "label": "Dead Dad",
+    "y": [],
+    "mu": []
+   }
+  },
+  "s1675": {
+   "src_url": "https://en.wikipedia.org/wiki/Angel_of_the_North",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q1325290",
+    "via": "P170+題名",
+    "label": "Angel of the North",
+    "y": [
+     1994,
+     1998
+    ],
+    "mu": []
+   }
+  },
+  "s1676": {
+   "src_url": "https://en.wikipedia.org/wiki/Another_Place_(sculpture)",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q2254357",
+    "via": "P170+題名",
+    "label": "Another Place",
+    "y": [
+     1997
+    ],
+    "mu": []
+   }
+  },
+  "s1679": {
+   "src_url": "https://en.wikipedia.org/wiki/Quantum_Cloud",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q4218496",
+    "via": "P170+題名",
+    "label": "Quantum Cloud",
+    "y": [
+     1999
+    ],
+    "mu": []
+   }
+  },
+  "s1682": {
+   "src_url": "https://www.wikidata.org/wiki/Q28836979",
+   "src": "Wikidata",
+   "wd": {
+    "q": "Q28836979",
+    "via": "P170+題名",
+    "label": "Alison Lapper Pregnant",
+    "y": [
+     2005
+    ],
+    "mu": []
+   }
+  },
+  "s1684": {
+   "src_url": "https://www.wikidata.org/wiki/Q96882324",
+   "src": "Wikidata",
+   "wd": {
+    "q": "Q96882324",
+    "via": "P170+題名",
+    "label": "Rapture",
+    "y": [
+     2001
+    ],
+    "mu": []
+   }
+  },
+  "s1690": {
+   "src_url": "http://www.christies.com/LotFinder/lot_details.aspx?intObjectID=2051684",
+   "src": "Museum",
+   "wd": {
+    "q": "Q3211100",
+    "via": "P170+題名",
+    "label": "La Nona Ora",
+    "y": [
+     1999
+    ],
+    "mu": []
+   }
+  },
+  "s1691": {
+   "src_url": "https://www.guggenheim.org/exhibition/maurizio-cattelan-america",
+   "src": "Museum",
+   "wd": {
+    "q": "Q47499411",
+    "via": "P170+題名",
+    "label": "America",
+    "y": [
+     2016
+    ],
+    "mu": [
+     "Solomon R. Guggenheim Museum"
+    ]
+   }
+  },
+  "s1692": {
+   "src_url": "https://en.wikipedia.org/wiki/Comedian_(artwork)",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q77715187",
+    "via": "P170+題名",
+    "label": "Comedian",
+    "y": [
+     2019
+    ],
+    "mu": []
+   }
+  },
+  "s1693": {
+   "src_url": "https://en.wikipedia.org/wiki/L.O.V.E._(Cattelan)",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q16570025",
+    "via": "P170+題名",
+    "label": "L.O.V.E.",
+    "y": [
+     2010
+    ],
+    "mu": []
+   }
+  },
+  "s1695": {
+   "src_url": "https://en.wikipedia.org/wiki/Hahn/Cock",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q14997361",
+    "via": "P170+題名",
+    "label": "Hahn/Cock",
+    "y": [
+     2010
+    ],
+    "mu": []
+   }
+  },
+  "s1700": {
+   "src_url": "https://de.wikipedia.org/wiki/Vater_Staat_(Thomas_Schütte)",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q56297019",
+    "via": "P170+題名",
+    "label": "Vater Staat",
+    "y": [
+     2007
+    ],
+    "mu": []
+   }
+  },
+  "s1703": {
+   "src_url": "https://www.wikidata.org/wiki/Q20898203",
+   "src": "Wikidata",
+   "wd": {
+    "q": "Q20898203",
+    "via": "P170+題名",
+    "label": "Double Bind",
+    "y": [
+     2001
+    ],
+    "mu": []
+   }
+  },
+  "s1713": {
+   "src_url": "http://jeffkoons.com/exhibitions/solo/puppy-bilbao",
+   "src": "Museum",
+   "wd": {
+    "q": "Q6093292",
+    "via": "P170+題名",
+    "label": "Puppy",
+    "y": [
+     1992
+    ],
+    "mu": [
+     "Guggenheim Museum Bilbao"
+    ]
+   }
+  },
+  "s1714": {
+   "src_url": "https://en.wikipedia.org/wiki/Rabbit_(Koons)",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q65090699",
+    "via": "P170+題名",
+    "label": "Rabbit",
+    "y": [
+     1986
+    ],
+    "mu": []
+   }
+  },
+  "s1715": {
+   "src_url": "https://www.sfmoma.org/artwork/91-1/",
+   "src": "Museum",
+   "wd": {
+    "q": "Q1928002",
+    "via": "P170+題名",
+    "label": "Michael Jackson and Bubbles",
+    "y": [
+     1988
+    ],
+    "mu": [
+     "San Francisco Museum of Modern Art",
+     "The Broad",
+     "Astrup Fearnley Museum of Modern Art"
+    ]
+   }
+  },
+  "s1716": {
+   "src_url": "https://en.wikipedia.org/wiki/Bouquet_of_Tulips",
+   "src": "Wikipedia",
+   "wd": {
+    "q": "Q47686171",
+    "via": "P170+題名",
+    "label": "Bouquet of Tulips",
+    "y": [
+     2019
+    ],
+    "mu": []
+   }
+  }
+ },
+ "evidence": {
+  "s0828": "https://www.wikidata.org/wiki/Q7719555（題名相似 1.00、作者相符、年代相符）；連結來源：en.wikipedia 條目",
+  "s0835": "https://www.wikidata.org/wiki/Q60781306（題名相似 0.77、作者相符、年代相符）；連結來源：P973 官方頁",
+  "s0888": "https://www.wikidata.org/wiki/Q4960543（題名相似 1.00、作者相符、年代相符）；連結來源：en.wikipedia 條目",
+  "s0889": "https://www.wikidata.org/wiki/Q127587112（題名相似 1.00、作者相符、年代相符、材質相符）；連結來源：P973 官方頁",
+  "s0891": "https://www.wikidata.org/wiki/Q56273669（題名相似 0.85、作者相符、年代相符、館藏相符、材質相符）；連結來源：P973 官方頁",
+  "s0910": "https://www.wikidata.org/wiki/Q17182277（題名相似 1.00、作者相符、年代相符、材質相符）；連結來源：en.wikipedia 條目",
+  "s0911": "https://www.wikidata.org/wiki/Q7284860（題名相似 0.78、作者相符、年代相符、館藏相符）；連結來源：en.wikipedia 條目",
+  "s0915": "https://www.wikidata.org/wiki/Q5311447（題名相似 1.00、作者相符、年代相符、材質相符）；連結來源：en.wikipedia 條目",
+  "s0926": "https://www.wikidata.org/wiki/Q126717760（題名相似 0.75、作者相符、材質相符）；連結來源：P973 官方頁",
+  "s0927": "https://www.wikidata.org/wiki/Q117837922（題名相似 1.00、作者相符、年代相符、材質相符）；連結來源：Wikidata 條目",
+  "s0956": "https://www.wikidata.org/wiki/Q130375111（題名相似 1.00、作者相符、年代相符）；連結來源：P973 官方頁",
+  "s0966": "https://www.wikidata.org/wiki/Q2869431（題名相似 1.00、作者相符、年代相符、館藏相符、材質相符）；連結來源：en.wikipedia 條目",
+  "s0968": "https://www.wikidata.org/wiki/Q125750141（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：Wikidata 條目",
+  "s0991": "https://www.wikidata.org/wiki/Q3067736（題名相似 0.82、作者相符、年代相符）；連結來源：fr.wikipedia 條目",
+  "s0993": "https://www.wikidata.org/wiki/Q79961（題名相似 1.00、作者相符、館藏相符）；連結來源：館藏 ID（P1669 Cultural Objects Names Authority ID）",
+  "s0995": "https://www.wikidata.org/wiki/Q18147657（題名相似 0.95、作者相符）；連結來源：館藏 ID（P9394 Louvre Museum ARK ID）",
+  "s0997": "https://www.wikidata.org/wiki/Q139002025（題名相似 1.00、作者相符、館藏相符）；連結來源：館藏 ID（P4814 Inventories of American Painting and Sculpture control number）",
+  "s1001": "https://www.wikidata.org/wiki/Q134884668（題名相似 1.00、作者相符）；連結來源：館藏 ID（P4737 Solomon R. Guggenheim Foundation artwork ID）",
+  "s1002": "https://www.wikidata.org/wiki/Q6591122（題名相似 1.00、作者相符、年代相符、材質相符）；連結來源：P973 官方頁",
+  "s1005": "https://www.wikidata.org/wiki/Q134889081（題名相似 1.00、作者相符）；連結來源：館藏 ID（P4737 Solomon R. Guggenheim Foundation artwork ID）",
+  "s1007": "https://www.wikidata.org/wiki/Q20198891（題名相似 1.00、作者相符、年代相符）；連結來源：館藏 ID（P3634 The Met object ID）",
+  "s1011": "https://www.wikidata.org/wiki/Q76626706（題名相似 0.85、作者相符、年代相符、材質相符）；連結來源：P973 官方頁",
+  "s1027": "https://www.wikidata.org/wiki/Q1219934（題名相似 1.00、作者相符、年代相符、館藏不同、材質相符）；連結來源：en.wikipedia 條目",
+  "s1035": "https://www.wikidata.org/wiki/Q4996526（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：館藏 ID（P6358 Musée Picasso artwork ID）",
+  "s1037": "https://www.wikidata.org/wiki/Q16949887（題名相似 1.00、作者相符、館藏相符）；連結來源：館藏 ID（P2014 Museum of Modern Art work ID）",
+  "s1039": "https://www.wikidata.org/wiki/Q5095736（題名相似 1.00、作者相符、年代相符）；連結來源：en.wikipedia 條目",
+  "s1063": "https://www.wikidata.org/wiki/Q117341490（題名相似 1.00、作者相符、年代相符、材質相符）；連結來源：Wikidata 條目",
+  "s1067": "https://www.wikidata.org/wiki/Q48807640（題名相似 1.00、作者相符）；連結來源：it.wikipedia 條目",
+  "s1077": "https://www.wikidata.org/wiki/Q22117471（題名相似 0.85、作者相符、年代相符、館藏相符）；連結來源：館藏 ID（P1679 Art UK artwork ID）",
+  "s1081": "https://www.wikidata.org/wiki/Q61793463（題名相似 0.87、作者相符、年代相符、館藏相符）；連結來源：P973 官方頁",
+  "s1083": "https://www.wikidata.org/wiki/Q61793463（題名相似 0.94、作者相符、年代相符）；連結來源：P973 官方頁",
+  "s1108": "https://www.wikidata.org/wiki/Q80182520（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：P973 官方頁",
+  "s1111": "https://www.wikidata.org/wiki/Q2915336（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：館藏 ID（P4643 Philadelphia Museum of Art work ID）",
+  "s1112": "https://www.wikidata.org/wiki/Q1750656（題名相似 1.00、作者相符、館藏相符）；連結來源：館藏 ID（P4643 Philadelphia Museum of Art work ID）",
+  "s1113": "https://www.wikidata.org/wiki/Q2720294（題名相似 1.00、作者相符、年代相符）；連結來源：P973 官方頁",
+  "s1114": "https://www.wikidata.org/wiki/Q91929185（題名相似 1.00、作者相符、年代相符）；連結來源：P973 官方頁",
+  "s1116": "https://www.wikidata.org/wiki/Q80174269（題名相似 1.00、作者相符、年代相符）；連結來源：P973 官方頁",
+  "s1118": "https://www.wikidata.org/wiki/Q80183864（題名相似 1.00、作者相符、年代相符）；連結來源：P973 官方頁",
+  "s1141": "https://www.wikidata.org/wiki/Q90602935（題名相似 1.00、作者相符、年代相符）；連結來源：en.wikipedia 條目",
+  "s1142": "https://www.wikidata.org/wiki/Q63854304（題名相似 0.96、作者相符、年代相符、材質相符）；連結來源：館藏 ID（P4683 National Gallery of Art artwork ID）",
+  "s1144": "https://www.wikidata.org/wiki/Q63854300（題名相似 1.00、作者相符、年代相符、材質相符）；連結來源：館藏 ID（P4683 National Gallery of Art artwork ID）",
+  "s1145": "https://www.wikidata.org/wiki/Q124734204（題名相似 1.00、作者相符、年代相符）；連結來源：P973 官方頁",
+  "s1148": "https://www.wikidata.org/wiki/Q7755929（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：館藏 ID（P2014 Museum of Modern Art work ID）",
+  "s1150": "https://www.wikidata.org/wiki/Q63854299（題名相似 1.00、作者相符、年代相符、材質相符）；連結來源：館藏 ID（P4683 National Gallery of Art artwork ID）",
+  "s1158": "https://www.wikidata.org/wiki/Q128312580（題名相似 1.00、作者相符、年代相符、材質相符）；連結來源：Wikidata 條目",
+  "s1159": "https://www.wikidata.org/wiki/Q28218656（題名相似 1.00、作者相符、年代相符、材質相符）；連結來源：P973 官方頁",
+  "s1161": "https://www.wikidata.org/wiki/Q17986845（題名相似 1.00、作者相符、年代相符）；連結來源：P973 官方頁",
+  "s1163": "https://www.wikidata.org/wiki/Q137669110（題名相似 1.00、作者相符、年代相符、材質相符）；連結來源：館藏 ID（P4610 ARTIC artwork ID）",
+  "s1164": "https://www.wikidata.org/wiki/Q195159（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：en.wikipedia 條目",
+  "s1166": "https://www.wikidata.org/wiki/Q593202（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：P973 官方頁",
+  "s1167": "https://www.wikidata.org/wiki/Q3054192（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：館藏 ID（P4814 Inventories of American Painting and Sculpture control number）",
+  "s1168": "https://www.wikidata.org/wiki/Q23459543（題名相似 1.00、作者相符、年代相符）；連結來源：館藏 ID（P2014 Museum of Modern Art work ID）",
+  "s1170": "https://www.wikidata.org/wiki/Q2919779（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：館藏 ID（P2014 Museum of Modern Art work ID）",
+  "s1173": "https://www.wikidata.org/wiki/Q80183811（題名相似 1.00、作者相符）；連結來源：P973 官方頁",
+  "s1174": "https://www.wikidata.org/wiki/Q2027080（題名相似 0.86、作者相符、年代相符、館藏相符）；連結來源：de.wikipedia 條目",
+  "s1175": "https://www.wikidata.org/wiki/Q60173948（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：館藏 ID（P4761 Images d'Art artwork ID）",
+  "s1179": "https://www.wikidata.org/wiki/Q20190159（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：館藏 ID（P3634 The Met object ID）",
+  "s1181": "https://www.wikidata.org/wiki/Q4921944（題名相似 1.00、作者相符）；連結來源：en.wikipedia 條目",
+  "s1184": "https://www.wikidata.org/wiki/Q136813057（題名相似 1.00、作者相符、年代相符）；連結來源：en.wikipedia 條目",
+  "s1187": "https://www.wikidata.org/wiki/Q124359275（題名相似 0.75、作者相符、年代相符）；連結來源：P973 官方頁",
+  "s1189": "https://www.wikidata.org/wiki/Q3220192（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：en.wikipedia 條目",
+  "s1190": "https://www.wikidata.org/wiki/Q17035475（題名相似 1.00、作者相符、年代相符）；連結來源：en.wikipedia 條目",
+  "s1191": "https://www.wikidata.org/wiki/Q9076685（題名相似 1.00、作者相符、年代相符）；連結來源：fr.wikipedia 條目",
+  "s1194": "https://www.wikidata.org/wiki/Q2381632（題名相似 1.00、作者相符、年代相符、館藏相符、材質相符）；連結來源：館藏 ID（P2014 Museum of Modern Art work ID）",
+  "s1196": "https://www.wikidata.org/wiki/Q2628659（題名相似 1.00、作者相符、年代相符）；連結來源：館藏 ID（P2014 Museum of Modern Art work ID）",
+  "s1197": "https://www.wikidata.org/wiki/Q2443657（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：de.wikipedia 條目",
+  "s1198": "https://www.wikidata.org/wiki/Q9031865（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：de.wikipedia 條目",
+  "s1200": "https://www.wikidata.org/wiki/Q84557208（題名相似 1.00、作者相符）；連結來源：Wikidata 條目",
+  "s1201": "https://www.wikidata.org/wiki/Q24962902（題名相似 1.00、作者相符、館藏相符）；連結來源：en.wikipedia 條目",
+  "s1202": "https://www.wikidata.org/wiki/Q19759592（題名相似 0.85、作者相符、館藏相符、材質相符）；連結來源：P973 官方頁",
+  "s1204": "https://www.wikidata.org/wiki/Q19759058（題名相似 1.00、作者相符、年代相符、館藏相符、材質相符）；連結來源：P973 官方頁",
+  "s1205": "https://www.wikidata.org/wiki/Q19691893（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：P973 官方頁",
+  "s1206": "https://www.wikidata.org/wiki/Q19758963（題名相似 1.00、作者相符、年代相符、館藏相符、材質相符）；連結來源：P973 官方頁",
+  "s1207": "https://www.wikidata.org/wiki/Q19759134（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：P973 官方頁",
+  "s1208": "https://www.wikidata.org/wiki/Q4355111（題名相似 1.00、作者相符、年代相符、館藏相符、材質相符）；連結來源：P973 官方頁",
+  "s1209": "https://www.wikidata.org/wiki/Q19759062（題名相似 1.00、作者相符、年代相符、館藏相符、材質相符）；連結來源：P973 官方頁",
+  "s1212": "https://www.wikidata.org/wiki/Q19759380（題名相似 1.00、作者相符、年代相符、館藏相符、材質相符）；連結來源：P973 官方頁",
+  "s1215": "https://www.wikidata.org/wiki/Q19759281（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：P973 官方頁",
+  "s1216": "https://www.wikidata.org/wiki/Q60575489（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：en.wikipedia 條目",
+  "s1217": "https://www.wikidata.org/wiki/Q16903550（題名相似 1.00、作者相符、年代相符）；連結來源：en.wikipedia 條目",
+  "s1219": "https://www.wikidata.org/wiki/Q140517680（題名相似 1.00、作者相符、年代相符、材質相符）；連結來源：P973 官方頁",
+  "s1224": "https://www.wikidata.org/wiki/Q26525156（題名相似 1.00、作者相符、年代相符）；連結來源：Wikidata 條目",
+  "s1225": "https://www.wikidata.org/wiki/Q27436668（題名相似 1.00、作者相符、館藏相符）；連結來源：館藏 ID（P1679 Art UK artwork ID）",
+  "s1231": "https://www.wikidata.org/wiki/Q12432989（題名相似 0.97、作者相符、館藏相符）；連結來源：en.wikipedia 條目",
+  "s1241": "https://www.wikidata.org/wiki/Q120966619（題名相似 1.00、作者相符、年代相符）；連結來源：館藏 ID（P4704 Smithsonian American Art Museum artwork ID）",
+  "s1250": "https://www.wikidata.org/wiki/Q140479203（題名相似 0.89、作者相符）；連結來源：fr.wikipedia 條目",
+  "s1260": "https://www.wikidata.org/wiki/Q5905578（題名相似 1.00、作者相符、館藏相符）；連結來源：en.wikipedia 條目",
+  "s1261": "https://www.wikidata.org/wiki/Q1880574（題名相似 0.78、作者相符、年代相符、材質相符）；連結來源：de.wikipedia 條目",
+  "s1263": "https://www.wikidata.org/wiki/Q104959660（題名相似 1.00、作者相符、材質相符）；連結來源：館藏 ID（P8335 Uffizi artwork ID）",
+  "s1267": "https://www.wikidata.org/wiki/Q27615820（題名相似 1.00、作者相符、年代相符、材質相符）；連結來源：P973 官方頁",
+  "s1287": "https://www.wikidata.org/wiki/Q25291883（題名相似 1.00、作者相符、年代相符、館藏相符、材質相符）；連結來源：en.wikipedia 條目",
+  "s1288": "https://www.wikidata.org/wiki/Q27924409（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：館藏 ID（P1679 Art UK artwork ID）",
+  "s1293": "https://www.wikidata.org/wiki/Q97512010（題名相似 1.00、作者相符、年代相符）；連結來源：de.wikipedia 條目",
+  "s1295": "https://www.wikidata.org/wiki/Q17531634（題名相似 1.00、作者相符、年代相符、館藏不同、材質相符）；連結來源：館藏 ID（P1679 Art UK artwork ID）",
+  "s1313": "https://www.wikidata.org/wiki/Q67080041（題名相似 1.00、作者相符、年代相符）；連結來源：es.wikipedia 條目",
+  "s1330": "https://www.wikidata.org/wiki/Q63854661（題名相似 0.95、作者相符、年代相符）；連結來源：館藏 ID（P4683 National Gallery of Art artwork ID）",
+  "s1350": "https://www.wikidata.org/wiki/Q4788380（題名相似 1.00、作者相符、年代相符）；連結來源：en.wikipedia 條目",
+  "s1356": "https://www.wikidata.org/wiki/Q20198982（題名相似 1.00、作者相符、材質相符）；連結來源：館藏 ID（P3634 The Met object ID）",
+  "s1358": "https://www.wikidata.org/wiki/Q58207638（題名相似 1.00、作者相符、年代相符）；連結來源：館藏 ID（P1679 Art UK artwork ID）",
+  "s1360": "https://www.wikidata.org/wiki/Q133877771（題名相似 1.00、作者相符）；連結來源：Wikidata 條目",
+  "s1365": "https://www.wikidata.org/wiki/Q1586452（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：es.wikipedia 條目",
+  "s1366": "https://www.wikidata.org/wiki/Q6663853（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：館藏 ID（P2014 Museum of Modern Art work ID）",
+  "s1367": "https://www.wikidata.org/wiki/Q6462864（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：en.wikipedia 條目",
+  "s1368": "https://www.wikidata.org/wiki/Q3073296（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：館藏 ID（P4814 Inventories of American Painting and Sculpture control number）",
+  "s1369": "https://www.wikidata.org/wiki/Q63854311（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：館藏 ID（P4683 National Gallery of Art artwork ID）",
+  "s1370": "https://www.wikidata.org/wiki/Q2974254（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：en.wikipedia 條目",
+  "s1371": "https://www.wikidata.org/wiki/Q3983835（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：館藏 ID（P2014 Museum of Modern Art work ID）",
+  "s1372": "https://www.wikidata.org/wiki/Q16303783（題名相似 1.00、作者相符、年代相符）；連結來源：fr.wikipedia 條目",
+  "s1375": "https://www.wikidata.org/wiki/Q281309（題名相似 1.00、作者相符、年代相符）；連結來源：P973 官方頁",
+  "s1376": "https://www.wikidata.org/wiki/Q5072789（題名相似 1.00、作者相符、年代相符）；連結來源：en.wikipedia 條目",
+  "s1377": "https://www.wikidata.org/wiki/Q683514（題名相似 1.00、作者相符）；連結來源：fr.wikipedia 條目",
+  "s1388": "https://www.wikidata.org/wiki/Q18156039（題名相似 0.80、作者相符、館藏相符）；連結來源：Wikidata 條目",
+  "s1391": "https://www.wikidata.org/wiki/Q19362949（題名相似 1.00、作者相符）；連結來源：Wikidata 條目",
+  "s1394": "https://www.wikidata.org/wiki/Q5451545（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：館藏 ID（P5223 Information Center for Israeli Art artwork ID）",
+  "s1404": "https://www.wikidata.org/wiki/Q4178639（題名相似 1.00、作者相符、年代相符）；連結來源：en.wikipedia 條目",
+  "s1418": "https://www.wikidata.org/wiki/Q5384716（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：en.wikipedia 條目",
+  "s1428": "https://www.wikidata.org/wiki/Q65567394（題名相似 0.84、作者相符、年代相符）；連結來源：館藏 ID（P4683 National Gallery of Art artwork ID）",
+  "s1429": "https://www.wikidata.org/wiki/Q65567394（題名相似 1.00、作者相符）；連結來源：館藏 ID（P4683 National Gallery of Art artwork ID）",
+  "s1434": "https://www.wikidata.org/wiki/Q5111614（題名相似 1.00、作者相符）；連結來源：nl.wikipedia 條目",
+  "s1445": "https://www.wikidata.org/wiki/Q63864121（題名相似 1.00、作者相符、年代相符）；連結來源：館藏 ID（P4683 National Gallery of Art artwork ID）",
+  "s1447": "https://www.wikidata.org/wiki/Q122933492（題名相似 1.00、作者相符、年代相符）；連結來源：館藏 ID（P4704 Smithsonian American Art Museum artwork ID）",
+  "s1449": "https://www.wikidata.org/wiki/Q77540047（題名相似 1.00、作者相符、年代相符）；連結來源：P973 官方頁",
+  "s1452": "https://www.wikidata.org/wiki/Q97378884（題名相似 1.00、作者相符、年代相符、館藏不同）；連結來源：Wikidata 條目",
+  "s1454": "https://www.wikidata.org/wiki/Q5135560（題名相似 1.00、作者相符、年代相符）；連結來源：en.wikipedia 條目",
+  "s1455": "https://www.wikidata.org/wiki/Q6557071（題名相似 1.00、作者相符、年代相符）；連結來源：en.wikipedia 條目",
+  "s1457": "https://www.wikidata.org/wiki/Q18084731（題名相似 0.96、作者相符、年代相符、館藏相符）；連結來源：Wikidata 條目",
+  "s1458": "https://www.wikidata.org/wiki/Q7860970（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：館藏 ID（P4683 National Gallery of Art artwork ID）",
+  "s1462": "https://www.wikidata.org/wiki/Q16270988（題名相似 1.00、作者相符、館藏相符、材質相符）；連結來源：en.wikipedia 條目",
+  "s1465": "https://www.wikidata.org/wiki/Q17089609（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：en.wikipedia 條目",
+  "s1467": "https://www.wikidata.org/wiki/Q118901126（題名相似 1.00、作者相符）；連結來源：en.wikipedia 條目",
+  "s1471": "https://www.wikidata.org/wiki/Q281309（題名相似 1.00、作者相符、年代相符）；連結來源：P973 官方頁",
+  "s1472": "https://www.wikidata.org/wiki/Q949846（題名相似 1.00、作者相符、年代相符、館藏不同）；連結來源：館藏 ID（P13023 HA! artwork ID）",
+  "s1473": "https://www.wikidata.org/wiki/Q439104（題名相似 1.00、作者相符）；連結來源：fr.wikipedia 條目",
+  "s1486": "https://www.wikidata.org/wiki/Q56717881（題名相似 1.00、作者相符、年代相符）；連結來源：fr.wikipedia 條目",
+  "s1487": "https://www.wikidata.org/wiki/Q60189668（題名相似 0.76、作者相符、年代相符、館藏相符）；連結來源：館藏 ID（P6355 MNAM artwork ID）",
+  "s1488": "https://www.wikidata.org/wiki/Q2377453（題名相似 1.00、作者相符、年代相符、材質相符）；連結來源：fr.wikipedia 條目",
+  "s1489": "https://www.wikidata.org/wiki/Q6901603（題名相似 1.00、作者相符、年代相符、館藏不同）；連結來源：en.wikipedia 條目",
+  "s1490": "https://www.wikidata.org/wiki/Q19887473（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：館藏 ID（P2014 Museum of Modern Art work ID）",
+  "s1491": "https://www.wikidata.org/wiki/Q61641547（題名相似 1.00、作者相符、年代相符）；連結來源：Wikidata 條目",
+  "s1495": "https://www.wikidata.org/wiki/Q62470192（題名相似 1.00、作者相符）；連結來源：館藏 ID（P4704 Smithsonian American Art Museum artwork ID）",
+  "s1496": "https://www.wikidata.org/wiki/Q19921134（題名相似 1.00、作者相符、年代相符）；連結來源：館藏 ID（P3634 The Met object ID）",
+  "s1500": "https://www.wikidata.org/wiki/Q124212395（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：P973 官方頁",
+  "s1503": "https://www.wikidata.org/wiki/Q2840147（題名相似 1.00、作者相符、館藏相符）；連結來源：en.wikipedia 條目",
+  "s1505": "https://www.wikidata.org/wiki/Q127586792（題名相似 0.85、作者相符、年代相符）；連結來源：P973 官方頁",
+  "s1508": "https://www.wikidata.org/wiki/Q24038427（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：Wikidata 條目",
+  "s1509": "https://www.wikidata.org/wiki/Q22712390（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：en.wikipedia 條目",
+  "s1517": "https://www.wikidata.org/wiki/Q77541185（題名相似 1.00、作者相符、年代相符）；連結來源：P973 官方頁",
+  "s1531": "https://www.wikidata.org/wiki/Q63860607（題名相似 1.00、作者相符）；連結來源：館藏 ID（P4683 National Gallery of Art artwork ID）",
+  "s1540": "https://www.wikidata.org/wiki/Q3037476（題名相似 1.00、作者相符、年代相符）；連結來源：en.wikipedia 條目",
+  "s1541": "https://www.wikidata.org/wiki/Q5123007（題名相似 1.00、作者相符、年代相符）；連結來源：en.wikipedia 條目",
+  "s1542": "https://www.wikidata.org/wiki/Q3237234（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：en.wikipedia 條目",
+  "s1544": "https://www.wikidata.org/wiki/Q3330442（題名相似 1.00、作者相符、年代相符）；連結來源：en.wikipedia 條目",
+  "s1545": "https://www.wikidata.org/wiki/Q3522014（題名相似 1.00、作者相符、年代相符）；連結來源：en.wikipedia 條目",
+  "s1546": "https://www.wikidata.org/wiki/Q3520125（題名相似 1.00、作者相符、年代相符）；連結來源：en.wikipedia 條目",
+  "s1547": "https://www.wikidata.org/wiki/Q3523204（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：en.wikipedia 條目",
+  "s1548": "https://www.wikidata.org/wiki/Q3503766（題名相似 1.00、年代相符、館藏相符）；連結來源：fr.wikipedia 條目",
+  "s1551": "https://www.wikidata.org/wiki/Q85739187（題名相似 1.00、作者相符）；連結來源：en.wikipedia 條目",
+  "s1555": "https://www.wikidata.org/wiki/Q17354234（題名相似 1.00、年代相符、館藏相符）；連結來源：P973 官方頁",
+  "s1560": "https://www.wikidata.org/wiki/Q56877287（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：P973 官方頁",
+  "s1578": "https://www.wikidata.org/wiki/Q18543210（題名相似 1.00、作者相符、年代相符）；連結來源：P973 官方頁",
+  "s1580": "https://www.wikidata.org/wiki/Q18543210（題名相似 1.00、作者相符、年代相符）；連結來源：P973 官方頁",
+  "s1594": "https://www.wikidata.org/wiki/Q3845200（題名相似 1.00、作者相符）；連結來源：it.wikipedia 條目",
+  "s1605": "https://www.wikidata.org/wiki/Q1757822（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：en.wikipedia 條目",
+  "s1610": "https://www.wikidata.org/wiki/Q261274（題名相似 1.00、作者相符、年代相符）；連結來源：en.wikipedia 條目",
+  "s1612": "https://www.wikidata.org/wiki/Q122983529（題名相似 0.76、作者相符、年代相符、館藏相符）；連結來源：館藏 ID（P8948 Pinakothek artwork ID）",
+  "s1613": "https://www.wikidata.org/wiki/Q2099501（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：館藏 ID（P6355 MNAM artwork ID）",
+  "s1615": "https://www.wikidata.org/wiki/Q2568137（題名相似 1.00、作者相符、年代相符）；連結來源：en.wikipedia 條目",
+  "s1616": "https://www.wikidata.org/wiki/Q2415523（題名相似 1.00、作者相符、年代相符）；連結來源：de.wikipedia 條目",
+  "s1617": "https://www.wikidata.org/wiki/Q589099（題名相似 1.00、年代相符、館藏相符）；連結來源：en.wikipedia 條目",
+  "s1619": "https://www.wikidata.org/wiki/Q631871（題名相似 1.00、年代相符、館藏相符）；連結來源：en.wikipedia 條目",
+  "s1630": "https://www.wikidata.org/wiki/Q17146854（題名相似 1.00、作者相符、年代相符）；連結來源：館藏 ID（P2014 Museum of Modern Art work ID）",
+  "s1631": "https://www.wikidata.org/wiki/Q869983（題名相似 1.00、作者相符、年代相符）；連結來源：en.wikipedia 條目",
+  "s1636": "https://www.wikidata.org/wiki/Q38973（題名相似 1.00、作者相符、年代相符）；連結來源：en.wikipedia 條目",
+  "s1637": "https://www.wikidata.org/wiki/Q6400207（題名相似 1.00、作者相符、年代相符）；連結來源：en.wikipedia 條目",
+  "s1638": "https://www.wikidata.org/wiki/Q96622245（題名相似 1.00、作者相符、年代相符）；連結來源：P973 官方頁",
+  "s1639": "https://www.wikidata.org/wiki/Q1428547（題名相似 1.00、作者相符、年代相符、館藏相符、材質相符）；連結來源：en.wikipedia 條目",
+  "s1641": "https://www.wikidata.org/wiki/Q10683893（題名相似 1.00、作者相符、年代相符）；連結來源：P973 官方頁",
+  "s1642": "https://www.wikidata.org/wiki/Q50385648（題名相似 1.00、作者相符）；連結來源：館藏 ID（P4684 National Gallery of Victoria artwork ID）",
+  "s1644": "https://www.wikidata.org/wiki/Q5121456（題名相似 1.00、作者相符、材質相符）；連結來源：en.wikipedia 條目",
+  "s1648": "https://www.wikidata.org/wiki/Q24038428（題名相似 1.00、作者相符、館藏相符）；連結來源：Wikidata 條目",
+  "s1649": "https://www.wikidata.org/wiki/Q7496041（題名相似 1.00、作者相符、年代相符、館藏不同）；連結來源：en.wikipedia 條目",
+  "s1654": "https://www.wikidata.org/wiki/Q22672619（題名相似 1.00、作者相符、年代相符、館藏不同）；連結來源：P973 官方頁",
+  "s1655": "https://www.wikidata.org/wiki/Q2476049（題名相似 1.00、作者相符、年代相符、館藏不同）；連結來源：en.wikipedia 條目",
+  "s1659": "https://www.wikidata.org/wiki/Q20890871（題名相似 0.97、作者相符、年代相符）；連結來源：P973 官方頁",
+  "s1670": "https://www.wikidata.org/wiki/Q1180793（題名相似 1.00、作者相符）；連結來源：de.wikipedia 條目",
+  "s1675": "https://www.wikidata.org/wiki/Q1325290（題名相似 1.00、作者相符、年代相符、館藏不同）；連結來源：en.wikipedia 條目",
+  "s1676": "https://www.wikidata.org/wiki/Q2254357（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：en.wikipedia 條目",
+  "s1679": "https://www.wikidata.org/wiki/Q4218496（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：en.wikipedia 條目",
+  "s1682": "https://www.wikidata.org/wiki/Q28836979（題名相似 1.00、作者相符、年代相符、館藏不同、材質相符）；連結來源：Wikidata 條目",
+  "s1684": "https://www.wikidata.org/wiki/Q96882324（題名相似 1.00、作者相符、年代相符、材質相符）；連結來源：Wikidata 條目",
+  "s1690": "https://www.wikidata.org/wiki/Q3211100（題名相似 1.00、作者相符、年代相符）；連結來源：館藏 ID（P3783 Christie's object ID）",
+  "s1691": "https://www.wikidata.org/wiki/Q47499411（題名相似 1.00、作者相符、年代相符、材質相符）；連結來源：P973 官方頁",
+  "s1692": "https://www.wikidata.org/wiki/Q77715187（題名相似 1.00、作者相符、年代相符）；連結來源：en.wikipedia 條目",
+  "s1693": "https://www.wikidata.org/wiki/Q16570025（題名相似 1.00、作者相符、年代相符、材質相符）；連結來源：en.wikipedia 條目",
+  "s1695": "https://www.wikidata.org/wiki/Q14997361（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：en.wikipedia 條目",
+  "s1700": "https://www.wikidata.org/wiki/Q56297019（題名相似 1.00、作者相符、年代相符）；連結來源：de.wikipedia 條目",
+  "s1703": "https://www.wikidata.org/wiki/Q20898203（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：Wikidata 條目",
+  "s1713": "https://www.wikidata.org/wiki/Q6093292（題名相似 1.00、作者相符、年代相符、館藏相符）；連結來源：P973 官方頁",
+  "s1714": "https://www.wikidata.org/wiki/Q65090699（題名相似 1.00、作者相符、年代相符）；連結來源：en.wikipedia 條目",
+  "s1715": "https://www.wikidata.org/wiki/Q1928002（題名相似 1.00、作者相符、年代相符）；連結來源：P973 官方頁",
+  "s1716": "https://www.wikidata.org/wiki/Q47686171（題名相似 1.00、作者相符、年代相符、館藏不同）；連結來源：en.wikipedia 條目"
+ }
+}
