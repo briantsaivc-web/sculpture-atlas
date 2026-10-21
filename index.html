@@ -498,6 +498,9 @@ applyFilter();qRecordText();
 document.getElementById('foot').textContent=D.foot;
 buildIndex();
 try{const t=localStorage.getItem('ah.tab');if(t&&document.getElementById('v-'+t)&&t!=='list')show(t)}catch(e){}
+/* deep link: #work/<id>（姊妹站連入） */
+const goHash=()=>{const m=location.hash.match(/^#work\/([\w.-]+)/);if(m&&W.some(w=>w.id===m[1]))openLb(m[1],W)};
+goHash();window.addEventListener('hashchange',goHash);
 }
 main().catch(e=>{document.querySelector('main').insertAdjacentHTML('afterbegin',`<p class="lead" style="color:var(--danger)">資料載入失敗：${e.message}。若是直接雙擊開啟 index.html，瀏覽器會擋 fetch，請透過 GitHub Pages 或本機 http 伺服器開啟。</p>`)});
 </script>
