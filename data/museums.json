@@ -725,7 +725,7 @@
   "zh": "聖但尼聖殿",
   "city": "Saint-Denis",
   "country": "法國",
-  "count": 5
+  "count": 6
  },
  "palazzo_pubblico_siena": {
   "en": "Palazzo Pubblico, Siena",
@@ -4225,7 +4225,7 @@
   "zh": "收藏地不詳",
   "city": "",
   "country": "",
-  "count": 1118
+  "count": 1119
  },
  "lost": {
   "en": "Lost",
@@ -4278,7 +4278,7 @@
  },
  "museum_of_the_collegiate_church_of_sant_andrea": {
   "en": "Museum of the Collegiate Church of Sant’Andrea",
-  "zh": "恩波利聖安德肋學院教堂博物館",
+  "zh": "恩波利聖安德肋教堂博物館",
   "city": "恩波利",
   "country": "義大利",
   "count": 2
@@ -4778,7 +4778,7 @@
   "zh": "柏林國家博物館",
   "city": "柏林",
   "country": "德國",
-  "count": 4
+  "count": 5
  },
  "national_museum_of_sculpture": {
   "en": "National Museum of Sculpture",
@@ -5359,7 +5359,7 @@
   "zh": "柏林畫廊",
   "city": "柏林",
   "country": "德國",
-  "count": 1
+  "count": 2
  },
  "fondation_ernst_barlach": {
   "en": "Fondation Ernst Barlach",

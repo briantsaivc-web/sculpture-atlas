@@ -146,9 +146,9 @@
   "src": "Commons",
   "src_url": "https://commons.wikimedia.org/wiki/File:National_Archaeological_Museum_of_Naples_-_Tyrannicide_group_-_Harmodius_and_Aristogeiton.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Archaeological%20Museum%20of%20Naples%20-%20Tyrannicide%20group%20-%20Harmodius%20and%20Aristogeiton.jpg?width=1000",
-  "verif": "圖為後世（多為羅馬時期）複製品，非原作（原作已佚失）。以 Wikidata 配對作品條目 Q3250992（題名相似 1.00、作者相符、年代相符、材質相符），圖取自 P18（Commons 檔案 National Archaeological Museum of Naples - Tyrannicide group - Harmodius and Aristogeiton.jpg，授權 CC BY 2.0），2026-10-20 下載轉檔",
+  "verif": "圖為第二組（克里提奧斯與涅西奧特斯，前477年）之羅馬大理石複製品；安特諾爾所作第一組已佚，無複製品傳世。以 Wikidata 配對作品條目 Q3250992（題名相似 1.00、作者相符、年代相符、材質相符），圖取自 P18（Commons 檔案 National Archaeological Museum of Naples - Tyrannicide group - Harmodius and Aristogeiton.jpg，授權 CC BY 2.0），2026-10-20 下載轉檔",
   "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
-  "img_note": "圖為後世（多為羅馬時期）複製品，非原作（原作已佚失）",
+  "img_note": "圖為第二組（克里提奧斯與涅西奧特斯，前477年）之羅馬大理石複製品；安特諾爾所作第一組已佚，無複製品傳世",
   "wd": {
    "q": "Q3250992",
    "via": "P170+題名",
@@ -33369,9 +33369,9 @@
   "src": "Commons",
   "src_url": "https://commons.wikimedia.org/wiki/File:Kurt_Schwitters_1927.jpg",
   "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Kurt%20Schwitters%201927.jpg?width=1000",
-  "verif": "圖為後世（多為羅馬時期）複製品，非原作（原作已佚失）。以 Wikidata 配對作品條目 Q1922245（題名相似 1.00、作者相符），圖取自 en.wikipedia pageimage（Commons 檔案 Kurt Schwitters 1927.jpg，授權 Public domain），2026-10-20 下載轉檔",
+  "verif": "原作為《梅爾茲堡》的一部分，1943年毀於空襲；圖為留存照片或後世重建。以 Wikidata 配對作品條目 Q1922245（題名相似 1.00、作者相符），圖取自 en.wikipedia pageimage（Commons 檔案 Kurt Schwitters 1927.jpg，授權 Public domain），2026-10-20 下載轉檔",
   "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
-  "img_note": "圖為後世（多為羅馬時期）複製品，非原作（原作已佚失）",
+  "img_note": "原作為《梅爾茲堡》的一部分，1943年毀於空襲；圖為留存照片或後世重建",
   "wd": {
    "q": "Q1922245",
    "via": "P170+題名",
@@ -102679,13 +102679,13 @@
   "t": "Head of a Woman (Wooden Sculpture)",
   "z": "女子頭像（木雕）",
   "y": "1917",
-  "mu": "Alte Nationalgalerie, Berlin",
-  "mu_id": "alte_nationalgalerie_berlin",
+  "mu": "UNKNOWN",
+  "mu_id": "unknown",
   "mat": "木",
   "th": [
    "肖像／胸像"
   ],
-  "n": "橋社大師將表現主義木刻版畫的直率刀法帶入立體雕刻。直接在原木塊上斧劈鑿刻，融合非洲傳統面具的粗獷對稱與原創張力。",
+  "n": "橋社大師將表現主義木刻版畫的直率刀法帶入立體雕刻。直接在原木塊上斧劈鑿刻，融合非洲傳統面具的粗獷對稱與原創張力。（館藏待查。）",
   "pd": true,
   "tier": "canon"
  },
@@ -102693,101 +102693,16 @@
   "id": "s3152",
   "m": "expressionist_sculpture",
   "a": "Erich Heckel",
-  "t": "Standing Child (Crouching Figure)",
-  "z": "立著的孩子（蹲姿人像）",
-  "y": "1912",
+  "t": "Standing Child",
+  "z": "立著的孩子",
+  "y": "1910–1911",
   "mu": "Staatliche Museen zu Berlin",
   "mu_id": "staatliche_museen_zu_berlin",
   "mat": "木",
   "th": [
    "人體／裸體"
   ],
-  "n": "黑克爾最著名的表現主義原木彩繪雕刻。以刀斧削砍出清瘦脆弱的少年身形，保留天然木材的粗糙節理與肌理，洋溢真摯原始的情感。",
-  "pd": true,
-  "tier": "canon"
- },
- {
-  "id": "s3153",
-  "m": "art_deco_sculpture",
-  "a": "Gustave Miklos",
-  "t": "Standing Figure (Figure d'homme)",
-  "z": "立像（男人像）",
-  "y": "1928",
-  "mu": "Centre Pompidou, Paris",
-  "mu_id": "centre_pompidou_paris",
-  "mat": "青銅",
-  "th": [
-   "人體／裸體"
-  ],
-  "n": "巴黎裝飾藝術（Art Deco）大師巔峰之作。青銅表面打磨出流暢簡潔的垂直線條與拋光反光，將拜占庭聖像與非洲圖騰精煉為現代奢華形體。",
-  "pd": true,
-  "tier": "canon"
- },
- {
-  "id": "s3154",
-  "m": "futurism",
-  "a": "Enrico Prampolini",
-  "t": "Spatial Plastic Construction",
-  "z": "空間立體造型構成",
-  "y": "1915",
-  "mu": "Galleria Nazionale d'Arte Moderna, Rome",
-  "mu_id": "galleria_nazionale_d_arte_moderna_rome",
-  "mat": "混合媒材",
-  "th": [
-   "抽象／非具象"
-  ],
-  "n": "義大利未來主義「多媒材立體造型構成」（Plastic Dynamism）宣言實踐。結合木板、金屬、玻璃等多種工業材料，打破雕塑單一塊體限制。",
-  "pd": true,
-  "tier": "canon"
- },
- {
-  "id": "s3155",
-  "m": "futurism",
-  "a": "Ivo Pannaggi",
-  "t": "Mechanical Spatial Element",
-  "z": "機械空間構件",
-  "y": "1922",
-  "mu": "MART, Rovereto",
-  "mu_id": "mart_rovereto",
-  "mat": "鋼鐵",
-  "th": [
-   "抽象／非具象"
-  ],
-  "n": "義大利第二期未來主義機械美學代表。受包浩斯構成主義啟發，以冷硬鋼鐵機械幾何組件表達對速度、力量與工業時代的熱烈讚頌。",
-  "pd": true,
-  "tier": "canon"
- },
- {
-  "id": "s3156",
-  "m": "futurism",
-  "a": "Mino Rosso",
-  "t": "Motorcycle Speed and Dynamic Plasticity",
-  "z": "機車速度與動態立體造型",
-  "y": "1931",
-  "mu": "MART, Rovereto",
-  "mu_id": "mart_rovereto",
-  "mat": "青銅",
-  "th": [
-   "日常／風俗"
-  ],
-  "n": "未來主義雕塑大師米諾·羅索的名作。捕捉機車騎士在疾風中前傾的動態連續截面，以銳利的斜角青銅曲面展現「速度的空間痕跡」。",
-  "pd": true,
-  "tier": "canon"
- },
- {
-  "id": "s3157",
-  "m": "futurism",
-  "a": "Fillia",
-  "t": "Plastic Sensation of Flight",
-  "z": "飛行的立體感知",
-  "y": "1930",
-  "mu": "MART, Rovereto",
-  "mu_id": "mart_rovereto",
-  "mat": "陶土／赤陶",
-  "th": [
-   "抽象／非具象"
-  ],
-  "n": "航空繪畫（Aeropittura）與航空雕塑先鋒菲利亞的代表造型。以螺旋上升的流線型塊體再現高空俯瞰大地的失重動態與宇宙崇高感。",
+  "n": "黑克爾最著名的表現主義彩繪木雕之一。以刀斧削砍出清瘦脆弱的孩童身形（相傳以女孩為原型），保留天然木材的粗糙節理與肌理，洋溢真摯原始的情感。",
   "pd": true,
   "tier": "canon"
  },
@@ -102804,41 +102719,7 @@
   "th": [
    "日常／風俗"
   ],
-  "n": "柏林達達核心唯一女性藝術家的手工軟雕塑。以織品、鈕扣與拼貼縫製出不對稱的滑稽布偶，以女性手工藝顛覆資產階級正統雕塑的權威標準。",
-  "pd": true,
-  "tier": "canon"
- },
- {
-  "id": "s3159",
-  "m": "dada_readymade",
-  "a": "Johannes Theodor Baargeld",
-  "t": "Fluidoskeptrik (Relief and Assemblage)",
-  "z": "流體懷疑論（浮雕與現成物組裝）",
-  "y": "1920",
-  "mu": "Lost",
-  "mu_id": "lost",
-  "mat": "現成物",
-  "th": [
-   "裝置／觀念"
-  ],
-  "n": "科隆達達運動創始人巴爾格爾德與馬克斯·恩斯特共同展出的先鋒組裝作品。原件在1920年歷史性的科隆達達博覽會後佚失，現存於歷史文獻記載。",
-  "pd": true,
-  "tier": "canon"
- },
- {
-  "id": "s3160",
-  "m": "direct_carving_organic",
-  "a": "John Skeaping",
-  "t": "Horse (Direct Carving in Walnut)",
-  "z": "奔馬（胡桃木直接雕刻）",
-  "y": "1928",
-  "mu": "Tate, London",
-  "mu_id": "tate_britain_london",
-  "mat": "木",
-  "th": [
-   "動物"
-  ],
-  "n": "二十世紀英國直接雕刻（Direct Carving）運動健將代表作。順隨胡桃木天然紋理與溫潤色澤雕鑿出奔馬簡約純淨的流線體魄，體現對材料靈魂的崇敬。",
+  "n": "柏林達達核心唯一女性藝術家的手工軟雕塑。以織品、鈕扣與拼貼縫製出不對稱的滑稽布偶，以女性手工藝顛覆資產階級正統雕塑的權威標準。現存者為原件或後來重製，有待查證。",
   "pd": true,
   "tier": "canon"
  }
