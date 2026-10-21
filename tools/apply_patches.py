@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+import sys
+if '--force' not in sys.argv:
+    sys.exit("已停用：tools/patches/*.json 已於 2026-10-21 整合進 main，且其後修正了審核發現的錯誤。重跑會把錯誤寫回。如確定要重跑請加 --force。")
 """Apply data patches in tools/patches/*.json to data/*.json (idempotent).
 
 Why: main keeps changing, so edits are kept as patches instead of hand-editing
