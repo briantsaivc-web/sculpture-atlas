@@ -175,13 +175,13 @@
   "th": [
    "墓葬／陵墓"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": null,
-  "img_ext": null,
-  "verif": "自動配對圖檔經比對為其他作品，已移除；待人工補圖",
+  "local": true,
+  "img": "img/800/s0007.webp",
+  "thumb": "img/thumb/s0007.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Grave_stele_Hoplite_NAMA29.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Grave_stele_Hoplite_NAMA29.jpg?width=1000",
+  "verif": "圖檔取自 Wikimedia Commons（授權：CC0），2026-10-22 下載並目視核對為同一作品（依 ChatGPT 研究包建議）",
   "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
  },
  {
@@ -275,13 +275,13 @@
   "th": [
    "歷史／紀念碑"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Kalamis+Charioteer+of+Delphi+(attributed)",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
+  "local": true,
+  "img": "img/800/s0011.webp",
+  "thumb": "img/thumb/s0011.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Charioteer_of_Delphi.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Charioteer_of_Delphi.jpg?width=1000",
+  "verif": "圖檔取自 Wikimedia Commons（授權：CC BY-SA 3.0），2026-10-22 下載並目視核對為同一作品（依 ChatGPT 研究包建議）",
   "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
  },
  {
@@ -670,14 +670,15 @@
   "th": [
    "宗教"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Unknown+(Archaic+Greek)+Rampin+Horseman",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "local": true,
+  "img": "img/800/s0026.webp",
+  "thumb": "img/thumb/s0026.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Rampin_rider_Louvre_Ma3104.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Rampin_rider_Louvre_Ma3104.jpg?width=1000",
+  "verif": "圖檔取自 Wikimedia Commons（授權：Public domain），2026-10-22 下載並目視核對為同一作品（依 ChatGPT 研究包建議）",
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "img_note": "圖為羅浮宮所藏原頭部與身軀石膏翻模的組合"
  },
  {
   "id": "s0027",
@@ -1464,13 +1465,13 @@
   "th": [
    "神話／寓言"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Praxiteles+Eubouleus",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
+  "local": true,
+  "img": "img/800/s0052.webp",
+  "thumb": "img/thumb/s0052.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:NAMA_181_Eubouleus_1.JPG",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/NAMA_181_Eubouleus_1.JPG?width=1000",
+  "verif": "圖檔取自 Wikimedia Commons（授權：CC BY-SA 2.5），2026-10-22 下載並目視核對為同一作品（依 ChatGPT 研究包建議）",
   "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
  },
  {
@@ -2508,20 +2509,21 @@
   "mu": "Vatican Museums, Vatican City",
   "mu_id": "vatican_museums_vatican_city",
   "mat": "大理石",
-  "n": "特洛伊祭司拉奧孔與二子遭海蛇纏殺的群像，1506 年於羅馬出土並由米開朗基羅確認。扭曲的肌肉與痛苦表情，成為希臘化巴洛克風格的代表。",
+  "n": "特洛伊祭司拉奧孔與二子遭海蛇纏殺的群像，1506 年於羅馬出土並由米開朗基羅確認。扭曲的肌肉與痛苦表情，成為希臘化巴洛克風格的代表。梵蒂岡博物館傾向定年約西元前 40–30 年，年代仍有爭議。",
   "pd": true,
   "tier": "v1",
   "th": [
    "神話／寓言"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Agesander+Laocoön+and+His+Sons",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "local": true,
+  "img": "img/800/s0094.webp",
+  "thumb": "img/thumb/s0094.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:0_Laocoon_Group_-_Museo_Pro_Clementino_(Vatican).jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/0%20Laocoon%20Group%20-%20Museo%20Pro%20Clementino%20(Vatican).jpg?width=1000",
+  "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "img_note": "與 s0094 為同一件群像（三位文獻記載的合作者分列）"
  },
  {
   "id": "s0090",
@@ -2599,14 +2601,15 @@
   "th": [
    "神話／寓言"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Athenodoros+of+Rhodes+Laocoön+and+His+Sons+(Athenodoros)",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "local": true,
+  "img": "img/800/s0094.webp",
+  "thumb": "img/thumb/s0094.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:0_Laocoon_Group_-_Museo_Pro_Clementino_(Vatican).jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/0%20Laocoon%20Group%20-%20Museo%20Pro%20Clementino%20(Vatican).jpg?width=1000",
+  "verif": "Commons 站內搜尋自動配對檔名並於 2026-10-19 實際下載",
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "img_note": "與 s0094 為同一件群像（三位文獻記載的合作者分列）"
  },
  {
   "id": "s0093",
@@ -2643,7 +2646,7 @@
   "mu": "Vatican Museums, Vatican City",
   "mu_id": "vatican_museums_vatican_city",
   "mat": "大理石",
-  "n": "三位簽名者之一，波利多羅斯的具體貢獻已無法區分。群像以金字塔形構圖、強烈對角線與複雜糾結的肢體，成為西洋雕刻名作。",
+  "n": "老普林尼記載的三位合作者之一，波利多羅斯的具體貢獻已無法區分。群像以金字塔形構圖、強烈對角線與複雜糾結的肢體，成為西洋雕刻名作。",
   "pd": true,
   "tier": "v1",
   "th": [
@@ -89324,9 +89327,9 @@
   "t": "Bellerophon Taming Pegasus",
   "z": "貝勒羅豐馴服飛馬",
   "y": "1977",
-  "mu": "",
+  "mu": "Columbia Law School, Columbia University, New York",
   "mu_id": "unknown",
-  "n": "利普希茨1977年的作品，描繪希臘神話中的英雄貝勒羅豐馴服飛馬佩加索斯，是他晚年的重要主題。",
+  "n": "利普希茨受哥倫比亞法學院委託，以貝勒羅豐馴服飛馬佩加索斯的神話為題創作大型校園雕塑；作者於 1973 年辭世，作品於 1977 年完成安裝並揭幕。",
   "pd": false,
   "tier": "v2",
   "th": [
@@ -92695,9 +92698,9 @@
   "a": "Jacob Epstein",
   "t": "Saint Michael's Victory over the Devil",
   "z": "聖米迦勒戰勝魔鬼",
-  "y": "",
-  "mu": "",
-  "mu_id": "unknown",
+  "y": "1958–1960",
+  "mu": "Coventry Cathedral, Coventry",
+  "mu_id": "coventry_cathedral_coventry",
   "n": "愛潑斯坦 1958–60 年為英國考文垂大教堂所作的青銅，描寫大天使米迦勒制伏撒旦。為二戰後重建的教堂而作，是其大尺度宗教雕塑的代表。",
   "pd": false,
   "tier": "v2",
