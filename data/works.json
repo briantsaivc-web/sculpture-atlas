@@ -1890,7 +1890,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Alcamenes+Aphrodite+in+the+Gardens",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q134067261",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s0068",
@@ -5510,14 +5512,16 @@
   "th": [
    "宗教"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Nicholas+of+Verdun+Shrine+of+Our+Lady,+Tournai",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "local": true,
+  "img": "img/800/s0195.webp",
+  "thumb": "img/thumb/s0195.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:PM_087087_B_Tournai.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/PM_087087_B_Tournai.jpg?width=1000",
+  "verif": "Wikidata 條目 Q114067249 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://commons.wikimedia.org/wiki/Category:Reliquary_chest_of_Our_Lady_%28Tournai%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s0196",
@@ -7707,14 +7711,16 @@
   "th": [
    "墓葬／陵墓"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Jean+de+Liège+Tomb+of+Charles+IV+the+Fair+and+Jeanne+d'Évreux",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "local": true,
+  "img": "img/800/s0269.webp",
+  "thumb": "img/thumb/s0269.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Gisants_de_Charles_IV_le_Bel_et_Jeanne_d%27%C3%89vreux%2C_RF_1436_%26_RF_1437_%28018%29.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Gisants_de_Charles_IV_le_Bel_et_Jeanne_d%27%C3%89vreux%2C_RF_1436_%26_RF_1437_%28018%29.jpg?width=1000",
+  "verif": "Wikidata 條目 Q87354545 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q87354545",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s0270",
@@ -9355,7 +9361,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Mino+da+Fiesole+Tomb+of+Pope+Paul+II",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://commons.wikimedia.org/wiki/Category:Bust_of_Pope_Paulus_II_by_Mino_da_Fiesole",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s0321",
@@ -9868,14 +9876,16 @@
   "th": [
    "浮雕"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Michelozzo+Outdoor+pulpit+of+Prato+Cathedral",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "local": true,
+  "img": "img/800/s0336.webp",
+  "thumb": "img/thumb/s0336.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Pulpito_di_Donatello_e_Michelozzo_-_Duomo_di_Prato.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Pulpito_di_Donatello_e_Michelozzo_-_Duomo_di_Prato.jpg?width=1000",
+  "verif": "Wikidata 條目 Q1137501 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://commons.wikimedia.org/wiki/Category:Donatello%27s_pulpit_%28Museo_dell%27Opera_del_Duomo%2C_Prato%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s0337",
@@ -10837,7 +10847,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Tullio+Lombardo+Double+Portrait+(Couple)",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://commons.wikimedia.org/wiki/Category:Double_portrait_by_Tullio_Lombardo",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s0368",
@@ -11101,14 +11113,16 @@
   "th": [
    "宗教"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Lorenzetto+Elijah+(Chigi+Chapel)",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "local": true,
+  "img": "img/800/s0376.webp",
+  "thumb": "img/thumb/s0376.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Lorenzetto%2C_poi_raffaello_da_montelupo%2C_elia%2C_1540_ca.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Lorenzetto%2C_poi_raffaello_da_montelupo%2C_elia%2C_1540_ca.jpg?width=1000",
+  "verif": "Wikidata 條目 Q30668002 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q30668002",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s0377",
@@ -11295,7 +11309,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Andrea+Riccio+Satyr+and+Satyress",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://commons.wikimedia.org/wiki/Category:Satyr_and_Satyress_by_Andrea_Briosco%2C_Victoria_and_Albert_Museum",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s0383",
@@ -12324,7 +12340,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Baccio+Bandinelli+Dead+Christ+with+Nicodemus",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://commons.wikimedia.org/wiki/Category:Dead_Christ_with_the_Angel_by_Baccio_Bandinelli",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s0416",
@@ -12502,7 +12520,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Vincenzo+Danti+Moses+and+the+Brazen+Serpent",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://commons.wikimedia.org/wiki/Category:Moses_and_the_Brass_serpent_by_Vincenzo_Danti",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s0422",
@@ -12573,14 +12593,16 @@
    "宗教",
    "神話／寓言"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Pierino+da+Vinci+Samson+and+a+Philistine",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "local": true,
+  "img": "img/800/s0424.webp",
+  "thumb": "img/thumb/s0424.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Pierino_da_vinci%2C_sansone_e_il_filisteo%2C_02.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierino_da_vinci%2C_sansone_e_il_filisteo%2C_02.jpg?width=1000",
+  "verif": "Wikidata 條目 Q119861990 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wga.hu/html_m/p/pierino/samson2.html",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s0425",
@@ -15660,14 +15682,16 @@
   "th": [
    "墓葬／陵墓"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Antoine+Coysevox+Tomb+of+Cardinal+Mazarin",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "local": true,
+  "img": "img/800/s0527.webp",
+  "thumb": "img/thumb/s0527.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Cenotaph_of_Mazarin%2C_Paris_6th_004.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Cenotaph_of_Mazarin%2C_Paris_6th_004.jpg?width=1000",
+  "verif": "Wikidata 條目 Q19298088 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://commons.wikimedia.org/wiki/Category:Cenotaph_of_Mazarin",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s0528",
@@ -17969,14 +17993,16 @@
   "th": [
    "肖像／胸像"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Augustin+Pajou+Bust+of+Madame+du+Barry",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "local": true,
+  "img": "img/800/s0605.webp",
+  "thumb": "img/thumb/s0605.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:French_architects_and_sculptors_of_the_XVIIIth_century_%281900%29_%2814741679726%29.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/French_architects_and_sculptors_of_the_XVIIIth_century_%281900%29_%2814741679726%29.jpg?width=1000",
+  "verif": "Wikidata 條目 Q87458330 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://commons.wikimedia.org/wiki/Category:Madame_du_Barry_%28Louvre%2C_MR_2651%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s0606",
@@ -18888,14 +18914,16 @@
    "神話／寓言",
    "人體／裸體"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Jean-Antoine+Houdon+Diana+the+Huntress",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "local": true,
+  "img": "img/800/s0631.webp",
+  "thumb": "img/thumb/s0631.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:ToursMBA_DianeHoudon.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/ToursMBA_DianeHoudon.jpg?width=1000",
+  "verif": "Wikidata 條目 Q58332007 之 P18 圖檔，2026-10-22 下載並經目視比對（另一鑄件）",
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "http://www.mba.tours.fr/TPL_CODE/TPL_COLLECTIONPIECE/89-sculpture.htm?COLLECTIONNUM=3&PIECENUM=45&NOMARTISTE=HOUDON+Jean-Antoine",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s0632",
@@ -19111,7 +19139,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Jean-Antoine+Houdon+Bust+of+Jean-Jacques+Rousseau",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q87459322",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s0639",
@@ -19826,7 +19856,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Joseph+Nollekens+Bust+of+Charles+James+Fox",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q92360424",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s0664",
@@ -20458,14 +20490,16 @@
   "th": [
    "動物"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Antoine-Louis+Barye+Lion+Crushing+a+Serpent",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "local": true,
+  "img": "img/800/s0684.webp",
+  "thumb": "img/thumb/s0684.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Antoine-Louis_Barye%2C_Lion_Crushing_a_Serpent%2C_model_1838%2C_cast_by_1873%2C_NGA_177975.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Antoine-Louis_Barye%2C_Lion_Crushing_a_Serpent%2C_model_1838%2C_cast_by_1873%2C_NGA_177975.jpg?width=1000",
+  "verif": "Wikidata 條目 Q63863687 之 P18 圖檔，2026-10-22 下載並經目視比對（另一鑄件）",
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q63863687",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s0685",
@@ -20516,7 +20550,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Antoine-Louis+Barye+Jaguar+Devouring+a+Hare",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q63863611",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s0687",
@@ -20559,14 +20595,16 @@
   "th": [
    "動物"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Antoine-Louis+Barye+Walking+Lion",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "local": true,
+  "img": "img/800/s0688.webp",
+  "thumb": "img/thumb/s0688.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Antoine-Louis_Barye%2C_Walking_Lion%2C_model_n.d.%2C_cast_c._1840-1873%2C_NGA_177362.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Antoine-Louis_Barye%2C_Walking_Lion%2C_model_n.d.%2C_cast_c._1840-1873%2C_NGA_177362.jpg?width=1000",
+  "verif": "Wikidata 條目 Q63863616 之 P18 圖檔，2026-10-22 下載並經目視比對（另一鑄件）",
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q63863616",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s0689",
@@ -22975,14 +23013,16 @@
   "th": [
    "肖像／胸像"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Jean-Baptiste+Carpeaux+Bust+of+Charles+Garnier",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "local": true,
+  "img": "img/800/s0763.webp",
+  "thumb": "img/thumb/s0763.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Jean-Baptiste_Carpeaux-Charles_Garnier-Ny_Carlsberg_Glyptotek.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste_Carpeaux-Charles_Garnier-Ny_Carlsberg_Glyptotek.jpg?width=1000",
+  "verif": "Wikidata 條目 Q16058325 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://commons.wikimedia.org/wiki/Category:Charles_Garnier_by_Jean-Baptiste_Carpeaux",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s0764",
@@ -24256,14 +24296,16 @@
    "神話／寓言",
    "人體／裸體"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Camille+Claudel+Perseus+and+the+Gorgon",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "local": true,
+  "img": "img/800/s0805.webp",
+  "thumb": "img/thumb/s0805.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:20150125_roubaix031.JPG",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/20150125_roubaix031.JPG?width=1000",
+  "verif": "Wikidata 條目 Q3376130 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://commons.wikimedia.org/wiki/Category:Perseus_slaying_Medusa_by_Camille_Claudel",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s0806",
@@ -24307,14 +24349,16 @@
   "th": [
    "肖像／胸像"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Camille+Claudel+Bust+of+Auguste+Rodin",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "local": true,
+  "img": "img/800/s0807.webp",
+  "thumb": "img/thumb/s0807.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:129_Busto-de-Rodin-1.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/129_Busto-de-Rodin-1.jpg?width=1000",
+  "verif": "Wikidata 條目 Q24943520 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q24943520",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s0808",
@@ -24929,7 +24973,9 @@
     1928
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:The_Bowman_and_The_Spearman",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s0829",
@@ -25134,7 +25180,9 @@
    "mu": [
     "Cleveland Museum of Art"
    ]
-  }
+  },
+  "link": "https://clevelandart.org/art/1943.384",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s0836",
@@ -25319,14 +25367,16 @@
    "神話／寓言",
    "人體／裸體"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Max+Klinger+Amphitrite",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "local": true,
+  "img": "img/800/s0842.webp",
+  "thumb": "img/thumb/s0842.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Berlin_-_Alte_Nationalgalerie_8114.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin_-_Alte_Nationalgalerie_8114.jpg?width=1000",
+  "verif": "Wikidata 條目 Q138315309 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://commons.wikimedia.org/wiki/Category:Amphitrite_by_Max_Klinger",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s0843",
@@ -25384,7 +25434,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=George+Minne+Fountain+of+Kneeling+Youths",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://commons.wikimedia.org/wiki/Category:Fountain_of_Youth_%28Minne%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s0845",
@@ -25402,14 +25454,16 @@
   "th": [
    "墓葬／陵墓"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=George+Minne+Mother+Grieving+Over+Her+Dead+Child",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "local": true,
+  "img": "img/800/s0845.webp",
+  "thumb": "img/thumb/s0845.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Moeder_beweent_haar_dode_kind%2C_George_Minne%2C_1886%2C_Koninklijk_Museum_voor_Schone_Kunsten_Gent%2C_1996-A.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Moeder_beweent_haar_dode_kind%2C_George_Minne%2C_1886%2C_Koninklijk_Museum_voor_Schone_Kunsten_Gent%2C_1996-A.jpg?width=1000",
+  "verif": "Wikidata 條目 Q22245551 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "http://vlaamsekunstcollectie.be/collection/work/data/1996-A",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s0846",
@@ -26119,14 +26173,16 @@
   "th": [
    "人體／裸體"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Aristide+Maillol+Île-de-France",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "local": true,
+  "img": "img/800/s0869.webp",
+  "thumb": "img/thumb/s0869.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:L_Ile_de_France-Maillol-Orsay.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/L_Ile_de_France-Maillol-Orsay.jpg?width=1000",
+  "verif": "Wikidata 條目 Q19659363 之 P18 圖檔，2026-10-22 下載並經目視比對（另一鑄件）",
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://commons.wikimedia.org/wiki/Category:Ile_de_France_%28Aristide_Maillol%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s0870",
@@ -26230,7 +26286,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Aristide+Maillol+The+Three+Nymphs",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q63860718",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s0873",
@@ -26726,7 +26784,9 @@
     1951
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q4960543",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s0889",
@@ -26761,7 +26821,9 @@
     1950
    ],
    "mu": []
-  }
+  },
+  "link": "https://nrw-skulptur.net/skulptur/freya/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s0890",
@@ -26823,7 +26885,9 @@
    "mu": [
     "Cologne"
    ]
-  }
+  },
+  "link": "https://nrw-skulptur.net/skulptur/albertus-magnus/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s0892",
@@ -27335,7 +27399,9 @@
     1934
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Prometheus_by_Paul_Manship",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s0911",
@@ -27370,7 +27436,9 @@
     1934
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Rainey_Memorial_Gates",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s0912",
@@ -27396,7 +27464,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Paul+Manship+Dancer+and+Gazelles",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q63854777",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s0913",
@@ -27422,7 +27492,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Paul+Manship+Indian+Hunter",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q120968905",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s0914",
@@ -27483,7 +27555,9 @@
     1911
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q5311447",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s0916",
@@ -27666,7 +27740,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Eric+Gill+Eve",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q27212231",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s0922",
@@ -27808,7 +27884,9 @@
    "mu": [
     "Kunstforum Ostdeutsche Galerie"
    ]
-  }
+  },
+  "link": "https://www.kunstforum.net/werke/grosse-daphne",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s0927",
@@ -27842,7 +27920,9 @@
     1929
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Grasendes_Fohlen_%28Ren%C3%A9e_Sintenis%29%2C_Berlin",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s0928",
@@ -27867,7 +27947,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Renée+Sintenis+Berlin+Bear",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://bildhauerei-in-berlin.de/bildwerk/berliner-baer-2/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s0929",
@@ -27988,14 +28070,16 @@
    "人體／裸體",
    "歷史／紀念碑"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Ernst+Barlach+The+Avenger",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "local": true,
+  "img": "img/800/s0933.webp",
+  "thumb": "img/thumb/s0933.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Ernst_Barlach%2C_The_Avenger%2C_1914%2C_NGA_206701.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Ernst_Barlach%2C_The_Avenger%2C_1914%2C_NGA_206701.jpg?width=1000",
+  "verif": "Wikidata 條目 Q63863939 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.imj.org.il/en/collections/194230-0",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s0934",
@@ -28309,14 +28393,16 @@
   "th": [
    "人體／裸體"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
-  "src": null,
-  "src_url": "https://en.wikipedia.org/w/index.php?search=Wilhelm+Lehmbruck+Standing+Woman",
-  "img_ext": null,
-  "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "local": true,
+  "img": "img/800/s0944.webp",
+  "thumb": "img/thumb/s0944.webp",
+  "src": "Commons",
+  "src_url": "https://commons.wikimedia.org/wiki/File:Wilhelm_Lehmbruck%2C_Standing_Woman%2C_1910%2C_NGA_50290.jpg",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm_Lehmbruck%2C_Standing_Woman%2C_1910%2C_NGA_50290.jpg?width=1000",
+  "verif": "Wikidata 條目 Q63854819 之 P18 圖檔，2026-10-22 下載並經目視比對",
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q63854819",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s0945",
@@ -28655,7 +28741,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Rudolf+Belling+Triad+(Dreiklang)",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "http://search.middelheimmuseum.be/Details/collect/147971",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s0956",
@@ -28691,7 +28779,9 @@
    "mu": [
     "Lenbachhaus"
    ]
-  }
+  },
+  "link": "https://www.lenbachhaus.de/digital/sammlung-online/detail/skulptur-23-30012515",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s0957",
@@ -28717,7 +28807,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Rudolf+Belling+Head+in+Brass",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.staatsgalerie.de/de/collection/object/3AC0F10449F23BC11089FDBD748C7797",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s0958",
@@ -28970,7 +29062,9 @@
     1937
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Atlas_statue_%28New_York_City%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s0967",
@@ -29032,7 +29126,9 @@
     1930
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:The_Sower_by_Lee_Lawrie",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s0969",
@@ -29414,7 +29510,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=François+Pompon+Cosette",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.parismuseescollections.paris.fr/fr/maison-de-victor-hugo/oeuvres/cosette-1",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s0983",
@@ -29651,7 +29749,9 @@
     1929
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Palais_de_la_Porte_Dor%C3%A9e",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s0992",
@@ -29712,7 +29812,9 @@
     1920
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Cristo_Redentor_%28Rio_de_Janeiro%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s0994",
@@ -29776,7 +29878,9 @@
     "Centre national des arts plastiques",
     "Sculptures from the gardens of the Louvre Museum"
    ]
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Les_Fils_de_Ca%C3%AFn",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s0996",
@@ -29837,7 +29941,9 @@
     1964
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Spirit_of_Justice_%28Rayburn_House_Office_Building%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s0998",
@@ -29947,7 +30053,9 @@
    "label": "Médrano II",
    "y": [],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q134884668",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1002",
@@ -29984,7 +30092,9 @@
    "mu": [
     "Israel Museum"
    ]
-  }
+  },
+  "link": "https://www.imj.org.il/en/collections/192218",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1003",
@@ -30069,7 +30179,9 @@
    "label": "Carrousel Pierrot",
    "y": [],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q134889081",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1006",
@@ -30095,7 +30207,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Alexander+Archipenko+Flat+Torso",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q125394728",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1007",
@@ -30132,7 +30246,9 @@
    "mu": [
     "Metropolitan Museum of Art"
    ]
-  }
+  },
+  "link": "https://www.metmuseum.org/art/collection/search/489338",
+  "link_label": "館方作品頁"
  },
  {
   "id": "s1008",
@@ -30184,7 +30300,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Jacques+Lipchitz+Bather",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q140638771",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1010",
@@ -30245,7 +30363,9 @@
    "mu": [
     "Israel Museum"
    ]
-  }
+  },
+  "link": "http://www.museumsinisrael.gov.il/en/items/Pages/ItemCard.aspx?IdItem=ICMS_IMJ_194502",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1012",
@@ -30296,7 +30416,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Jacques+Lipchitz+Mother+and+Child",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "http://www.museumsinisrael.gov.il/en/items/Pages/ItemCard.aspx?IdItem=ICMS_IMJ_191929",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1014",
@@ -30684,7 +30806,9 @@
    "mu": [
     "International Sculpture Collection"
    ]
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:De_verwoeste_stad/Rotterdam",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1028",
@@ -30735,7 +30859,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Ossip+Zadkine+Orpheus",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q116501046",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1030",
@@ -30811,7 +30937,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Pablo+Picasso+Head+of+a+Woman+(Fernande)",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q28128925",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1033",
@@ -30837,7 +30965,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Pablo+Picasso+Guitar",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q133829075",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1034",
@@ -30899,7 +31029,9 @@
    "mu": [
     "Musée Picasso"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q4996526",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1036",
@@ -30958,7 +31090,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/81119",
+  "link_label": "館方作品頁"
  },
  {
   "id": "s1038",
@@ -31019,7 +31153,9 @@
     1967
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Chicago_Picasso",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1040",
@@ -31069,7 +31205,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Pablo+Picasso+Head+of+a+Woman+(Dora+Maar)",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q7706052",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1042",
@@ -31688,7 +31826,9 @@
     1933
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Profilo_continuo_del_Duce",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1064",
@@ -31797,7 +31937,9 @@
    "label": "Abitacolo",
    "y": [],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Abitacolo",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1068",
@@ -32090,7 +32232,9 @@
     1972
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Revolving_Torsion",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1078",
@@ -32203,7 +32347,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/81043",
+  "link_label": "館方作品頁"
  },
  {
   "id": "s1082",
@@ -32264,7 +32410,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/81043",
+  "link_label": "館方作品頁"
  },
  {
   "id": "s1084",
@@ -32703,7 +32851,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=László+Moholy-Nagy+Space+Modulator",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q64512422",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1100",
@@ -32828,7 +32978,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Marcel+Duchamp+Fountain",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "http://www.museumsinisrael.gov.il/en/items/Pages/ItemCard.aspx?IdItem=ICMS_IMJ_193771",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1105",
@@ -32854,7 +33006,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Marcel+Duchamp+Bicycle+Wheel",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "http://www.museumsinisrael.gov.il/en/items/Pages/ItemCard.aspx?IdItem=ICMS_IMJ_191716",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1106",
@@ -32880,7 +33034,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Marcel+Duchamp+Bottle+Rack",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q85393134",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1107",
@@ -32906,7 +33062,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Marcel+Duchamp+In+Advance+of+the+Broken+Arm",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://museums.gov.il/he/items/Pages/ItemCard.aspx?IdItem=ICMS_IMJ_191719",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1108",
@@ -32943,7 +33101,9 @@
    "mu": [
     "Israel Museum"
    ]
-  }
+  },
+  "link": "http://www.museumsinisrael.gov.il/en/items/Pages/ItemCard.aspx?IdItem=ICMS_IMJ_191481",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1109",
@@ -32968,7 +33128,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Marcel+Duchamp+50+cc+of+Paris+Air",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://museums.gov.il/he/items/Pages/ItemCard.aspx?IdItem=ICMS_IMJ_193770",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1110",
@@ -32993,7 +33155,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Marcel+Duchamp+Why+Not+Sneeze+Rose+Sélavy?",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "http://www.museumsinisrael.gov.il/en/items/Pages/ItemCard.aspx?IdItem=ICMS_IMJ_191483",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1111",
@@ -33030,7 +33194,9 @@
    "mu": [
     "Philadelphia Museum of Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/32347",
+  "link_label": "館方作品頁"
  },
  {
   "id": "s1112",
@@ -33067,7 +33233,9 @@
    "mu": [
     "Philadelphia Museum of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q1750656",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1113",
@@ -33103,7 +33271,9 @@
    "mu": [
     "Israel Museum"
    ]
-  }
+  },
+  "link": "https://museums.gov.il/he/items/Pages/ItemCard.aspx?IdItem=ICMS_IMJ_199796",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1114",
@@ -33140,7 +33310,9 @@
    "mu": [
     "Israel Museum"
    ]
-  }
+  },
+  "link": "https://museums.gov.il/he/items/Pages/ItemCard.aspx?IdItem=ICMS_IMJ_194402",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1115",
@@ -33165,7 +33337,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Man+Ray+Indestructible+Object",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q123117721",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1116",
@@ -33202,7 +33376,9 @@
    "mu": [
     "Israel Museum"
    ]
-  }
+  },
+  "link": "https://museums.gov.il/he/items/Pages/ItemCard.aspx?IdItem=ICMS_IMJ_194569",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1117",
@@ -33265,7 +33441,9 @@
    "mu": [
     "Israel Museum"
    ]
-  }
+  },
+  "link": "https://museums.gov.il/he/items/Pages/ItemCard.aspx?IdItem=ICMS_IMJ_192805",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1119",
@@ -33569,7 +33747,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Elsa+von+Freytag-Loringhoven+Portrait+of+Marcel+Duchamp",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q7232293",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1130",
@@ -33840,7 +34020,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Jean+Arp+Evocation+of+a+Form:+Human,+Lunar,+Spectral",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q5418545",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1140",
@@ -33900,7 +34082,9 @@
     1954
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Pastor_de_nubes_%28Hans_Arp%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1142",
@@ -33936,7 +34120,9 @@
    "mu": [
     "Sculptures in the National Gallery of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q63854304",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1143",
@@ -33998,7 +34184,9 @@
    "mu": [
     "Sculptures in the National Gallery of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q63854300",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1145",
@@ -34032,7 +34220,9 @@
     1948
    ],
    "mu": []
-  }
+  },
+  "link": "http://jmapps.ne.jp/osytrmds/det.html?data_id=1360",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1146",
@@ -34119,7 +34309,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/80928",
+  "link_label": "館方作品頁"
  },
  {
   "id": "s1149",
@@ -34180,7 +34372,9 @@
    "mu": [
     "Sculptures in the National Gallery of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q63854299",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1151",
@@ -34255,7 +34449,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Alberto+Giacometti+Standing+Woman+(Leoni)",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.metmuseum.org/art/collection/search/493904",
+  "link_label": "館方作品頁"
  },
  {
   "id": "s1154",
@@ -34306,7 +34502,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Max+Ernst+Capricorn",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q63854768",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1156",
@@ -34393,7 +34591,9 @@
    "mu": [
     "Beyeler Foundation"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q128312580",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1159",
@@ -34431,7 +34631,9 @@
     "Museum of Modern Art",
     "Israel Museum"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/81359",
+  "link_label": "館方作品頁"
  },
  {
   "id": "s1160",
@@ -34457,7 +34659,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Salvador+Dalí+Lobster+Telephone",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://commons.wikimedia.org/wiki/Category:Lobster_Telephone_by_Salvador_Dal%C3%AD",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1161",
@@ -34495,7 +34699,9 @@
     "Museum Boijmans Van Beuningen",
     "Victoria and Albert Museum"
    ]
-  }
+  },
+  "link": "http://collectie.boijmans.nl/en/collection/v-2280-(kn-v)",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1162",
@@ -34558,7 +34764,9 @@
    "mu": [
     "Art Institute of Chicago"
    ]
-  }
+  },
+  "link": "https://www.artic.edu/artworks/185184",
+  "link_label": "館方作品頁"
  },
  {
   "id": "s1164",
@@ -34594,7 +34802,9 @@
    "mu": [
     "Dalí Theatre and Museum"
    ]
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Taxi_pluvieux",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1165",
@@ -34655,7 +34865,9 @@
     1983
    ],
    "mu": []
-  }
+  },
+  "link": "http://w10.bcn.es/APPS/gmocataleg_monum/FitxaMonumentAc.do?idioma=CA&codiMonumIntern=357",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1167",
@@ -34692,7 +34904,9 @@
    "mu": [
     "Chicago"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q3054192",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1168",
@@ -34729,7 +34943,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/81717",
+  "link_label": "館方作品頁"
  },
  {
   "id": "s1169",
@@ -34792,7 +35008,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/80997",
+  "link_label": "館方作品頁"
  },
  {
   "id": "s1171",
@@ -34880,7 +35098,9 @@
    "mu": [
     "Israel Museum"
    ]
-  }
+  },
+  "link": "http://www.museumsinisrael.gov.il/en/items/Pages/ItemCard.aspx?IdItem=ICMS_IMJ_194429",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1174",
@@ -34915,7 +35135,9 @@
     1983
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Meret-Oppenheim-Brunnen_%28Meret_Oppenheim_1983%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1175",
@@ -34953,7 +35175,9 @@
    "mu": [
     "Musée National d'Art Moderne"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q60173948",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1176",
@@ -35067,7 +35291,9 @@
    "mu": [
     "Metropolitan Museum of Art"
    ]
-  }
+  },
+  "link": "https://www.metmuseum.org/art/collection/search/488755",
+  "link_label": "館方作品頁"
  },
  {
   "id": "s1180",
@@ -35125,7 +35351,9 @@
    "label": "Black Sun",
    "y": [],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q4921944",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1182",
@@ -35221,7 +35449,9 @@
     "The National Museum of Modern Art",
     "Victoria and Albert Museum"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q136813057",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1185",
@@ -35307,7 +35537,9 @@
     1934
    ],
    "mu": []
-  }
+  },
+  "link": "https://hepworthwakefield.org/our-art-artists/the-sherwin-family-collection/eileen-agar-1899-1991/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1188",
@@ -35369,7 +35601,9 @@
     1907
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:The_Kiss_%28Br%C3%A2ncu%C8%99i_sculpture%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1190",
@@ -35404,7 +35638,9 @@
     1910
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q17035475",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1191",
@@ -35438,7 +35674,9 @@
     1913
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q9076685",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1192",
@@ -35527,7 +35765,9 @@
     "Museum of Modern Art",
     "Metropolitan Museum of Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/81033",
+  "link_label": "館方作品頁"
  },
  {
   "id": "s1195",
@@ -35553,7 +35793,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Constantin+Brâncuși+Maiastra",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q63854585",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1196",
@@ -35588,7 +35830,9 @@
     1938
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.moma.org/collection/works/81729",
+  "link_label": "館方作品頁"
  },
  {
   "id": "s1197",
@@ -35623,7 +35867,9 @@
     1938
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:The_Gate_of_the_Kiss",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1198",
@@ -35658,7 +35904,9 @@
     1937
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:The_Table_of_Silence",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1199",
@@ -35716,7 +35964,9 @@
    "label": "Beginning of the World",
    "y": [],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q84557208",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1201",
@@ -35750,7 +36000,9 @@
    "mu": [
     "Philadelphia Museum of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q24962902",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1202",
@@ -35786,7 +36038,9 @@
    "mu": [
     "Tate"
    ]
-  }
+  },
+  "link": "http://www.henry-moore.org/works-in-public/world/uk/london/charing-cross-hospital/working-model-for-reclining-figure-lincoln-center",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1203",
@@ -35811,7 +36065,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Henry+Moore+Reclining+Figure:+Draped",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "http://www.henry-moore.org/works-in-public/world/germany/cologne/museum-ludwig/draped-reclining-figure-1952-53-lh-336",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1204",
@@ -35848,7 +36104,9 @@
    "mu": [
     "Middelheim Museum"
    ]
-  }
+  },
+  "link": "http://www.henry-moore.org/works-in-public/world/belgium/antwerp/middelheimmuseum/king-and-queen-1952-53-lh-350",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1205",
@@ -35882,7 +36140,9 @@
     1948
    ],
    "mu": []
-  }
+  },
+  "link": "http://www.henry-moore.org/works-in-public/world/uk/london/battersea-park/three-standing-figures-1947-lh-268",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1206",
@@ -35916,7 +36176,9 @@
     1950
    ],
    "mu": []
-  }
+  },
+  "link": "http://www.henry-moore.org/works-in-public/world/uk/stevenage/the-barclay-school/family-group-1948-49-lh-269",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1207",
@@ -35950,7 +36212,9 @@
     1943
    ],
    "mu": []
-  }
+  },
+  "link": "http://www.henry-moore.org/works-in-public/world/uk/northampton/parish-church-of-st-matthew/madonna-and-child-1943-44-lh-226",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1208",
@@ -35987,7 +36251,9 @@
    "mu": [
     "Kykuit"
    ]
-  }
+  },
+  "link": "http://www.henry-moore.org/works-in-public/world/united-states-of-america/kykuit/kykuit-rockefeller-estate/nuclear-energy-1964-66-lh-526",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1209",
@@ -36023,7 +36289,9 @@
    "mu": [
     "Henry Moore Sculpture Perry Green"
    ]
-  }
+  },
+  "link": "http://www.henry-moore.org/works-in-public/world/uk/london/parliament-square/knife-edge-two-piece-1962-65-lh-516",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1210",
@@ -36048,7 +36316,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Henry+Moore+Large+Two+Forms",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "http://www.henry-moore.org/works-in-public/world/united-states-of-america/purchase/neuberger-museum/large-two-forms-1969-lh-556",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1211",
@@ -36073,7 +36343,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Henry+Moore+The+Arch",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "http://www.henry-moore.org/works-in-public/world/united-states-of-america/columbus-indiana/the-cleo-rogers-memorial-library-plaza/the-arch-1963-lh-503b",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1212",
@@ -36111,7 +36383,9 @@
     "Henry Moore Sculpture Perry Green",
     "The Nelson-Atkins Museum of Art"
    ]
-  }
+  },
+  "link": "http://www.henry-moore-fdn.co.uk/pg/interactive-tours/virtual-perry-green/sculpture/16",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1213",
@@ -36136,7 +36410,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Henry+Moore+Locking+Piece",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "http://www.henry-moore-fdn.co.uk/pg/interactive-tours/virtual-perry-green/sculpture/31",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1214",
@@ -36161,7 +36437,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Henry+Moore+Hill+Arches",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "http://www.henry-moore.org/works-in-public/world/australia/canberra/national-gallery-of-australia/hill-arches-1973-lh-636",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1215",
@@ -36197,7 +36475,9 @@
    "mu": [
     "Leeds Art Gallery"
    ]
-  }
+  },
+  "link": "http://www.henry-moore.org/works-in-public/world/uk/leeds/leeds-art-gallery/reclining-figure-1929-lh-59",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1216",
@@ -36233,7 +36513,9 @@
    "mu": [
     "Tate"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q60575489",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1217",
@@ -36268,7 +36550,9 @@
     1963
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Winged_Figure_by_Barbara_Hepworth",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1218",
@@ -36294,7 +36578,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Barbara+Hepworth+Single+Form+(Memorial)",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://commons.wikimedia.org/wiki/Category:Single_Form",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1219",
@@ -36330,7 +36616,9 @@
    "mu": [
     "Norton Simon Museum"
    ]
-  }
+  },
+  "link": "https://www.nortonsimon.org/art/detail/M.1969.15.S",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1220",
@@ -36355,7 +36643,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Barbara+Hepworth+Two+Forms+(Divided+Circle)",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://commons.wikimedia.org/wiki/Category:Two_Forms_%28Divided_Circle%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1221",
@@ -36405,7 +36695,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Barbara+Hepworth+Contrapuntal+Forms",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://commons.wikimedia.org/wiki/Category:Contrapuntal_Forms%2C_Harlow",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1223",
@@ -36466,7 +36758,9 @@
     1925
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Hudson_memorial%2C_Hyde_Park%2C_London",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1225",
@@ -36499,7 +36793,9 @@
    "label": "Saint Michael's Victory over the Devil",
    "y": [],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:St_Michaels_Victory_over_the_Devil_%28Sir_Jacob_Epstein%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1226",
@@ -36525,7 +36821,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Jacob+Epstein+Rock+Drill",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://commons.wikimedia.org/wiki/Category:Rock_Drill_%28Jacob_Epstein%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1227",
@@ -36662,7 +36960,9 @@
     1914
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Grave_of_Oscar_Wilde_and_Robert_Baldwin_Ross",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1232",
@@ -36925,7 +37225,9 @@
    "mu": [
     "Smithsonian American Art Museum"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q120966619",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1242",
@@ -37162,7 +37464,9 @@
     1914
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q140479203",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1251",
@@ -37263,7 +37567,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Germaine+Richier+The+Mantis",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "http://search.middelheimmuseum.be/Details/collect/148109",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1255",
@@ -37424,7 +37730,9 @@
     1952
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q5905578",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1261",
@@ -37459,7 +37767,9 @@
     1948
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q1880574",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1262",
@@ -37485,7 +37795,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Marino+Marini+The+Miracle",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://dams.antwerpen.be/asset/i1OVhTfO2RQ8DLPoPNpT5j1Y",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1263",
@@ -37520,7 +37832,9 @@
    "mu": [
     "Uffizi Gallery"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q104959660",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1264",
@@ -37634,7 +37948,9 @@
     "Middelheim Museum",
     "Middelheim Museum"
    ]
-  }
+  },
+  "link": "http://search.middelheimmuseum.be/Details/collect/148104",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1268",
@@ -37837,7 +38153,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Lynn+Chadwick+The+Watchers",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q26282984",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1276",
@@ -38150,7 +38468,9 @@
     1995
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Newton_%28Eduardo_Paolozzi%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1288",
@@ -38184,7 +38504,9 @@
     1980
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Erwin_Piscator_sculpture%2C_Euston_Square",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1289",
@@ -38285,7 +38607,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Elisabeth+Frink+Horse+and+Rider",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://commons.wikimedia.org/wiki/Category:Horse_and_Rider_by_Elisabeth_Frink_%28London%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1293",
@@ -38319,7 +38643,9 @@
     1981
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Walking_Madonna_by_Elisabeth_Frink_%28Salisbury%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1294",
@@ -38345,7 +38671,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Elisabeth+Frink+Dorset+Martyrs",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://commons.wikimedia.org/wiki/Category:Dorset_Martyrs_by_Elisabeth_Frink_%28Dorchester%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1295",
@@ -38380,7 +38708,9 @@
     1958
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Blind_Beggar_and_His_Dog",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1296",
@@ -38405,7 +38735,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Elisabeth+Frink+Wild+Boar",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q27212645",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1297",
@@ -38559,7 +38891,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Mirko+Basaldella+Chimera",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://commons.wikimedia.org/wiki/Category:La_Chimera_%28Rignano_sull%27Arno%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1303",
@@ -38584,7 +38918,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=David+Smith+Cubi+XVIII",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q5192231",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1304",
@@ -38684,7 +39020,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=David+Smith+Tank+Totem",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q96883196",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1308",
@@ -38734,7 +39072,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=David+Smith+Agricola",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q4693853",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1310",
@@ -38846,7 +39186,9 @@
     2000
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Berlin_by_Chillida",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1314",
@@ -38973,7 +39315,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Julio+González+Woman+Combing+Her+Hair",
   "img_ext": null,
   "verif": "Commons 搜尋未找到可信配對",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "http://www.museumsinisrael.gov.il/en/items/Pages/ItemCard.aspx?IdItem=ICMS_IMJ_243481",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1319",
@@ -39290,7 +39634,9 @@
    "mu": [
     "Sculptures in the National Gallery of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q63854661",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1331",
@@ -39645,7 +39991,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Richard+Stankiewicz+Untitled+(Junk+Assemblage)",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://clevelandart.org/art/1986.80",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1345",
@@ -39806,7 +40154,9 @@
    "mu": [
     "Hirshhorn Museum and Sculpture Garden"
    ]
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Are_Years_What%3F",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1351",
@@ -39969,7 +40319,9 @@
    "mu": [
     "Metropolitan Museum of Art"
    ]
-  }
+  },
+  "link": "https://www.metmuseum.org/art/collection/search/484216",
+  "link_label": "館方作品頁"
  },
  {
   "id": "s1357",
@@ -40030,7 +40382,9 @@
    "mu": [
     "Tate"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q58207638",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1359",
@@ -40088,7 +40442,9 @@
    "label": "Sea Music",
    "y": [],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Sea_Music%2C_Poole",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1361",
@@ -40228,7 +40584,9 @@
     "Fundació Joan Miró",
     "Exposition Internationale des Arts et Techniques dans la Vie Moderne (1937)"
    ]
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Mercury_Fountain",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1366",
@@ -40265,7 +40623,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/81621",
+  "link_label": "館方作品頁"
  },
  {
   "id": "s1367",
@@ -40302,7 +40662,9 @@
    "mu": [
     "Grand Rapids"
    ]
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:La_Grande_Vitesse",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1368",
@@ -40337,7 +40699,9 @@
     1973
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Flamingo%2C_Chicago_%28Calder%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1369",
@@ -40373,7 +40737,9 @@
    "mu": [
     "Sculptures in the National Gallery of Art"
    ]
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Untitled_Mobile%2C_1976%2C_by_Alexander_Calder",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1370",
@@ -40410,7 +40776,9 @@
    "mu": [
     "Whitney Museum of American Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q2974254",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1371",
@@ -40445,7 +40813,9 @@
     1962
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.moma.org/collection/works/81433",
+  "link_label": "館方作品頁"
  },
  {
   "id": "s1372",
@@ -40480,7 +40850,9 @@
     1967
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Man%2C_Three_Disks",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1373",
@@ -40530,7 +40902,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Jean+Tinguely+Méta-Matic+No.+1",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q17068976",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1375",
@@ -40565,7 +40939,9 @@
     1983
    ],
    "mu": []
-  }
+  },
+  "link": "https://h2o.do/Q281309",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1376",
@@ -40599,7 +40975,9 @@
     1974
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q5072789",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1377",
@@ -40632,7 +41010,9 @@
    "label": "Carnival Fountain",
    "y": [],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Tinguely-Brunnen_%28Basel%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1378",
@@ -40683,7 +41063,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=George+Rickey+Two+Open+Rectangles+Excentric+Variation+VII",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q14711935",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1380",
@@ -40916,7 +41298,9 @@
    "label": "Fontaines à boules",
    "y": [],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Fontaines_%C3%A0_boules",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1389",
@@ -40998,7 +41382,9 @@
    "label": "Penetrable",
    "y": [],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q19362949",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1392",
@@ -41049,7 +41435,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Jesús+Rafael+Soto+Vibration",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q19883016",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1394",
@@ -41085,7 +41473,9 @@
     1986
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Dizengoff_Square_Fountain",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1395",
@@ -41349,7 +41739,9 @@
     1997
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Wind_Wand",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1405",
@@ -41550,7 +41942,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Donald+Judd+Untitled+(Stack)",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q7897692",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1413",
@@ -41575,7 +41969,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Donald+Judd+100+untitled+works+in+mill+aluminum",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://chinati.org/collection/donaldjudd",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1414",
@@ -41626,7 +42022,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Donald+Judd+Untitled+(Progression)",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q63863882",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1416",
@@ -41651,7 +42049,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Donald+Judd+Untitled+(Six+Boxes)",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q63861713",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1417",
@@ -41676,7 +42076,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Donald+Judd+Untitled+(Menziken)",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q65567783",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1418",
@@ -41710,7 +42112,9 @@
     1966
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q5384716",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1419",
@@ -41760,7 +42164,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Carl+Andre+Lever",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q104851844",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1421",
@@ -41836,7 +42242,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Sol+LeWitt+Wall+Drawing+#118",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q20776032",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1424",
@@ -41861,7 +42269,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Sol+LeWitt+Incomplete+Open+Cubes",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "http://resolver.smak.be/collection/work/data/808",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1425",
@@ -41887,7 +42297,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Sol+LeWitt+Serial+Project+No.+1+(ABCD)",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q63861112",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1426",
@@ -41913,7 +42325,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Dan+Flavin+Monument+for+V.+Tatlin",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q62471087",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1427",
@@ -41938,7 +42352,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Dan+Flavin+The+Diagonal+of+May+25,+1963",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "http://resolver.smak.be/collection/work/data/586",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1428",
@@ -41974,7 +42390,9 @@
    "mu": [
     "Prints in the National Gallery of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q65567394",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1429",
@@ -42010,7 +42428,9 @@
    "mu": [
     "Prints in the National Gallery of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q65567394",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1430",
@@ -42147,7 +42567,9 @@
     1977
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Observatory_%28Robert_Morris%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1435",
@@ -42433,7 +42855,9 @@
    "mu": [
     "Sculptures in the National Gallery of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q63864121",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1446",
@@ -42494,7 +42918,9 @@
    "mu": [
     "Smithsonian American Art Museum"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q122933492",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1448",
@@ -42556,7 +42982,9 @@
    "mu": [
     "Buffalo AKG Art Museum"
    ]
-  }
+  },
+  "link": "https://www.albrightknox.org/artworks/198910-untitled",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1450",
@@ -42640,7 +43068,9 @@
     1962
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q97378884",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1453",
@@ -42666,7 +43096,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Claes+Oldenburg+Spoonbridge+and+Cherry",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://commons.wikimedia.org/wiki/Category:Spoonbridge_and_Cherry",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1454",
@@ -42701,7 +43133,9 @@
     1976
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Clothespin_%28Claes_Oldenburg%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1455",
@@ -42736,7 +43170,9 @@
     1969
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q6557071",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1456",
@@ -42761,7 +43197,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Claes+Oldenburg+Soft+Toilet",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q74889755",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1457",
@@ -42796,7 +43234,9 @@
     1994
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Shuttlecocks_%28Oldenburg_and_van_Bruggen%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1458",
@@ -42833,7 +43273,9 @@
     "National Gallery of Art Sculpture Garden",
     "Sculptures in the National Gallery of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q7860970",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1459",
@@ -42944,7 +43386,9 @@
     1992
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Gay_Liberation_Monument",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1463",
@@ -43033,7 +43477,9 @@
    "mu": [
     "Stedelijk Museum Amsterdam"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q17089609",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1466",
@@ -43091,7 +43537,9 @@
    "label": "The Illegal Operation",
    "y": [],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q118901126",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1468",
@@ -43202,7 +43650,9 @@
     1983
    ],
    "mu": []
-  }
+  },
+  "link": "https://h2o.do/Q281309",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1472",
@@ -43237,7 +43687,9 @@
     1979
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Giardino_dei_Tarocchi",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1473",
@@ -43270,7 +43722,9 @@
    "label": "nanas",
    "y": [],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Nana_by_Niki_de_Saint_Phalle",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1474",
@@ -43348,7 +43802,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Andy+Warhol+Brillo+Boxes",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q917210",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1477",
@@ -43577,7 +44033,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Arman+Chopin's+Waterloo",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q60189271",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1486",
@@ -43611,7 +44069,9 @@
     1965
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:The_Thumb_%28C%C3%A9sar_Baldaccini%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1487",
@@ -43647,7 +44107,9 @@
    "mu": [
     "Musée National d'Art Moderne"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q60189668",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1488",
@@ -43682,7 +44144,9 @@
     1983
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q2377453",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1489",
@@ -43717,7 +44181,9 @@
     1955
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q6901603",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1490",
@@ -43754,7 +44220,9 @@
    "mu": [
     "Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.moma.org/collection/works/165011",
+  "link_label": "館方作品頁"
  },
  {
   "id": "s1491",
@@ -43788,7 +44256,9 @@
     1958
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q61641547",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1492",
@@ -43813,7 +44283,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Jasper+Johns+Painted+Bronze+(Ale+Cans)",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q97378871",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1493",
@@ -43863,7 +44335,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Jasper+Johns+Painted+Bronze+(Savarin+Can)",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q97378871",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1495",
@@ -43900,7 +44374,9 @@
    "mu": [
     "Smithsonian American Art Museum"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q62470192",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1496",
@@ -43936,7 +44412,9 @@
    "mu": [
     "Metropolitan Museum of Art"
    ]
-  }
+  },
+  "link": "https://www.metmuseum.org/art/collection/search/484350",
+  "link_label": "館方作品頁"
  },
  {
   "id": "s1497",
@@ -43986,7 +44464,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Eva+Hesse+Repetition+Nineteen+III",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.moma.org/collection/works/81930",
+  "link_label": "館方作品頁"
  },
  {
   "id": "s1499",
@@ -44048,7 +44528,9 @@
    "mu": [
     "Detroit Institute of Arts"
    ]
-  }
+  },
+  "link": "https://dia.org/collection/accession-ii-47951",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1501",
@@ -44099,7 +44581,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Richard+Serra+Tilted+Arc",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q7803022",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1503",
@@ -44136,7 +44620,9 @@
    "mu": [
     "Guggenheim Museum Bilbao"
    ]
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:The_Matter_of_Time_%28Serra%2C_Bilbao%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1504",
@@ -44195,7 +44681,9 @@
     1969
    ],
    "mu": []
-  }
+  },
+  "link": "https://nrw-skulptur.net/skulptur/inverted-house-of-cards/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1506",
@@ -44281,7 +44769,9 @@
     2008
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q24038427",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1509",
@@ -44316,7 +44806,9 @@
     1987
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Fulcrum_%28Richard_Serra%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1510",
@@ -44529,7 +45021,9 @@
    "mu": [
     "Buffalo AKG Art Museum"
    ]
-  }
+  },
+  "link": "https://www.albrightknox.org/artworks/19922-fallen-painting",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1518",
@@ -44654,7 +45148,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Richard+Tuttle+Cloth+Pieces",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q28134903",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1523",
@@ -44679,7 +45175,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Joel+Shapiro+Untitled+(House+on+Table)",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q63860922",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1524",
@@ -44704,7 +45202,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Joel+Shapiro+Untitled+(Dancing+Figure)",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q7897713",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1525",
@@ -44808,7 +45308,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Gordon+Matta-Clark+Day's+End",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q112678164",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1529",
@@ -44895,7 +45397,9 @@
    "mu": [
     "Sculptures in the National Gallery of Art"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q63860607",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1532",
@@ -44996,7 +45500,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Robert+Smithson+Spiral+Jetty",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://commons.wikimedia.org/wiki/Category:Spiral_Jetty",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1536",
@@ -45072,7 +45578,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Robert+Smithson+Broken+Circle/Spiral+Hill",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.sleutelwerken.nl/kunstwerken/broken-circle-and-spiral-hill",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1539",
@@ -45131,7 +45639,9 @@
     1969
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q3037476",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1541",
@@ -45166,7 +45676,9 @@
     1972
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:City_%28artwork%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1542",
@@ -45203,7 +45715,9 @@
    "mu": [
     "Los Angeles County Museum of Art"
    ]
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Levitated_Mass",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1543",
@@ -45262,7 +45776,9 @@
     1977
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q3330442",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1545",
@@ -45296,7 +45812,9 @@
     1977
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:The_New_York_Earth_Room",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1546",
@@ -45331,7 +45849,9 @@
     1979
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q3520125",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1547",
@@ -45366,7 +45886,9 @@
     1977
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Vertikaler_Erdkilometer",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1548",
@@ -45403,7 +45925,9 @@
    "mu": [
     "Dia Art Foundation"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q3503766",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1549",
@@ -45429,7 +45953,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Nancy+Holt+Dark+Star+Park",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q28555724",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1550",
@@ -45487,7 +46013,9 @@
    "label": "A Line Made by Walking",
    "y": [],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q85739187",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1552",
@@ -45599,7 +46127,9 @@
     1995
    ],
    "mu": []
-  }
+  },
+  "link": "http://christojeanneclaude.net/projects/wrapped-reichstag",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1556",
@@ -45625,7 +46155,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Christo+and+Jeanne-Claude+The+Gates",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://commons.wikimedia.org/wiki/Category:The_Gates_%28installation%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1557",
@@ -45650,7 +46182,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Christo+and+Jeanne-Claude+Valley+Curtain",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://commons.wikimedia.org/wiki/Category:Valley_Curtain",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1558",
@@ -45675,7 +46209,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Christo+and+Jeanne-Claude+Surrounded+Islands",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q2368654",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1559",
@@ -45700,7 +46236,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Christo+and+Jeanne-Claude+The+Floating+Piers",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://commons.wikimedia.org/wiki/Category:The_Floating_Piers",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1560",
@@ -45737,7 +46275,9 @@
    "mu": [
     "Storm King Art Center"
    ]
-  }
+  },
+  "link": "https://collections.stormking.org/Detail/objects/401",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1561",
@@ -45763,7 +46303,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Andy+Goldsworthy+Refuge+d'Art",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q3423301",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1562",
@@ -46211,7 +46753,9 @@
     "Tate",
     "National Galleries Scotland"
    ]
-  }
+  },
+  "link": "http://www.tate.org.uk/art/artworks/kounellis-untitled-ar00497",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1579",
@@ -46273,7 +46817,9 @@
     "Tate",
     "National Galleries Scotland"
    ]
-  }
+  },
+  "link": "http://www.tate.org.uk/art/artworks/kounellis-untitled-ar00497",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1581",
@@ -46324,7 +46870,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Michelangelo+Pistoletto+Venus+of+the+Rags",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q120972493",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1583",
@@ -46376,7 +46924,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Michelangelo+Pistoletto+Third+Paradise",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "http://kokoelmat.fng.fi/app?si=N-2015-16",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1585",
@@ -46427,7 +46977,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Mario+Merz+Fibonacci+Napoli",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "http://www.tate.org.uk/art/artworks/merz-fibonacci-tables-t03673",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1587",
@@ -46552,7 +47104,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Giuseppe+Penone+Idee+di+pietra+(Ideas+of+Stone)",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q111311528",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1592",
@@ -46637,7 +47191,9 @@
    "mu": [
     "Museo d'arte contemporanea del castello di Rivoli"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q3845200",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1595",
@@ -46890,7 +47446,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Gilberto+Zorio+Canoa",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q105109911",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1605",
@@ -46936,7 +47494,9 @@
     "Staatsgalerie Stuttgart",
     "Tate Modern"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q1757822",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1606",
@@ -46961,7 +47521,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Piero+Manzoni+Achrome",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.moma.org/collection/works/80507",
+  "link_label": "館方作品頁"
  },
  {
   "id": "s1607",
@@ -47037,7 +47599,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Pier+Paolo+Calzolari+Untitled+(Frozen+Wall)",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q20555940",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1610",
@@ -47071,7 +47635,9 @@
     1982
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:7000_Eichen",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1611",
@@ -47133,7 +47699,9 @@
    "mu": [
     "Bavarian State Painting Collections"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q122983529",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1613",
@@ -47169,7 +47737,9 @@
    "mu": [
     "Musée National d'Art Moderne"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q2099501",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1614",
@@ -47229,7 +47799,9 @@
     1965
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q2568137",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1616",
@@ -47266,7 +47838,9 @@
    "mu": [
     "Hessen Kassel Heritage"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q2415523",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1617",
@@ -47301,7 +47875,9 @@
     2004
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Cloud_Gate",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1618",
@@ -47327,7 +47903,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Anish+Kapoor+Marsyas",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q6627731",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1619",
@@ -47362,7 +47940,9 @@
     2012
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:ArcelorMittal_Orbit",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1620",
@@ -47387,7 +47967,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Anish+Kapoor+Descension",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "http://www.abbaziasangiorgio.it/benedicti-claustra-onlus/eventi-culturali/anish-kapoor-ascension/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1621",
@@ -47438,7 +48020,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Anish+Kapoor+Sky+Mirror",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://commons.wikimedia.org/wiki/Category:Sky_Mirror_%28Kapoor%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1623",
@@ -47464,7 +48048,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Joseph+Kosuth+One+and+Three+Chairs",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q20405276",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1624",
@@ -47515,7 +48101,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Louise+Bourgeois+Maman",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://commons.wikimedia.org/wiki/Category:Maman_by_Louise_Bourgeois",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1626",
@@ -47540,7 +48128,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Louise+Bourgeois+Spider",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://commons.wikimedia.org/wiki/Category:Spider_by_Louise_Bourgeois",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1627",
@@ -47651,7 +48241,9 @@
     1993
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.moma.org/collection/works/146656",
+  "link_label": "館方作品頁"
  },
  {
   "id": "s1631",
@@ -47686,7 +48278,9 @@
     2000
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Judenplatz_Holocaust_Memorial",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1632",
@@ -47712,7 +48306,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Rachel+Whiteread+Ghost",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q63864358",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1633",
@@ -47737,7 +48333,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Rachel+Whiteread+Untitled+(One+Hundred+Spaces)",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.metmuseum.org/art/collection/search/491754",
+  "link_label": "館方作品頁"
  },
  {
   "id": "s1634",
@@ -47824,7 +48422,9 @@
     1991
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q38973",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1637",
@@ -47861,7 +48461,9 @@
    "mu": [
     "White Cube"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q6400207",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1638",
@@ -47898,7 +48500,9 @@
    "mu": [
     "Tate"
    ]
-  }
+  },
+  "link": "https://www.tate.org.uk/art/artworks/hirst-mother-and-child-divided-t12751",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1639",
@@ -47933,7 +48537,9 @@
     2012
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Verity_%28statue%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1640",
@@ -47995,7 +48601,9 @@
    "mu": [
     "Tate"
    ]
-  }
+  },
+  "link": "https://www.tate.org.uk/art/artworks/ai-sunflower-seeds-t13408",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1642",
@@ -48029,7 +48637,9 @@
    "mu": [
     "National Gallery of Victoria"
    ]
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q50385648",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1643",
@@ -48088,7 +48698,9 @@
    "label": "Circle of Animals/Zodiac Heads",
    "y": [],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Circle_of_Animals-Zodiac_Heads",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1645",
@@ -48199,7 +48811,9 @@
    "label": "Personnes",
    "y": [],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q24038428",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1649",
@@ -48233,7 +48847,9 @@
     2007
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Shibboleth_%28artwork%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1650",
@@ -48259,7 +48875,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Doris+Salcedo+Atrabiliarios",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.moma.org/collection/works/134303",
+  "link_label": "館方作品頁"
  },
  {
   "id": "s1651",
@@ -48370,7 +48988,9 @@
     2003
    ],
    "mu": []
-  }
+  },
+  "link": "http://www.tate.org.uk/whats-on/tate-modern/exhibition/unilever-series-olafur-eliasson-weather-project",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1655",
@@ -48405,7 +49025,9 @@
     2008
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:New_York_City_Waterfalls",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1656",
@@ -48517,7 +49139,9 @@
    "mu": [
     "Museum Boijmans Van Beuningen"
    ]
-  }
+  },
+  "link": "http://collectie.boijmans.nl/en/collection/bek-1859-a-y-(mk)",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1660",
@@ -48806,7 +49430,9 @@
    "label": "Dead Dad",
    "y": [],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q1180793",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1671",
@@ -48943,7 +49569,9 @@
     1998
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Angel_of_the_North",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1676",
@@ -48978,7 +49606,9 @@
     1997
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Another_Place",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1677",
@@ -49030,7 +49660,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Antony+Gormley+Event+Horizon",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://commons.wikimedia.org/wiki/Category:Event_Horizon_%28sculpture%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1679",
@@ -49065,7 +49697,9 @@
     1999
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Quantum_Cloud",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1680",
@@ -49151,7 +49785,9 @@
     2005
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Alison_Lapper_Pregnant",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1683",
@@ -49211,7 +49847,9 @@
     2001
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q96882324",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1685",
@@ -49237,7 +49875,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Kiki+Smith+Lilith",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://museums.gov.il/he/items/Pages/ItemCard.aspx?IdItem=ICMS_IMJ_311166",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1686",
@@ -49373,7 +50013,9 @@
     1999
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q3211100",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1691",
@@ -49410,7 +50052,9 @@
    "mu": [
     "Solomon R. Guggenheim Museum"
    ]
-  }
+  },
+  "link": "https://www.guggenheim.org/exhibition/maurizio-cattelan-america",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1692",
@@ -49445,7 +50089,9 @@
     2019
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q77715187",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1693",
@@ -49480,7 +50126,9 @@
     2010
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:L.O.V.E.",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1694",
@@ -49541,7 +50189,9 @@
     2010
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Hahn/Cock",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1696",
@@ -49676,7 +50326,9 @@
     2007
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Vater_Staat_%28Thomas_Sch%C3%BCtte%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1701",
@@ -49762,7 +50414,9 @@
     2001
    ],
    "mu": []
-  }
+  },
+  "link": "https://www.wikidata.org/wiki/Q20898203",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1704",
@@ -49788,7 +50442,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Juan+Muñoz+Conversation+Piece",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "https://www.wikidata.org/wiki/Q6494256",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s1705",
@@ -49993,7 +50649,9 @@
   "src_url": "https://en.wikipedia.org/w/index.php?search=Jeff+Koons+Balloon+Dog+(Orange)",
   "img_ext": null,
   "verif": "作者逝世未滿 70 年，不嵌圖",
-  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證"
+  "note_src": "題名、年代、所在地、說明由 AI 依知識整理，未逐件查證",
+  "link": "http://www.jeffkoons.com/artwork/celebration/balloon-dog",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1713",
@@ -50030,7 +50688,9 @@
    "mu": [
     "Guggenheim Museum Bilbao"
    ]
-  }
+  },
+  "link": "http://jeffkoons.com/exhibitions/solo/puppy-bilbao",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1714",
@@ -50065,7 +50725,9 @@
     1986
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Rabbit_%28Koons%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1715",
@@ -50104,7 +50766,9 @@
     "The Broad",
     "Astrup Fearnley Museum of Modern Art"
    ]
-  }
+  },
+  "link": "https://www.sfmoma.org/artwork/91-1/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s1716",
@@ -50138,7 +50802,9 @@
     2019
    ],
    "mu": []
-  }
+  },
+  "link": "https://commons.wikimedia.org/wiki/Category:Bouquet_of_Tulips",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s1717",
@@ -82119,7 +82785,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:The_Victor",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2584",
@@ -82153,7 +82821,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Monument_of_Gratitude_to_France_in_Belgrade",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2585",
@@ -82188,7 +82858,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:The_Bowman_and_The_Spearman",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2586",
@@ -82225,7 +82897,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Fountain_of_Life_%28Zagreb%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2587",
@@ -82262,7 +82936,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Statue_of_Svetozar_Mileti%C4%87_in_Novi_Sad",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2588",
@@ -82296,7 +82972,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:St._Jerome_the_Priest_in_Washington_DC",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2589",
@@ -82329,7 +83007,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q22023169",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2590",
@@ -82366,7 +83046,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Grgur_Ninski_statue_in_Split",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2591",
@@ -82399,7 +83081,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Monument_to_Ru%C4%91er_Bo%C5%A1kovi%C4%87_%28porta_Venezia%2C_Milan%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2592",
@@ -82434,7 +83118,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q141689483",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2593",
@@ -82471,7 +83157,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q85999224",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2594",
@@ -82508,7 +83196,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Nikola_Tesla_statue_in_Zagreb",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2595",
@@ -82546,7 +83236,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q120966522",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2596",
@@ -82585,7 +83277,9 @@
   "mat_wd": [
    "bronze",
    "wood"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q120966523",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2597",
@@ -85106,7 +85800,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Friedensengel_%28Mannheim%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2665",
@@ -85143,7 +85839,9 @@
   "mat": "石（其他）",
   "mat_wd": [
    "Kirchheimer Muschelkalk"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:K%C3%B6lner_Mahnmal_%E2%80%9ETrauernde%E2%80%9C",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2666",
@@ -85177,7 +85875,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Der_Rufer%2C_Bremen_%28Gerhard_Marcks%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2667",
@@ -85217,7 +85917,9 @@
   "mat_wd": [
    "bronze",
    "concrete"
-  ]
+  ],
+  "link": "https://nrw-skulptur.net/skulptur/albertus-magnus/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2668",
@@ -85252,7 +85954,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Die_Bremer_Stadtmusikanten_%28Gerhard_Marcks%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2669",
@@ -85290,7 +85994,9 @@
   "mat_wd": [
    "bronze",
    "stone"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Gaea_II",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2670",
@@ -85326,7 +86032,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Staffell%C3%A4ufer_%28Gerhard_Marcks%2C_Hannover%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2671",
@@ -85360,7 +86068,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Hiob_%28Nuremberg-St._Lorenz%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2672",
@@ -85399,7 +86109,9 @@
    "granite",
    "bronze",
    "concrete"
-  ]
+  ],
+  "link": "https://dertiergarten.de/der-rufer/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2673",
@@ -85435,7 +86147,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Maja_%28Gerhard_Marcks%3B_Hannover%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2674",
@@ -85473,7 +86187,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Bronzet%C3%BCren_Marktkirche_Hannover_%28Gerhard_Marcks%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2675",
@@ -85508,7 +86224,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q110044051",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2676",
@@ -85730,7 +86448,9 @@
   "mat": "青銅",
   "mat_wd": [
    "alloy"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:The_Celestial_Sphere_Woodrow_Wilson_Memorial",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2682",
@@ -85766,7 +86486,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Group_of_Bears_by_Paul_Manship",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2683",
@@ -85805,7 +86527,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!8465~!0#focus",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2684",
@@ -85840,7 +86564,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q7734435",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2685",
@@ -85875,7 +86601,9 @@
    "mu": []
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Rainey_Memorial_Gates",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2686",
@@ -85909,7 +86637,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q4688149",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2687",
@@ -85948,7 +86678,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q120966543",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2688",
@@ -85987,7 +86719,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q120966547",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2689",
@@ -86025,7 +86759,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q120966550",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2690",
@@ -86063,7 +86799,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q120966551",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2691",
@@ -86102,7 +86840,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q120966548",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2692",
@@ -86140,7 +86880,9 @@
   "mat": "石膏",
   "mat_wd": [
    "plaster"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q120966549",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2693",
@@ -86178,7 +86920,9 @@
   "mat_wd": [
    "shelly limestone",
    "marble"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Rudolf-Virchow-Denkmal_%28Berlin%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2694",
@@ -86217,7 +86961,9 @@
    "shelly limestone",
    "bronze",
    "concrete"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Gerhart-Hauptmann-Denkmal_%28Berlin%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2695",
@@ -86252,7 +86998,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Arthur_Krupp_monument%2C_Berndorf%2C_Lower_Austria",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2696",
@@ -86289,7 +87037,9 @@
   "mat_wd": [
    "shelly limestone",
    "bronze"
-  ]
+  ],
+  "link": "https://bildhauerei-in-berlin.de/bildwerk/ruhender-mann-9857/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2697",
@@ -86325,7 +87075,9 @@
   "mat_wd": [
    "shelly limestone",
    "bronze"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Emil-Fischer-Denkmal_%28Berlin-Mitte%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2698",
@@ -86363,7 +87115,9 @@
   "mat_wd": [
    "shelly limestone",
    "bronze"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Emil-Fischer-Denkmal_%28Berlin-Dahlem%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2699",
@@ -86399,7 +87153,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Owl_%28Ullsteinhaus%2C_Fritz_Klimsch%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2700",
@@ -86436,7 +87192,9 @@
   "mat_wd": [
    "shelly limestone",
    "bronze"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q112798130",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2701",
@@ -86617,7 +87375,9 @@
    "copper sheet",
    "gold leaf",
    "metal"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Fortuna_%28Charlottenburg_Palace%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2706",
@@ -86654,7 +87414,9 @@
   "mat_wd": [
    "shelly limestone",
    "bronze"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Schreitender_%28Richard_Scheibe%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2707",
@@ -86690,7 +87452,9 @@
   "mat_wd": [
    "shelly limestone",
    "bronze"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Emil-Fischer-Denkmal_%28Berlin-Mitte%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2708",
@@ -86728,7 +87492,9 @@
   "mat_wd": [
    "shelly limestone",
    "bronze"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Emil-Fischer-Denkmal_%28Berlin-Dahlem%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2709",
@@ -86765,7 +87531,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:%22Widerstandsk%C3%A4mpfer%22_%28Richard_Scheibe%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2710",
@@ -86801,7 +87569,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Munich_Berliner_B%C3%A4r_Memorial",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2711",
@@ -86838,7 +87608,9 @@
   "mat_wd": [
    "granite",
    "bronze"
-  ]
+  ],
+  "link": "https://bildhauerei-in-berlin.de/bildwerk/berliner-baer-2/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2712",
@@ -86875,7 +87647,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://www.kunstforum.net/werke/grosse-daphne",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2713",
@@ -86911,7 +87685,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q141507464",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2714",
@@ -87082,13 +87858,13 @@
    "日常／風俗",
    "人體／裸體"
   ],
-  "local": false,
-  "img": null,
-  "thumb": null,
+  "local": true,
+  "img": "img/800/s2718.webp",
+  "thumb": "img/thumb/s2718.webp",
   "src": "Commons",
   "src_url": "https://commons.wikimedia.org/wiki/File:Hamburg_Mahnmal_01_KMJ-adj.jpg",
-  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Hamburg%20Mahnmal%2001%20KMJ-adj.jpg?width=1000",
-  "verif": "作品條目取自 Wikidata（Q133890976）；圖檔下載失敗或作者逝世未滿 70 年，不嵌圖",
+  "img_ext": "https://commons.wikimedia.org/wiki/Special:FilePath/Hamburg_Mahnmal_01_KMJ-adj.jpg?width=1000",
+  "verif": "Wikidata 條目 Q133890976 之 P18 圖檔，2026-10-22 下載並經目視比對",
   "note_src": "題名／年代／館藏來自 Wikidata 結構化資料；中文題名與說明由 AI 撰寫，未逐件人工查證",
   "wd": {
    "q": "Q133890976",
@@ -87099,7 +87875,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.imj.org.il/en/collections/194258-0",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2719",
@@ -87804,7 +88582,9 @@
   "mat": "陶土／赤陶",
   "mat_wd": [
    "ceramic"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q122914782",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2738",
@@ -87841,7 +88621,9 @@
   "mat": "石（其他）",
   "mat_wd": [
    "stoneware"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q130316040",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2739",
@@ -87917,7 +88699,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Gro%C3%9Fe_sitzende_Tripolitanerin",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2741",
@@ -88171,7 +88955,9 @@
   "mat": "石（其他）",
   "mat_wd": [
    "limestone"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Eternal_Light_Peace_Memorial",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2748",
@@ -88801,7 +89587,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Monument_national_de_la_seconde_bataille_de_la_Marne",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2766",
@@ -88834,7 +89622,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Statue_of_Edward_VII%2C_Paris",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2767",
@@ -88869,7 +89659,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Monument_Jacquard",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2768",
@@ -88901,7 +89693,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Monument_de_la_fraternit%C3%A9_franco-marocaine",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2769",
@@ -88933,7 +89727,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Franzosen-Denkmal",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2770",
@@ -88968,7 +89764,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Monument_Albert-Thomas_%28Geneva%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2771",
@@ -89000,7 +89798,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q18180825",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2772",
@@ -89033,7 +89833,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q23459636",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2773",
@@ -89066,7 +89868,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q23593520",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2774",
@@ -89101,7 +89905,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q23641908",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2775",
@@ -89136,7 +89942,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Darlington_Memorial_Fountain",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2776",
@@ -89171,7 +89979,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Statue_of_John_Endecott",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2777",
@@ -89209,7 +90019,9 @@
    "granite",
    "stone",
    "concrete"
-  ]
+  ],
+  "link": "https://cdn.loc.gov/master/pnp/habshaer/ri/ri0300/ri0369/data/ri0369data.pdf",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2778",
@@ -89280,7 +90092,9 @@
    ]
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q7270630",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2780",
@@ -89318,7 +90132,9 @@
   "mat_wd": [
    "granite",
    "bronze"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:John_F._Kennedy_Memorial%2C_London",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2781",
@@ -89353,7 +90169,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Bellerophon_Taming_Pegasus",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2782",
@@ -89392,7 +90210,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "http://www.museumsinisrael.gov.il/en/items/Pages/ItemCard.aspx?IdItem=ICMS_IMJ_192821",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2783",
@@ -89430,7 +90250,9 @@
   "mat_wd": [
    "bronze",
    "stone"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Le_chant_des_voyelles_%28Jacques_Lipchitz%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2784",
@@ -89462,7 +90284,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q85747381",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2785",
@@ -89499,7 +90323,9 @@
    ]
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "http://search.middelheimmuseum.be/Details/collect/148108",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2786",
@@ -89531,7 +90357,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q56696109",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2787",
@@ -89567,7 +90395,9 @@
    ]
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q99203725",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2788",
@@ -89604,7 +90434,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://findit.library.yale.edu/catalog/digcoll:1870290",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2789",
@@ -90009,7 +90841,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Vincent_and_Theo_van_Gogh_statue_by_Zadkine%2C_Zundert",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2800",
@@ -90043,7 +90877,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:La_Demeure_Humaine",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2801",
@@ -90080,7 +90916,9 @@
    ]
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "http://search.middelheimmuseum.be/Details/collect/148330",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2802",
@@ -90116,7 +90954,9 @@
   "mat": "其他",
   "mat_wd": [
    "concrete"
-  ]
+  ],
+  "link": "https://www.buitenbeeldinbeeld.nl/Amsterdam_Z/index.html",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2803",
@@ -90150,7 +90990,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Picassoskulpturen_i_Kristinehamn",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2804",
@@ -90188,7 +91030,9 @@
   "mat": "其他",
   "mat_wd": [
    "concrete"
-  ]
+  ],
+  "link": "https://museums.gov.il/he/items/Pages/ItemCard.aspx?IdItem=ICMS_IMJ_192037",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2805",
@@ -90226,7 +91070,9 @@
   "mat": "其他",
   "mat_wd": [
    "concrete"
-  ]
+  ],
+  "link": "http://www.sculptureinternationalrotterdam.nl/collectie/permanent/Sylvette.php?lang=en",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2806",
@@ -90262,7 +91108,9 @@
   "mat": "其他",
   "mat_wd": [
    "concrete"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q110793282",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2807",
@@ -90521,7 +91369,9 @@
    "marble",
    "steel",
    "metal"
-  ]
+  ],
+  "link": "http://www.sculptureinternationalrotterdam.nl/collectie/permanent/ZTNaumGabo.php?lang=en",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2814",
@@ -90556,7 +91406,9 @@
    ]
   },
   "mat": "混合媒材",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q106713709",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2815",
@@ -90590,7 +91442,9 @@
    "mu": []
   },
   "mat": "混合媒材",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q110642124",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2816",
@@ -90622,7 +91476,9 @@
    "mu": []
   },
   "mat": "混合媒材",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Construction_in_the_Third_and_Fourth_Dimension",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2817",
@@ -90658,7 +91514,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:El_dinamismo_en_30_grados_%28Antoine_Pevsner%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2818",
@@ -90696,7 +91554,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q22117348",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2819",
@@ -90768,7 +91628,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "iron"
-  ]
+  ],
+  "link": "https://museums.gov.il/he/items/Pages/ItemCard.aspx?IdItem=ICMS_IMJ_191718",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2821",
@@ -90846,7 +91708,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Pastor_de_nubes_%28Hans_Arp%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2823",
@@ -90884,7 +91748,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://dams.antwerpen.be/asset/UONgkZSaNITTq29ZfiJjKEFO",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2824",
@@ -90921,7 +91787,9 @@
    ]
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Berger_de_nuages_%28Kr%C3%B6ller-M%C3%BCller_Museum%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2825",
@@ -90957,7 +91825,9 @@
   "mat": "大理石",
   "mat_wd": [
    "marble"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Wolkenschale_%28Hans_Arp%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2826",
@@ -90993,7 +91863,9 @@
   "mat": "石（其他）",
   "mat_wd": [
    "porphyry"
-  ]
+  ],
+  "link": "https://bkdh.nl/kunstwerken/scrutant-lhorizon/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2827",
@@ -91029,7 +91901,9 @@
   "mat": "其他",
   "mat_wd": [
    "concrete"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Bausteins%C3%A4ule_%28Hans_Arp%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2828",
@@ -91067,7 +91941,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://www.geneve.ch/fr/document/sentiers-culturels-art-contemporain",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2829",
@@ -91105,7 +91981,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://www.fondation-maeght.com/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2830",
@@ -91143,7 +92021,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q3223171",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2831",
@@ -91178,7 +92058,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Hombre_sobre_delf%C3%ADn%2C_Oviedo",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2832",
@@ -91217,7 +92099,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Saint-Georges_et_le_Dragon_de_Salvador_Dal%C3%AD",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2833",
@@ -91252,7 +92136,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Dal%C3%AD%27s_Unicorn_%28Prague%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2834",
@@ -91290,7 +92176,9 @@
   "mat_wd": [
    "ceramic",
    "concrete"
-  ]
+  ],
+  "link": "http://w10.bcn.es/APPS/gmocataleg_monum/FitxaMonumentAc.do?idioma=CA&codiMonumIntern=357",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2835",
@@ -91329,7 +92217,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://www.fmirobcn.org/en/colection/catalog-works/9384/p-the-caress-of-a-bird-p",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2836",
@@ -91365,7 +92255,9 @@
    ]
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Femme_%28Joan_Mir%C3%B3%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2837",
@@ -91400,7 +92292,9 @@
    "mu": []
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Lunar_Bird",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2838",
@@ -91433,7 +92327,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Monument_a_la_dona_%28Mir%C3%B3%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2839",
@@ -91469,7 +92365,9 @@
    ]
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Maqueta_per_a_Dona%2C_ocell_i_una_estrella",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2840",
@@ -91507,7 +92405,9 @@
   "mat": "木",
   "mat_wd": [
    "wood"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q60229578",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2841",
@@ -91541,7 +92441,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Personnage_by_Joan_Mir%C3%B3",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2842",
@@ -91576,7 +92478,9 @@
    "mu": []
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "http://www.gobiernodecanarias.org/cultura/patrimoniocultural/bics/index.html?bic=true&cod=688",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2843",
@@ -91610,7 +92514,9 @@
    "mu": []
   },
   "mat": "混合媒材",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q18663548",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2844",
@@ -91643,7 +92549,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Monumento_al_Gato",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2845",
@@ -91677,7 +92585,9 @@
    "mu": []
   },
   "mat": "石（其他）",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q56696096",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2846",
@@ -91713,7 +92623,9 @@
    ]
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q99203754",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2847",
@@ -91748,7 +92660,9 @@
    "mu": []
   },
   "mat": "鋼鐵",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.moma.org/collection/works/81729",
+  "link_label": "館方作品頁"
  },
  {
   "id": "s2848",
@@ -91784,7 +92698,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "http://www.henry-moore.org/works-in-public/world/united-states-of-america/chicago/the-adler-planetarium-and-astronomical-museum/sundial-1965-66-lh-528",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2849",
@@ -91823,7 +92739,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "http://www.henry-moore-fdn.co.uk/pg/interactive-tours/virtual-perry-green/sculpture/211",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2850",
@@ -91861,7 +92779,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "http://www.hirshhorn.si.edu/search-results/search-result-details/?edan_search_value=hmsg_86.3278",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2851",
@@ -91897,7 +92817,9 @@
   "mat": "大理石",
   "mat_wd": [
    "marble"
-  ]
+  ],
+  "link": "http://www.henry-moore.org/works-in-public/world/italy/prato/piazza-san-marco/large-square-form-with-cut",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2852",
@@ -91934,7 +92856,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "http://www.henry-moore.org/works-in-public/world/canada/toronto/nathan-phillips-square/the-archer/nathan-phillips-square-location",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2853",
@@ -91971,7 +92895,9 @@
   "mat_wd": [
    "basalt",
    "bronze"
-  ]
+  ],
+  "link": "http://www.henry-moore.org/works-in-public/world/israel/jerusalem/jewish-national-and-university-library/draped-seated-woman-1957-58-lh-428",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2854",
@@ -92009,7 +92935,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "http://www.henry-moore.org/works-in-public/world/uk/edinburgh/scottish-national-gallery-of-modern-art/reclining-figure-festival-1951-lh-293",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2855",
@@ -92048,7 +92976,9 @@
   "mat": "其他",
   "mat_wd": [
    "brick"
-  ]
+  ],
+  "link": "http://www.sculptureinternationalrotterdam.nl/collectie/permanent/WallReliefno1.php?lang=en",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2856",
@@ -92084,7 +93014,9 @@
   "mat": "石（其他）",
   "mat_wd": [
    "stone"
-  ]
+  ],
+  "link": "http://www.henry-moore.org/works-in-public/world/uk/totnes/dartington-hall/memorial-figure-1945-46-lh-262",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2857",
@@ -92123,7 +93055,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "http://www.hirshhorn.si.edu/search-results/search-result-details/?edan_search_value=hmsg_66.3629",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2858",
@@ -92159,7 +93093,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://nrw-skulptur.net/skulptur/standing-figure-knife-edge/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2859",
@@ -92196,7 +93132,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "http://www.henry-moore.org/works-in-public/world/japan/osaka/city-of-itochu-building/working-model-for-two-piece-recling-figure-cut-1",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2860",
@@ -92231,7 +93169,9 @@
    "mu": []
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q5448021",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2861",
@@ -92263,7 +93203,9 @@
    "mu": []
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Sphere_with_Inner_Form",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2862",
@@ -92297,7 +93239,9 @@
    "mu": []
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Three_Obliques_%28Walk_In%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2863",
@@ -92333,7 +93277,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Square_Forms_and_Circles",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2864",
@@ -92369,7 +93315,9 @@
    ]
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q99203696",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2865",
@@ -92403,7 +93351,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q132200759",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2866",
@@ -92441,7 +93391,9 @@
   "mat": "大理石",
   "mat_wd": [
    "Parian marble"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Doves_by_Barbara_Hepworth",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2867",
@@ -92475,7 +93427,9 @@
    "mu": []
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q5196072",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2868",
@@ -92511,7 +93465,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q5358704",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2869",
@@ -92546,7 +93502,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Curved_Reclining_Form_%28Rosewall%29_by_Barbara_Hepworth",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2870",
@@ -92580,7 +93538,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Monolith_%28Empyrean%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2871",
@@ -92615,7 +93575,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://barbarahepworth.org.uk/sculptures/1966/construction-crucifixion/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2872",
@@ -92652,7 +93614,9 @@
   "mat": "石（其他）",
   "mat_wd": [
    "Hopton Wood stone"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Grave_of_Oscar_Wilde_and_Robert_Baldwin_Ross",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2873",
@@ -92690,7 +93654,9 @@
   "mat_wd": [
    "granite",
    "bronze"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Statue_of_Jan_Smuts%2C_Parliament_Square%2C_London",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2874",
@@ -92722,7 +93688,9 @@
    "mu": []
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:St_Michaels_Victory_over_the_Devil_%28Sir_Jacob_Epstein%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2875",
@@ -92758,7 +93726,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Rush_of_Green",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2876",
@@ -92793,7 +93763,9 @@
    "mu": []
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Liverpool_Resurgent",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2877",
@@ -92828,7 +93800,9 @@
    "mu": []
   },
   "mat": "石（其他）",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Hudson_memorial%2C_Hyde_Park%2C_London",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2878",
@@ -92864,7 +93838,9 @@
    ]
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q141754010",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2879",
@@ -92903,7 +93879,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q21743265",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2880",
@@ -92941,7 +93919,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://museums.gov.il/he/items/Pages/ItemCard.aspx?IdItem=ICMS_IMJ_193780",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2881",
@@ -92978,7 +93958,9 @@
    ]
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q99203662",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2882",
@@ -93093,7 +94075,9 @@
   "mat": "石膏",
   "mat_wd": [
    "plaster"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q120966614",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2885",
@@ -93131,7 +94115,9 @@
   "mat": "陶土／赤陶",
   "mat_wd": [
    "earthenware"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q120966615",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2886",
@@ -93170,7 +94156,9 @@
   "mat": "陶土／赤陶",
   "mat_wd": [
    "ceramic"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q120966612",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2887",
@@ -93209,7 +94197,9 @@
   "mat": "石膏",
   "mat_wd": [
    "plaster"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q120966618",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2888",
@@ -93248,7 +94238,9 @@
   "mat": "石膏",
   "mat_wd": [
    "plaster"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q120966616",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2889",
@@ -93287,7 +94279,9 @@
   "mat": "石膏",
   "mat_wd": [
    "plaster"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q120966622",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2890",
@@ -93325,7 +94319,9 @@
   "mat": "石膏",
   "mat_wd": [
    "plaster"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q120966623",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2891",
@@ -93364,7 +94360,9 @@
   "mat": "石膏",
   "mat_wd": [
    "plaster"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q120966626",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2892",
@@ -93402,7 +94400,9 @@
   "mat": "石膏",
   "mat_wd": [
    "plaster"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q120966624",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2893",
@@ -93441,7 +94441,9 @@
   "mat": "石膏",
   "mat_wd": [
    "plaster"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q120966625",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2894",
@@ -93552,7 +94554,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Mother_and_her_Child_%28Chana_Orloff%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2897",
@@ -93589,7 +94593,9 @@
    ]
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "http://search.middelheimmuseum.be/Details/collect/148109",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2898",
@@ -93625,7 +94631,9 @@
    ]
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q99203783",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2899",
@@ -93664,7 +94672,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "http://sculptureinternationalrotterdam.nl/collectie/permanent/IlGrandeMiracolo.php?lang=en",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2900",
@@ -93701,7 +94711,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q1880574",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2901",
@@ -93738,7 +94750,9 @@
    ]
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "http://search.middelheimmuseum.be/Details/collect/147980",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2902",
@@ -93773,7 +94787,9 @@
    ]
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.openstreetmap.org/node/11157766535",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2903",
@@ -93812,7 +94828,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "http://www.sculptureinternationalrotterdam.nl/collectie/permanent/OorlogenVrede.php",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2904",
@@ -93847,7 +94865,9 @@
    "mu": []
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q7447989",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2905",
@@ -93884,7 +94904,9 @@
    ]
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://dams.antwerpen.be/asset/DZEgIHePbj3EQOX1IuctKjwU",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2906",
@@ -93921,7 +94943,9 @@
    ]
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "http://search.middelheimmuseum.be/Details/collect/148243",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2907",
@@ -93958,7 +94982,9 @@
    ]
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "http://search.middelheimmuseum.be/Details/collect/148244",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2908",
@@ -93997,7 +95023,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "http://search.middelheimmuseum.be/Details/collect/148104",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2909",
@@ -94034,7 +95062,9 @@
    ]
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "http://search.middelheimmuseum.be/Details/collect/148245",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2910",
@@ -94069,7 +95099,9 @@
    "mu": []
   },
   "mat": "石（其他）",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Wotruba_Skulptur_Friedrich-Schmidt-Platz",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2911",
@@ -94103,7 +95135,9 @@
   "mat": "石（其他）",
   "mat_wd": [
    "stone"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:%22Zeichen%22_by_Fritz_Wotruba%2C_M%C3%A4rzpark%2C_Vienna",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2912",
@@ -94141,7 +95175,9 @@
   "mat": "石（其他）",
   "mat_wd": [
    "stone"
-  ]
+  ],
+  "link": "http://www.sculptureinternationalrotterdam.nl/collectie/permanent/liggende_figuur.php?lang=en",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2913",
@@ -94177,7 +95213,9 @@
    ]
   },
   "mat": "石（其他）",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://dams.antwerpen.be/asset/I2OUZXScBXFfAVYdUfUXNl3y",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2914",
@@ -94213,7 +95251,9 @@
    ]
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q99203850",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2915",
@@ -94249,7 +95289,9 @@
    ]
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q99203854",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2916",
@@ -94285,7 +95327,9 @@
    ]
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q99203852",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2917",
@@ -94321,7 +95365,9 @@
    ]
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q99203856",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2918",
@@ -94358,7 +95404,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q141101621",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2919",
@@ -94396,7 +95444,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://dams.antwerpen.be/asset/X1DvIwEtDGnpmKFXdGtrOAuy",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2920",
@@ -94434,7 +95484,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://museums.gov.il/he/items/Pages/ItemCard.aspx?IdItem=ICMS_IMJ_192230",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2921",
@@ -94470,7 +95522,9 @@
    ]
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://dams.antwerpen.be/asset/u2aYvPckI2gZWgFYMRfUXDvw",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2922",
@@ -94506,7 +95560,9 @@
    ]
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q99203629",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2923",
@@ -94542,7 +95598,9 @@
    ]
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://dams.antwerpen.be/asset/iXUxABMoAnLCFdMikdEAVxOI",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2924",
@@ -94578,7 +95636,9 @@
    ]
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://dams.antwerpen.be/asset/w2eTYljFVKJKeoaTVW0KUzna",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2925",
@@ -94612,7 +95672,9 @@
    "mu": []
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:For_Leonardo_%28Eduardo_Paolozzi%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2926",
@@ -94647,7 +95709,9 @@
    "mu": []
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:The_Artist_as_Hephaestus_%28Eduardo_Paolozzi%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2927",
@@ -94681,7 +95745,9 @@
    "mu": []
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Head_of_Oscar_Wilde_%28Eduardo_Paolozzi%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2928",
@@ -94718,7 +95784,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "steel"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Cooling_Tower_Panels_%28Eduardo_Paolozzi%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2929",
@@ -94752,7 +95820,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "http://gestorpatrimoniocultural.cicop.com/Santa_Cruz_de_Tenerife/Homenaje_a_Gaud%C3%AD_(Eduardo_Paolozzi_)",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2930",
@@ -94788,7 +95858,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "aluminium"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Eduardo_Paolozzi%2C_o._T._%28Freiburg_im_Breisgau%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2931",
@@ -94822,7 +95894,9 @@
    "mu": []
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:A_Maximis_ad_Minima",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2932",
@@ -94856,7 +95930,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://stadtgeschichte.linz.at/denkmal/Default.asp?action=denkmaldetail&id=1313",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2933",
@@ -94895,7 +95971,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q140047944",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2934",
@@ -94931,7 +96009,9 @@
    ]
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q99203759",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2935",
@@ -94968,7 +96048,9 @@
    ]
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q99203762",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2936",
@@ -95002,7 +96084,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q130478667",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2937",
@@ -95036,7 +96120,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q29601566",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2938",
@@ -95074,7 +96160,9 @@
   "mat_wd": [
    "bronze",
    "stone"
-  ]
+  ],
+  "link": "http://pmsa.org.uk/pmsa-database/1275/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2939",
@@ -95109,7 +96197,9 @@
    "mu": []
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Eagle_Squadron_Memorial",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2940",
@@ -95141,7 +96231,9 @@
    "mu": []
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Dorset_Martyrs_by_Elisabeth_Frink_%28Dorchester%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2941",
@@ -95176,7 +96268,9 @@
    "mu": []
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:That_Part_of_The_Montague_Shopping_Centre_Which_is_The_Desert_Quartet_Sculptures_with_Supporting_Loggia_Alexander_Terrace",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2942",
@@ -95209,7 +96303,9 @@
    "mu": []
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Robed_Figure_by_Elisabeth_Frink_%28Reading%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2943",
@@ -95244,7 +96340,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Statue_of_the_young_girl_in_Terez%C3%ADn",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2944",
@@ -95280,7 +96378,9 @@
    ]
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "http://search.middelheimmuseum.be/Details/collect/148203",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2945",
@@ -95316,7 +96416,9 @@
    ]
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q99203681",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2946",
@@ -95351,7 +96453,9 @@
    "mu": []
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:La_Chimera_%28Rignano_sull%27Arno%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2947",
@@ -95387,7 +96491,9 @@
    ]
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://dams.antwerpen.be/asset/KTOXhTbwjsJFgQcLWofAYQiY",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2948",
@@ -95423,7 +96529,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "steel"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:El_Peine_del_Viento-Haizearen_Orrazia",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2949",
@@ -95460,7 +96568,9 @@
   "mat": "其他",
   "mat_wd": [
    "concrete"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Elogio_del_Horizonte%2C_Gij%C3%B3n",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2950",
@@ -95496,7 +96606,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "weathering steel"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Topos_V",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2951",
@@ -95532,7 +96644,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "steel"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Buscando_la_Luz_II_%28Eduardo_Chillida%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2952",
@@ -95569,7 +96683,9 @@
   "mat_wd": [
    "reinforced concrete",
    "steel"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Elogio_del_agua_%28Eduardo_Chillida_sculpture%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2953",
@@ -95606,7 +96722,9 @@
   "mat": "其他",
   "mat_wd": [
    "concrete"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Monument_to_the_Tolerance%2C_Seville",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2954",
@@ -95644,7 +96762,9 @@
   "mat_wd": [
    "concrete",
    "steel"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Eduardo_Chillida_Guernica_Memorial",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2955",
@@ -95678,7 +96798,9 @@
   "mat": "石（其他）",
   "mat_wd": [
    "granite"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Flemingi_Omenaldia/Homenaje_a_Fleming",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2956",
@@ -95715,7 +96837,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "weathering steel"
-  ]
+  ],
+  "link": "https://nrw-skulptur.net/skulptur/toleranz-durch-dialog/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2957",
@@ -95750,7 +96874,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Barcelona_1998_%28Eduardo_Chillida%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2958",
@@ -95787,7 +96913,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "weathering steel"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Arco_de_la_Libertad",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2959",
@@ -95824,7 +96952,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "weathering steel"
-  ]
+  ],
+  "link": "https://nrw-skulptur.net/skulptur/monumento/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2960",
@@ -95932,7 +97062,9 @@
    "concrete",
    "iron",
    "aluminium"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q113535453",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2963",
@@ -96175,7 +97307,9 @@
    "mu": []
   },
   "mat": "木",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q85789108",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2970",
@@ -96211,7 +97345,9 @@
    ]
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://dams.antwerpen.be/asset/kVNYlRSjiSSagVSRXdSvLbeK",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2971",
@@ -96245,7 +97381,9 @@
    "mu": []
   },
   "mat": "鋼鐵",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q15255262",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2972",
@@ -96283,7 +97421,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "steel"
-  ]
+  ],
+  "link": "http://www.tate.org.uk/art/artworks/caro-twenty-four-hours-t01987",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2973",
@@ -96320,7 +97460,9 @@
   "mat": "石（其他）",
   "mat_wd": [
    "limestone"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Frieze_of_the_Apostles_in_Arantzazu",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2974",
@@ -96354,7 +97496,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "steel"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Construcci%C3%B3n_vac%C3%ADa-Eraikuntza_hutsa",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2975",
@@ -96388,7 +97532,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:2_gaineko_1%2C_multzo_hirukoitza",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2976",
@@ -96424,7 +97570,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Unidad_Triple_y_Liviana_%28Jorge_Oteiza%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2977",
@@ -96461,7 +97609,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "steel"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Retrato_de_un_gudari_llamado_Odiseo_%28Oteiza%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2978",
@@ -96495,7 +97645,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:L%27ona_%28Jorge_Oteiza%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2979",
@@ -96533,7 +97685,9 @@
   "mat_wd": [
    "steel",
    "zinc"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Homenatge_a_Mal%C3%A8vitx_%28Jorge_Oteiza%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2980",
@@ -96569,7 +97723,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "steel"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Variante_ovoide_de_la_desocupaci%C3%B3n_de_la_esfera",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2981",
@@ -96605,7 +97761,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "steel"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Amatasuna_%28Oteiza%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2982",
@@ -96639,7 +97797,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q20031272",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2983",
@@ -96673,7 +97833,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q20031250",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2984",
@@ -96711,7 +97873,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "weathering steel"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q20031251",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2985",
@@ -96750,7 +97914,9 @@
   "mat": "混合媒材",
   "mat_wd": [
    "wire"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q2974254",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2986",
@@ -96784,7 +97950,9 @@
    "mu": []
   },
   "mat": "鋼鐵",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Nancy_%28Calder%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2987",
@@ -96820,7 +97988,9 @@
    ]
   },
   "mat": "鋼鐵",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.fine-arts-museum.be/nl/de-collectie/alexander-calder-the-whirling-ear",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2988",
@@ -96857,7 +98027,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "steel"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Eagle_by_Calder",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2989",
@@ -96892,7 +98064,9 @@
    "mu": []
   },
   "mat": "鋼鐵",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Gesture_to_Jerusalem",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2990",
@@ -96927,7 +98101,9 @@
    "mu": []
   },
   "mat": "鋼鐵",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q10467354",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2991",
@@ -96965,7 +98141,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "iron"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:4_wings_by_Alexander_Calder",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2992",
@@ -97001,7 +98179,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "steel"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Sol_Rojo_%28Alexander_Calder%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2993",
@@ -97038,7 +98218,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "steel"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Araign%C3%A9e_rouge_by_Alexander_Calder",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2994",
@@ -97072,7 +98254,9 @@
    "mu": []
   },
   "mat": "鋼鐵",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Man%2C_Three_Disks",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2995",
@@ -97104,7 +98288,9 @@
    "mu": []
   },
   "mat": "鋼鐵",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q10467442",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s2996",
@@ -97143,7 +98329,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "steel"
-  ]
+  ],
+  "link": "http://www.sculptureinternationalrotterdam.nl/collectie/permanent/LeTamanoir.php?lang=en",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2997",
@@ -97178,7 +98366,9 @@
    "mu": []
   },
   "mat": "混合媒材",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://h2o.do/Q281309",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s2998",
@@ -97212,7 +98402,9 @@
    "mu": []
   },
   "mat": "鋼鐵",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Heureka_%28Jean_Tinguely%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s2999",
@@ -97252,7 +98444,9 @@
   "mat_wd": [
    "rubber",
    "iron"
-  ]
+  ],
+  "link": "https://museums.gov.il/he/items/Pages/ItemCard.aspx?IdItem=ICMS_IMJ_191966",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s3000",
@@ -97290,7 +98484,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "stainless steel"
-  ]
+  ],
+  "link": "http://www.sculptureinternationalrotterdam.nl/collectie/permanent/TwoTurningVerticalRectangles.php?lang=en",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s3001",
@@ -97326,7 +98522,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "stainless steel"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Double_L_Excentric_Gyratory_%28Auckland%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3002",
@@ -97364,7 +98562,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "stainless steel"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q16910022",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s3003",
@@ -97402,7 +98602,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "stainless steel"
-  ]
+  ],
+  "link": "https://www.sculptureinternationalrotterdam.nl/collectie/three-columns/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s3004",
@@ -97440,7 +98642,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "stainless steel"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Four_Trapezoids_as_two_Rectangles_IV",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3005",
@@ -97476,7 +98680,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "steel"
-  ]
+  ],
+  "link": "https://nrw-skulptur.net/skulptur/two-lines-oblique/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s3006",
@@ -97512,7 +98718,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "high-quality steel"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Vier_Vierecke_im_Geviert",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3007",
@@ -97548,7 +98756,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "stainless steel"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Four_Lines_Oblique%2C_Freiburg_%28George_Rickey%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3008",
@@ -97584,7 +98794,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "steel"
-  ]
+  ],
+  "link": "https://nrw-skulptur.net/skulptur/one-up-one-down-excentric/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s3009",
@@ -97620,7 +98832,9 @@
    ]
   },
   "mat": "鋼鐵",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q99203786",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s3010",
@@ -97656,7 +98870,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "stainless steel"
-  ]
+  ],
+  "link": "https://nrw-skulptur.net/skulptur/broken-column/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s3011",
@@ -97693,7 +98909,9 @@
   "mat_wd": [
    "high-quality steel",
    "concrete"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q136783130",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s3012",
@@ -97727,7 +98945,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:June_1995_%28Pol_Bury%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3013",
@@ -97761,7 +98981,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q33243583",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s3014",
@@ -97800,7 +99022,9 @@
   "mat_wd": [
    "metallic paint",
    "iron"
-  ]
+  ],
+  "link": "https://dams.antwerpen.be/asset/k1pGUX8XphlVnrPTeXK4Pd8c",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s3015",
@@ -97832,7 +99056,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q56696027",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s3016",
@@ -97868,7 +99094,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "stainless steel"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q56696071",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s3017",
@@ -97903,7 +99131,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q56696169",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s3018",
@@ -97936,7 +99166,9 @@
    "mu": []
   },
   "mat": "鋼鐵",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Chronos_15",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3019",
@@ -97971,7 +99203,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q20655601",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s3020",
@@ -98003,7 +99237,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.sculpture.org.nz/the-sculptures/water-whirler",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s3021",
@@ -98040,7 +99276,9 @@
    ]
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "http://search.middelheimmuseum.be/Details/collect/147964",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s3022",
@@ -98076,7 +99314,9 @@
    ]
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q99203620",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s3023",
@@ -98114,7 +99354,9 @@
   "mat": "其他",
   "mat_wd": [
    "Q2605685"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Long_Pyramid_%28LeWitt%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3024",
@@ -98148,7 +99390,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q19963987",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s3025",
@@ -98181,7 +99425,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Tall_Irregular_Progression._A_les_V%C3%ADctimes_del_terrorisme",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3026",
@@ -98217,7 +99463,9 @@
    ]
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Six-sided_tower_%281993%29_by_Sol_LeWitt",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3027",
@@ -98257,7 +99505,9 @@
   "mat_wd": [
    "slate",
    "travertine"
-  ]
+  ],
+  "link": "https://bkdh.nl/kunstwerken/eerbetoon-aan-mevrouw-josine-de-bruyn-kops/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s3028",
@@ -98296,7 +99546,9 @@
    "enamel paint",
    "steel",
    "aluminium"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Mistos_%28sculpture_of_matches_in_Barcelona%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3029",
@@ -98336,7 +99588,9 @@
    "fibre-reinforced plastic",
    "polyester",
    "steel"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Inverted_Collar_and_Tie",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3030",
@@ -98377,7 +99631,9 @@
    "stainless steel",
    "polyvinyl chloride",
    "jute"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Houseball_%28Oldenburg_and_van_Bruggen%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3031",
@@ -98419,7 +99675,9 @@
    "plastic",
    "steel",
    "glass fiber"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Flying_Pins",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3032",
@@ -98460,7 +99718,9 @@
    "polyurethane",
    "steel",
    "aluminium"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:La_Bicyclette_ensevelie",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3033",
@@ -98497,7 +99757,9 @@
   "mat_wd": [
    "enamel paint",
    "steel"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Spitzhacke_%28Claes_Oldenburg%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3034",
@@ -98535,7 +99797,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "aluminium"
-  ]
+  ],
+  "link": "https://museums.gov.il/he/items/Pages/ItemCard.aspx?IdItem=ICMS_IMJ_202040",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s3035",
@@ -98572,7 +99836,9 @@
   "mat_wd": [
    "fiberglass",
    "steel"
-  ]
+  ],
+  "link": "https://nrw-skulptur.net/skulptur/dropped-cone/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s3036",
@@ -98609,7 +99875,9 @@
   "mat_wd": [
    "enamel paint",
    "steel"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Gartenschlauch_%28Claes_Oldenburg%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3037",
@@ -98648,7 +99916,9 @@
   "mat_wd": [
    "enamel paint",
    "aluminium"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Screwarch",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3038",
@@ -98687,7 +99957,9 @@
    "enamel paint",
    "cast iron",
    "steel"
-  ]
+  ],
+  "link": "https://nrw-skulptur.net/skulptur/cross-section-of-a-toothbrush-with-paste-in-a-cup-on-a-sink-portrait-of-coosjes-thinking/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s3039",
@@ -98725,7 +99997,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "steel"
-  ]
+  ],
+  "link": "https://krollermuller.nl/en/claes-oldenburg-trowel-1",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s3040",
@@ -98760,7 +100034,9 @@
    "mu": []
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:San_Francisco_Lincoln_Park_Holocaust_Memorial",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3041",
@@ -98795,7 +100071,9 @@
    "mu": []
   },
   "mat": "混合媒材",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:HaMifletzet_Garden",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3042",
@@ -98835,7 +100113,9 @@
    "clay",
    "stone",
    "glass"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q124407516",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s3043",
@@ -98870,7 +100150,9 @@
    "mu": []
   },
   "mat": "混合媒材",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:L%27Ange_Protecteur",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3044",
@@ -98904,7 +100186,9 @@
    "mu": []
   },
   "mat": "混合媒材",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q21512856",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s3045",
@@ -98937,7 +100221,9 @@
    "mu": []
   },
   "mat": "混合媒材",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q19478835",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s3046",
@@ -98970,7 +100256,9 @@
    "mu": []
   },
   "mat": "混合媒材",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q917210",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s3047",
@@ -99002,7 +100290,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Untitled_%28Richard_Artschwager%2C_Rotterdam%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3048",
@@ -99039,7 +100329,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q2377453",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s3049",
@@ -99073,7 +100365,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:L%27homme_du_Futur_%28C%C3%A9sar%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3050",
@@ -99111,7 +100405,9 @@
    "neon lighting",
    "granite",
    "steel"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Riding_Bikes",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3051",
@@ -99179,7 +100475,9 @@
    "mu": []
   },
   "mat": "鋼鐵",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q7328968",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s3053",
@@ -99216,7 +100514,9 @@
   "mat": "其他",
   "mat_wd": [
    "concrete"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Shift_%28sculpture%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3054",
@@ -99252,7 +100552,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "steel"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q21429399",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s3055",
@@ -99288,7 +100590,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "weathering steel"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Sight_Point_%28for_Leo_Castelli%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3056",
@@ -99324,7 +100628,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "weathering steel"
-  ]
+  ],
+  "link": "https://nrw-skulptur.net/skulptur/terminal/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s3057",
@@ -99362,7 +100668,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "weathering steel"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:The_Hours_of_the_Day_%28Richard_Serra%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3058",
@@ -99399,7 +100707,9 @@
   "mat": "石（其他）",
   "mat_wd": [
    "basalt"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q15980644",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s3059",
@@ -99438,7 +100748,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "steel"
-  ]
+  ],
+  "link": "https://www.wikidata.org/wiki/Q17370280",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s3060",
@@ -99475,7 +100787,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "weathering steel"
-  ]
+  ],
+  "link": "https://nrw-skulptur.net/skulptur/bramme-fuer-das-ruhrgebiet/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s3061",
@@ -99511,7 +100825,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "weathering steel"
-  ]
+  ],
+  "link": "https://www.dillinger.de/d/en/news/press-releases/richard-serra-s-viewpoint-for-dillingen-68347.shtml",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s3062",
@@ -99550,7 +100866,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "weathering steel"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Spin_out%2C_for_Robert_Smithson_%281972/3%29_by_Richard_Serra",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3063",
@@ -99586,7 +100904,9 @@
   "mat": "其他",
   "mat_wd": [
    "reinforced concrete"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:El_mur_%28Richard_Serra%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3064",
@@ -99870,7 +101190,9 @@
    "mu": []
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Hare_on_Bell_on_Portland_Stone_Piers_%28Barry_Flanagan%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3072",
@@ -99906,7 +101228,9 @@
   "mat": "青銅",
   "mat_wd": [
    "bronze"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Large_Nijinsky_Hare_on_Anvil_Point",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3073",
@@ -99938,7 +101262,9 @@
    "mu": []
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Acrobats_by_Barry_Flanagan%2C_Yerevan",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3074",
@@ -99970,7 +101296,9 @@
    "mu": []
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Gendrd_I_%26_II_%28Barry_Flanagan%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3075",
@@ -100002,7 +101330,9 @@
    "mu": []
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Large_boxing_hare_on_Anvil_%28Barry_Flanagan%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3076",
@@ -100036,7 +101366,9 @@
    "mu": []
   },
   "mat": "青銅",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Thinker_on_a_rock_by_Barry_Flanagan_%28Utrecht%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3077",
@@ -100074,7 +101406,9 @@
   "mat": "石（其他）",
   "mat_wd": [
    "granite"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Large_Red_Sphere",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3078",
@@ -100109,7 +101443,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Sph%C3%A8re_des_droits_de_l%27homme",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3079",
@@ -100505,7 +101841,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Configuracions_Urbanes%3A_Balan%C3%A7a_romana_%28Jannis_Kounellis%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3090",
@@ -100616,7 +101954,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Crescendo_appare",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3093",
@@ -100656,7 +101996,9 @@
   "mat_wd": [
    "sandstone",
    "metal"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Igloo_di_pietra_%281982%29_by_Mario_Merz",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3094",
@@ -100690,7 +102032,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.skulptur-projekte-archiv.de/en-us/1987/projects/5/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s3095",
@@ -100880,7 +102224,9 @@
    ]
   },
   "mat": "混合媒材",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q104222978",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s3100",
@@ -100916,7 +102262,9 @@
    ]
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "http://search.middelheimmuseum.be/Details/collect/148047",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s3101",
@@ -100952,7 +102300,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "stainless steel"
-  ]
+  ],
+  "link": "https://nrw-skulptur.net/skulptur/la-palla-der-ball/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s3102",
@@ -100988,7 +102338,9 @@
    ]
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q99203669",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s3103",
@@ -101056,7 +102408,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "metal"
-  ]
+  ],
+  "link": "https://nrw-skulptur.net/skulptur/ofenrohr/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s3105",
@@ -101241,7 +102595,9 @@
    "bronze",
    "aluminium",
    "water"
-  ]
+  ],
+  "link": "https://commons.wikimedia.org/wiki/Category:Father_and_Son_%28Bourgeois%29",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3110",
@@ -101273,7 +102629,9 @@
    "mu": []
   },
   "mat": "石（其他）",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q23007429",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s3111",
@@ -101446,7 +102804,9 @@
   "mat": "鋼鐵",
   "mat_wd": [
    "metal"
-  ]
+  ],
+  "link": "https://www.skulptur-projekte-archiv.de/en-us/1997/projects/18/",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s3116",
@@ -101481,7 +102841,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://www.wikidata.org/wiki/Q116729863",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s3117",
@@ -102546,7 +103908,9 @@
    "mu": []
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://commons.wikimedia.org/wiki/Category:Una_habitaci%C3%B3n_donde_siempre_llueve",
+  "link_label": "Wikimedia Commons 作品圖庫"
  },
  {
   "id": "s3147",
@@ -102583,7 +103947,9 @@
    ]
   },
   "mat": "其他",
-  "mat_wd": []
+  "mat_wd": [],
+  "link": "https://dams.antwerpen.be/asset/pZDno3GRWbTLMpSZbAyxgeyx",
+  "link_label": "館方／專門資料庫作品頁"
  },
  {
   "id": "s3148",
@@ -102690,7 +104056,9 @@
   ],
   "n": "橋社大師將表現主義木刻版畫的直率刀法帶入立體雕刻。直接在原木塊上斧劈鑿刻，融合非洲傳統面具的粗獷對稱與原創張力。（館藏待查。）",
   "pd": true,
-  "tier": "canon"
+  "tier": "canon",
+  "link": "https://www.wikidata.org/wiki/Q65080306",
+  "link_label": "Wikidata 作品條目"
  },
  {
   "id": "s3152",

@@ -355,7 +355,7 @@ function drawLb(){
   <p><span class="k">材質</span><br>${esc(w.mat||'—')}</p>
   <p><span class="k">主題</span><br>${w.th.map(t=>`<span class="chip btn" data-th="${esc(t)}">${esc(t)}</span>`).join(' ')}</p>
   ${w.n?`<p><span class="k">說明</span><br>${esc(w.n)}</p>`:''}
-  <p><span class="k">連結</span><br>${w.src_url?`<a href="${esc(w.src_url)}" target="_blank" rel="noopener">${w.src==='NGA'?'NGA 館藏頁':w.src==='Commons'?'Wikimedia Commons 檔案頁':'在 Wikipedia 搜尋'}</a>`:''}</p>
+  <p><span class="k">連結</span><br>${w.link?`<a href="${esc(w.link)}" target="_blank" rel="noopener">${esc(w.link_label||'作品頁')}</a><br>`:''}${w.src_url?`<a href="${esc(w.src_url)}" target="_blank" rel="noopener">${w.src==='NGA'?'NGA 館藏頁':w.src==='Commons'?'Wikimedia Commons 檔案頁':'在 Wikipedia 搜尋'}</a>`:''}</p>
   ${MYTH[w.id]?`<p><span class="k">相關神話故事</span><br>${MYTH[w.id].map(x=>`<a href="https://briantsaivc-web.github.io/greek-myth-atlas/#story/${x.id}" target="_blank" rel="noopener">${esc(x.t)}</a>`).join("　")}</p>`:""}<div class="verif">圖檔來源／查證狀態：${esc(w.verif)}${w.wd?` · <a href="https://www.wikidata.org/wiki/${esc(w.wd.q)}" target="_blank" rel="noopener">Wikidata</a>${w.wd.y&&w.wd.y.length?`（Wikidata 年代 ${w.wd.y.join('/')}${w.wd.mu&&w.wd.mu.length?'，館藏 '+esc(w.wd.mu[0]):''}）`:''}`:''}${w.wd_flag?`<br><span style="color:var(--danger)">⚠ ${esc(w.wd_flag)}</span>`:''}${w.n?'。說明文字為編者撰寫的導覽式摘要。':''}</div></div>`;
   bigImg(w,document.getElementById('lbpic'),`<p class="noimg" style="padding:40px 10px;text-align:center">${w.pd?'這件作品經搜尋仍未找到可確認的公開圖檔。':'這件作品仍受著作權保護，本集不嵌入圖片。'}<br>請用右側連結查看。</p>`);
   document.querySelector('#lbin .mv').onclick=()=>{closeLb();openMov(m.id)};
