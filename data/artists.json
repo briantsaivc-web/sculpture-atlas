@@ -2878,5 +2878,167 @@
   "birth": 1955,
   "death": null,
   "nat": "美國"
+ },
+ "Unknown (古希臘)": {
+  "zh": "佚名（古希臘）",
+  "birth": null,
+  "death": null,
+  "nat": ""
+ },
+ "Unknown (古羅馬)": {
+  "zh": "佚名（古羅馬）",
+  "birth": null,
+  "death": null,
+  "nat": ""
+ },
+ "Kephisodotos": {
+  "zh": "凱菲索多托斯",
+  "birth": -400,
+  "death": -360,
+  "nat": "古希臘"
+ },
+ "Pacetti, Vincenzo": {
+  "zh": "文森佐·帕切蒂",
+  "birth": 1746,
+  "death": 1820,
+  "nat": "義大利"
+ },
+ "Hans Leinberger": {
+  "zh": "漢斯·萊因貝格",
+  "birth": 1480,
+  "death": 1531,
+  "nat": "德國"
+ },
+ "Unknown (法國)": {
+  "zh": "佚名（法國）",
+  "birth": null,
+  "death": null,
+  "nat": ""
+ },
+ "Unknown (波希米亞)": {
+  "zh": "佚名（波希米亞）",
+  "birth": null,
+  "death": null,
+  "nat": ""
+ },
+ "Master Heinrich of Constance": {
+  "zh": "康士坦茨的海因里希大師",
+  "birth": 1280,
+  "death": 1320,
+  "nat": "德國"
+ },
+ "Unknown (德國)": {
+  "zh": "佚名（德國）",
+  "birth": null,
+  "death": null,
+  "nat": ""
+ },
+ "Niclaus Gerhaert von Leyden": {
+  "zh": "尼克勞斯·格哈特·范萊頓",
+  "birth": 1430,
+  "death": 1473,
+  "nat": "荷蘭"
+ },
+ "Unknown (加泰隆尼亞)": {
+  "zh": "佚名（加泰隆尼亞）",
+  "birth": null,
+  "death": null,
+  "nat": ""
+ },
+ "Nikolaus von Hagenau": {
+  "zh": "尼古拉斯·馮·哈格瑙",
+  "birth": 1445,
+  "death": 1538,
+  "nat": "德國"
+ },
+ "Gil de Siloe": {
+  "zh": "吉爾·德·西洛埃",
+  "birth": 1440,
+  "death": 1501,
+  "nat": "西班牙"
+ },
+ "Unknown (拜占庭)": {
+  "zh": "佚名（拜占庭）",
+  "birth": null,
+  "death": null,
+  "nat": ""
+ },
+ "Unknown (西班牙)": {
+  "zh": "佚名（西班牙）",
+  "birth": null,
+  "death": null,
+  "nat": ""
+ },
+ "Jean-Louis Lemoyne": {
+  "zh": "尚-路易·勒莫安",
+  "birth": 1665,
+  "death": 1755,
+  "nat": "法國"
+ },
+ "Giovanni Battista Foggini": {
+  "zh": "喬瓦尼·巴蒂斯塔·佛吉尼",
+  "birth": 1652,
+  "death": 1725,
+  "nat": "義大利"
+ },
+ "Balthasar Permoser": {
+  "zh": "巴爾塔薩·佩爾莫瑟",
+  "birth": 1651,
+  "death": 1732,
+  "nat": "德國"
+ },
+ "Antico": {
+  "zh": "安蒂科",
+  "birth": 1460,
+  "death": 1528,
+  "nat": "義大利"
+ },
+ "Edgar Degas": {
+  "zh": "竇加",
+  "birth": 1834,
+  "death": 1917,
+  "nat": "法國"
+ },
+ "Jean de la Huerta": {
+  "zh": "尚·德·拉·烏埃塔",
+  "birth": 1413,
+  "death": 1462,
+  "nat": "西班牙"
+ },
+ "Edmonia Lewis": {
+  "zh": "艾德蒙尼亞·路易斯",
+  "birth": 1844,
+  "death": 1907,
+  "nat": "美國"
+ },
+ "Unknown (伊特魯里亞)": {
+  "zh": "佚名（伊特魯里亞）",
+  "birth": null,
+  "death": null,
+  "nat": ""
+ },
+ "Unknown (古羅馬晚期／安那托利亞)": {
+  "zh": "佚名（古羅馬晚期／安那托利亞）",
+  "birth": null,
+  "death": null,
+  "nat": ""
+ },
+ "Jan Crocq": {
+  "zh": "揚·克羅克",
+  "birth": 1460,
+  "death": 1510,
+  "nat": "法蘭德斯"
+ },
+ "Filippo Parodi": {
+  "zh": "菲利波·帕羅迪",
+  "birth": 1630,
+  "death": 1702,
+  "nat": "義大利"
+ },
+ "Unknown (默茲河谷)": {
+  "zh": "佚名（默茲河谷）",
+  "birth": null,
+  "death": null,
+  "nat": ""
  }
 }
