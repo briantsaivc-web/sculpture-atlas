@@ -2879,18 +2879,6 @@
   "death": null,
   "nat": "美國"
  },
- "Unknown (古希臘)": {
-  "zh": "佚名（古希臘）",
-  "birth": null,
-  "death": null,
-  "nat": ""
- },
- "Unknown (古羅馬)": {
-  "zh": "佚名（古羅馬）",
-  "birth": null,
-  "death": null,
-  "nat": ""
- },
  "Kephisodotos": {
   "zh": "凱菲索多托斯",
   "birth": -400,
@@ -2909,41 +2897,17 @@
   "death": 1531,
   "nat": "德國"
  },
- "Unknown (法國)": {
-  "zh": "佚名（法國）",
-  "birth": null,
-  "death": null,
-  "nat": ""
- },
- "Unknown (波希米亞)": {
-  "zh": "佚名（波希米亞）",
-  "birth": null,
-  "death": null,
-  "nat": ""
- },
  "Master Heinrich of Constance": {
   "zh": "康士坦茨的海因里希大師",
   "birth": 1280,
   "death": 1320,
   "nat": "德國"
  },
- "Unknown (德國)": {
-  "zh": "佚名（德國）",
-  "birth": null,
-  "death": null,
-  "nat": ""
- },
  "Niclaus Gerhaert von Leyden": {
   "zh": "尼克勞斯·格哈特·范萊頓",
   "birth": 1430,
   "death": 1473,
   "nat": "荷蘭"
- },
- "Unknown (加泰隆尼亞)": {
-  "zh": "佚名（加泰隆尼亞）",
-  "birth": null,
-  "death": null,
-  "nat": ""
  },
  "Nikolaus von Hagenau": {
   "zh": "尼古拉斯·馮·哈格瑙",
@@ -2956,18 +2920,6 @@
   "birth": 1440,
   "death": 1501,
   "nat": "西班牙"
- },
- "Unknown (拜占庭)": {
-  "zh": "佚名（拜占庭）",
-  "birth": null,
-  "death": null,
-  "nat": ""
- },
- "Unknown (西班牙)": {
-  "zh": "佚名（西班牙）",
-  "birth": null,
-  "death": null,
-  "nat": ""
  },
  "Jean-Louis Lemoyne": {
   "zh": "尚-路易·勒莫安",
@@ -3011,18 +2963,6 @@
   "death": 1907,
   "nat": "美國"
  },
- "Unknown (伊特魯里亞)": {
-  "zh": "佚名（伊特魯里亞）",
-  "birth": null,
-  "death": null,
-  "nat": ""
- },
- "Unknown (古羅馬晚期／安那托利亞)": {
-  "zh": "佚名（古羅馬晚期／安那托利亞）",
-  "birth": null,
-  "death": null,
-  "nat": ""
- },
  "Jan Crocq": {
   "zh": "揚·克羅克",
   "birth": 1460,
@@ -3035,8 +2975,494 @@
   "death": 1702,
   "nat": "義大利"
  },
- "Unknown (默茲河谷)": {
-  "zh": "佚名（默茲河谷）",
+ "Lorado Taft": {
+  "zh": "洛拉多·塔夫特",
+  "birth": 1860,
+  "death": 1936,
+  "nat": "美國"
+ },
+ "Chauncey Bradley Ives": {
+  "zh": "昌西·布拉德利·艾夫斯",
+  "birth": 1810,
+  "death": 1894,
+  "nat": "美國"
+ },
+ "Edward Clark Potter": {
+  "zh": "愛德華·克拉克·波特",
+  "birth": 1857,
+  "death": 1923,
+  "nat": "美國"
+ },
+ "Joseph Mozier": {
+  "zh": "約瑟夫·莫齊耶",
+  "birth": 1812,
+  "death": 1870,
+  "nat": "美國"
+ },
+ "Edward Sheffield Bartholomew": {
+  "zh": "愛德華·謝菲爾德·巴塞洛謬",
+  "birth": 1822,
+  "death": 1858,
+  "nat": "美國"
+ },
+ "Emma Stebbins": {
+  "zh": "艾瑪·斯特賓斯",
+  "birth": 1815,
+  "death": 1882,
+  "nat": "美國"
+ },
+ "Paolo Callalo": {
+  "zh": "保羅·卡拉洛",
+  "birth": null,
+  "death": null,
+  "nat": "義大利"
+ },
+ "Thomas Ball": {
+  "zh": "湯瑪斯·鮑爾",
+  "birth": 1819,
+  "death": 1911,
+  "nat": "美國"
+ },
+ "Antonio d'Este": {
+  "zh": "安東尼奧·代斯特",
+  "birth": 1754,
+  "death": 1837,
+  "nat": "義大利"
+ },
+ "Leonard Wells Volk": {
+  "zh": "倫納德·威爾斯·沃爾克",
+  "birth": 1828,
+  "death": 1895,
+  "nat": "美國"
+ },
+ "Frederic Remington": {
+  "zh": "弗雷德里克·雷明頓",
+  "birth": 1861,
+  "death": 1909,
+  "nat": "美國"
+ },
+ "Hermon Atkins MacNeil": {
+  "zh": "赫爾蒙·阿特金斯·麥克尼爾",
+  "birth": 1866,
+  "death": 1947,
+  "nat": "美國"
+ },
+ "Niccolò Roccatagliata": {
+  "zh": "尼科洛·羅卡塔利亞塔",
+  "birth": 1560,
+  "death": 1636,
+  "nat": "義大利"
+ },
+ "Pierre-Auguste Renoir": {
+  "zh": "皮耶-奧古斯特·雷諾瓦",
+  "birth": 1841,
+  "death": 1919,
+  "nat": "法國"
+ },
+ "Charles Henri Joseph Cordier": {
+  "zh": "夏爾·亨利·約瑟夫·科爾迪耶",
+  "birth": 1827,
+  "death": 1905,
+  "nat": "法國"
+ },
+ "Henri Matisse": {
+  "zh": "亨利·馬諦斯",
+  "birth": 1869,
+  "death": 1954,
+  "nat": "法國"
+ },
+ "Jean de Clichy": {
+  "zh": "尚·德·克利希",
+  "birth": null,
+  "death": null,
+  "nat": "法國"
+ },
+ "Master of the Saint-Omer Apostles": {
+  "zh": "聖奧梅爾使徒像大師",
+  "birth": null,
+  "death": null,
+  "nat": "法國"
+ },
+ "Master of Rabenden": {
+  "zh": "拉本登大師",
+  "birth": null,
+  "death": null,
+  "nat": "德國"
+ },
+ "Master of Elsloo": {
+  "zh": "埃爾斯洛大師",
+  "birth": null,
+  "death": null,
+  "nat": "尼德蘭"
+ },
+ "Michel Colombe": {
+  "zh": "米歇爾·科隆布",
+  "birth": 1430,
+  "death": 1512,
+  "nat": "法國"
+ },
+ "Giovanni di Agostino": {
+  "zh": "喬凡尼·迪·阿戈斯蒂諾",
+  "birth": null,
+  "death": 1347,
+  "nat": "義大利"
+ },
+ "Tino di Camaino": {
+  "zh": "蒂諾·迪·卡馬伊諾",
+  "birth": 1285,
+  "death": 1337,
+  "nat": "義大利"
+ },
+ "Master of Grosslobming": {
+  "zh": "格羅斯洛布明大師",
+  "birth": null,
+  "death": null,
+  "nat": "奧地利"
+ },
+ "Matthäus Kreniss": {
+  "zh": "馬特厄斯·克雷尼斯",
+  "birth": null,
+  "death": null,
+  "nat": "德國"
+ },
+ "Hans Schnatterpeck": {
+  "zh": "漢斯·施納特佩克",
+  "birth": null,
+  "death": 1502,
+  "nat": "奧地利"
+ },
+ "Benedetto Buglioni": {
+  "zh": "貝內代托·布利奧尼",
+  "birth": 1459,
+  "death": 1521,
+  "nat": "義大利"
+ },
+ "Adam Lenckhardt": {
+  "zh": "亞當·倫克哈特",
+  "birth": 1610,
+  "death": 1661,
+  "nat": "德國"
+ },
+ "Grinling Gibbons": {
+  "zh": "格林林·吉本斯",
+  "birth": 1648,
+  "death": 1721,
+  "nat": "英國"
+ },
+ "Massimiliano Soldani Benzi": {
+  "zh": "馬西米利亞諾·索爾達尼·本齊",
+  "birth": 1656,
+  "death": 1740,
+  "nat": "義大利"
+ },
+ "Giovanni della Robbia": {
+  "zh": "喬凡尼·德拉·羅比亞",
+  "birth": 1469,
+  "death": 1529,
+  "nat": "義大利"
+ },
+ "Peter Flötner": {
+  "zh": "彼得·弗洛特納",
+  "birth": 1490,
+  "death": 1546,
+  "nat": "德國"
+ },
+ "Johann Baptist Hagenauer": {
+  "zh": "約翰·巴普蒂斯特·哈根瑙爾",
+  "birth": 1732,
+  "death": 1810,
+  "nat": "奧地利"
+ },
+ "Joseph Matthias Götz": {
+  "zh": "約瑟夫·馬蒂亞斯·格茨",
+  "birth": 1696,
+  "death": 1760,
+  "nat": "德國"
+ },
+ "Antonio Tarsia": {
+  "zh": "安東尼奧·塔爾西亞",
+  "birth": 1662,
+  "death": 1739,
+  "nat": "義大利"
+ },
+ "Aurelio Lombardo": {
+  "zh": "奧雷里奧·隆巴多",
+  "birth": null,
+  "death": null,
+  "nat": "義大利"
+ },
+ "Cristoforo di Geremia": {
+  "zh": "克里斯托福羅·迪·傑雷米亞",
+  "birth": 1430,
+  "death": 1476,
+  "nat": "義大利"
+ },
+ "Giovanni Maria Mosca": {
+  "zh": "喬凡尼·瑪麗亞·莫斯卡",
+  "birth": 1493,
+  "death": 1573,
+  "nat": "義大利"
+ },
+ "Girolamo della Robbia": {
+  "zh": "吉羅拉莫·德拉·羅比亞",
+  "birth": 1488,
+  "death": 1566,
+  "nat": "義大利"
+ },
+ "Joseph Anton Feuchtmayer": {
+  "zh": "約瑟夫·安東·福伊希特邁爾",
+  "birth": 1696,
+  "death": 1770,
+  "nat": "德國"
+ },
+ "Gregorio di Lorenzo": {
+  "zh": "格雷戈里奧·迪·洛倫佐",
+  "birth": 1436,
+  "death": 1504,
+  "nat": "義大利"
+ },
+ "Jean Warin": {
+  "zh": "尚·瓦蘭",
+  "birth": 1607,
+  "death": 1672,
+  "nat": "法國"
+ },
+ "Jean-Baptiste Defernex": {
+  "zh": "尚-巴蒂斯特·德費爾內",
+  "birth": 1729,
+  "death": 1783,
+  "nat": "法國"
+ },
+ "Master of the Saint John Statuettes": {
+  "zh": "聖若翰小像大師",
+  "birth": null,
+  "death": null,
+  "nat": "尼德蘭"
+ },
+ "Severo da Ravenna": {
+  "zh": "塞維羅·達·拉文納",
+  "birth": null,
+  "death": null,
+  "nat": "義大利"
+ },
+ "Moderno": {
+  "zh": "莫德爾諾（加萊亞佐·蒙德拉）",
+  "birth": 1467,
+  "death": 1528,
+  "nat": "義大利"
+ },
+ "Georg Petel": {
+  "zh": "格奧爾格·佩特爾",
+  "birth": 1601,
+  "death": 1634,
+  "nat": "德國"
+ },
+ "Agostino Cornacchini": {
+  "zh": "阿戈斯蒂諾·科爾納奇尼",
+  "birth": 1686,
+  "death": 1754,
+  "nat": "義大利"
+ },
+ "Paolo Naldini": {
+  "zh": "保羅·納爾迪尼",
+  "birth": 1619,
+  "death": 1691,
+  "nat": "義大利"
+ },
+ "Giuseppe Piamontini": {
+  "zh": "朱塞佩·皮亞蒙蒂尼",
+  "birth": 1664,
+  "death": 1742,
+  "nat": "義大利"
+ },
+ "Peter Dell the Elder": {
+  "zh": "老彼得·德爾",
+  "birth": 1490,
+  "death": 1552,
+  "nat": "德國"
+ },
+ "Daniel Mauch": {
+  "zh": "丹尼爾·毛赫",
+  "birth": 1477,
+  "death": 1540,
+  "nat": "德國"
+ },
+ "Johann Peter Schwanthaler": {
+  "zh": "約翰·彼得·施萬塔勒",
+  "birth": 1720,
+  "death": 1795,
+  "nat": "奧地利"
+ },
+ "Ferdinand Tietz": {
+  "zh": "斐迪南·蒂茨",
+  "birth": 1708,
+  "death": 1777,
+  "nat": "德國"
+ },
+ "Giuseppe Mazzuoli": {
+  "zh": "朱塞佩·馬祖奧利",
+  "birth": 1644,
+  "death": 1725,
+  "nat": "義大利"
+ },
+ "Jacques Dubroeucq": {
+  "zh": "雅克·杜布魯克",
+  "birth": 1505,
+  "death": 1584,
+  "nat": "法蘭德斯"
+ },
+ "Pisanello": {
+  "zh": "皮薩內洛",
+  "birth": 1395,
+  "death": 1455,
+  "nat": "義大利"
+ },
+ "Hans Daucher": {
+  "zh": "漢斯·道赫",
+  "birth": 1485,
+  "death": 1538,
+  "nat": "德國"
+ },
+ "Hans Reinhart the Elder": {
+  "zh": "老漢斯·萊因哈特",
+  "birth": 1510,
+  "death": 1581,
+  "nat": "德國"
+ },
+ "Annibale Fontana": {
+  "zh": "安尼巴萊·方塔納",
+  "birth": 1540,
+  "death": 1587,
+  "nat": "義大利"
+ },
+ "Johann Michael Düchert": {
+  "zh": "約翰·米夏埃爾·迪謝特",
+  "birth": null,
+  "death": null,
+  "nat": "德國"
+ },
+ "Valerio Belli": {
+  "zh": "瓦萊里奧·貝利",
+  "birth": 1468,
+  "death": 1546,
+  "nat": "義大利"
+ },
+ "Giulio della Torre": {
+  "zh": "朱利奧·德拉·托雷",
+  "birth": null,
+  "death": null,
+  "nat": "義大利"
+ },
+ "Benedetto Briosco": {
+  "zh": "貝內代托·布里奧斯科",
+  "birth": 1460,
+  "death": 1514,
+  "nat": "義大利"
+ },
+ "Antonio Abondio": {
+  "zh": "安東尼奧·阿邦迪奧",
+  "birth": 1538,
+  "death": 1591,
+  "nat": "義大利"
+ },
+ "Ulocrino": {
+  "zh": "烏洛克里諾",
+  "birth": null,
+  "death": null,
+  "nat": "義大利"
+ },
+ "François-Nicolas Delaistre": {
+  "zh": "弗朗索瓦-尼古拉·德萊斯特",
+  "birth": 1746,
+  "death": 1832,
+  "nat": "法國"
+ },
+ "Jean-Guillaume Moitte": {
+  "zh": "尚-紀堯姆·穆瓦特",
+  "birth": 1746,
+  "death": 1810,
+  "nat": "法國"
+ },
+ "Danese Cattaneo": {
+  "zh": "達內塞·卡塔內奧",
+  "birth": 1509,
+  "death": 1573,
+  "nat": "義大利"
+ },
+ "Unknown (古希臘古典雕刻)": {
+  "zh": "佚名（古希臘古典雕刻）",
+  "birth": null,
+  "death": null,
+  "nat": ""
+ },
+ "Unknown (古羅馬雕刻)": {
+  "zh": "佚名（古羅馬雕刻）",
+  "birth": null,
+  "death": null,
+  "nat": ""
+ },
+ "Unknown (希臘化雕刻)": {
+  "zh": "佚名（希臘化雕刻）",
+  "birth": null,
+  "death": null,
+  "nat": ""
+ },
+ "Unknown (古希臘古風雕刻)": {
+  "zh": "佚名（古希臘古風雕刻）",
+  "birth": null,
+  "death": null,
+  "nat": ""
+ },
+ "Unknown (羅馬式雕刻)": {
+  "zh": "佚名（羅馬式雕刻）",
+  "birth": null,
+  "death": null,
+  "nat": ""
+ },
+ "Unknown (國際哥德與勃艮第雕刻)": {
+  "zh": "佚名（國際哥德與勃艮第雕刻）",
+  "birth": null,
+  "death": null,
+  "nat": ""
+ },
+ "Unknown (哥德式雕刻)": {
+  "zh": "佚名（哥德式雕刻）",
+  "birth": null,
+  "death": null,
+  "nat": ""
+ },
+ "Unknown (早期基督教與拜占庭雕刻)": {
+  "zh": "佚名（早期基督教與拜占庭雕刻）",
+  "birth": null,
+  "death": null,
+  "nat": ""
+ },
+ "Unknown (伊特魯里亞雕刻)": {
+  "zh": "佚名（伊特魯里亞雕刻）",
+  "birth": null,
+  "death": null,
+  "nat": ""
+ },
+ "Unknown (巴洛克雕刻)": {
+  "zh": "佚名（巴洛克雕刻）",
+  "birth": null,
+  "death": null,
+  "nat": ""
+ },
+ "Unknown (盛期文藝復興雕刻)": {
+  "zh": "佚名（盛期文藝復興雕刻）",
+  "birth": null,
+  "death": null,
+  "nat": ""
+ },
+ "Unknown (矯飾主義雕刻)": {
+  "zh": "佚名（矯飾主義雕刻）",
+  "birth": null,
+  "death": null,
+  "nat": ""
+ },
+ "Unknown (洛可可雕刻)": {
+  "zh": "佚名（洛可可雕刻）",
   "birth": null,
   "death": null,
   "nat": ""
