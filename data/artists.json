@@ -3826,5 +3826,449 @@
   "birth": 1478,
   "death": 1532,
   "nat": "尼德蘭"
+ },
+ "Master of Santa Maria la Bianca": {
+  "zh": "聖母白堂大師",
+  "birth": null,
+  "death": null,
+  "nat": "義大利"
+ },
+ "Master of Rimini": {
+  "zh": "里米尼大師",
+  "birth": null,
+  "death": null,
+  "nat": "義大利"
+ },
+ "Master of the Lorsch Calvary": {
+  "zh": "洛爾施髑髏地大師",
+  "birth": null,
+  "death": null,
+  "nat": "德國"
+ },
+ "Joan Avesta": {
+  "zh": "霍安·阿韋斯塔",
+  "birth": null,
+  "death": null,
+  "nat": "西班牙（加泰隆尼亞）"
+ },
+ "Michel Erhart": {
+  "zh": "米歇爾·埃爾哈特",
+  "birth": null,
+  "death": null,
+  "nat": "德國"
+ },
+ "Étienne Bobillet": {
+  "zh": "艾蒂安·博比耶",
+  "birth": null,
+  "death": null,
+  "nat": "法國"
+ },
+ "Goro di Gregorio": {
+  "zh": "戈羅·迪·格雷戈里奧",
+  "birth": null,
+  "death": null,
+  "nat": "義大利"
+ },
+ "Andrea da Giona": {
+  "zh": "安德烈亞·達·喬納",
+  "birth": null,
+  "death": null,
+  "nat": "義大利"
+ },
+ "Alexander of Abingdon": {
+  "zh": "阿賓登的亞歷山大",
+  "birth": null,
+  "death": null,
+  "nat": "英格蘭"
+ },
+ "Hans Thoman": {
+  "zh": "漢斯·托曼",
+  "birth": null,
+  "death": null,
+  "nat": "德國"
+ },
+ "Hans Klocker": {
+  "zh": "漢斯·克洛克",
+  "birth": null,
+  "death": null,
+  "nat": "奧地利（蒂羅爾）"
+ },
+ "Francí Gomar": {
+  "zh": "弗朗西·戈馬爾",
+  "birth": null,
+  "death": null,
+  "nat": "西班牙（加泰隆尼亞）"
+ },
+ "Giovanni di Balduccio": {
+  "zh": "喬凡尼·迪·巴爾杜喬",
+  "birth": null,
+  "death": null,
+  "nat": "義大利"
+ },
+ "Master of the Biberach Holy Kinship": {
+  "zh": "比伯拉赫聖親族大師",
+  "birth": null,
+  "death": null,
+  "nat": "德國"
+ },
+ "Hans Wydytz I": {
+  "zh": "漢斯·維迪茨一世",
+  "birth": null,
+  "death": null,
+  "nat": "德國"
+ },
+ "Jean d'Arras": {
+  "zh": "讓·達拉斯",
+  "birth": null,
+  "death": null,
+  "nat": "法國"
+ },
+ "Pere Oller": {
+  "zh": "佩雷·奧耶",
+  "birth": null,
+  "death": null,
+  "nat": "西班牙（加泰隆尼亞）"
+ },
+ "Unknown (Nottingham workshop)": {
+  "zh": "佚名（諾丁漢作坊）",
+  "birth": null,
+  "death": null,
+  "nat": "英格蘭"
+ },
+ "Unknown (Antwerp workshop)": {
+  "zh": "佚名（安特衛普作坊）",
+  "birth": null,
+  "death": null,
+  "nat": "法蘭德斯"
+ },
+ "Master of the Sonnenberg-Künigl Altar": {
+  "zh": "松能堡-昆尼格祭壇大師",
+  "birth": null,
+  "death": null,
+  "nat": "奧地利（蒂羅爾）"
+ },
+ "Master Christophanus or Stephanus": {
+  "zh": "克里斯托法努斯或斯特凡努斯大師",
+  "birth": null,
+  "death": null,
+  "nat": "義大利"
+ },
+ "Gerardo di Mainardo": {
+  "zh": "傑拉爾多·迪·邁納爾多",
+  "birth": null,
+  "death": null,
+  "nat": "義大利"
+ },
+ "Tilman Heysacker": {
+  "zh": "提爾曼·海薩克",
+  "birth": null,
+  "death": null,
+  "nat": "德國"
+ },
+ "Niclaus Weckmann": {
+  "zh": "尼克勞斯·韋克曼",
+  "birth": null,
+  "death": 1526,
+  "nat": "德國"
+ },
+ "Bartolomeo Pinelli": {
+  "zh": "巴爾托洛梅奧·皮內利",
+  "birth": 1781,
+  "death": 1835,
+  "nat": "義大利"
+ },
+ "Giovanni Francesco Susini": {
+  "zh": "喬凡尼·弗朗切斯科·蘇西尼",
+  "birth": 1585,
+  "death": 1653,
+  "nat": "義大利"
+ },
+ "Joseph-Charles Marin": {
+  "zh": "約瑟夫-夏爾·馬林",
+  "birth": 1759,
+  "death": 1834,
+  "nat": "法國"
+ },
+ "Louis Claude Vassé": {
+  "zh": "路易·克洛德·瓦塞",
+  "birth": 1716,
+  "death": 1772,
+  "nat": "法國"
+ },
+ "Pierre Legros II": {
+  "zh": "皮耶·勒格羅二世",
+  "birth": 1666,
+  "death": 1719,
+  "nat": "法國"
+ },
+ "Christoph Angermair": {
+  "zh": "克里斯托夫·安格邁爾",
+  "birth": null,
+  "death": 1633,
+  "nat": "德國"
+ },
+ "Barthélemy Prieur": {
+  "zh": "巴泰勒米·普里厄",
+  "birth": 1536,
+  "death": 1611,
+  "nat": "法國"
+ },
+ "Bartolomeo Bellano": {
+  "zh": "巴爾托洛梅奧·貝拉諾",
+  "birth": 1437,
+  "death": 1497,
+  "nat": "義大利"
+ },
+ "Mattheus van Beveren": {
+  "zh": "馬泰烏斯·範·貝弗倫",
+  "birth": null,
+  "death": null,
+  "nat": "法蘭德斯"
+ },
+ "Joseph de Levis": {
+  "zh": "約瑟夫·德·萊維斯",
+  "birth": null,
+  "death": null,
+  "nat": "義大利"
+ },
+ "Johann Heinrich von Dannecker": {
+  "zh": "約翰·海因里希·馮·丹內克",
+  "birth": 1758,
+  "death": 1841,
+  "nat": "德國"
+ },
+ "Albert-Ernest Carrier-Belleuse": {
+  "zh": "卡里耶-貝勒斯",
+  "birth": 1824,
+  "death": 1887,
+  "nat": "法國"
+ },
+ "Agostino Zoppo": {
+  "zh": "奧斯提諾·佐波",
+  "birth": null,
+  "death": 1572,
+  "nat": "義大利"
+ },
+ "Niccolò Fiorentino": {
+  "zh": "尼科洛·菲奧倫蒂諾",
+  "birth": 1430,
+  "death": 1514,
+  "nat": "義大利"
+ },
+ "Girolamo Campagna": {
+  "zh": "吉羅拉莫·坎帕尼亞",
+  "birth": 1549,
+  "death": 1625,
+  "nat": "義大利"
+ },
+ "Lorenzo Vaccaro": {
+  "zh": "洛倫佐·瓦卡羅",
+  "birth": 1655,
+  "death": 1706,
+  "nat": "義大利"
+ },
+ "Ferdinando Tacca": {
+  "zh": "費爾迪南多·塔卡",
+  "birth": 1619,
+  "death": 1686,
+  "nat": "義大利"
+ },
+ "Claude Desbatisse": {
+  "zh": "克洛德·德巴蒂斯",
+  "birth": null,
+  "death": null,
+  "nat": "法國"
+ },
+ "Pietro da Barga": {
+  "zh": "皮耶特羅·達·巴爾加",
+  "birth": null,
+  "death": null,
+  "nat": "義大利"
+ },
+ "Jean-Baptiste Boudard": {
+  "zh": "尚-巴蒂斯特·布達爾",
+  "birth": 1710,
+  "death": 1768,
+  "nat": "法國"
+ },
+ "Gilles-Lambert Godecharle": {
+  "zh": "吉勒-朗貝爾·戈德沙爾",
+  "birth": 1750,
+  "death": 1835,
+  "nat": "比利時"
+ },
+ "Antonio Susini": {
+  "zh": "安東尼奧·蘇西尼",
+  "birth": null,
+  "death": 1624,
+  "nat": "義大利"
+ },
+ "Domenico Pieratti": {
+  "zh": "多梅尼科·皮耶拉蒂",
+  "birth": 1600,
+  "death": 1656,
+  "nat": "義大利"
+ },
+ "Andrea Mantegna": {
+  "zh": "安德烈亞·曼特尼亞",
+  "birth": 1431,
+  "death": 1506,
+  "nat": "義大利"
+ },
+ "Tiziano Aspetti": {
+  "zh": "提齊亞諾·阿斯佩蒂",
+  "birth": 1559,
+  "death": 1606,
+  "nat": "義大利"
+ },
+ "Guglielmo della Porta": {
+  "zh": "古列爾莫·德拉·波爾塔",
+  "birth": null,
+  "death": 1577,
+  "nat": "義大利"
+ },
+ "Roger Schabol": {
+  "zh": "羅傑·沙博爾",
+  "birth": null,
+  "death": null,
+  "nat": "法國"
+ },
+ "Caspar Gras": {
+  "zh": "卡斯帕·格拉斯",
+  "birth": 1585,
+  "death": 1674,
+  "nat": "奧地利"
+ },
+ "Alonso Berruguete": {
+  "zh": "阿隆索·貝魯格特",
+  "birth": 1490,
+  "death": 1561,
+  "nat": "西班牙"
+ },
+ "Jacques-Edmé Dumont": {
+  "zh": "雅克-埃德梅·杜蒙",
+  "birth": 1761,
+  "death": 1844,
+  "nat": "法國"
+ },
+ "Joseph Willems": {
+  "zh": "約瑟夫·威廉斯",
+  "birth": 1715,
+  "death": 1766,
+  "nat": "比利時"
+ },
+ "Giovanni Maria Benzoni": {
+  "zh": "喬凡尼·瑪麗亞·本佐尼",
+  "birth": 1809,
+  "death": 1873,
+  "nat": "義大利"
+ },
+ "Battista di Domenico Lorenzi": {
+  "zh": "巴蒂斯塔·迪·多梅尼科·洛倫齊",
+  "birth": 1527,
+  "death": 1594,
+  "nat": "義大利"
+ },
+ "Louis Simon Boizot": {
+  "zh": "路易·西蒙·博伊佐",
+  "birth": 1743,
+  "death": 1809,
+  "nat": "法國"
+ },
+ "Jean Cornu": {
+  "zh": "尚·科爾尼",
+  "birth": null,
+  "death": null,
+  "nat": "法國"
+ },
+ "Francesco Ladatte": {
+  "zh": "弗朗切斯科·拉達泰",
+  "birth": 1706,
+  "death": 1787,
+  "nat": "義大利"
+ },
+ "Claudius Floris": {
+  "zh": "克勞狄烏斯·弗洛里斯",
+  "birth": null,
+  "death": null,
+  "nat": "法蘭德斯"
+ },
+ "William Theed the Elder": {
+  "zh": "老威廉·西德",
+  "birth": 1764,
+  "death": 1817,
+  "nat": "英國"
+ },
+ "Hubert Gerhard": {
+  "zh": "胡貝特·格哈德",
+  "birth": null,
+  "death": 1620,
+  "nat": "荷蘭"
+ },
+ "Robert Joseph Auguste": {
+  "zh": "羅貝爾·約瑟夫·奧古斯特",
+  "birth": 1723,
+  "death": 1805,
+  "nat": "法國"
+ },
+ "Louis Félix de La Rue": {
+  "zh": "路易·費利克斯·德拉呂",
+  "birth": 1731,
+  "death": 1765,
+  "nat": "法國"
+ },
+ "Robert Guillaume Dardel": {
+  "zh": "羅貝爾·紀堯姆·達爾戴爾",
+  "birth": 1749,
+  "death": 1821,
+  "nat": "法國"
+ },
+ "Master of the Martyrdom of St. Sebastian": {
+  "zh": "聖塞巴斯蒂安殉教大師",
+  "birth": null,
+  "death": null,
+  "nat": "德國"
+ },
+ "François Lespingola": {
+  "zh": "弗朗索瓦·萊斯平戈拉",
+  "birth": 1644,
+  "death": 1705,
+  "nat": "法國"
+ },
+ "Luisa Roldán": {
+  "zh": "路易莎·羅爾丹（拉·羅爾達納）",
+  "birth": 1652,
+  "death": 1706,
+  "nat": "西班牙"
+ },
+ "Edward William Wyon": {
+  "zh": "愛德華·威廉·懷恩",
+  "birth": 1811,
+  "death": 1885,
+  "nat": "英國"
+ },
+ "Peter Paul Rubens": {
+  "zh": "彼得·保羅·魯本斯",
+  "birth": 1577,
+  "death": 1640,
+  "nat": "法蘭德斯"
+ },
+ "Jean-Jacques Feuchère": {
+  "zh": "尚-雅克·弗謝爾",
+  "birth": 1807,
+  "death": 1852,
+  "nat": "法國"
+ },
+ "Nicolaas van der Veken": {
+  "zh": "尼古拉斯·範德費肯",
+  "birth": 1637,
+  "death": 1709,
+  "nat": "法蘭德斯"
+ },
+ "Philippe Laurent Roland": {
+  "zh": "菲利普·洛朗·羅蘭",
+  "birth": 1746,
+  "death": 1816,
+  "nat": "法國"
  }
 }
