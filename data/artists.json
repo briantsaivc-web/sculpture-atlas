@@ -4450,5 +4450,275 @@
   "birth": null,
   "death": null,
   "nat": "法國"
+ },
+ "Master of the Marble Madonnas": {
+  "zh": "大理石聖母大師",
+  "birth": null,
+  "death": null,
+  "nat": "義大利"
+ },
+ "Antonio Corradini": {
+  "zh": "安東尼奧·科拉迪尼",
+  "birth": 1688,
+  "death": 1752,
+  "nat": "義大利"
+ },
+ "François Joseph Bosio": {
+  "zh": "弗朗索瓦·約瑟夫·博西奧",
+  "birth": 1768,
+  "death": 1845,
+  "nat": "法國"
+ },
+ "Henri de Triqueti": {
+  "zh": "亨利·德·特里凱蒂",
+  "birth": 1803,
+  "death": 1874,
+  "nat": "法國"
+ },
+ "Luigi Valadier": {
+  "zh": "路易吉·瓦拉迪耶",
+  "birth": 1726,
+  "death": 1785,
+  "nat": "義大利"
+ },
+ "Paul Gauguin": {
+  "zh": "保羅·高更",
+  "birth": 1848,
+  "death": 1903,
+  "nat": "法國"
+ },
+ "Andrea Ferrucci": {
+  "zh": "安德烈亞·費魯奇",
+  "birth": 1465,
+  "death": 1526,
+  "nat": "義大利"
+ },
+ "Giuseppe Ceracchi": {
+  "zh": "朱塞佩·切拉奇",
+  "birth": 1751,
+  "death": 1801,
+  "nat": "義大利"
+ },
+ "Giovanni Caccini": {
+  "zh": "喬凡尼·卡奇尼",
+  "birth": 1551,
+  "death": 1612,
+  "nat": "義大利"
+ },
+ "Giuliano Finelli": {
+  "zh": "朱利亞諾·菲內利",
+  "birth": 1601,
+  "death": 1653,
+  "nat": "義大利"
+ },
+ "Raffaelle Monti": {
+  "zh": "拉斐爾·蒙蒂",
+  "birth": 1818,
+  "death": 1881,
+  "nat": "義大利"
+ },
+ "Antonio Gai": {
+  "zh": "安東尼奧·蓋伊",
+  "birth": 1686,
+  "death": 1769,
+  "nat": "義大利"
+ },
+ "Cristoforo Solari": {
+  "zh": "克里斯托福羅·索拉里",
+  "birth": 1460,
+  "death": 1527,
+  "nat": "義大利"
+ },
+ "Rombout Verhulst": {
+  "zh": "隆布特·費爾胡斯特",
+  "birth": 1624,
+  "death": 1698,
+  "nat": "荷蘭"
+ },
+ "John Bacon the Younger": {
+  "zh": "小約翰·培根",
+  "birth": 1777,
+  "death": 1859,
+  "nat": "英國"
+ },
+ "Cristoforo Stati": {
+  "zh": "克里斯托福羅·斯塔蒂",
+  "birth": 1556,
+  "death": 1619,
+  "nat": "義大利"
+ },
+ "Domenico Poggini": {
+  "zh": "多梅尼科·波吉尼",
+  "birth": 1520,
+  "death": 1590,
+  "nat": "義大利"
+ },
+ "Jean-Baptiste Stouf": {
+  "zh": "尚-巴蒂斯特·斯圖夫",
+  "birth": 1742,
+  "death": 1826,
+  "nat": "法國"
+ },
+ "André Jean Lebrun": {
+  "zh": "安德烈·尚·勒布倫",
+  "birth": 1737,
+  "death": 1811,
+  "nat": "法國"
+ },
+ "Francesco Laurana": {
+  "zh": "弗朗切斯科·勞拉納",
+  "birth": 1430,
+  "death": 1502,
+  "nat": "義大利"
+ },
+ "Ippolito Buzio": {
+  "zh": "伊波利托·布齊奧",
+  "birth": 1562,
+  "death": 1634,
+  "nat": "義大利"
+ },
+ "Antonio Frilli": {
+  "zh": "安東尼奧·弗里利",
+  "birth": 1848,
+  "death": 1902,
+  "nat": "義大利"
+ },
+ "Giovanni Battista Lombardi": {
+  "zh": "喬凡尼·巴蒂斯塔·隆巴爾迪",
+  "birth": null,
+  "death": null,
+  "nat": "義大利"
+ },
+ "Mary Grant": {
+  "zh": "瑪麗·格蘭特",
+  "birth": 1831,
+  "death": 1908,
+  "nat": "英國"
+ },
+ "Pompeo Leoni": {
+  "zh": "龐培奧·萊奧尼",
+  "birth": 1533,
+  "death": 1608,
+  "nat": "義大利"
+ },
+ "Lazzaro Casario": {
+  "zh": "拉扎羅·卡薩里奧",
+  "birth": null,
+  "death": null,
+  "nat": "義大利"
+ },
+ "Robert Le Lorrain": {
+  "zh": "羅伯·勒洛蘭",
+  "birth": 1666,
+  "death": 1743,
+  "nat": "法國"
+ },
+ "Alvise of Padua": {
+  "zh": "帕多瓦的阿爾維塞",
+  "birth": null,
+  "death": null,
+  "nat": "義大利"
+ },
+ "Giovanni Battista di Jacopo": {
+  "zh": "喬凡尼·巴蒂斯塔·迪·雅各布（羅索·菲奧倫蒂諾）",
+  "birth": 1494,
+  "death": 1540,
+  "nat": "義大利"
+ },
+ "Vittore Gambello": {
+  "zh": "維托雷·甘貝洛",
+  "birth": null,
+  "death": 1537,
+  "nat": "義大利"
+ },
+ "Herman Verner": {
+  "zh": "赫爾曼·韋爾納",
+  "birth": null,
+  "death": null,
+  "nat": "不詳"
+ },
+ "Charles Rossi": {
+  "zh": "查爾斯·羅西",
+  "birth": 1762,
+  "death": 1839,
+  "nat": "英國"
+ },
+ "Unknown (浪漫主義雕刻)": {
+  "zh": "佚名（浪漫主義雕刻）",
+  "birth": null,
+  "death": null,
+  "nat": ""
+ },
+ "Giovanni Giuliani": {
+  "zh": "喬凡尼·朱利亞尼",
+  "birth": 1664,
+  "death": 1744,
+  "nat": "奧地利"
+ },
+ "Guido Mazzoni": {
+  "zh": "圭多·馬佐尼",
+  "birth": 1450,
+  "death": 1518,
+  "nat": "義大利"
+ },
+ "Johann Valentin Sonnenschein": {
+  "zh": "約翰·瓦倫丁·松嫩夏因",
+  "birth": 1749,
+  "death": 1828,
+  "nat": "瑞士"
+ },
+ "François Marie Suzanne": {
+  "zh": "弗朗索瓦·瑪麗·蘇藏",
+  "birth": null,
+  "death": null,
+  "nat": "法國"
+ },
+ "Angelo Piò": {
+  "zh": "安傑洛·皮奧",
+  "birth": 1690,
+  "death": 1770,
+  "nat": "義大利"
+ },
+ "Étienne-Hippolyte Maindron": {
+  "zh": "艾蒂安-伊波利特·曼德隆",
+  "birth": 1801,
+  "death": 1884,
+  "nat": "法國"
+ },
+ "Silvio Cosini": {
+  "zh": "西爾維奧·科西尼",
+  "birth": null,
+  "death": null,
+  "nat": "義大利"
+ },
+ "Ubaldo Gandolfi": {
+  "zh": "烏巴爾多·甘多爾菲",
+  "birth": 1728,
+  "death": 1781,
+  "nat": "義大利"
+ },
+ "Félix Lecomte": {
+  "zh": "費利克斯·勒孔特",
+  "birth": 1737,
+  "death": 1817,
+  "nat": "法國"
+ },
+ "Joseph Gott": {
+  "zh": "約瑟夫·戈特",
+  "birth": 1786,
+  "death": 1860,
+  "nat": "英國"
+ },
+ "Catherine Andras": {
+  "zh": "凱瑟琳·安德拉斯",
+  "birth": 1775,
+  "death": 1860,
+  "nat": "英國"
+ },
+ "Jan van Steffesweert": {
+  "zh": "揚·范·斯特菲斯韋爾特",
+  "birth": null,
+  "death": null,
+  "nat": "比利時"
  }
 }
